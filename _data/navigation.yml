@@ -1,0 +1,665 @@
+sidebar_generated:
+- title: Sharper Thinking
+  title_full: Improving Your Think
+  url: /improving-your-think/
+  children:
+  - title: Alternatives
+    title_full: Why One Explanation Is Not Enough
+    url: /alternatives/
+    children:
+    - title: ACH Lite
+      title_full: A Simple Matrix For Rival Ideas
+      url: /ach-lite/
+    - title: Positive Tests
+      title_full: The Search That Confirms Too Easily
+      url: /positive-tests/
+    - title: Prediction Tests
+      title_full: The Test That Breaks A Tie
+      url: /prediction-tests/
+    - title: Shared Evidence
+      title_full: When Evidence Fits Too Many Stories
+      url: /shared-evidence/
+    - title: Testable Rivals
+      title_full: Make Alternatives Specific Enough To Matter
+      url: /testable-rivals/
+    - title: Workplace Cases
+      title_full: Is It Motivation Or Something Else?
+      url: /workplace-cases/
+  - title: Better Questions
+    title_full: Ask Better Questions Before Seeking Answers
+    url: /better-questions/
+    children:
+    - title: Comparisons
+      title_full: What Are You Really Comparing?
+      url: /comparisons/
+    - title: Framing Effects
+      title_full: How Framing Changes What Evidence Means
+      url: /framing-effects/
+    - title: Outcomes
+      title_full: Are You Measuring the Wrong Success?
+      url: /outcomes/
+    - title: PICO
+      title_full: Can Medical Question Tools Improve Everyday Thinking?
+      url: /pico/
+    - title: Testable Decisions
+      title_full: Is Your Question Actually a Decision?
+      url: /testable-decisions/
+    - title: Timeframes
+      title_full: When Should the Answer Be Judged?
+      url: /timeframes/
+  - title: Calibration
+    title_full: How Confident Should You Be?
+    url: /calibration/
+    children:
+    - title: Brier Scores
+      title_full: What Brier Scores Can And Cannot Tell You
+      url: /brier-scores-bad9a3/
+    - title: Narrow Ranges
+      title_full: Why Your Safe Range May Be Too Tight
+      url: /narrow-ranges/
+    - title: Probability Words
+      title_full: When Likely Does Not Mean the Same Thing
+      url: /probability-words/
+    - title: Resolution Rules
+      title_full: How To Make A Forecast Actually Checkable
+      url: /resolution-rules/
+    - title: Tournaments
+      title_full: What Forecasting Tournaments Teach About Better Judgment
+      url: /tournaments/
+    - title: Update Triggers
+      title_full: Know What Would Change Your Mind
+      url: /update-triggers/
+  - title: Cause Check
+    title_full: Did It Cause It, or Just Happen Nearby?
+    url: /cause-check/
+    children:
+    - title: Confounders
+      title_full: The Hidden Factor Behind the Pattern
+      url: /confounders/
+    - title: Data Shapes
+      title_full: Why the Chart Can Beat the Average
+      url: /data-shapes/
+    - title: Fair Compare
+      title_full: What Changed Compared With What?
+      url: /fair-compare/
+    - title: Mechanisms
+      title_full: What Would Have to Be True?
+      url: /mechanisms/
+    - title: Randomisation
+      title_full: Why Random Assignment Changes the Question
+      url: /randomisation/
+    - title: Simpson s
+      title_full: When the Headline Average Gets It Wrong
+      url: /simpson-s/
+  - title: Critical Skills
+    title_full: Can Critical Thinking Really Be Taught?
+    url: /critical-skills/
+    children:
+    - title: Causation
+      title_full: When Two Things Move Together, What Then?
+      url: /causation/
+    - title: Confidence
+      title_full: How Sure Should You Really Be?
+      url: /confidence-799272/
+    - title: Explicit Teaching
+      title_full: The Teaching Move That Makes Thinking Visible
+      url: /explicit-teaching/
+    - title: Learning To Evaluate Evidence
+      title_full: How to Test Claims Without Guessing
+      url: /learning-to-evaluate-evidence/
+    - title: Metacognition
+      title_full: The Habit of Checking Your Own Thinking
+      url: /metacognition-69d7fe/
+    - title: Transfer Limits
+      title_full: Why Critical Thinking Does Not Always Transfer
+      url: /transfer-limits/
+  - title: Decision Journal
+    title_full: Keep Score on Your Own Judgement
+    url: /decision-journal/
+    children:
+    - title: Alternatives
+      title_full: What did you choose against?
+      url: /alternatives-ece2bc/
+    - title: Hindsight Bias
+      title_full: Why outcomes make old choices look obvious
+      url: /hindsight-bias/
+    - title: Outcome Bias
+      title_full: Was it a bad choice or bad luck?
+      url: /outcome-bias/
+    - title: Probabilities
+      title_full: How sure were you, really?
+      url: /probabilities/
+    - title: Promotion Case
+      title_full: Did the promotion fail, or the support plan?
+      url: /promotion-case/
+    - title: Templates
+      title_full: What should a decision journal entry include?
+      url: /templates/
+  - title: Decision Routines
+    title_full: A Safer Way to Make Big Decisions
+    url: /decision-routines/
+    children:
+    - title: Alternatives
+      title_full: What else is genuinely on the table?
+      url: /alternatives-8830a9/
+    - title: Base Rates
+      title_full: What happened when others tried this?
+      url: /base-rates/
+    - title: Checklists
+      title_full: Why experts still need checklists
+      url: /checklists/
+    - title: Emergencies
+      title_full: How do you pause when time is short?
+      url: /emergencies/
+    - title: The Biggest Cost Of A High Stakes Decision
+      title_full: What will this decision really cost?
+      url: /the-biggest-cost-of-a-high-stakes/
+    - title: Uncertainty
+      title_full: Which unknown could break the plan?
+      url: /uncertainty/
+  - title: Domain Knowledge
+    title_full: Why Smart Thinking Needs Real Knowledge
+    url: /domain-knowledge/
+    children:
+    - title: Chess Memory
+      title_full: What Chess Teaches About Expertise
+      url: /chess-memory/
+    - title: Expert Sorting
+      title_full: Why Experts See Different Problems
+      url: /expert-sorting/
+    - title: Field Map
+      title_full: Build The Map Before Judging Claims
+      url: /field-map/
+    - title: Generic Limits
+      title_full: When Critical Thinking Is Too Generic
+      url: /generic-limits/
+    - title: Usable Knowledge
+      title_full: Facts Are Not Enough By Themselves
+      url: /usable-knowledge/
+    - title: Wrong Parts
+      title_full: Breaking Problems Down Can Still Fail
+      url: /wrong-parts/
+  - title: Evidence Tests
+    title_full: What Evidence Would Change Your Mind?
+    url: /evidence-tests/
+    children:
+    - title: Confidence
+      title_full: Change Your Confidence Before Your Actions
+      url: /confidence-de0c54/
+    - title: Goalposts
+      title_full: How to Stop Moving the Goalposts
+      url: /goalposts/
+    - title: Health Claims
+      title_full: Why Health Claims Need Higher Standards
+      url: /health-claims/
+    - title: Low Stakes
+      title_full: When a Small Test Is Enough
+      url: /low-stakes/
+    - title: Mixed Evidence
+      title_full: Why Mixed Evidence Can Make US More Certain
+      url: /mixed-evidence-3f55c7/
+    - title: Strong Signals
+      title_full: What Makes Evidence Actually Strong?
+      url: /strong-signals/
+  - title: Expert Gut
+    title_full: When Should You Trust Your Gut?
+    url: /expert-gut/
+    children:
+    - title: Chess Patterns
+      title_full: What Chess Masters See That Beginners Miss
+      url: /chess-patterns/
+    - title: Fire Decisions
+      title_full: Why Firefighters Sometimes Know Before They Explain
+      url: /fire-decisions/
+    - title: Forecast Feedback
+      title_full: How Forecasting Makes Confidence Accountable
+      url: /forecast-feedback/
+    - title: Kind vs Wicked
+      title_full: When Experience Teaches the Wrong Lesson
+      url: /kind-vs-wicked/
+    - title: Medical Gut
+      title_full: When Doctors Should Trust Their First Impression
+      url: /medical-gut/
+    - title: Stats vs Experts
+      title_full: When Simple Models Beat Expert Judgement
+      url: /stats-vs-experts/
+  - title: Explain It
+    title_full: Can You Explain It Without Notes?
+    url: /explain-it/
+    children:
+    - title: Blank Page
+      title_full: What a Blank Page Reveals About Understanding
+      url: /blank-page/
+    - title: Diagrams
+      title_full: Can You Draw the Idea From Memory?
+      url: /diagrams/
+    - title: False Fluency
+      title_full: Why Familiar Ideas Can Feel Understood
+      url: /false-fluency-4a90fc/
+    - title: Gap Check
+      title_full: How to Check What Your Explanation Missed
+      url: /gap-check/
+    - title: Retrieval
+      title_full: Why Pulling Ideas From Memory Works
+      url: /retrieval/
+    - title: Self Explain
+      title_full: How Examples Become Real Understanding
+      url: /self-explain-8ee8ab/
+  - title: Feedback
+    title_full: How Feedback Makes Judgement Sharper
+    url: /feedback/
+    children:
+    - title: Brier Scores
+      title_full: Is Your Confidence Scale Actually Useful?
+      url: /brier-scores/
+    - title: Decision Records
+      title_full: Can a Decision Record Beat Hindsight?
+      url: /decision-records/
+    - title: Fast Feedback
+      title_full: Why Feedback Timing Changes What You Learn
+      url: /fast-feedback/
+    - title: Forecast Scores
+      title_full: Why Saying 70 Percent Changes Feedback
+      url: /forecast-scores/
+    - title: Good Judgment
+      title_full: What Forecasting Tournaments Teach Daily Decisions
+      url: /good-judgment/
+    - title: Outcome Bias
+      title_full: When Results Make Decisions Look Smarter
+      url: /outcome-bias-8d5589/
+  - title: Fluency Trap
+    title_full: When Familiarity Feels Like Understanding
+    url: /fluency-trap/
+    children:
+    - title: Error Checks
+      title_full: Why Wrong Answers Teach the Boundaries
+      url: /error-checks/
+    - title: Predict First
+      title_full: Guess First, Then Check Your Understanding
+      url: /predict-first/
+    - title: Recall Check
+      title_full: Can You Explain It With the Page Closed?
+      url: /recall-check/
+    - title: Rereading Trap
+      title_full: Why Rereading Feels Better Than It Works
+      url: /rereading-trap/
+    - title: Self Explain
+      title_full: The Prompts That Expose Shallow Understanding
+      url: /self-explain/
+    - title: Transfer Tests
+      title_full: Can the Idea Survive a New Example?
+      url: /transfer-tests/
+  - title: Framing
+    title_full: Is the Question Already Trapping You?
+    url: /framing/
+    children:
+    - title: Career Tests
+      title_full: Before quitting, test the real problem
+      url: /career-tests/
+    - title: Defaults
+      title_full: Why doing nothing is still a frame
+      url: /defaults/
+    - title: Delivery Trap
+      title_full: When finishing becomes the wrong goal
+      url: /delivery-trap/
+    - title: Gain Loss
+      title_full: Same choice, different frame
+      url: /gain-loss/
+    - title: Outside View
+      title_full: The question optimistic teams forget to ask
+      url: /outside-view/
+    - title: Sunk Costs
+      title_full: Would you start this project today?
+      url: /sunk-costs/
+  - title: Gut vs Analysis
+    title_full: When to Slow Down Your Thinking
+    url: /gut-vs-analysis/
+    children:
+    - title: Complex Choices
+      title_full: Should you sleep on hard decisions?
+      url: /complex-choices/
+    - title: False Fluency
+      title_full: Why wrong answers can feel so right
+      url: /false-fluency/
+    - title: Pause Points
+      title_full: Which decisions deserve a slower pause?
+      url: /pause-points/
+    - title: Pressure Calls
+      title_full: How experts decide fast under pressure
+      url: /pressure-calls/
+    - title: Simple Rules
+      title_full: Can simple rules beat careful calculation?
+      url: /simple-rules/
+    - title: Trained Gut
+      title_full: When should you trust your gut?
+      url: /trained-gut/
+  - title: Lateral Reading
+    title_full: How to Check a Claim Online
+    url: /lateral-reading/
+    children:
+    - title: Click Restraint
+      title_full: Why the first search result is not enough
+      url: /click-restraint/
+    - title: Polished Sites
+      title_full: Why polished websites can fool careful readers
+      url: /polished-sites/
+    - title: Search Backfire
+      title_full: When looking it up makes misinformation stronger
+      url: /search-backfire/
+    - title: Teaching It
+      title_full: Can students learn to read laterally?
+      url: /teaching-it/
+    - title: Viral Claims
+      title_full: Pause before sharing emotional viral claims
+      url: /viral-claims/
+    - title: Who Is Behind
+      title_full: Who is really behind this website?
+      url: /who-is-behind/
+  - title: Metacognition
+    title_full: How to Notice Your Own Thinking
+    url: /metacognition/
+    children:
+    - title: Calibration
+      title_full: Are You as Sure as You Think?
+      url: /calibration-5043e2/
+    - title: Confidence Check
+      title_full: Why Does This Feel So Certain?
+      url: /confidence-check/
+    - title: Fact vs Story
+      title_full: Is That a Fact or a Story?
+      url: /fact-vs-story/
+    - title: If Tests
+      title_full: What Must Be True First?
+      url: /if-tests/
+    - title: Opposite Test
+      title_full: What If Your First Read Is Wrong?
+      url: /opposite-test/
+    - title: Same Standard
+      title_full: Are You Grading Every Option Fairly?
+      url: /same-standard/
+  - title: Myside Bias
+    title_full: How Your Favorite Beliefs Fool You
+    url: /myside-bias/
+    children:
+    - title: Identity Threat
+      title_full: When Being Correct Feels Like Losing Face
+      url: /identity-threat/
+    - title: Mixed Evidence
+      title_full: Why Mixed Evidence Can Make Beliefs Stronger
+      url: /mixed-evidence/
+    - title: Motivated Numbers
+      title_full: When Numbers Stop Feeling Neutral
+      url: /motivated-numbers/
+    - title: Scout Checks
+      title_full: How to Stop Arguing Like a Lawyer
+      url: /scout-checks/
+    - title: Smart Defence
+      title_full: Why Smart People Still Defend Bad Ideas
+      url: /smart-defence/
+    - title: Uneven Doubt
+      title_full: When Doubt Works Harder for One Side
+      url: /uneven-doubt/
+  - title: Open Mind
+    title_full: What Open Minded Thinking Actually Requires
+    url: /open-mind/
+    children:
+    - title: False Balance
+      title_full: When Fairness Turns Into False Balance
+      url: /false-balance/
+    - title: Humble Standards
+      title_full: How to Stay Open Without Becoming Gullible
+      url: /humble-standards/
+    - title: Myside Bias
+      title_full: Why Unfriendly Evidence Feels Less Convincing
+      url: /myside-bias-9378a0/
+    - title: Opposite Test
+      title_full: The Question That Interrupts Defensive Reasoning
+      url: /opposite-test-5d4db9/
+    - title: Receptive Listening
+      title_full: Listen First Without Surrendering Your Standards
+      url: /receptive-listening/
+    - title: Steelmanning
+      title_full: Can Your View Survive the Strongest Objection?
+      url: /steelmanning/
+  - title: Practice Tests
+    title_full: Why Testing Yourself Beats Rereading
+    url: /practice-tests/
+    children:
+    - title: Brain Dumps
+      title_full: The Five Minute Test After Reading
+      url: /brain-dumps/
+    - title: Feedback
+      title_full: Why Wrong Answers Make Better Thinkers
+      url: /feedback-670cd5/
+    - title: Recall vs Reread
+      title_full: Why Rereading Feels Better but Teaches Less
+      url: /recall-vs-reread/
+    - title: Test Design
+      title_full: How to Build a Self Test That Actually Works
+      url: /test-design/
+    - title: Transfer
+      title_full: Can You Use the Idea Somewhere New?
+      url: /transfer/
+    - title: Work Routines
+      title_full: Self Testing Before Real Decisions
+      url: /work-routines/
+  - title: Predictions
+    title_full: Predict First, Check Second
+    url: /predictions/
+    children:
+    - title: Confidence
+      title_full: Do you know when you are wrong?
+      url: /confidence/
+    - title: Prediction Logs
+      title_full: Stop explaining results after the fact
+      url: /prediction-logs/
+    - title: Pretesting
+      title_full: Why wrong guesses can improve memory
+      url: /pretesting/
+    - title: Surprise
+      title_full: When surprise helps learning and when it does not
+      url: /surprise/
+    - title: Worked Examples
+      title_full: Why solutions look easier after you see them
+      url: /worked-examples/
+    - title: Wrong Reason
+      title_full: When being right still teaches the wrong lesson
+      url: /wrong-reason/
+  - title: Problem Parts
+    title_full: How to Break Down a Hard Problem
+    url: /problem-parts/
+    children:
+    - title: Assumption Test
+      title_full: Which assumption could break the plan?
+      url: /assumption-test/
+    - title: Causes vs Limits
+      title_full: Is it a cause or a constraint?
+      url: /causes-vs-limits/
+    - title: Competing Stories
+      title_full: Do not stop at the first plausible story
+      url: /competing-stories/
+    - title: Decision Frame
+      title_full: What decision are you really trying to make?
+      url: /decision-frame/
+    - title: Diagnostic Evidence
+      title_full: What evidence would actually change your mind?
+      url: /diagnostic-evidence/
+    - title: Rebuild Links
+      title_full: When neat parts hide the real problem
+      url: /rebuild-links/
+  - title: Real Practice
+    title_full: Practice Thinking on Real Problems
+    url: /real-practice/
+    children:
+    - title: Assessment
+      title_full: Assess the thinking you actually want
+      url: /assessment/
+    - title: Feedback Loops
+      title_full: Why feedback turns practice into better judgement
+      url: /feedback-loops/
+    - title: Good Problems
+      title_full: What makes a problem worth practising on?
+      url: /good-problems/
+    - title: Prediction Notes
+      title_full: Write predictions before the outcome arrives
+      url: /prediction-notes/
+    - title: Problem Based Learning
+      title_full: How problem based learning trains judgement
+      url: /problem-based-learning/
+    - title: Transfer Gap
+      title_full: Why tidy exercises do not always transfer
+      url: /transfer-gap/
+  - title: Reasoning Chain
+    title_full: Why Writing Makes Thinking Clearer
+    url: /reasoning-chain/
+    children:
+    - title: Before Choice
+      title_full: Write the Reason Before You Decide
+      url: /before-choice/
+    - title: CEA Tables
+      title_full: Separate Claims, Evidence and Assumptions
+      url: /cea-tables/
+    - title: Five Lines
+      title_full: A Five Minute Chain for Better Decisions
+      url: /five-lines/
+    - title: Prompts
+      title_full: Prompts That Reveal Gaps in Thinking
+      url: /prompts/
+    - title: Team Notes
+      title_full: Make Team Decisions Easier to Challenge
+      url: /team-notes/
+    - title: Weak Link
+      title_full: Find the Assumption That Could Break It
+      url: /weak-link/
+  - title: Search Bias
+    title_full: Is Your Search Confirming You?
+    url: /search-bias/
+    children:
+    - title: AI Search
+      title_full: Does AI Search Make Bias Harder to See?
+      url: /ai-search/
+    - title: Autocomplete
+      title_full: When Autocomplete Finishes Your Thought for You
+      url: /autocomplete/
+    - title: Missing Terms
+      title_full: The Counterargument May Use Different Words
+      url: /missing-terms/
+    - title: Narrow Search
+      title_full: Why Searching Can Make Beliefs More Stubborn
+      url: /narrow-search/
+    - title: Query Wording
+      title_full: Is Your Search Query Already Taking Sides?
+      url: /query-wording/
+    - title: Stopping Rules
+      title_full: When Should You Stop Searching?
+      url: /stopping-rules/
+  - title: Source Quality
+    title_full: Trustworthy Source or Friendly Source?
+    url: /source-quality/
+    children:
+    - title: Bias Check
+      title_full: Why Friendly Sources Feel More Reliable
+      url: /bias-check/
+    - title: Copied Claims
+      title_full: When Many Sources Are Really One
+      url: /copied-claims/
+    - title: Evidence Routes
+      title_full: What Strong Corroboration Actually Looks Like
+      url: /evidence-routes/
+    - title: Fit Expertise
+      title_full: The Wrong Expert Can Still Sound Right
+      url: /fit-expertise/
+    - title: News Sources
+      title_full: When Anonymous Sources Deserve Trust
+      url: /news-sources/
+    - title: Replication
+      title_full: Repeating Words Is Not Replicating Evidence
+      url: /replication/
+  - title: Spacing
+    title_full: Why Spacing Practice Makes Thinking Stick
+    url: /spacing/
+    children:
+    - title: Cepeda studies
+      title_full: The evidence for the spacing sweet spot
+      url: /cepeda-studies/
+    - title: Cramming trap
+      title_full: Why cramming feels better than it works
+      url: /cramming-trap/
+    - title: Retrieve first
+      title_full: Why review should start with recall
+      url: /retrieve-first/
+    - title: Spacing gaps
+      title_full: How far apart should study sessions be?
+      url: /spacing-gaps/
+    - title: Varied examples
+      title_full: Can one concept travel across situations?
+      url: /varied-examples/
+    - title: Weak links
+      title_full: Let forgetting show what needs repair
+      url: /weak-links/
+  - title: Steelman
+    title_full: Can You Pass the Opponent's Test?
+    url: /steelman/
+    children:
+    - title: Housing Tradeoffs
+      title_full: The Housing Objection Worth Taking Seriously
+      url: /housing-tradeoffs/
+    - title: Mixed Evidence
+      title_full: When Evidence Makes Both Sides Dig In
+      url: /mixed-evidence-accf68/
+    - title: Office Debate
+      title_full: The Strongest Case for Office Time
+      url: /office-debate/
+    - title: Opponent Test
+      title_full: Would Your Opponent Accept Your Summary?
+      url: /opponent-test/
+    - title: Rapoport Rules
+      title_full: A Better Order for Criticising Ideas
+      url: /rapoport-rules/
+    - title: Strawman Traps
+      title_full: Why Easy Rebuttals Often Miss the Point
+      url: /strawman-traps/
+  - title: Tradeoffs
+    title_full: What Are You Giving Up?
+    url: /tradeoffs/
+    children:
+    - title: Choice Overload
+      title_full: Why More Choice Can Feel Worse
+      url: /choice-overload/
+    - title: Decision Fatigue
+      title_full: When Tired Minds Stop Comparing
+      url: /decision-fatigue/
+    - title: Good Enough
+      title_full: When Good Enough Beats Perfect
+      url: /good-enough/
+    - title: Hidden Costs
+      title_full: What Are You Really Giving Up?
+      url: /hidden-costs/
+    - title: Scoring Choices
+      title_full: When Decision Scores Mislead
+      url: /scoring-choices/
+    - title: Thresholds
+      title_full: Set the Line Before You Compare
+      url: /thresholds/
+  - title: Weakest Link
+    title_full: Find the Assumption That Could Break Everything
+    url: /weakest-link/
+    children:
+    - title: Bad Metrics
+      title_full: When the Metric Is the Weak Link
+      url: /bad-metrics/
+    - title: Bias Trap
+      title_full: Why Supportive Evidence Can Hide the Weakest Link
+      url: /bias-trap/
+    - title: Load Bearing
+      title_full: Which Assumption Would Actually Change the Decision?
+      url: /load-bearing/
+    - title: Premortems
+      title_full: Why Imagining Failure Can Improve a Plan
+      url: /premortems/
+    - title: Rivals
+      title_full: What Else Could Explain the Same Evidence?
+      url: /rivals/
+    - title: Will Test
+      title_full: When 'Will' Quietly Becomes the Weak Link
+      url: /will-test/

@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-26T13:44:32.493248Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1212,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 209,
+    "average_inline_inbound_links_per_visible_page": 5.74,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "improving_your_think_da4710_high_stakes_decision_b09c8f_uncertainty_checks_7da529",
+        "title": "Uncertainty",
+        "permalink": "/uncertainty/",
+        "inline_inbound_count": 110
+      },
+      {
+        "basename": "improving_your_think_da4710_question_design_1265c2_better_outcome_measu_1d9ea7",
+        "title": "Outcomes",
+        "permalink": "/outcomes/",
+        "inline_inbound_count": 97
+      },
+      {
+        "basename": "improving_your_think_da4710_cause_correlation_008ee5_testable_mechanisms_4d51f6",
+        "title": "Mechanisms",
+        "permalink": "/mechanisms/",
+        "inline_inbound_count": 46
+      },
+      {
+        "basename": "improving_your_think_da4710_prediction_habits_f0daf5",
+        "title": "Predictions",
+        "permalink": "/predictions/",
+        "inline_inbound_count": 45
+      },
+      {
+        "basename": "improving_your_think_da4710_question_design_1265c2_right_comparison_bef_2f5f47",
+        "title": "Comparisons",
+        "permalink": "/comparisons/",
+        "inline_inbound_count": 40
+      },
+      {
+        "basename": "improving_your_think_da4710_no_notes_explanation_891faf_retrieval_practice_n_ff145b",
+        "title": "Retrieval",
+        "permalink": "/retrieval/",
+        "inline_inbound_count": 36
+      },
+      {
+        "basename": "improving_your_think_da4710_practice_testing_35a599_transfer_questions_ad96de",
+        "title": "Transfer",
+        "permalink": "/transfer/",
+        "inline_inbound_count": 34
+      },
+      {
+        "basename": "improving_your_think_da4710_real_problem_practic_466932_authentic_assessment_98ad97",
+        "title": "Assessment",
+        "permalink": "/assessment/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "improving_your_think_da4710_framing_effects_b0667d",
+        "title": "Framing",
+        "permalink": "/framing/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "improving_your_think_da4710_written_reasoning_ch_b4e5fd_self_explanation_pro_edad22",
+        "title": "Prompts",
+        "permalink": "/prompts/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "improving_your_think_da4710_critical_thinking_tr_28fa6d",
+        "title": "Critical Skills",
+        "permalink": "/critical-skills/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "improving_your_think_da4710_decision_journals_44d9d9_hindsight_bias_revie_cca255",
+        "title": "Hindsight Bias",
+        "permalink": "/hindsight-bias/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "improving_your_think_da4710_decision_journals_44d9d9_prediction_probabili_0b0809",
+        "title": "Probabilities",
+        "permalink": "/probabilities/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "improving_your_think_da4710_metacognition_assump_b47334_same_standard_decisi_fecc47",
+        "title": "Same Standard",
+        "permalink": "/same-standard/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "improving_your_think_da4710_source_quality_af91d8_science_replication_be7cad",
+        "title": "Replication",
+        "permalink": "/replication/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "improving_your_think_da4710_critical_thinking_tr_28fa6d_correlation_causatio_db7bf3",
+        "title": "Causation",
+        "permalink": "/causation/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "improving_your_think_da4710_prediction_habits_f0daf5_surprise_attention_p_18fd3b",
+        "title": "Surprise",
+        "permalink": "/surprise/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "improving_your_think_da4710_decision_journals_44d9d9",
+        "title": "Decision Journal",
+        "permalink": "/decision-journal/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "improving_your_think_da4710_domain_knowledge_96a03e",
+        "title": "Domain Knowledge",
+        "permalink": "/domain-knowledge/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "improving_your_think_da4710_expert_intuition_73d438",
+        "title": "Expert Gut",
+        "permalink": "/expert-gut/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "improving_your_think_da4710_high_stakes_decision_b09c8f_reference_class_fore_cd7842",
+        "title": "Base Rates",
+        "permalink": "/base-rates/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "improving_your_think_da4710_lateral_reading_afeebc",
+        "title": "Lateral Reading",
+        "permalink": "/lateral-reading/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "improving_your_think_da4710_open_minded_thinking_b0c2ad",
+        "title": "Open Mind",
+        "permalink": "/open-mind/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "improving_your_think_da4710_distributed_practice_4a249b",
+        "title": "Spacing",
+        "permalink": "/spacing/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "improving_your_think_da4710_no_notes_explanation_891faf",
+        "title": "Explain It",
+        "permalink": "/explain-it/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "improving_your_think_da4710_open_minded_thinking_b0c2ad_strongest_opposing_a_102f34",
+        "title": "Steelmanning",
+        "permalink": "/steelmanning/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "improving_your_think_da4710_source_quality_af91d8",
+        "title": "Source Quality",
+        "permalink": "/source-quality/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "improving_your_think_da4710_source_quality_af91d8_independent_evidence_6c8401",
+        "title": "Evidence Routes",
+        "permalink": "/evidence-routes/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "improving_your_think_da4710_weakest_link_assumpt_7c77f4",
+        "title": "Weakest Link",
+        "permalink": "/weakest-link/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "improving_your_think_da4710_confidence_calibrati_3ec11e_forecasting_tourname_5ba5fb",
+        "title": "Tournaments",
+        "permalink": "/tournaments/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "improving_your_think_da4710_practice_testing_35a599",
+        "title": "Practice Tests",
+        "permalink": "/practice-tests/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "improving_your_think_da4710_real_problem_practic_466932_feedback_loops_fdc3b7",
+        "title": "Feedback Loops",
+        "permalink": "/feedback-loops/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "improving_your_think_da4710_no_notes_explanation_891faf_memory_diagrams_f042cb",
+        "title": "Diagrams",
+        "permalink": "/diagrams/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "improving_your_think_da4710_prediction_habits_f0daf5_worked_examples_next_951399",
+        "title": "Worked Examples",
+        "permalink": "/worked-examples/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "improving_your_think_da4710_tradeoff_thinking_70bcb4_must_have_thresholds_60f43e",
+        "title": "Thresholds",
+        "permalink": "/thresholds/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "improving_your_think_da4710_evidence_standards_a40c69_low_stakes_threshold_0a0b96",
+        "title": "Low Stakes",
+        "permalink": "/low-stakes/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "improving_your_think_da4710_tradeoff_thinking_70bcb4",
+        "title": "Tradeoffs",
+        "permalink": "/tradeoffs/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "improving_your_think_da4710_written_reasoning_ch_b4e5fd",
+        "title": "Reasoning Chain",
+        "permalink": "/reasoning-chain/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "improving_your_think_da4710_cause_correlation_008ee5_randomised_trials_cbfee3",
+        "title": "Randomisation",
+        "permalink": "/randomisation/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "improving_your_think_da4710_evidence_standards_a40c69_precommitment_tests_e63956",
+        "title": "Goalposts",
+        "permalink": "/goalposts/",
+        "inline_inbound_count": 7
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_cause_correlation_008ee5",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_confidence_calibrati_3ec11e",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_critical_thinking_tr_28fa6d",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_decision_journals_44d9d9",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_distributed_practice_4a249b",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_domain_knowledge_96a03e",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_evidence_standards_a40c69",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_expert_intuition_73d438",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_familiarity_trap_82f724",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_feedback_calibration_8a35f0",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_framing_effects_b0667d",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_high_stakes_decision_b09c8f",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_index",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_intuition_vs_analysi_f4ec00",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_lateral_reading_afeebc",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_live_alternatives_e775b1",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_metacognition_assump_b47334",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_myside_bias_de0ec5",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_no_notes_explanation_891faf",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_online_confirmation_d4dd0f",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_open_minded_thinking_b0c2ad",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_practice_testing_35a599",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_prediction_habits_f0daf5",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_problem_breakdown_59ff8f",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_question_design_1265c2",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_real_problem_practic_466932",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_source_quality_af91d8",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_steelmanning_argumen_91444a",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_tradeoff_thinking_70bcb4",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_weakest_link_assumpt_7c77f4",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710",
+        "to": "improving_your_think_da4710_written_reasoning_ch_b4e5fd",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710",
+        "type": "parent"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_cause_correlation_008ee5",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_confidence_calibrati_3ec11e",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_critical_thinking_tr_28fa6d",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_decision_journals_44d9d9",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_distributed_practice_4a249b",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_domain_knowledge_96a03e",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_evidence_standards_a40c69",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_expert_intuition_73d438",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_familiarity_trap_82f724",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_feedback_calibration_8a35f0",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_framing_effects_b0667d",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_high_stakes_decision_b09c8f",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_intuition_vs_analysi_f4ec00",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_lateral_reading_afeebc",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_live_alternatives_e775b1",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_metacognition_assump_b47334",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_no_notes_explanation_891faf",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_online_confirmation_d4dd0f",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_open_minded_thinking_b0c2ad",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_practice_testing_35a599",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_prediction_habits_f0daf5",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_problem_breakdown_59ff8f",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_question_design_1265c2",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_real_problem_practic_466932",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_source_quality_af91d8",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_steelmanning_argumen_91444a",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_tradeoff_thinking_70bcb4",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_weakest_link_assumpt_7c77f4",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_written_reasoning_ch_b4e5fd",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_myside_bias_de0ec5_identity_threat_corr_c8f0fd",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_myside_bias_de0ec5_index",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_myside_bias_de0ec5_intelligence_not_cur_8609ca",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_myside_bias_de0ec5_mixed_evidence_harde_7e92ee",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_myside_bias_de0ec5_motivated_scepticism_a93c8d",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_myside_bias_de0ec5_political_framing_nu_89bb4b",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710_myside_bias_de0ec5_stop_arguing_like_la_cca6af",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_myside_bias_de0ec5",
+        "to": "improving_your_think_da4710",
+        "type": "ancestor"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710",
+        "type": "parent"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_cause_correlation_008ee5",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_confidence_calibrati_3ec11e",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_critical_thinking_tr_28fa6d",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_decision_journals_44d9d9",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_distributed_practice_4a249b",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_domain_knowledge_96a03e",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_evidence_standards_a40c69",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_expert_intuition_73d438",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_familiarity_trap_82f724",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_feedback_calibration_8a35f0",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_framing_effects_b0667d",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_high_stakes_decision_b09c8f",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_intuition_vs_analysi_f4ec00",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_lateral_reading_afeebc",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_live_alternatives_e775b1",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_metacognition_assump_b47334",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_myside_bias_de0ec5",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_no_notes_explanation_891faf",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_online_confirmation_d4dd0f",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_open_minded_thinking_b0c2ad",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_practice_testing_35a599",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_prediction_habits_f0daf5",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_problem_breakdown_59ff8f",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_question_design_1265c2",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_real_problem_practic_466932",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_steelmanning_argumen_91444a",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_tradeoff_thinking_70bcb4",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_weakest_link_assumpt_7c77f4",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_written_reasoning_ch_b4e5fd",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_source_quality_af91d8_confirmation_bias_ag_a7753a",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_source_quality_af91d8_copied_claims_corrob_26d324",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_source_quality_af91d8_expertise_claim_fit_a7ce2a",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_source_quality_af91d8_independent_evidence_6c8401",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_source_quality_af91d8_index",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_source_quality_af91d8_news_anonymous_sourc_36e93e",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710_source_quality_af91d8_science_replication_be7cad",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_source_quality_af91d8",
+        "to": "improving_your_think_da4710",
+        "type": "ancestor"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710",
+        "type": "parent"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_cause_correlation_008ee5",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_confidence_calibrati_3ec11e",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_critical_thinking_tr_28fa6d",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_decision_journals_44d9d9",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_distributed_practice_4a249b",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_domain_knowledge_96a03e",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_evidence_standards_a40c69",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_expert_intuition_73d438",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_familiarity_trap_82f724",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_feedback_calibration_8a35f0",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_high_stakes_decision_b09c8f",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_intuition_vs_analysi_f4ec00",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_lateral_reading_afeebc",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_live_alternatives_e775b1",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_metacognition_assump_b47334",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_myside_bias_de0ec5",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_no_notes_explanation_891faf",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_online_confirmation_d4dd0f",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_open_minded_thinking_b0c2ad",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_practice_testing_35a599",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_prediction_habits_f0daf5",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_problem_breakdown_59ff8f",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_question_design_1265c2",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_real_problem_practic_466932",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_source_quality_af91d8",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_steelmanning_argumen_91444a",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_tradeoff_thinking_70bcb4",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_weakest_link_assumpt_7c77f4",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_written_reasoning_ch_b4e5fd",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_framing_effects_b0667d_career_experiment_fr_b070f6",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_framing_effects_b0667d_default_options_inac_310d30",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_framing_effects_b0667d_delivery_framing_tra_c60bea",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_framing_effects_b0667d_gain_loss_wording_7d9853",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_framing_effects_b0667d_index",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_framing_effects_b0667d_outside_view_forecas_3f7565",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710_framing_effects_b0667d_sunk_cost_commitment_31e4c5",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_framing_effects_b0667d",
+        "to": "improving_your_think_da4710",
+        "type": "ancestor"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710",
+        "type": "parent"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_cause_correlation_008ee5",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_confidence_calibrati_3ec11e",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_critical_thinking_tr_28fa6d",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_decision_journals_44d9d9",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_distributed_practice_4a249b",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_domain_knowledge_96a03e",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_evidence_standards_a40c69",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_expert_intuition_73d438",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_familiarity_trap_82f724",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_feedback_calibration_8a35f0",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_framing_effects_b0667d",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_high_stakes_decision_b09c8f",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_intuition_vs_analysi_f4ec00",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_live_alternatives_e775b1",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_metacognition_assump_b47334",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_myside_bias_de0ec5",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_no_notes_explanation_891faf",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_online_confirmation_d4dd0f",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_open_minded_thinking_b0c2ad",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_practice_testing_35a599",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_prediction_habits_f0daf5",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_problem_breakdown_59ff8f",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_question_design_1265c2",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_real_problem_practic_466932",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_source_quality_af91d8",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_steelmanning_argumen_91444a",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_tradeoff_thinking_70bcb4",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_weakest_link_assumpt_7c77f4",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_written_reasoning_ch_b4e5fd",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_lateral_reading_afeebc_click_restraint_sear_2617c0",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_lateral_reading_afeebc_emotional_viral_clai_18915a",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_lateral_reading_afeebc_index",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_lateral_reading_afeebc_polished_websites_mi_dd957d",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_lateral_reading_afeebc_teaching_lateral_rea_6dc982",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710_lateral_reading_afeebc_who_is_behind_site_cf152b",
+        "type": "child"
+      },
+      {
+        "from": "improving_your_think_da4710_lateral_reading_afeebc",
+        "to": "improving_your_think_da4710",
+        "type": "ancestor"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710",
+        "type": "parent"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_cause_correlation_008ee5",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_confidence_calibrati_3ec11e",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_critical_thinking_tr_28fa6d",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_decision_journals_44d9d9",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_distributed_practice_4a249b",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_domain_knowledge_96a03e",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_evidence_standards_a40c69",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_expert_intuition_73d438",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_familiarity_trap_82f724",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_feedback_calibration_8a35f0",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_framing_effects_b0667d",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_high_stakes_decision_b09c8f",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_intuition_vs_analysi_f4ec00",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_lateral_reading_afeebc",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_live_alternatives_e775b1",
+        "type": "sibling"
+      },
+      {
+        "from": "improving_your_think_da4710_question_design_1265c2",
+        "to": "improving_your_think_da4710_metacognition_assump_b47334",
+        "type": "sibling"
+      }
+    ]
+  }
+}

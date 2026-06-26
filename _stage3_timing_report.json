@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "page_count": 0,
+  "total_page_seconds": 0,
+  "average_page_seconds": 0.0,
+  "phase_totals_seconds": {},
+  "slowest_pages": [],
+  "pages": [],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 0,
+    "reused_pages": 211,
+    "rebuilt_pages": 0,
+    "error_pages": 0,
+    "page_work_wall_seconds": 21.522,
+    "rebuilt_pages_per_minute": 0.0,
+    "queued_rebuild_pages_per_minute": 0.0,
+    "apparent_page_work_speedup": 0.0,
+    "process_worker_diagnostics": {
+      "completed_pages": 0,
+      "successful_pages": 0,
+      "failed_pages": 0,
+      "worker_summary": {},
+      "slowest_worker_pages": []
+    }
+  }
+}
