@@ -29,14 +29,14 @@ endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
 baseurl: ""
-url: "https://sharper-thinking.branchoria.com"
+url: "https://ufos-celebrities.branchoria.com"
 ui_priority: 'home-first'
 homepage_audience_mode: 'production'
 homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1782634949'
+ui_bundle_version: 'build-1782646591'
 google_site_verification: ''
 draft_noindex: false
 theme: minima

@@ -15791,9 +15791,10 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-shell, .uap-world-map-shell) {
+  --interactive-map-frame-height: clamp(22rem, 32vw, 31.5rem);
   position: relative;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(17rem, 0.34fr);
+  grid-template-columns: minmax(0, 1fr) minmax(18rem, 0.34fr);
   align-items: stretch;
   isolation: isolate;
   gap: clamp(0.85rem, 1.2vw, 1.15rem);
@@ -15821,7 +15822,9 @@ a.fr-book-fit:focus-visible {
   position: relative;
   overflow: hidden;
   touch-action: pan-y;
-  min-height: clamp(19rem, 54vh, 35rem);
+  height: var(--interactive-map-frame-height);
+  min-height: 0;
+  max-height: var(--interactive-map-frame-height);
   border: 1px solid rgba(255, 255, 255, 0.58);
   border-radius: 20px;
   background:
@@ -15849,8 +15852,8 @@ a.fr-book-fit:focus-visible {
 :where(.interactive-map-canvas, .uap-world-map-canvas)::after {
   content: "Click a highlighted area";
   position: absolute;
-  right: 0.85rem;
-  bottom: 0.75rem;
+  right: 1.55rem;
+  bottom: 1rem;
   z-index: 2;
   padding: 0.36rem 0.62rem;
   border: 1px solid rgba(255, 255, 255, 0.5);
@@ -15867,28 +15870,51 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
-  min-height: clamp(19rem, 54vh, 35rem);
+  min-height: 0;
 }
 
 :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas),
 :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-canvas, .uap-world-map-canvas),
 :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-canvas, .uap-world-map-canvas),
 :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="province"] :where(.interactive-map-canvas, .uap-world-map-canvas),
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="county"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="county"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="department"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="region"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="france-departments"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="spain-provinces"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="italy-regions"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="germany-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
   align-self: start;
   aspect-ratio: 16 / 9;
   min-height: 0;
 }
 
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="province"] :where(.interactive-map-canvas, .uap-world-map-canvas),
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="county"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
-  aspect-ratio: 4 / 5;
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="canada"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="australia"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="uk-counties"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="france-departments"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="spain-provinces"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="italy-regions"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="germany-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
+  aspect-ratio: 16 / 9;
+}
+
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="uk-counties"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
+  background: rgba(8, 21, 36, 0.12);
 }
 
 :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="county"] .map-context-ireland {
   fill: #9aa6b5 !important;
   opacity: 0.72;
   pointer-events: none;
+}
+
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="uk-counties"] rect[id="rect21763"] {
+  fill: transparent !important;
+}
+
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-layout="uk-counties"] svg[data-map-fit-applied="linked-bounds"] :where(path, polygon, polyline, rect, circle):not([data-interactive-map-item]):not(.map-context-ireland) {
+  display: none !important;
 }
 
 :root[data-theme="dark"] :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="county"] .map-context-ireland {
@@ -15900,7 +15926,13 @@ a.fr-book-fit:focus-visible {
 :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-preview, .uap-world-map-preview),
 :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-preview, .uap-world-map-preview),
 :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="province"] :where(.interactive-map-preview, .uap-world-map-preview),
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="county"] :where(.interactive-map-preview, .uap-world-map-preview) {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="county"] :where(.interactive-map-preview, .uap-world-map-preview),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="department"] :where(.interactive-map-preview, .uap-world-map-preview),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="region"] :where(.interactive-map-preview, .uap-world-map-preview),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="france-departments"] :where(.interactive-map-preview, .uap-world-map-preview),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="spain-provinces"] :where(.interactive-map-preview, .uap-world-map-preview),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="italy-regions"] :where(.interactive-map-preview, .uap-world-map-preview),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="germany-states"] :where(.interactive-map-preview, .uap-world-map-preview) {
   min-height: 0;
 }
 
@@ -15908,7 +15940,13 @@ a.fr-book-fit:focus-visible {
 :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
 :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
 :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="province"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="county"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="county"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="department"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="region"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="france-departments"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="spain-provinces"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="italy-regions"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="germany-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
   display: block;
   width: 100%;
   height: 100%;
@@ -15972,6 +16010,10 @@ a.fr-book-fit:focus-visible {
   pointer-events: auto;
 }
 
+:where(.interactive-map-pan-control, .uap-world-map-pan-control)[hidden] {
+  display: none !important;
+}
+
 :where(.interactive-map-pan-controls, .uap-world-map-pan-controls) {
   position: absolute;
   inset: 0;
@@ -15986,7 +16028,7 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-pan-control-right, .uap-world-map-pan-control-right) {
-  right: 0.8rem;
+  right: 1.3rem;
   top: 50%;
   transform: translateY(-50%);
 }
@@ -16025,6 +16067,29 @@ a.fr-book-fit:focus-visible {
   transition: fill 160ms ease, opacity 160ms ease, filter 160ms ease, stroke 160ms ease;
 }
 
+:where(.interactive-map-shell, .uap-world-map-shell):where(
+  [data-map-layout="canada"],
+  [data-map-layout="australia"],
+  [data-map-layout="france-departments"],
+  [data-map-layout="spain-provinces"],
+  [data-map-layout="italy-regions"],
+  [data-map-layout="germany-states"]
+) :where(.interactive-map-canvas, .uap-world-map-canvas) :where([data-interactive-map-item], [data-uap-country]) {
+  stroke: rgba(3, 18, 31, 0.7) !important;
+  stroke-width: 1.25 !important;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  vector-effect: non-scaling-stroke;
+  paint-order: stroke fill markers;
+}
+
+:where(.interactive-map-shell, .uap-world-map-shell):where(
+  [data-map-layout="canada"],
+  [data-map-layout="australia"]
+) :where(.interactive-map-canvas, .uap-world-map-canvas) :where([data-interactive-map-item], [data-uap-country]) {
+  stroke-width: 1.55 !important;
+}
+
 :where(.interactive-map-canvas, .uap-world-map-canvas) :where([data-interactive-map-item], [data-uap-country]).is-linked {
   fill: rgba(21, 117, 132, 0.76) !important;
   filter: drop-shadow(0 0 3px rgba(126, 210, 223, 0.42));
@@ -16034,21 +16099,33 @@ a.fr-book-fit:focus-visible {
 :where(.interactive-map-canvas, .uap-world-map-canvas) :where([data-interactive-map-item], [data-uap-country]):focus {
   fill: #ff4d3d !important;
   stroke: rgba(255, 245, 218, 0.98) !important;
-  stroke-width: 1.9;
+  stroke-width: 1.9 !important;
   filter: drop-shadow(0 0 8px rgba(242, 166, 74, 0.88)) drop-shadow(0 10px 16px rgba(14, 35, 55, 0.3));
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview) {
+  --map-preview-image-height: clamp(7.2rem, 16vh, 10.2rem);
+  --map-preview-meta-height: 1.52rem;
+  --map-preview-kicker-height: 1.28rem;
+  --map-preview-title-height: clamp(4rem, 5vw, 4.35rem);
+  --map-preview-summary-height: calc(1.36em * 3);
+  --map-preview-cta-height: 2.2rem;
   display: grid;
-  grid-template-rows: clamp(8rem, 18vh, 11.4rem) minmax(1.48rem, auto) minmax(1.35rem, auto) minmax(3.15rem, auto) minmax(4.5rem, 1fr) auto;
+  grid-template-rows: var(--map-preview-image-height)
+    var(--map-preview-meta-height)
+    var(--map-preview-kicker-height)
+    var(--map-preview-title-height)
+    var(--map-preview-summary-height)
+    minmax(0.55rem, 1fr)
+    var(--map-preview-cta-height);
   align-content: start;
-  gap: clamp(0.34rem, 0.6vw, 0.54rem);
+  gap: clamp(0.24rem, 0.48vw, 0.42rem);
   align-self: stretch;
-  height: clamp(20rem, 54vh, 35rem);
-  min-height: clamp(20rem, 54vh, 35rem);
-  max-height: clamp(20rem, 54vh, 35rem);
+  height: var(--interactive-map-frame-height);
+  min-height: 0;
+  max-height: var(--interactive-map-frame-height);
   overflow: hidden;
-  padding: clamp(0.9rem, 1.4vw, 1.1rem);
+  padding: clamp(0.72rem, 1.1vw, 0.9rem);
   border-color: rgba(255, 255, 255, 0.56);
   border-radius: 20px;
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.82), rgba(244, 250, 252, 0.66));
@@ -16067,7 +16144,13 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview):not(:has(img)) {
-  grid-template-rows: minmax(1.48rem, auto) minmax(1.35rem, auto) minmax(3.15rem, auto) minmax(4.5rem, 1fr) auto;
+  grid-template-rows:
+    var(--map-preview-meta-height)
+    var(--map-preview-kicker-height)
+    var(--map-preview-title-height)
+    var(--map-preview-summary-height)
+    minmax(0.55rem, 1fr)
+    var(--map-preview-cta-height);
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview):hover {
@@ -16076,9 +16159,10 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview) img {
+  grid-row: 1;
   width: 100%;
-  height: clamp(8rem, 18vh, 11.4rem);
-  max-height: clamp(8rem, 18vh, 11.4rem);
+  height: var(--map-preview-image-height);
+  max-height: var(--map-preview-image-height);
   margin: 0;
   object-fit: cover;
   border: 1px solid rgba(255, 255, 255, 0.64);
@@ -16087,33 +16171,56 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview) strong {
+  grid-row: 4;
   display: -webkit-box;
   font-size: clamp(1.05rem, 0.36vw + 0.98rem, 1.18rem);
-  line-height: 1.14;
-  min-height: calc(1.14em * 2);
-  max-height: calc(1.14em * 2);
+  line-height: 1.12;
+  height: var(--map-preview-title-height);
+  min-height: var(--map-preview-title-height);
+  max-height: var(--map-preview-title-height);
   overflow: hidden;
+  contain: paint;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview) :where(span[data-interactive-map-preview-summary], span[data-uap-world-map-preview-summary]) {
+  grid-row: 5;
   display: -webkit-box;
   margin-top: 0;
   font-size: 0.9rem;
-  line-height: 1.5;
-  min-height: calc(1.5em * 4);
-  max-height: calc(1.5em * 4);
+  line-height: 1.36;
+  min-height: var(--map-preview-summary-height);
+  max-height: var(--map-preview-summary-height);
   overflow: hidden;
+  contain: paint;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 4;
+  -webkit-line-clamp: 3;
 }
 
 :where(.interactive-map-preview-meta, .uap-world-map-preview-meta) {
+  grid-row: 2;
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 0.34rem;
   align-items: center;
+  min-height: var(--map-preview-meta-height);
+  max-height: var(--map-preview-meta-height);
+  overflow: hidden;
+}
+
+:where(.interactive-map-preview-kicker, .uap-world-map-preview-kicker) {
+  grid-row: 3;
+  display: block;
+  min-height: var(--map-preview-kicker-height);
+  max-height: var(--map-preview-kicker-height);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+:where(.interactive-map-preview-kicker, .uap-world-map-preview-kicker).is-placeholder {
+  visibility: hidden;
 }
 
 :where(.interactive-map-preview-chip, .uap-world-map-preview-chip),
@@ -16122,6 +16229,8 @@ a.fr-book-fit:focus-visible {
   display: inline-flex;
   align-items: center;
   min-height: 1.48rem;
+  max-height: 1.48rem;
+  max-width: 100%;
   padding: 0.18rem 0.46rem;
   border: 1px solid rgba(126, 210, 223, 0.28);
   border-radius: 999px;
@@ -16132,6 +16241,9 @@ a.fr-book-fit:focus-visible {
   font-weight: 760;
   letter-spacing: 0.035em;
   text-transform: uppercase;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 :where(button.interactive-map-preview-chip-action, button.uap-world-map-preview-chip-action) {
@@ -16160,12 +16272,16 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-preview-cta, .uap-world-map-preview-cta) {
+  grid-row: 7;
   align-self: end;
   justify-self: start;
   display: inline-flex;
   align-items: center;
   gap: 0.3rem;
   margin-top: 0.24rem;
+  margin-left: clamp(0.35rem, 0.8vw, 0.72rem);
+  min-height: var(--map-preview-cta-height);
+  max-height: var(--map-preview-cta-height);
   padding: 0.46rem 0.7rem;
   border-radius: 999px;
   background: linear-gradient(135deg, rgba(217, 130, 43, 0.92), rgba(242, 166, 74, 0.82));
@@ -16176,6 +16292,26 @@ a.fr-book-fit:focus-visible {
   letter-spacing: 0.04em;
   text-transform: uppercase;
   box-shadow: 0 12px 26px rgba(217, 130, 43, 0.24);
+}
+
+:where(.interactive-map-preview, .uap-world-map-preview):not(:has(img)) :where(.interactive-map-preview-meta, .uap-world-map-preview-meta) {
+  grid-row: 1;
+}
+
+:where(.interactive-map-preview, .uap-world-map-preview):not(:has(img)) :where(.interactive-map-preview-kicker, .uap-world-map-preview-kicker) {
+  grid-row: 2;
+}
+
+:where(.interactive-map-preview, .uap-world-map-preview):not(:has(img)) strong {
+  grid-row: 3;
+}
+
+:where(.interactive-map-preview, .uap-world-map-preview):not(:has(img)) :where(span[data-interactive-map-preview-summary], span[data-uap-world-map-preview-summary]) {
+  grid-row: 4;
+}
+
+:where(.interactive-map-preview, .uap-world-map-preview):not(:has(img)) :where(.interactive-map-preview-cta, .uap-world-map-preview-cta) {
+  grid-row: 6;
 }
 
 :where(.interactive-map-preview-cta, .uap-world-map-preview-cta)::after {
@@ -16264,7 +16400,9 @@ a.fr-book-fit:focus-visible {
 
   :where(.interactive-map-canvas, .uap-world-map-canvas),
   :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
+    height: auto;
     min-height: 15rem;
+    max-height: none;
   }
 
   :where(.interactive-map-canvas, .uap-world-map-canvas)::after {
