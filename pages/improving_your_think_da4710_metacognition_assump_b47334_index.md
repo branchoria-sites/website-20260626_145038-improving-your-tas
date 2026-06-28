@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710/
 description: Focused pages that expand on Metacognition.
-date: '2026-06-26'
+date: '2026-06-28'
 layout: default
 parent_basename: improving_your_think_da4710_metacognition_assump_b47334
 parent_title: Metacognition

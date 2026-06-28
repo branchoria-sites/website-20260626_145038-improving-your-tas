@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710-open/
 description: Focused pages that expand on Open Mind.
-date: '2026-06-26'
+date: '2026-06-28'
 layout: default
 parent_basename: improving_your_think_da4710_open_minded_thinking_b0c2ad
 parent_title: Open Mind

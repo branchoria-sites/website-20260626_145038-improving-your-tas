@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710-index/
 description: Focused pages that expand on Improving Your Think.
-date: '2026-06-26'
+date: '2026-06-28'
 layout: default
 parent_basename: improving_your_think_da4710
 parent_title: Improving Your Think

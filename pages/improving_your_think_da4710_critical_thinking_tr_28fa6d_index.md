@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710-critical/
 description: Focused pages that expand on Critical Skills.
-date: '2026-06-26'
+date: '2026-06-28'
 layout: default
 parent_basename: improving_your_think_da4710_critical_thinking_tr_28fa6d
 parent_title: Critical Skills

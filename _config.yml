@@ -36,7 +36,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1782481435'
+ui_bundle_version: 'build-1782634949'
 google_site_verification: ''
 draft_noindex: false
 theme: minima
