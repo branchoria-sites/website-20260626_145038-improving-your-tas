@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_hi
 
 ## Introduction
 
-Not every everyday decision deserves lengthy analysis. Choosing what to eat, which route to take home or what film to watch rarely benefits from prolonged deliberation. However, some choices are different because the consequences are expensive, uncertain or difficult to undo. These are the moments when intuition should become a signal to pause rather than a command to act. A slower decision does not guarantee a better outcome, but it reduces the risk that temporary emotions, incomplete information or cognitive biases become permanent commitments. Research on judgement and decision-making consistently shows that decisions involving high [uncertainty]({{ 'uncertainty/' | relative_url }}), irreversible consequences and significant personal stakes benefit from deliberate checking rather than immediate commitment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">Effective decision-making in crisis events is challenging due to time pressure, uncertainty, and dynamic decisional environments.Read more...</span></span></span>
+Not every everyday decision deserves lengthy analysis. Choosing what to eat, which route to take home or what film to watch rarely benefits from prolonged deliberation. However, some choices are different because the consequences are expensive, uncertain or difficult to undo. These are the moments when intuition should become a signal to pause rather than a command to act. A slower decision does not guarantee a better outcome, but it reduces the risk that temporary emotions, incomplete information or cognitive biases become permanent commitments. Research on judgement and decision-making consistently shows that decisions involving high [uncertainty]({{ 'uncertainty/' | relative_url }}), irreversible consequences and significant personal stakes benefit from deliberate checking rather than immediate commitment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">Effective decision-making in crisis events is challenging due to time pressure, uncertainty, and dynamic decisional environments.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_high_stakes_pause_c90402-Illustration-1-dark.svg" | relative_url }}" alt="Pause Points illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_high_stakes_pause_c90402-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_high_stakes_pause_c90402-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -299,7 +299,7 @@ Rather than asking whether a decision is "important", it is often more useful to
 
 </div>
 
-These three features frequently appear together. Accepting a new job, signing a long-term financial agreement, moving house, choosing medical treatment, ending a relationship or committing to a business venture all combine uncertain [outcomes]({{ 'outcomes/' | relative_url }}) with potentially lasting consequences. Recent research on transformative life decisions highlights irreversibility, uncertainty and risk as defining characteristics of the choices that shape people's lives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpib-berlin.mpg.de/press-releases/transformative-life-decisions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpib-berlin.mpg.de">[Max Planck Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpib-berlin.mpg.de</span><span class="citation-popover-snippet">Max Planck InstituteHow people make life&#x27;s biggest decisions8 Jan 2025 — Irreversibility is another key feature, as many decisions, such...</span></span></span>
+These three features frequently appear together. Accepting a new job, signing a long-term financial agreement, moving house, choosing medical treatment, ending a relationship or committing to a business venture all combine uncertain [outcomes]({{ 'outcomes/' | relative_url }}) with potentially lasting consequences. Recent research on transformative life decisions highlights irreversibility, uncertainty and risk as defining characteristics of the choices that shape people's lives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpib-berlin.mpg.de/press-releases/transformative-life-decisions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpib-berlin.mpg.de">[Max Planck Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpib-berlin.mpg.de</span><span class="citation-popover-snippet">Max Planck InstituteHow people make life&#x27;s biggest decisions8 Jan 2025 — Irreversibility is another key feature, as many decisions, such...</span></span></span>
 
 Reversibility is particularly useful because it provides a practical rule. Many technology companies deliberately distinguish between decisions that are easy to reverse and those that are not. Reversible choices can usually be made quickly because mistakes are inexpensive to correct. Irreversible choices deserve more investigation because correction may be impossible or very costly. This principle also works well in everyday life.
 
@@ -324,11 +324,11 @@ The slower the recovery from a mistake, the more valuable careful analysis becom
 
 High stakes change not only the consequences of a decision but also the way people think about it.
 
-When outcomes feel personally significant, emotions become more influential. Anxiety narrows attention towards possible threats. Excitement encourages optimism. Anger increases confidence and willingness to take risks. None of these emotions necessarily produce poor decisions, but they make it easier to mistake feelings for evidence. Research in behavioural decision-making shows that people evaluate potential gains and losses differently, often giving disproportionate weight to avoiding losses, especially when decisions are framed in emotional terms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Behavioral_economics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Behavioral economics</span><span class="citation-popover-snippet">Behavioral economics</span></span></span>
+When outcomes feel personally significant, emotions become more influential. Anxiety narrows attention towards possible threats. Excitement encourages optimism. Anger increases confidence and willingness to take risks. None of these emotions necessarily produce poor decisions, but they make it easier to mistake feelings for evidence. Research in behavioural decision-making shows that people evaluate potential gains and losses differently, often giving disproportionate weight to avoiding losses, especially when decisions are framed in emotional terms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Behavioral_economics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Behavioral economics</span><span class="citation-popover-snippet">Behavioral economics</span></span></span>
 
 Pressure also creates a false sense of urgency. Deadlines imposed by sales tactics, social expectations or fear of missing out can make delay feel irresponsible even when no genuine time pressure exists. In many consumer situations, waiting even 24 hours provides little downside while substantially improving judgement.
 
-Another common trap is **escalation of commitment**. Once people have invested money, effort or public reputation into a choice, they often continue investing despite mounting evidence that the decision is failing. Continuing may feel psychologically easier than admitting the original decision was mistaken. Research consistently finds that [sunk costs]({{ 'sunk-costs/' | relative_url }}), personal responsibility and confidence in the initial choice all increase this tendency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Escalation of commitment</span><span class="citation-popover-snippet">Escalation of commitment</span></span></span>
+Another common trap is **escalation of commitment**. Once people have invested money, effort or public reputation into a choice, they often continue investing despite mounting evidence that the decision is failing. Continuing may feel psychologically easier than admitting the original decision was mistaken. Research consistently finds that [sunk costs]({{ 'sunk-costs/' | relative_url }}), personal responsibility and confidence in the initial choice all increase this tendency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Escalation of commitment</span><span class="citation-popover-snippet">Escalation of commitment</span></span></span>
 
 Recognising these emotional pressures is not about suppressing feelings altogether. Emotions often signal genuine values and priorities. The goal is to prevent temporary emotional states from becoming the sole basis for long-term commitments.
 
@@ -394,7 +394,7 @@ In each case, the pause is valuable because consequences continue long after the
 
 ## The aim is better commitment, not endless hesitation
 
-There is a point at which further analysis produces diminishing returns. Waiting indefinitely is not always safer than deciding. Some opportunities disappear, uncertainty never reaches zero, and refusing to decide is itself a decision with consequences. Research on decision-making under uncertainty emphasises that good decisions involve managing uncertainty rather than eliminating it completely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">Effective decision-making in crisis events is challenging due to time pressure, uncertainty, and dynamic decisional environments.Read more...</span></span></span>
+There is a point at which further analysis produces diminishing returns. Waiting indefinitely is not always safer than deciding. Some opportunities disappear, uncertainty never reaches zero, and refusing to decide is itself a decision with consequences. Research on decision-making under uncertainty emphasises that good decisions involve managing uncertainty rather than eliminating it completely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">Effective decision-making in crisis events is challenging due to time pressure, uncertainty, and dynamic decisional environments.Read more...</span></span></span>
 
 The practical objective is therefore not to distrust intuition, but to use it appropriately. Let intuition identify what deserves attention. Then ask whether the decision is expensive to reverse, highly uncertain or personally significant. If it is, create enough distance between the first impression and the final commitment for careful thinking to catch up. That short pause is often where better judgement is formed.
 
@@ -403,178 +403,178 @@ The practical objective is therefore not to distrust intuition, but to use it ap
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which decisions deserve a slower pause?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which decisions deserve a slower pause?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Introduces structured checks that improve major decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces structured checks that improve major decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides the conceptual basis for slowing down when stakes and uncertainty are high.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the conceptual basis for slowing down when stakes and uncertainty are high.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Risk Savvy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQxPAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Risk Savvy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Risk Savvy">Risk Savvy</a>
-        </h4>
-        <p class="fr-book-author">By Gerd Gigerenzer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Risk Savvy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQxPAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Risk Savvy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Risk Savvy">Risk Savvy</a>
+</h4>
+<p class="fr-book-author">By Gerd Gigerenzer</p>
         
-        <p class="fr-book-desc">Focuses on judging uncertainty and avoiding costly mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on judging uncertainty and avoiding costly mistakes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Demonstrates disciplined thinking before committing to consequential forecasts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates disciplined thinking before committing to consequential forecasts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Risk+Savvy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Risk Savvy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Risk+Savvy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Risk Savvy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic 3D Metal Pin Art Classic Impression Picture Maker Desk Toy Frame Gadget"><img src="https://i.ebayimg.com/images/g/dIIAAOSwMTJnAVoA/s-l225.jpg" alt="Listing image for Classic 3D Metal Pin Art Classic Impression Picture Maker Desk Toy Frame Gadget" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">Classic 3D Metal Pin Art Classic Impression Picture Maker Desk Toy Frame Gadget</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for executive desk toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: executive desk toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic 3D Metal Pin Art Classic Impression Picture Maker Desk Toy Frame Gadget"><img src="https://i.ebayimg.com/images/g/dIIAAOSwMTJnAVoA/s-l225.jpg" alt="Listing image for Classic 3D Metal Pin Art Classic Impression Picture Maker Desk Toy Frame Gadget" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">Classic 3D Metal Pin Art Classic Impression Picture Maker Desk Toy Frame Gadget</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for executive desk toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: executive desk toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Globe Magic Executive Revolving Rotating Desk Children Office Toy Bed"><img src="https://i.ebayimg.com/images/g/80EAAOSwm8VUwP28/s-l225.jpg" alt="Listing image for World Map Globe Magic Executive Revolving Rotating Desk Children Office Toy Bed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">World Map Globe Magic Executive Revolving Rotating Desk Children Office Toy Bed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for executive desk toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: executive desk toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Globe Magic Executive Revolving Rotating Desk Children Office Toy Bed"><img src="https://i.ebayimg.com/images/g/80EAAOSwm8VUwP28/s-l225.jpg" alt="Listing image for World Map Globe Magic Executive Revolving Rotating Desk Children Office Toy Bed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">World Map Globe Magic Executive Revolving Rotating Desk Children Office Toy Bed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for executive desk toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: executive desk toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Chrome Executive Desk Toy&#x27;s Kinetic Balance - Retro bundle"><img src="https://i.ebayimg.com/images/g/kMEAAeSwlWhqJq-G/s-l225.jpg" alt="Listing image for Vintage Chrome Executive Desk Toy&#x27;s Kinetic Balance - Retro bundle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">Vintage Chrome Executive Desk Toy&#x27;s Kinetic Balance - Retro bundle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for executive desk toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: executive desk toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Chrome Executive Desk Toy&#x27;s Kinetic Balance - Retro bundle"><img src="https://i.ebayimg.com/images/g/kMEAAeSwlWhqJq-G/s-l225.jpg" alt="Listing image for Vintage Chrome Executive Desk Toy&#x27;s Kinetic Balance - Retro bundle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">Vintage Chrome Executive Desk Toy&#x27;s Kinetic Balance - Retro bundle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for executive desk toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: executive desk toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-decisions-deserve-a-slower-pause-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="which-decisions-deserve-a-slower-pause-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ The practical objective is therefore not to distrust intuition, but to use it ap
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ The practical objective is therefore not to distrust intuition, but to use it ap
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ The practical objective is therefore not to distrust intuition, but to use it ap
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ The practical objective is therefore not to distrust intuition, but to use it ap
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ The practical objective is therefore not to distrust intuition, but to use it ap
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,80 +779,80 @@ The practical objective is therefore not to distrust intuition, but to use it ap
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDecision-Making During High-Risk Events  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective decision-making in crisis events is challenging due to time pressure, uncertainty, and dynamic decisional environments.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effective decision-making in crisis events is challenging due to time pressure, uncertainty, and dynamic decisional environments.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Behavioral economics  
-   Link: <a href="https://en.wikipedia.org/wiki/Behavioral_economics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavioral_economics</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Behavioral_economics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavioral_economics</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Escalation of commitment  
-   Link: <a href="https://en.wikipedia.org/wiki/Escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Escalation_of_commitment</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Escalation_of_commitment</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mpib-berlin.mpg.de  
-   Link: <a href="https://www.mpib-berlin.mpg.de/press-releases/transformative-life-decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.mpib-berlin.mpg.de/press-releases/transformative-life-decisions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Max Planck InstituteHow people make life&#x27;s biggest decisions8 Jan 2025 — Irreversibility is another key feature, as many decisions, such...</p></details>
+   Link:<a href="https://www.mpib-berlin.mpg.de/press-releases/transformative-life-decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.mpib-berlin.mpg.de/press-releases/transformative-life-decisions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Max Planck InstituteHow people make life&#x27;s biggest decisions8 Jan 2025 — Irreversibility is another key feature, as many decisions, such...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fs.blog  
-   Link: <a href="https://fs.blog/the-art-and-science-of-[high-stakes-decisions" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/the-art-and-science-of-[high-stakes-decisions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Art and Science of High-Stakes DecisionsHigh-stakes decisions involve two distinctive properties: 1) existence of a possible large lo...</p></details>
+   Link:<a href="https://fs.blog/the-art-and-science-of-[high-stakes-decisions" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/the-art-and-science-of-[high-stakes-decisions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Art and Science of High-Stakes DecisionsHigh-stakes decisions involve two distinctive properties: 1) existence of a possible large lo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394886141_The_Impact_of_Cognitive_Biases_on_Decision-Making_in_High-Stakes_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394886141_The_Impact_of_Cognitive_Biases_on_Decision-Making_in_High-Stakes_Environments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Cognitive Biases on Decision-Making in...8 Aug 2025 — This study investigates the impact of cognitive biases—specifically...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/394886141_The_Impact_of_Cognitive_Biases_on_Decision-Making_in_High-Stakes_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394886141_The_Impact_of_Cognitive_Biases_on_Decision-Making_in_High-Stakes_Environments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Cognitive Biases on Decision-Making in...8 Aug 2025 — This study investigates the impact of cognitive biases—specifically...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: rpc.cfainstitute.org  
    Title: daniel kahneman four keys to better decision making  
-   Link: <a href="https://rpc.cfainstitute.org/blogs/enterprising-investor/2018/daniel-kahneman-four-keys-to-better-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://rpc.cfainstitute.org/blogs/enterprising-investor/2018/daniel-kahneman-four-keys-to-better-decision-making</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CFA Institute Research and Policy CenterDaniel Kahneman: Four Keys to Better Decision Making8 Jun 2018 — &quot;Regret is probably the greatest...</p></details>
+   Link:<a href="https://rpc.cfainstitute.org/blogs/enterprising-investor/2018/daniel-kahneman-four-keys-to-better-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://rpc.cfainstitute.org/blogs/enterprising-investor/2018/daniel-kahneman-four-keys-to-better-decision-making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CFA Institute Research and Policy CenterDaniel Kahneman: Four Keys to Better Decision Making8 Jun 2018 — &quot;Regret is probably the greatest...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: matatihi.nz  
-   Link: <a href="https://matatihi.nz/sustainability-insights/2025/1/27/when-analysis-fails-the-paradox-of-expert-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://matatihi.nz/sustainability-insights/2025/1/27/when-analysis-fails-the-paradox-of-expert-decision-making</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Analysis Fails: The Paradox of Expert Decision-Making27 Jan 2025 — High-stakes decisions with significant potential for irreversible...</p></details>
+   Link:<a href="https://matatihi.nz/sustainability-insights/2025/1/27/when-analysis-fails-the-paradox-of-expert-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://matatihi.nz/sustainability-insights/2025/1/27/when-analysis-fails-the-paradox-of-expert-decision-making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Analysis Fails: The Paradox of Expert Decision-Making27 Jan 2025 — High-stakes decisions with significant potential for irreversible...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bahrainthismonth/posts/when-uncertainty-rises-financial-decisions-begin-to-feel-different-pria-masson-r/1379974540835171/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bahrainthismonth/posts/when-uncertainty-rises-financial-decisions-begin-to-feel-different-pria-masson-r/1379974540835171/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When uncertainty rises, financial decisions begin to feel...It is about learning how to make decisions without letting emotions hijack t...</p></details>
+   Link:<a href="https://www.facebook.com/bahrainthismonth/posts/when-uncertainty-rises-financial-decisions-begin-to-feel-different-pria-masson-r/1379974540835171/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bahrainthismonth/posts/when-uncertainty-rises-financial-decisions-begin-to-feel-different-pria-masson-r/1379974540835171/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When uncertainty rises, financial decisions begin to feel...It is about learning how to make decisions without letting emotions hijack t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tuw.edu  
    Title: psychology of decision making  
-   Link: <a href="https://www.tuw.edu/psychology/psychology-of-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://www.tuw.edu/psychology/psychology-of-decision-making/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Decision-Making and How It Shapes...1 Jul 2025 — The psychology of decision-making involves logic, emotion, and inhere...</p></details>
+   Link:<a href="https://www.tuw.edu/psychology/psychology-of-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://www.tuw.edu/psychology/psychology-of-decision-making/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Decision-Making and How It Shapes...1 Jul 2025 — The psychology of decision-making involves logic, emotion, and inhere...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: goalsandprogress.com  
-   Link: <a href="https://goalsandprogress.com/decision-making-frameworks-guide/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/decision-making-frameworks-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision Making Frameworks - Which One Fits Your Situationby P Tip — The Decision Type Filter matches frameworks to decisions using three...</p></details>
+   Link:<a href="https://goalsandprogress.com/decision-making-frameworks-guide/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/decision-making-frameworks-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision Making Frameworks - Which One Fits Your Situationby P Tip — The Decision Type Filter matches frameworks to decisions using three...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: How to Make Big Decisions in Challenging Circumstances | Jonathan Reimer | TED  
-   Link: <a href="https://www.youtube.com/watch?v=fHDy7Jzp-5I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fHDy7Jzp-5I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clarity Under Pressure: Executive Leadership Skills for High-Stakes Decisions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fHDy7Jzp-5I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fHDy7Jzp-5I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clarity Under Pressure: Executive Leadership Skills for High-Stakes Decisions...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Clarity Under Pressure: Executive Leadership Skills for High-Stakes Decisions  
-   Link: <a href="https://www.youtube.com/watch?v=ZPp5YzZEDhk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZPp5YzZEDhk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision Factory (Making Decisions Under Uncertainty)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZPp5YzZEDhk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZPp5YzZEDhk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision Factory (Making Decisions Under Uncertainty)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: How to Stop Overthinking Your Decisions  
-   Link: <a href="https://www.youtube.com/watch?v=cWt2friLYDk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cWt2friLYDk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Big Decisions in Challenging Circumstances | Jonathan Reimer | TED...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cWt2friLYDk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cWt2friLYDk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Big Decisions in Challenging Circumstances | Jonathan Reimer | TED...</p></details>

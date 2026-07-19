@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_fa
 
 ## Introduction
 
-Simple rules of thumb can sometimes outperform painstaking calculation—not because they are magical, but because they focus attention on the few cues that matter most. In everyday life, people rarely have unlimited time, information or mental energy. Under those conditions, a well-designed shortcut can reduce [decision fatigue]({{ 'decision-fatigue/' | relative_url }}), speed action and even improve consistency. The key is that these rules are built through earlier reflection and experience rather than replacing thinking altogether. They represent analysis done in advance, ready to be applied when routine choices arise. Research on bounded rationality and fast-and-frugal heuristics argues that the effectiveness of a rule depends less on its complexity than on whether it fits the environment in which it is used. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_2102905/component/file_2102904/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">Heuristicsby T Make — Our premise is that much of human reasoning and decision making can be modeled by fast and frugal heuristics that m...</span></span></span>
+Simple rules of thumb can sometimes outperform painstaking calculation—not because they are magical, but because they focus attention on the few cues that matter most. In everyday life, people rarely have unlimited time, information or mental energy. Under those conditions, a well-designed shortcut can reduce [decision fatigue]({{ 'decision-fatigue/' | relative_url }}), speed action and even improve consistency. The key is that these rules are built through earlier reflection and experience rather than replacing thinking altogether. They represent analysis done in advance, ready to be applied when routine choices arise. Research on bounded rationality and fast-and-frugal heuristics argues that the effectiveness of a rule depends less on its complexity than on whether it fits the environment in which it is used.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_2102905/component/file_2102904/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">Heuristicsby T Make — Our premise is that much of human reasoning and decision making can be modeled by fast and frugal heuristics that m...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_fast_frugal_rules_abc8bb-Illustration-1-dark.svg" | relative_url }}" alt="Simple Rules illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_fast_frugal_rules_abc8bb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_fast_frugal_rules_abc8bb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Within the broader question of intuition versus analysis, simple rules occupy a 
 
 ## What makes a rule of thumb fit its environment?
 
-A useful rule of thumb is not universally true. It works because it exploits regular patterns in a particular setting. Researchers studying fast-and-frugal heuristics describe this as **ecological rationality**: a decision strategy should match the structure of the environment rather than satisfy an abstract ideal of perfect calculation. Under genuine [uncertainty]({{ 'uncertainty/' | relative_url }}), gathering more information can sometimes add noise instead of clarity, making a simple rule more reliable than an elaborate analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spds.uni-konstanz.de/en/node/1121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spds.uni-konstanz.de">[spds.uni-konstanz.de+2MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spds.uni-konstanz.de</span><span class="citation-popover-snippet">Open source on uni-konstanz.de.</span></span></span>
+A useful rule of thumb is not universally true. It works because it exploits regular patterns in a particular setting. Researchers studying fast-and-frugal heuristics describe this as **ecological rationality**: a decision strategy should match the structure of the environment rather than satisfy an abstract ideal of perfect calculation. Under genuine [uncertainty]({{ 'uncertainty/' | relative_url }}), gathering more information can sometimes add noise instead of clarity, making a simple rule more reliable than an elaborate analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spds.uni-konstanz.de/en/node/1121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spds.uni-konstanz.de">[spds.uni-konstanz.de+2MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spds.uni-konstanz.de</span><span class="citation-popover-snippet">Open source on uni-konstanz.de.</span></span></span>
 
 Three characteristics distinguish effective everyday rules:
 
@@ -301,7 +301,7 @@ Three characteristics distinguish effective everyday rules:
 
 </div>
 
-This perspective differs from the common assumption that heuristics are merely sources of bias. The heuristics-and-biases tradition demonstrated many situations in which mental shortcuts produce systematic errors, especially when judging [probabilities]({{ 'probabilities/' | relative_url }}) or interpreting random events. The fast-and-frugal programme complements rather than rejects this work by showing that some simple heuristics are remarkably accurate when they are matched to the right kinds of uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/Heuristics_and_Biases.html?id=FfTVDY-zrCoC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books+2MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksHeuristics and Biases: The Psychology of Intuitive JudgmentThis book compiles the most influential research in the heuristics...</span></span></span>
+This perspective differs from the common assumption that heuristics are merely sources of bias. The heuristics-and-biases tradition demonstrated many situations in which mental shortcuts produce systematic errors, especially when judging [probabilities]({{ 'probabilities/' | relative_url }}) or interpreting random events. The fast-and-frugal programme complements rather than rejects this work by showing that some simple heuristics are remarkably accurate when they are matched to the right kinds of uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/Heuristics_and_Biases.html?id=FfTVDY-zrCoC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books+2MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksHeuristics and Biases: The Psychology of Intuitive JudgmentThis book compiles the most influential research in the heuristics...</span></span></span>
 
 One practical implication follows: instead of asking whether a shortcut is "rational", ask whether it reliably works in this specific recurring situation.
 
@@ -353,7 +353,7 @@ Here the rule removes the need for nightly bargaining. The decision has already 
 
 Interpersonal situations frequently generate regret because responses are immediate while consequences last.
 
-Simple conversational rules include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://causeweb.org/cause/research/literature/fast-and-frugal-heuristics-adaptive-toolbox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: causeweb.org">[causeweb.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">causeweb.org</span><span class="citation-popover-title">Fast and Frugal Heuristics; the adaptive toolbox This book provides such a view</span><span class="citation-popover-snippet">It is about fast and frugal heuristics-simple rules for making decisions with realistic mental resources. These heuristics can...Read more...</span></span></span>
+Simple conversational rules include:<span class="citation-chip-wrap"><a class="citation-chip" href="https://causeweb.org/cause/research/literature/fast-and-frugal-heuristics-adaptive-toolbox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: causeweb.org">[causeweb.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">causeweb.org</span><span class="citation-popover-title">Fast and Frugal Heuristics; the adaptive toolbox This book provides such a view</span><span class="citation-popover-snippet">It is about fast and frugal heuristics-simple rules for making decisions with realistic mental resources. These heuristics can...Read more...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
@@ -374,7 +374,7 @@ Across all three domains, the underlying mechanism is similar: the rule limits t
 
 ## Why advance policies often work better than case-by-case choices
 
-Repeated decisions consume mental resources. Although the idea of "decision fatigue" has generated debate about the size and consistency of its effects, there is broad agreement that repeatedly reconsidering the same questions creates unnecessary cognitive load. Pre-committed rules reduce this burden by eliminating low-value deliberation and increasing behavioural consistency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">review of optimism bias, planning fallacy, sunk cost...The main insight is that System 1, which draws upon a variety of heuristics (ment...</span></span></span>
+Repeated decisions consume mental resources. Although the idea of "decision fatigue" has generated debate about the size and consistency of its effects, there is broad agreement that repeatedly reconsidering the same questions creates unnecessary cognitive load. Pre-committed rules reduce this burden by eliminating low-value deliberation and increasing behavioural consistency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">review of optimism bias, planning fallacy, sunk cost...The main insight is that System 1, which draws upon a variety of heuristics (ment...</span></span></span>
 
 An advance policy also weakens the influence of temporary moods. If the rule says, "I never make major purchases on the day I first see them," then excitement no longer determines the outcome. The decision becomes less dependent on circumstances and more dependent on values established in calmer moments.
 
@@ -399,7 +399,7 @@ Warning signs include:
 
 </div>
 
-Researchers describe decision making as an adaptive toolbox rather than a single universal strategy. The goal is not to find one perfect heuristic but to maintain a collection of simple rules suited to different recurring situations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_2102373/component/file_2102372/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe+2causeweb.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-title">Pu Re Bounded Rationality</span><span class="citation-popover-snippet">Rationality - The Adaptive Toolboxby G Gigerenzer · 2001 · Cited by 5297 — They are designed for specific goals-domain specific rather th...</span></span></span>
+Researchers describe decision making as an adaptive toolbox rather than a single universal strategy. The goal is not to find one perfect heuristic but to maintain a collection of simple rules suited to different recurring situations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_2102373/component/file_2102372/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe+2causeweb.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-title">Pu Re Bounded Rationality</span><span class="citation-popover-snippet">Rationality - The Adaptive Toolboxby G Gigerenzer · 2001 · Cited by 5297 — They are designed for specific goals-domain specific rather th...</span></span></span>
 
 An effective habit is to review important rules occasionally. Ask:
 
@@ -420,199 +420,199 @@ Treating rules as hypotheses rather than permanent truths keeps them useful with
 
 Sometimes they can—but only under the right conditions.
 
-Careful optimisation is valuable when decisions are rare, consequences are large and reliable analysis is available. Simple rules become more attractive when decisions are frequent, information is incomplete and the same kinds of situations recur. Under those conditions, a thoughtfully designed shortcut often delivers most of the benefit at a fraction of the mental cost. Research on bounded rationality suggests that success comes not from ignoring information indiscriminately but from identifying which information can safely be ignored. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_2102905/component/file_2102904/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">Heuristicsby T Make — Our premise is that much of human reasoning and decision making can be modeled by fast and frugal heuristics that m...</span></span></span>
+Careful optimisation is valuable when decisions are rare, consequences are large and reliable analysis is available. Simple rules become more attractive when decisions are frequent, information is incomplete and the same kinds of situations recur. Under those conditions, a thoughtfully designed shortcut often delivers most of the benefit at a fraction of the mental cost. Research on bounded rationality suggests that success comes not from ignoring information indiscriminately but from identifying which information can safely be ignored.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_2102905/component/file_2102904/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">Heuristicsby T Make — Our premise is that much of human reasoning and decision making can be modeled by fast and frugal heuristics that m...</span></span></span>
 
 The practical lesson is not to choose between intuition and analysis. Instead, invest analytical effort once to build sound decision policies, then rely on those policies for routine choices while remaining willing to slow down when the situation falls outside the rule's intended range.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can simple rules beat careful calculation?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can simple rules beat careful calculation?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Simple+Rules+by+Kathleen+Eisenhardt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Simple Rules on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wrycBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Simple Rules" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Simple+Rules+by+Kathleen+Eisenhardt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Simple Rules">Simple Rules</a>
-        </h4>
-        <p class="fr-book-author">By Kathleen Eisenhardt, Donald Sull</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Simple+Rules+by+Kathleen+Eisenhardt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Simple Rules on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wrycBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Simple Rules" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Simple+Rules+by+Kathleen+Eisenhardt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Simple Rules">Simple Rules</a>
+</h4>
+<p class="fr-book-author">By Kathleen Eisenhardt, Donald Sull</p>
         
-        <p class="fr-book-desc">Directly explores how well-designed simple rules outperform unnecessary complexity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Simple+Rules+by+Kathleen+Eisenhardt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores how well-designed simple rules outperform unnecessary complexity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Simple+Rules+by+Kathleen+Eisenhardt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains when fast intuitive thinking succeeds or fails compared with deliberate analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains when fast intuitive thinking succeeds or fails compared with deliberate analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Risk Savvy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQxPAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Risk Savvy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Risk Savvy">Risk Savvy</a>
-        </h4>
-        <p class="fr-book-author">By Gerd Gigerenzer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Risk Savvy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQxPAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Risk Savvy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Risk Savvy">Risk Savvy</a>
+</h4>
+<p class="fr-book-author">By Gerd Gigerenzer</p>
         
-        <p class="fr-book-desc">Covers fast-and-frugal heuristics and ecological rationality in accessible language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers fast-and-frugal heuristics and ecological rationality in accessible language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Helps readers recognize when simple rules help and when biases mislead.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognize when simple rules help and when biases mislead.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Simple+Rules&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Simple Rules</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Risk+Savvy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Risk Savvy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Simple+Rules&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Simple Rules</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Risk+Savvy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Risk Savvy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SLOW CLUB Concert posters Collection x3 Scottish tour music show Gig memorabilia"><img src="{{ '/assets/images/marketplace-covers/fbfa84ba908c1352673b.jpg' | relative_url }}" alt="Listing image for SLOW CLUB Concert posters Collection x3 Scottish tour music show Gig memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">SLOW CLUB Concert posters Collection x3 Scottish tour music show Gig memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for slow memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: slow memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SLOW CLUB Concert posters Collection x3 Scottish tour music show Gig memorabilia"><img src="{{ '/assets/images/marketplace-covers/fbfa84ba908c1352673b.jpg' | relative_url }}" alt="Listing image for SLOW CLUB Concert posters Collection x3 Scottish tour music show Gig memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">SLOW CLUB Concert posters Collection x3 Scottish tour music show Gig memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for slow memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: slow memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Oasis - Lord Don&#x27;t Slow Me Down - Mini Poster Promo Advert Memorabilia"><img src="{{ '/assets/images/marketplace-covers/a35343638ecab357e843.jpg' | relative_url }}" alt="Listing image for Oasis - Lord Don&#x27;t Slow Me Down - Mini Poster Promo Advert Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Oasis - Lord Don&#x27;t Slow Me Down - Mini Poster Promo Advert Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for slow memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: slow memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Oasis - Lord Don&#x27;t Slow Me Down - Mini Poster Promo Advert Memorabilia"><img src="{{ '/assets/images/marketplace-covers/a35343638ecab357e843.jpg' | relative_url }}" alt="Listing image for Oasis - Lord Don&#x27;t Slow Me Down - Mini Poster Promo Advert Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Oasis - Lord Don&#x27;t Slow Me Down - Mini Poster Promo Advert Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for slow memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: slow memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DAVID GRAY LIVE IN SLOW MOTION MEMORABILIA original music press advert from 2006"><img src="{{ '/assets/images/marketplace-covers/d58427a0a5f1daa2115a.jpg' | relative_url }}" alt="Listing image for DAVID GRAY LIVE IN SLOW MOTION MEMORABILIA original music press advert from 2006" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">DAVID GRAY LIVE IN SLOW MOTION MEMORABILIA original music press advert from 2006</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for slow memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: slow memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DAVID GRAY LIVE IN SLOW MOTION MEMORABILIA original music press advert from 2006"><img src="{{ '/assets/images/marketplace-covers/d58427a0a5f1daa2115a.jpg' | relative_url }}" alt="Listing image for DAVID GRAY LIVE IN SLOW MOTION MEMORABILIA original music press advert from 2006" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">DAVID GRAY LIVE IN SLOW MOTION MEMORABILIA original music press advert from 2006</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for slow memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: slow memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vanessa Daou Slow to Burn Album Promo Postcard 1996 Go Card Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/6e3ad4cb895fe996a02c.jpg' | relative_url }}" alt="Listing image for Vanessa Daou Slow to Burn Album Promo Postcard 1996 Go Card Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vanessa Daou Slow to Burn Album Promo Postcard 1996 Go Card Music Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for slow memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: slow memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vanessa Daou Slow to Burn Album Promo Postcard 1996 Go Card Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/6e3ad4cb895fe996a02c.jpg' | relative_url }}" alt="Listing image for Vanessa Daou Slow to Burn Album Promo Postcard 1996 Go Card Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vanessa Daou Slow to Burn Album Promo Postcard 1996 Go Card Music Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for slow memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: slow memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=slow+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="slow memorabilia -book -books -dvd" data-ebay-reference="simple-rules-can-simple-rules-beat-careful-calculation-improving-your-think-slow-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -628,7 +628,7 @@ The practical lesson is not to choose between intuition and analysis. Instead, i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -648,7 +648,7 @@ The practical lesson is not to choose between intuition and analysis. Instead, i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -680,7 +680,7 @@ The practical lesson is not to choose between intuition and analysis. Instead, i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -732,7 +732,7 @@ The practical lesson is not to choose between intuition and analysis. Instead, i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -777,7 +777,7 @@ The practical lesson is not to choose between intuition and analysis. Instead, i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -818,108 +818,108 @@ The practical lesson is not to choose between intuition and analysis. Instead, i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pure.mpg.de  
-   Link: <a href="https://pure.mpg.de/rest/items/item_2102905/component/file_2102904/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2102905/component/file_2102904/content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heuristicsby T Make — Our premise is that much of human reasoning and decision making can be modeled by fast and frugal heuristics that m...</p></details>
+   Link:<a href="https://pure.mpg.de/rest/items/item_2102905/component/file_2102904/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2102905/component/file_2102904/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heuristicsby T Make — Our premise is that much of human reasoning and decision making can be modeled by fast and frugal heuristics that m...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pure.mpg.de  
    Title: Pu Re Bounded Rationality  
-   Link: <a href="https://pure.mpg.de/rest/items/item_2102373/component/file_2102372/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2102373/component/file_2102372/content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rationality - The Adaptive Toolboxby G Gigerenzer · 2001 · Cited by 5297 — They are designed for specific goals-domain specific rather th...</p></details>
+   Link:<a href="https://pure.mpg.de/rest/items/item_2102373/component/file_2102372/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2102373/component/file_2102372/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rationality - The Adaptive Toolboxby G Gigerenzer · 2001 · Cited by 5297 — They are designed for specific goals-domain specific rather th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spds.uni-konstanz.de  
-   Link: <a href="https://spds.uni-konstanz.de/en/node/1121" target="_blank" rel="noopener noreferrer nofollow">https://spds.uni-konstanz.de/en/node/1121</a>  
+   Link:<a href="https://spds.uni-konstanz.de/en/node/1121" target="_blank" rel="noopener noreferrer nofollow">https://spds.uni-konstanz.de/en/node/1121</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/Heuristics_and_Biases.html?id=FfTVDY-zrCoC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Heuristics_and_Biases.html?id=FfTVDY-zrCoC</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksHeuristics and Biases: The Psychology of Intuitive JudgmentThis book compiles the most influential research in the heuristics...</p></details>
+   Link:<a href="https://books.google.com/books/about/Heuristics_and_Biases.html?id=FfTVDY-zrCoC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Heuristics_and_Biases.html?id=FfTVDY-zrCoC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksHeuristics and Biases: The Psychology of Intuitive JudgmentThis book compiles the most influential research in the heuristics...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>review of optimism bias, planning fallacy, sunk cost...The main insight is that System 1, which draws upon a variety of heuristics (ment...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>review of optimism bias, planning fallacy, sunk cost...The main insight is that System 1, which draws upon a variety of heuristics (ment...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: causeweb.org  
    Title: Fast and Frugal Heuristics; the adaptive toolbox This book provides such a view  
-   Link: <a href="https://causeweb.org/cause/research/literature/fast-and-frugal-heuristics-adaptive-toolbox" target="_blank" rel="noopener noreferrer nofollow">https://causeweb.org/cause/research/literature/fast-and-frugal-heuristics-adaptive-toolbox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is about fast and frugal heuristics-simple rules for making decisions with realistic mental resources. These heuristics can...Read more...</p></details>
+   Link:<a href="https://causeweb.org/cause/research/literature/fast-and-frugal-heuristics-adaptive-toolbox" target="_blank" rel="noopener noreferrer nofollow">https://causeweb.org/cause/research/literature/fast-and-frugal-heuristics-adaptive-toolbox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is about fast and frugal heuristics-simple rules for making decisions with realistic mental resources. These heuristics can...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scholar.google.com  
-   Link: <a href="https://scholar.google.com/citations?hl=vi&amp;user=iw7cepUAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com/citations?hl=vi&amp;user=iw7cepUAAAAJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GigerenzerBounded rationality: The adaptive toolbox. G Gigerenzer, R Selten. MIT press, 2002. 5944*, 2002; Reasoning the fast and frugal...</p></details>
+   Link:<a href="https://scholar.google.com/citations?hl=vi&amp;user=iw7cepUAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com/citations?hl=vi&amp;user=iw7cepUAAAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GigerenzerBounded rationality: The adaptive toolbox. G Gigerenzer, R Selten. MIT press, 2002. 5944*, 2002; Reasoning the fast and frugal...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35778774/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35778774/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fast-and-frugal heuristicsby Y Wang · 2022 · Cited by 21 — The research program on fast-and-frugal heuristics studies formal models of he...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/35778774/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35778774/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fast-and-frugal heuristicsby Y Wang · 2022 · Cited by 21 — The research program on fast-and-frugal heuristics studies formal models of he...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/173995" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/173995</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AUTHOR&#x27;S NOTE: I... KAHNEMAN, (1974) &quot;Judgment Under Uncertainty: Heuristics and. Biases...</p></details>
+   Link:<a href="https://www.jstor.org/stable/173995" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/173995</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AUTHOR&#x27;S NOTE: I... KAHNEMAN, (1974) &quot;Judgment Under Uncertainty: Heuristics and. Biases...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: users.cs.utah.edu  
    Title: Fast and frugal  
-   Link: <a href="https://users.cs.utah.edu/~miriah/uncertainty/Fast-and-frugal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://users.cs.utah.edu/~miriah/uncertainty/Fast-and-frugal.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and frugal heuristics: The adaptive toolbox....an adaptive toolbox filled with fast and frugal heuristics. Let us briefly... decision m...</p></details>
+   Link:<a href="https://users.cs.utah.edu/~miriah/uncertainty/Fast-and-frugal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://users.cs.utah.edu/~miriah/uncertainty/Fast-and-frugal.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and frugal heuristics: The adaptive toolbox....an adaptive toolbox filled with fast and frugal heuristics. Let us briefly... decision m...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228509269_Fast_and_frugal_heuristics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228509269_Fast_and_frugal_heuristics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Fast and frugal heuristicsFast and frugal heuristics yield decisions that are ecologically rational rather than logically consisten...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228509269_Fast_and_frugal_heuristics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228509269_Fast_and_frugal_heuristics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Fast and frugal heuristicsFast and frugal heuristics yield decisions that are ecologically rational rather than logically consisten...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/tversky-kahneman-biographical-sketch-richard-m-adler" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/tversky-kahneman-biographical-sketch-richard-m-adler</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tversky and Kahneman: A Biographical SketchThese mental rules of thumb, or heuristics, enable us to size up people, situations, and risks...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/tversky-kahneman-biographical-sketch-richard-m-adler" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/tversky-kahneman-biographical-sketch-richard-m-adler</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tversky and Kahneman: A Biographical SketchThese mental rules of thumb, or heuristics, enable us to size up people, situations, and risks...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: exploring-economics.org  
-   Link: <a href="https://www.exploring-economics.org/en/discover/bounded-rationality-heuristics/" target="_blank" rel="noopener noreferrer nofollow">https://www.exploring-economics.org/en/discover/bounded-rationality-heuristics/</a>  
+   Link:<a href="https://www.exploring-economics.org/en/discover/bounded-rationality-heuristics/" target="_blank" rel="noopener noreferrer nofollow">https://www.exploring-economics.org/en/discover/bounded-rationality-heuristics/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: investigationsquality.com  
-   Link: <a href="https://investigationsquality.com/2025/09/08/harnessing-the-adaptive-toolbox-how-gerd-gigerenzers-approach-to-decision-making-works-within-quality-risk-management/" target="_blank" rel="noopener noreferrer nofollow">https://investigationsquality.com/2025/09/08/harnessing-the-adaptive-toolbox-how-gerd-gigerenzers-approach-to-decision-making-works-within-quality-risk-management/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harnessing the Adaptive Toolbox: How Gerd Gigerenzer&#x27;s...Sep 8, 2025 — Gerd Gigerenzer&#x27;s decades of research on bounded rationality and...</p></details>
+   Link:<a href="https://investigationsquality.com/2025/09/08/harnessing-the-adaptive-toolbox-how-gerd-gigerenzers-approach-to-decision-making-works-within-quality-risk-management/" target="_blank" rel="noopener noreferrer nofollow">https://investigationsquality.com/2025/09/08/harnessing-the-adaptive-toolbox-how-gerd-gigerenzers-approach-to-decision-making-works-within-quality-risk-management/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harnessing the Adaptive Toolbox: How Gerd Gigerenzer&#x27;s...Sep 8, 2025 — Gerd Gigerenzer&#x27;s decades of research on bounded rationality and...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: audible.co.uk  
-   Link: <a href="https://www.audible.co.uk/author/Daniel-Kahneman/B001ILFNQG" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.co.uk/author/Daniel-Kahneman/B001ILFNQG</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daniel Kahneman Audiobooks | Audible.co.ukDaniel Kahneman (Hebrew: דניאל כהנמן‎, born March 5, 1934) is an Israeli-American psychologist...</p></details>
+   Link:<a href="https://www.audible.co.uk/author/Daniel-Kahneman/B001ILFNQG" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.co.uk/author/Daniel-Kahneman/B001ILFNQG</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daniel Kahneman Audiobooks | Audible.co.ukDaniel Kahneman (Hebrew: דניאל כהנמן‎, born March 5, 1934) is an Israeli-American psychologist...</p></details>
    Published: March 5, 1934  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: princeton.edu  
-   Link: <a href="https://www.princeton.edu/news/2024/03/28/daniel-kahneman-pioneering-behavioral-psychologist-nobel-laureate-and-giant-field" target="_blank" rel="noopener noreferrer nofollow">https://www.princeton.edu/news/2024/03/28/daniel-kahneman-pioneering-behavioral-psychologist-nobel-laureate-and-giant-field</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daniel Kahneman, pioneering behavioral psychologist...28 Mar 2024 — Daniel Kahneman, a professor emeritus of psychology and public affai...</p></details>
+   Link:<a href="https://www.princeton.edu/news/2024/03/28/daniel-kahneman-pioneering-behavioral-psychologist-nobel-laureate-and-giant-field" target="_blank" rel="noopener noreferrer nofollow">https://www.princeton.edu/news/2024/03/28/daniel-kahneman-pioneering-behavioral-psychologist-nobel-laureate-and-giant-field</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daniel Kahneman, pioneering behavioral psychologist...28 Mar 2024 — Daniel Kahneman, a professor emeritus of psychology and public affai...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: innerview.co  
    Title: Heuristics: A Comprehensive Guide to Efficient Problem-Solving  
-   Link: <a href="https://innerview.co/blog/the-ultimate-guide-to-heuristics-mastering-quick-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://innerview.co/blog/the-ultimate-guide-to-heuristics-mastering-quick-decision-making</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>term goal. These mental rules of thumb are based on experience, intuition, or educated guesses rather than exhaustive analysis. Heuristic...</p></details>
+   Link:<a href="https://innerview.co/blog/the-ultimate-guide-to-heuristics-mastering-quick-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://innerview.co/blog/the-ultimate-guide-to-heuristics-mastering-quick-decision-making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>term goal. These mental rules of thumb are based on experience, intuition, or educated guesses rather than exhaustive analysis. Heuristic...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dangoldstein.com  
    Title: Gigerenzer Hoffrage Goldstein Fast Frugal Plausible Psych Rev08  
-   Link: <a href="https://www.dangoldstein.com/papers/GigerenzerHoffrageGoldstein_FastFrugalPlausible_PsychRev08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dangoldstein.com/papers/GigerenzerHoffrageGoldstein_FastFrugalPlausible_PsychRev08.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fast and Frugal Heuristics Are Plausible Models of Cognitionby G Gigerenzer · 2008 · Cited by 217 — The simplest rule––to imitate the cue...</p></details>
+   Link:<a href="https://www.dangoldstein.com/papers/GigerenzerHoffrageGoldstein_FastFrugalPlausible_PsychRev08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dangoldstein.com/papers/GigerenzerHoffrageGoldstein_FastFrugalPlausible_PsychRev08.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fast and Frugal Heuristics Are Plausible Models of Cognitionby G Gigerenzer · 2008 · Cited by 217 — The simplest rule––to imitate the cue...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/1009893435/Fast-and-Frugal-Heuristics-the-Adaptive-Toolbox" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/1009893435/Fast-and-Frugal-Heuristics-the-Adaptive-Toolbox</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>w individuals to make quick and effective choices under constraints of...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/1009893435/Fast-and-Frugal-Heuristics-the-Adaptive-Toolbox" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/1009893435/Fast-and-Frugal-Heuristics-the-Adaptive-Toolbox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>w individuals to make quick and effective choices under constraints of...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/330904195_Ecological_Rationality_Fast-and-Frugal_Heuristics_for_Managerial_Decision_Making_under_Uncertainty" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330904195_Ecological_Rationality_Fast-and-Frugal_Heuristics_for_Managerial_Decision_Making_under_Uncertainty</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ative to current views about the nature of heuristics in managerial decisions...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/330904195_Ecological_Rationality_Fast-and-Frugal_Heuristics_for_Managerial_Decision_Making_under_Uncertainty" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330904195_Ecological_Rationality_Fast-and-Frugal_Heuristics_for_Managerial_Decision_Making_under_Uncertainty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ative to current views about the nature of heuristics in managerial decisions...</p></details>

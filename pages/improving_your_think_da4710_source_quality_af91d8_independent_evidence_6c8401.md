@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_source_quality_af91d8_independ
 
 ## Introduction
 
-Strong corroboration is not simply a matter of finding several sources that agree. It comes from finding **independent evidence routes**: different kinds of evidence gathered through different processes that nevertheless point to the same conclusion. This distinction is central to good analytical thinking because apparent agreement can be misleading when multiple reports ultimately trace back to a single document, witness, press release or social media post. By contrast, confidence increases when records, measurements, eyewitnesses, direct observation and independent investigations converge without depending on one another. Research on scientific reproducibility, investigative journalism and [evidence evaluation]({{ 'learning-to-evaluate-evidence/' | relative_url }}) all emphasises that independent confirmation is more informative than repeated assertion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://playbook.n-ost.org/research/fact-checking/tools-and-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: playbook.n-ost.org">[playbook.n-ost.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">playbook.n-ost.org</span><span class="citation-popover-snippet">rowd-sourcing to help reporters confirm the accuracy and authenticity of their content.Read more...</span></span></span>
+Strong corroboration is not simply a matter of finding several sources that agree. It comes from finding **independent evidence routes**: different kinds of evidence gathered through different processes that nevertheless point to the same conclusion. This distinction is central to good analytical thinking because apparent agreement can be misleading when multiple reports ultimately trace back to a single document, witness, press release or social media post. By contrast, confidence increases when records, measurements, eyewitnesses, direct observation and independent investigations converge without depending on one another. Research on scientific reproducibility, investigative journalism and [evidence evaluation]({{ 'learning-to-evaluate-evidence/' | relative_url }}) all emphasises that independent confirmation is more informative than repeated assertion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://playbook.n-ost.org/research/fact-checking/tools-and-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: playbook.n-ost.org">[playbook.n-ost.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">playbook.n-ost.org</span><span class="citation-popover-snippet">rowd-sourcing to help reporters confirm the accuracy and authenticity of their content.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8_independent_evidence_6c8401-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Routes illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8_independent_evidence_6c8401-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8_independent_evidence_6c8401-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -351,7 +351,7 @@ Examples include:
 
 </div>
 
-Measured data often allows claims to be checked without relying entirely on someone's interpretation. Modern investigative reporting increasingly combines documentary evidence with data analysis to test whether reported events match observable patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://os-intelligent.com/blog/15-how-journalists-use-osint/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: os-intelligent.com">[OSINT Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">os-intelligent.com</span><span class="citation-popover-title">OSINT Academy How Investigative Journalists Use OSINT (Real-World</span><span class="citation-popover-snippet">OSINT AcademyHow Investigative Journalists Use OSINT (Real-World...April 10, 2026 — 10 Apr 2026 — This post walks through six real-world...</span><span class="citation-popover-meta">Published: April 10, 2026</span></span></span>
+Measured data often allows claims to be checked without relying entirely on someone's interpretation. Modern investigative reporting increasingly combines documentary evidence with data analysis to test whether reported events match observable patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://os-intelligent.com/blog/15-how-journalists-use-osint/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: os-intelligent.com">[OSINT Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">os-intelligent.com</span><span class="citation-popover-title">OSINT Academy How Investigative Journalists Use OSINT (Real-World</span><span class="citation-popover-snippet">OSINT AcademyHow Investigative Journalists Use OSINT (Real-World...April 10, 2026 — 10 Apr 2026 — This post walks through six real-world...</span><span class="citation-popover-meta">Published: April 10, 2026</span></span></span>
 
 ### Direct witnesses
 
@@ -437,7 +437,7 @@ Creating forged documents that remain consistent with:
 
 is dramatically harder.
 
-For this reason, investigative journalism, forensic investigations and human rights documentation increasingly combine documentary evidence, geospatial analysis, public records and witness testimony rather than depending on any single source alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://os-intelligent.com/blog/15-how-journalists-use-osint/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: os-intelligent.com">[OSINT Academy+2Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">os-intelligent.com</span><span class="citation-popover-title">OSINT Academy How Investigative Journalists Use OSINT (Real-World</span><span class="citation-popover-snippet">OSINT AcademyHow Investigative Journalists Use OSINT (Real-World...April 10, 2026 — 10 Apr 2026 — This post walks through six real-world...</span><span class="citation-popover-meta">Published: April 10, 2026</span></span></span>
+For this reason, investigative journalism, forensic investigations and human rights documentation increasingly combine documentary evidence, geospatial analysis, public records and witness testimony rather than depending on any single source alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://os-intelligent.com/blog/15-how-journalists-use-osint/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: os-intelligent.com">[OSINT Academy+2Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">os-intelligent.com</span><span class="citation-popover-title">OSINT Academy How Investigative Journalists Use OSINT (Real-World</span><span class="citation-popover-snippet">OSINT AcademyHow Investigative Journalists Use OSINT (Real-World...April 10, 2026 — 10 Apr 2026 — This post walks through six real-world...</span><span class="citation-popover-meta">Published: April 10, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8_independent_evidence_6c8401-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Routes illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8_independent_evidence_6c8401-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8_independent_evidence_6c8401-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -476,9 +476,9 @@ The important unit of analysis is the underlying chain of evidence rather than t
 
 Many of the strongest modern investigations rely on convergence rather than any single "smoking gun".
 
-Open-source investigations frequently combine publicly available video, satellite imagery, mapping data, weather records, shadows, landmarks and official documents to establish where and when events occurred. Individual pieces may remain uncertain, but together they produce a coherent evidential network that others can independently examine and reproduce. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://os-intelligent.com/blog/15-how-journalists-use-osint/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: os-intelligent.com">[OSINT Academy+2Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">os-intelligent.com</span><span class="citation-popover-title">OSINT Academy How Investigative Journalists Use OSINT (Real-World</span><span class="citation-popover-snippet">OSINT AcademyHow Investigative Journalists Use OSINT (Real-World...April 10, 2026 — 10 Apr 2026 — This post walks through six real-world...</span><span class="citation-popover-meta">Published: April 10, 2026</span></span></span>
+Open-source investigations frequently combine publicly available video, satellite imagery, mapping data, weather records, shadows, landmarks and official documents to establish where and when events occurred. Individual pieces may remain uncertain, but together they produce a coherent evidential network that others can independently examine and reproduce.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://os-intelligent.com/blog/15-how-journalists-use-osint/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: os-intelligent.com">[OSINT Academy+2Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">os-intelligent.com</span><span class="citation-popover-title">OSINT Academy How Investigative Journalists Use OSINT (Real-World</span><span class="citation-popover-snippet">OSINT AcademyHow Investigative Journalists Use OSINT (Real-World...April 10, 2026 — 10 Apr 2026 — This post walks through six real-world...</span><span class="citation-popover-meta">Published: April 10, 2026</span></span></span>
 
-Scientific knowledge develops similarly. Confidence grows not merely because researchers repeat previous claims, but because different laboratories, datasets, methods and analytical approaches obtain compatible results. Independent [replication]({{ 'replication/' | relative_url }}) is therefore treated as stronger evidence than simple repetition of earlier findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.oapen.org/bitstream/handle/20.500.12657/92864/9781800614079.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.oapen.org">[library.oapen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.oapen.org</span><span class="citation-popover-snippet">Open Source Investigations in the Age of GoogleWhether you are starting in OSINT or online investigations or a veteran, this book will gi...</span></span></span>
+Scientific knowledge develops similarly. Confidence grows not merely because researchers repeat previous claims, but because different laboratories, datasets, methods and analytical approaches obtain compatible results. Independent [replication]({{ 'replication/' | relative_url }}) is therefore treated as stronger evidence than simple repetition of earlier findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.oapen.org/bitstream/handle/20.500.12657/92864/9781800614079.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.oapen.org">[library.oapen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.oapen.org</span><span class="citation-popover-snippet">Open Source Investigations in the Age of GoogleWhether you are starting in OSINT or online investigations or a veteran, this book will gi...</span></span></span>
 
 ## A checklist for testing independent routes
 
@@ -495,194 +495,194 @@ When assessing whether agreement genuinely strengthens a conclusion, ask:
 Using these questions shifts attention away from simply counting agreeing voices and towards understanding how knowledge is actually built. Strong corroboration is less about volume than about independently gathered evidence arriving at the same conclusion through separate and testable routes.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Strong Corroboration Actually Looks Like. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Strong Corroboration Actually Looks Like. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-bvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-bvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Teaches scrutiny of claims, data, and evidential support rather than accepting repeated assertions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches scrutiny of claims, data, and evidential support rather than accepting repeated assertions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Stresses independent testing, corroboration, and the discipline of evidence-based belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Stresses independent testing, corroboration, and the discipline of evidence-based belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages checking claims through reliable data and multiple grounded indicators.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages checking claims through reliable data and multiple grounded indicators.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Data+Detective+by+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jeUlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Data+Detective+by+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Data Detective">The Data Detective</a>
-        </h4>
-        <p class="fr-book-author">By Tim Harford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Data+Detective+by+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jeUlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Data+Detective+by+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Data Detective">The Data Detective</a>
+</h4>
+<p class="fr-book-author">By Tim Harford</p>
         
-        <p class="fr-book-desc">Helps readers evaluate evidence quality, uncertainty, and whether data really support a claim.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Data+Detective+by+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate evidence quality, uncertainty, and whether data really support a claim.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Data+Detective+by+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gildan XL “Boston Strong” Rare T-Shirt Marathon Monday Memorabilia, EUC Unisex"><img src="https://i.ebayimg.com/images/g/kbgAAeSwDAJptytC/s-l225.jpg" alt="Listing image for Gildan XL “Boston Strong” Rare T-Shirt Marathon Monday Memorabilia, EUC Unisex" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Gildan XL “Boston Strong” Rare T-Shirt Marathon Monday Memorabilia, EUC Unisex</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strong memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: strong memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gildan XL “Boston Strong” Rare T-Shirt Marathon Monday Memorabilia, EUC Unisex"><img src="https://i.ebayimg.com/images/g/kbgAAeSwDAJptytC/s-l225.jpg" alt="Listing image for Gildan XL “Boston Strong” Rare T-Shirt Marathon Monday Memorabilia, EUC Unisex" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Gildan XL “Boston Strong” Rare T-Shirt Marathon Monday Memorabilia, EUC Unisex</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strong memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: strong memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Big John Strong&#x27;s Trained Animal Circus Memorabilia 9 Pieces"><img src="https://i.ebayimg.com/images/g/uaUAAOSwJFdnmCmZ/s-l225.jpg" alt="Listing image for Vintage Big John Strong&#x27;s Trained Animal Circus Memorabilia 9 Pieces" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage Big John Strong&#x27;s Trained Animal Circus Memorabilia 9 Pieces</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strong memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: strong memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Big John Strong&#x27;s Trained Animal Circus Memorabilia 9 Pieces"><img src="https://i.ebayimg.com/images/g/uaUAAOSwJFdnmCmZ/s-l225.jpg" alt="Listing image for Vintage Big John Strong&#x27;s Trained Animal Circus Memorabilia 9 Pieces" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage Big John Strong&#x27;s Trained Animal Circus Memorabilia 9 Pieces</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strong memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: strong memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TIR NA NOG STRONG IN THE SUN MEMORABILIA original music press advert from 1973 w"><img src="https://i.ebayimg.com/images/g/Z7wAAeSwisJqEFKJ/s-l225.jpg" alt="Listing image for TIR NA NOG STRONG IN THE SUN MEMORABILIA original music press advert from 1973 w" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">TIR NA NOG STRONG IN THE SUN MEMORABILIA original music press advert from 1973 w</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strong memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: strong memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TIR NA NOG STRONG IN THE SUN MEMORABILIA original music press advert from 1973 w"><img src="https://i.ebayimg.com/images/g/Z7wAAeSwisJqEFKJ/s-l225.jpg" alt="Listing image for TIR NA NOG STRONG IN THE SUN MEMORABILIA original music press advert from 1973 w" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">TIR NA NOG STRONG IN THE SUN MEMORABILIA original music press advert from 1973 w</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strong memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: strong memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CAMEL Concert poster - Edinburgh 2023 - 50 Years Strong UK tour Gig memorabilia."><img src="https://i.ebayimg.com/images/g/V2YAAOSwbCxmexH7/s-l225.jpg" alt="Listing image for CAMEL Concert poster - Edinburgh 2023 - 50 Years Strong UK tour Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">CAMEL Concert poster - Edinburgh 2023 - 50 Years Strong UK tour Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strong memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: strong memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CAMEL Concert poster - Edinburgh 2023 - 50 Years Strong UK tour Gig memorabilia."><img src="https://i.ebayimg.com/images/g/V2YAAOSwbCxmexH7/s-l225.jpg" alt="Listing image for CAMEL Concert poster - Edinburgh 2023 - 50 Years Strong UK tour Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">CAMEL Concert poster - Edinburgh 2023 - 50 Years Strong UK tour Gig memorabilia.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strong memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: strong memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=strong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strong memorabilia -book -books -dvd" data-ebay-reference="what-strong-corroboration-actually-looks-like-strong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -698,7 +698,7 @@ Using these questions shifts attention away from simply counting agreeing voices
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -718,7 +718,7 @@ Using these questions shifts attention away from simply counting agreeing voices
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -750,7 +750,7 @@ Using these questions shifts attention away from simply counting agreeing voices
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -802,7 +802,7 @@ Using these questions shifts attention away from simply counting agreeing voices
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -847,7 +847,7 @@ Using these questions shifts attention away from simply counting agreeing voices
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -887,77 +887,77 @@ Using these questions shifts attention away from simply counting agreeing voices
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: playbook.n-ost.org  
-   Link: <a href="https://playbook.n-ost.org/research/fact-checking/tools-and-resources/" target="_blank" rel="noopener noreferrer nofollow">https://playbook.n-ost.org/research/fact-checking/tools-and-resources/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rowd-sourcing to help reporters confirm the accuracy and authenticity of their content.Read more...</p></details>
+   Link:<a href="https://playbook.n-ost.org/research/fact-checking/tools-and-resources/" target="_blank" rel="noopener noreferrer nofollow">https://playbook.n-ost.org/research/fact-checking/tools-and-resources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rowd-sourcing to help reporters confirm the accuracy and authenticity of their content.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: library.oapen.org  
-   Link: <a href="https://library.oapen.org/bitstream/handle/20.500.12657/92864/9781800614079.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://library.oapen.org/bitstream/handle/20.500.12657/92864/9781800614079.pdf?isAllowed=y&amp;sequence=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Source Investigations in the Age of GoogleWhether you are starting in OSINT or online investigations or a veteran, this book will gi...</p></details>
+   Link:<a href="https://library.oapen.org/bitstream/handle/20.500.12657/92864/9781800614079.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://library.oapen.org/bitstream/handle/20.500.12657/92864/9781800614079.pdf?isAllowed=y&amp;sequence=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Source Investigations in the Age of GoogleWhether you are starting in OSINT or online investigations or a veteran, this book will gi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/676741407/Digital-Witness-Using-Open-Source-Information-for-Human-Rights-Investigation-Documentation-and-Accountability-Sam-Dubberley-Alexa-Koenig-Daragh-Mur" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/676741407/Digital-Witness-Using-Open-Source-Information-for-Human-Rights-Investigation-Documentation-and-Accountability-Sam-Dubberley-Alexa-Koenig-Daragh-Mur</a>  
+   Link:<a href="https://www.scribd.com/document/676741407/Digital-Witness-Using-Open-Source-Information-for-Human-Rights-Investigation-Documentation-and-Accountability-Sam-Dubberley-Alexa-Koenig-Daragh-Mur" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/676741407/Digital-Witness-Using-Open-Source-Information-for-Human-Rights-Investigation-Documentation-and-Accountability-Sam-Dubberley-Alexa-Koenig-Daragh-Mur</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: os-intelligent.com  
    Title: OSINT Academy How Investigative Journalists Use OSINT (Real-World  
-   Link: <a href="https://os-intelligent.com/blog/15-how-journalists-use-osint/" target="_blank" rel="noopener noreferrer nofollow">https://os-intelligent.com/blog/15-how-journalists-use-osint/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OSINT AcademyHow Investigative Journalists Use OSINT (Real-World...April 10, 2026 — 10 Apr 2026 — This post walks through six real-world...</p></details>
+   Link:<a href="https://os-intelligent.com/blog/15-how-journalists-use-osint/" target="_blank" rel="noopener noreferrer nofollow">https://os-intelligent.com/blog/15-how-journalists-use-osint/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OSINT AcademyHow Investigative Journalists Use OSINT (Real-World...April 10, 2026 — 10 Apr 2026 — This post walks through six real-world...</p></details>
    Published: April 10, 2026  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: warintelhub.com  
-   Link: <a href="https://warintelhub.com/methodology/" target="_blank" rel="noopener noreferrer nofollow">https://warintelhub.com/methodology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OSINT Verification Methodology — How We Source IntelligenceOur verification methodology classifies every event through three tiers — Veri...</p></details>
+   Link:<a href="https://warintelhub.com/methodology/" target="_blank" rel="noopener noreferrer nofollow">https://warintelhub.com/methodology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OSINT Verification Methodology — How We Source IntelligenceOur verification methodology classifies every event through three tiers — Veri...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ccdcoe.org  
    Title: CyCon 2026 Securing Tomorrow Proceedings  
-   Link: <a href="https://ccdcoe.org/uploads/2026/05/CyCon_2026_Securing_Tomorrow_Proceedings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ccdcoe.org/uploads/2026/05/CyCon_2026_Securing_Tomorrow_Proceedings.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>18th International Conference on Cyber Conflict: Securing...29 May 2026 — Volunteer cyber forces open-source intelligence (OSINT) collec...</p></details>
+   Link:<a href="https://ccdcoe.org/uploads/2026/05/CyCon_2026_Securing_Tomorrow_Proceedings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ccdcoe.org/uploads/2026/05/CyCon_2026_Securing_Tomorrow_Proceedings.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18th International Conference on Cyber Conflict: Securing...29 May 2026 — Volunteer cyber forces open-source intelligence (OSINT) collec...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: irregularwarfarecenter.org  
-   Link: <a href="https://irregularwarfarecenter.org/wp-content/uploads/2026-VOL11-NO2-PRISM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://irregularwarfarecenter.org/wp-content/uploads/2026-VOL11-NO2-PRISM.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JA Hastey · 2026 — Such data can be extracted from communications intelligence even open-source intelligence (OSINT), but it requires col...</p></details>
+   Link:<a href="https://irregularwarfarecenter.org/wp-content/uploads/2026-VOL11-NO2-PRISM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://irregularwarfarecenter.org/wp-content/uploads/2026-VOL11-NO2-PRISM.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JA Hastey · 2026 — Such data can be extracted from communications intelligence even open-source intelligence (OSINT), but it requires col...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Facts about Fact Checking: Crash Course Navigating Digital Information #2  
-   Link: <a href="https://www.youtube.com/watch?v=EZsaA0w_0z0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EZsaA0w_0z0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Open-Source Intelligence (OSINT) Basics You Can Use Now...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EZsaA0w_0z0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EZsaA0w_0z0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Open-Source Intelligence (OSINT) Basics You Can Use Now...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Evaluating Sources & Fact Checking: Crash Course Scientific Thinking #6  
-   Link: <a href="https://www.youtube.com/watch?v=Fm0MpfKIs5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fm0MpfKIs5w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Triangulation In Research (Definition &amp; Easiest Explanation)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Fm0MpfKIs5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fm0MpfKIs5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Triangulation In Research (Definition &amp; Easiest Explanation)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Triangulation In Research (Definition & Easiest Explanation)  
-   Link: <a href="https://www.youtube.com/watch?v=81aXPBtBQTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=81aXPBtBQTs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Facts about Fact Checking: Crash Course Navigating Digital Information #2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=81aXPBtBQTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=81aXPBtBQTs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Facts about Fact Checking: Crash Course Navigating Digital Information #2...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: BBC Verify  
-   Link: <a href="https://en.wikipedia.org/wiki/BBC_Verify" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/BBC_Verify</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BBC VerifyAccording to the BBC &quot;BBC Verify is a specialist team of journalists using open-source intelligence (OSINT), satellite image...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/BBC_Verify" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/BBC_Verify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BBC VerifyAccording to the BBC &quot;BBC Verify is a specialist team of journalists using open-source intelligence (OSINT), satellite image...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Open-Source Intelligence (OSINT) Basics You Can Use Now  
-   Link: <a href="https://www.youtube.com/watch?v=3FB_fcP_9lM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3FB_fcP_9lM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Mixed Research Methods with Triangulation (16 Minutes)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3FB_fcP_9lM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3FB_fcP_9lM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Mixed Research Methods with Triangulation (16 Minutes)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Mixed Research Methods with Triangulation (16 Minutes)  
-   Link: <a href="https://www.youtube.com/watch?v=ktlWAsY1WQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ktlWAsY1WQM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ktlWAsY1WQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ktlWAsY1WQM</a>  

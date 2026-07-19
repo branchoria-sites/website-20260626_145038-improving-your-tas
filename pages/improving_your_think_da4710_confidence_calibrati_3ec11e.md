@@ -3,73 +3,73 @@ level: 2
 basename: improving_your_think_da4710_confidence_calibrati_3ec11e
 parent_basename: improving_your_think_da4710
 child_basenames:
-- improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_feedbac_6aa270
-- improving_your_think_da4710_confidence_calibrati_3ec11e_forecasting_tourname_5ba5fb
+- improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_persona_4eff62
+- improving_your_think_da4710_confidence_calibrati_3ec11e_good_judgment_lesson_ea91a6
 - improving_your_think_da4710_confidence_calibrati_3ec11e_index
-- improving_your_think_da4710_confidence_calibrati_3ec11e_narrow_confidence_in_fb59fd
-- improving_your_think_da4710_confidence_calibrati_3ec11e_probability_words_66fb37
-- improving_your_think_da4710_confidence_calibrati_3ec11e_resolution_rules_4d6bea
-- improving_your_think_da4710_confidence_calibrati_3ec11e_update_triggers_6870d4
+- improving_your_think_da4710_confidence_calibrati_3ec11e_missed_prediction_re_740db4
+- improving_your_think_da4710_confidence_calibrati_3ec11e_probabilities_not_wo_bcc6f4
+- improving_your_think_da4710_confidence_calibrati_3ec11e_scorable_forecast_qu_0298c2
+- improving_your_think_da4710_confidence_calibrati_3ec11e_useful_prediction_ta_59e4ac
 sibling_basenames:
-- improving_your_think_da4710_cause_correlation_008ee5
-- improving_your_think_da4710_critical_thinking_tr_28fa6d
-- improving_your_think_da4710_decision_journals_44d9d9
-- improving_your_think_da4710_distributed_practice_4a249b
-- improving_your_think_da4710_domain_knowledge_96a03e
-- improving_your_think_da4710_evidence_standards_a40c69
-- improving_your_think_da4710_expert_intuition_73d438
-- improving_your_think_da4710_familiarity_trap_82f724
-- improving_your_think_da4710_feedback_calibration_8a35f0
-- improving_your_think_da4710_framing_effects_b0667d
-- improving_your_think_da4710_high_stakes_decision_b09c8f
-- improving_your_think_da4710_intuition_vs_analysi_f4ec00
-- improving_your_think_da4710_lateral_reading_afeebc
-- improving_your_think_da4710_live_alternatives_e775b1
-- improving_your_think_da4710_metacognition_assump_b47334
-- improving_your_think_da4710_myside_bias_de0ec5
-- improving_your_think_da4710_no_notes_explanation_891faf
-- improving_your_think_da4710_online_confirmation_d4dd0f
-- improving_your_think_da4710_open_minded_thinking_b0c2ad
-- improving_your_think_da4710_practice_testing_35a599
-- improving_your_think_da4710_prediction_habits_f0daf5
-- improving_your_think_da4710_problem_breakdown_59ff8f
-- improving_your_think_da4710_question_design_1265c2
-- improving_your_think_da4710_real_problem_practic_466932
-- improving_your_think_da4710_source_quality_af91d8
-- improving_your_think_da4710_steelmanning_argumen_91444a
-- improving_your_think_da4710_tradeoff_thinking_70bcb4
-- improving_your_think_da4710_weakest_link_assumpt_7c77f4
-- improving_your_think_da4710_written_reasoning_ch_b4e5fd
+- improving_your_think_da4710_active_learning_a8cca9
+- improving_your_think_da4710_alternative_explanat_ee4fa0
+- improving_your_think_da4710_argument_mapping_8e4963
+- improving_your_think_da4710_change_my_mind_f0f53e
+- improving_your_think_da4710_claims_evidence_assu_a804b1
+- improving_your_think_da4710_confirmation_bias_dee5c3
+- improving_your_think_da4710_correlation_causatio_a505f2
+- improving_your_think_da4710_decision_stakes_7c2e2a
+- improving_your_think_da4710_deliberate_practice_ac56e9
+- improving_your_think_da4710_emotion_identity_rea_e7cc61
+- improving_your_think_da4710_feedback_loops_judgm_3e40b7
+- improving_your_think_da4710_first_answer_traps_70dd40
+- improving_your_think_da4710_health_claim_skeptic_4efb5d
+- improving_your_think_da4710_intellectual_humilit_ff42ae
+- improving_your_think_da4710_intuition_second_pas_ed3df6
+- improving_your_think_da4710_job_offer_tradeoffs_769c53
+- improving_your_think_da4710_metacognition_74edbc
+- improving_your_think_da4710_online_claims_3bbb25
+- improving_your_think_da4710_plain_english_teachi_399aee
+- improving_your_think_da4710_probabilities_tradeo_aa66d9
+- improving_your_think_da4710_problem_framing_7f52a6
+- improving_your_think_da4710_project_failure_syst_695c51
+- improving_your_think_da4710_purposeful_judgment_54a3a5
+- improving_your_think_da4710_real_world_transfer_0cecd5
+- improving_your_think_da4710_retrieval_practice_750003
+- improving_your_think_da4710_strong_objections_4a9a76
+- improving_your_think_da4710_teaching_thinking_sk_b24d42
+- improving_your_think_da4710_thinking_mistakes_7c70ba
+- improving_your_think_da4710_three_parts_thinking_a75215
 tags:
-- improving-your-think
+- improving-your-thinking-and-analytical-skills
 - calibration
 keywords:
-- improving-your-think
+- improving-your-thinking-and-analytical-skills
 - calibration
-affiliate_category: improving-your-think
+affiliate_category: improving-your-thinking-and-analytical-skills
 show_ads: true
-description: Confidence becomes more useful when it is stated clearly, checked against evidence, and updated after outcomes.
-hero_summary: Confidence becomes more useful when it is stated clearly, checked against evidence, and updated after outcomes.
+description: Recording predictions with confidence levels turns judgment into a feedback loop instead of a private feeling.
+hero_summary: Recording predictions with confidence levels turns judgment into a feedback loop instead of a private feeling.
 layout: default
 permalink: /calibration/
 sidebar_expanded_urls:
-- /improving-your-think/
+- /improving-your-thinking-and-analytical/
 nav_short_title: Calibration
-title: How Confident Should You Be?
-title_full: How Confident Should You Be?
+title: Is Your Confidence Matched to Evidence?
+title_full: Is Your Confidence Matched to Evidence?
 display_title_short: Calibration
 display_title: Calibration
-heading_title: How Confident Should You Be?
-page_heading_title: How Confident Should You Be?
-source_count: 128
+heading_title: Is Your Confidence Matched to Evidence?
+page_heading_title: Is Your Confidence Matched to Evidence?
+source_count: 101
 infographic_count: 3
 planned_sections:
-- Why confidence needs a scale
-- Calibration checks for forecasts and decisions
-- Updating without overcorrecting
-focal_unit_type: mechanism
-topic_lens: evidence
-topic_granularity: pillar
+- Why calibration matters
+- How prediction journals work
+- Learning from misses
+focal_unit_type: policy_intervention
+topic_lens: implementation
+topic_granularity: decision_cluster
 output_language: English
 lang: en
 locale: en
@@ -231,214 +231,215 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-26 11:43:04'
+date: '2026-06-25 00:06:19'
 parent_title: Sharper Thinking
-parent_permalink: /improving-your-think/
+parent_permalink: /improving-your-thinking-and-analytical/
 parent_nav_short_title: Sharper Thinking
+parent_heading_title: Can You Train Better Judgment?
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 sibling_links:
-- basename: improving_your_think_da4710_live_alternatives_e775b1
-  title: Alternatives | Improving Your Think
+- basename: improving_your_think_da4710_active_learning_a8cca9
+  title: Active Learning | Improving Your Thinking And Analytical Skills
+  permalink: /active-learning/
+  short_title: Active Learning
+  heading_title: Why Rereading Is Not Enough
+- basename: improving_your_think_da4710_alternative_explanat_ee4fa0
+  title: Alternatives | Improving Your Thinking And Analytical Skills
   permalink: /alternatives/
   short_title: Alternatives
-  heading_title: Why One Explanation Is Not Enough
-- basename: improving_your_think_da4710_question_design_1265c2
-  title: Better Questions | Improving Your Think
-  permalink: /better-questions/
-  short_title: Better Questions
-  heading_title: Ask Better Questions Before Seeking Answers
-- basename: improving_your_think_da4710_cause_correlation_008ee5
-  title: Cause Check | Improving Your Think
-  permalink: /cause-check/
-  short_title: Cause Check
-  heading_title: Did It Cause It, or Just Happen Nearby?
-- basename: improving_your_think_da4710_critical_thinking_tr_28fa6d
-  title: Critical Skills | Improving Your Think
-  permalink: /critical-skills/
-  short_title: Critical Skills
-  heading_title: Can Critical Thinking Really Be Taught?
-- basename: improving_your_think_da4710_decision_journals_44d9d9
-  title: Decision Journal | Improving Your Think
-  permalink: /decision-journal/
-  short_title: Decision Journal
-  heading_title: Keep Score on Your Own Judgement
-- basename: improving_your_think_da4710_high_stakes_decision_b09c8f
-  title: Decision Routines | Improving Your Think
-  permalink: /decision-routines/
-  short_title: Decision Routines
-  heading_title: A Safer Way to Make Big Decisions
-- basename: improving_your_think_da4710_domain_knowledge_96a03e
-  title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
-  short_title: Domain Knowledge
-  heading_title: Why Smart Thinking Needs Real Knowledge
-- basename: improving_your_think_da4710_evidence_standards_a40c69
-  title: Evidence Tests | Improving Your Think
-  permalink: /evidence-tests/
-  short_title: Evidence Tests
+  heading_title: What Else Could Explain This?
+- basename: improving_your_think_da4710_argument_mapping_8e4963
+  title: Argument Maps | Improving Your Thinking And Analytical Skills
+  permalink: /argument-maps/
+  short_title: Argument Maps
+  heading_title: Can Mapping an Argument Improve It?
+- basename: improving_your_think_da4710_correlation_causatio_a505f2
+  title: Causation | Improving Your Thinking And Analytical Skills
+  permalink: /causation/
+  short_title: Causation
+  heading_title: Does the Evidence Show a Cause?
+- basename: improving_your_think_da4710_change_my_mind_f0f53e
+  title: Change Mind | Improving Your Thinking And Analytical Skills
+  permalink: /change-mind/
+  short_title: Change Mind
   heading_title: What Evidence Would Change Your Mind?
-- basename: improving_your_think_da4710_expert_intuition_73d438
-  title: Expert Gut | Improving Your Think
-  permalink: /expert-gut/
-  short_title: Expert Gut
-  heading_title: When Should You Trust Your Gut?
-- basename: improving_your_think_da4710_no_notes_explanation_891faf
-  title: Explain It | Improving Your Think
-  permalink: /explain-it/
-  short_title: Explain It
-  heading_title: Can You Explain It Without Notes?
-- basename: improving_your_think_da4710_feedback_calibration_8a35f0
-  title: Feedback | Improving Your Think
+- basename: improving_your_think_da4710_claims_evidence_assu_a804b1
+  title: Claims | Improving Your Thinking And Analytical Skills
+  permalink: /claims/
+  short_title: Claims
+  heading_title: What Is the Claim Really Based On?
+- basename: improving_your_think_da4710_confirmation_bias_dee5c3
+  title: Confirmation Bias | Improving Your Thinking And Analytical Skills
+  permalink: /confirmation-bias/
+  short_title: Confirmation Bias
+  heading_title: Are You Protecting Your First Answer?
+- basename: improving_your_think_da4710_purposeful_judgment_54a3a5
+  title: Critical Thinking | Improving Your Thinking And Analytical Skills
+  permalink: /critical-thinking/
+  short_title: Critical Thinking
+  heading_title: What Does Critical Thinking Really Mean?
+- basename: improving_your_think_da4710_decision_stakes_7c2e2a
+  title: Decision Stakes | Improving Your Thinking And Analytical Skills
+  permalink: /decision-stakes/
+  short_title: Decision Stakes
+  heading_title: How Much Thinking Is Enough?
+- basename: improving_your_think_da4710_deliberate_practice_ac56e9
+  title: Deliberate Practice | Improving Your Thinking And Analytical Skills
+  permalink: /deliberate-practice/
+  short_title: Deliberate Practice
+  heading_title: Why Experience Alone Does Not Fix Thinking
+- basename: improving_your_think_da4710_feedback_loops_judgm_3e40b7
+  title: Feedback | Improving Your Thinking And Analytical Skills
   permalink: /feedback/
   short_title: Feedback
-  heading_title: How Feedback Makes Judgement Sharper
-- basename: improving_your_think_da4710_familiarity_trap_82f724
-  title: Fluency Trap | Improving Your Think
-  permalink: /fluency-trap/
-  short_title: Fluency Trap
-  heading_title: When Familiarity Feels Like Understanding
-- basename: improving_your_think_da4710_framing_effects_b0667d
-  title: Framing | Improving Your Think
-  permalink: /framing/
-  short_title: Framing
-  heading_title: Is the Question Already Trapping You?
-- basename: improving_your_think_da4710_intuition_vs_analysi_f4ec00
-  title: Gut vs Analysis | Improving Your Think
-  permalink: /gut-vs-analysis/
-  short_title: Gut vs Analysis
-  heading_title: When to Slow Down Your Thinking
-- basename: improving_your_think_da4710_lateral_reading_afeebc
-  title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
-  short_title: Lateral Reading
-  heading_title: How to Check a Claim Online
-- basename: improving_your_think_da4710_metacognition_assump_b47334
-  title: Metacognition | Improving Your Think
+  heading_title: How Do You Learn From Wrong Calls?
+- basename: improving_your_think_da4710_first_answer_traps_70dd40
+  title: First Answers | Improving Your Thinking And Analytical Skills
+  permalink: /first-answers/
+  short_title: First Answers
+  heading_title: Why First Answers Feel So Convincing
+- basename: improving_your_think_da4710_health_claim_skeptic_4efb5d
+  title: Health Claims | Improving Your Thinking And Analytical Skills
+  permalink: /health-claims/
+  short_title: Health Claims
+  heading_title: How Should You Judge Health Advice?
+- basename: improving_your_think_da4710_intellectual_humilit_ff42ae
+  title: Humility | Improving Your Thinking And Analytical Skills
+  permalink: /humility/
+  short_title: Humility
+  heading_title: How Do You Stay Open Without Drifting?
+- basename: improving_your_think_da4710_intuition_second_pas_ed3df6
+  title: Intuition | Improving Your Thinking And Analytical Skills
+  permalink: /intuition/
+  short_title: Intuition
+  heading_title: When Should You Slow Down?
+- basename: improving_your_think_da4710_job_offer_tradeoffs_769c53
+  title: Job Offers | Improving Your Thinking And Analytical Skills
+  permalink: /job-offers/
+  short_title: Job Offers
+  heading_title: How Do You Compare Job Offers Clearly?
+- basename: improving_your_think_da4710_metacognition_74edbc
+  title: Metacognition | Improving Your Thinking And Analytical Skills
   permalink: /metacognition/
   short_title: Metacognition
-  heading_title: How to Notice Your Own Thinking
-- basename: improving_your_think_da4710_myside_bias_de0ec5
-  title: Myside Bias | Improving Your Think
-  permalink: /myside-bias/
-  short_title: Myside Bias
-  heading_title: How Your Favorite Beliefs Fool You
-- basename: improving_your_think_da4710_open_minded_thinking_b0c2ad
-  title: Open Mind | Improving Your Think
-  permalink: /open-mind/
-  short_title: Open Mind
-  heading_title: What Open Minded Thinking Actually Requires
-- basename: improving_your_think_da4710_practice_testing_35a599
-  title: Practice Tests | Improving Your Think
-  permalink: /practice-tests/
-  short_title: Practice Tests
-  heading_title: Why Testing Yourself Beats Rereading
-- basename: improving_your_think_da4710_prediction_habits_f0daf5
-  title: Predictions | Improving Your Think
-  permalink: /predictions/
-  short_title: Predictions
-  heading_title: Predict First, Check Second
-- basename: improving_your_think_da4710_problem_breakdown_59ff8f
-  title: Problem Parts | Improving Your Think
-  permalink: /problem-parts/
-  short_title: Problem Parts
-  heading_title: How to Break Down a Hard Problem
-- basename: improving_your_think_da4710_real_problem_practic_466932
-  title: Real Practice | Improving Your Think
-  permalink: /real-practice/
-  short_title: Real Practice
-  heading_title: Practice Thinking on Real Problems
-- basename: improving_your_think_da4710_written_reasoning_ch_b4e5fd
-  title: Reasoning Chain | Improving Your Think
-  permalink: /reasoning-chain/
-  short_title: Reasoning Chain
-  heading_title: Why Writing Makes Thinking Clearer
-- basename: improving_your_think_da4710_online_confirmation_d4dd0f
-  title: Search Bias | Improving Your Think
-  permalink: /search-bias/
-  short_title: Search Bias
-  heading_title: Is Your Search Confirming You?
-- basename: improving_your_think_da4710_source_quality_af91d8
-  title: Source Quality | Improving Your Think
-  permalink: /source-quality/
-  short_title: Source Quality
-  heading_title: Trustworthy Source or Friendly Source?
-- basename: improving_your_think_da4710_distributed_practice_4a249b
-  title: Spacing | Improving Your Think
-  permalink: /spacing/
-  short_title: Spacing
-  heading_title: Why Spacing Practice Makes Thinking Stick
-- basename: improving_your_think_da4710_steelmanning_argumen_91444a
-  title: Steelman | Improving Your Think
-  permalink: /steelman/
-  short_title: Steelman
-  heading_title: Can You Pass the Opponent's Test?
-- basename: improving_your_think_da4710_tradeoff_thinking_70bcb4
-  title: Tradeoffs | Improving Your Think
-  permalink: /tradeoffs/
-  short_title: Tradeoffs
-  heading_title: What Are You Giving Up?
-- basename: improving_your_think_da4710_weakest_link_assumpt_7c77f4
-  title: Weakest Link | Improving Your Think
-  permalink: /weakest-link/
-  short_title: Weakest Link
-  heading_title: Find the Assumption That Could Break Everything
+  heading_title: How Do You Check Your Own Thinking?
+- basename: improving_your_think_da4710_thinking_mistakes_7c70ba
+  title: Mistakes | Improving Your Thinking And Analytical Skills
+  permalink: /mistakes/
+  short_title: Mistakes
+  heading_title: Which Thinking Mistakes Keep Repeating?
+- basename: improving_your_think_da4710_strong_objections_4a9a76
+  title: Objections | Improving Your Thinking And Analytical Skills
+  permalink: /objections/
+  short_title: Objections
+  heading_title: What Is the Best Case Against You?
+- basename: improving_your_think_da4710_online_claims_3bbb25
+  title: Online Claims | Improving Your Thinking And Analytical Skills
+  permalink: /online-claims/
+  short_title: Online Claims
+  heading_title: Can You Trust This Claim?
+- basename: improving_your_think_da4710_emotion_identity_rea_e7cc61
+  title: Pressure | Improving Your Thinking And Analytical Skills
+  permalink: /pressure/
+  short_title: Pressure
+  heading_title: When Emotion Distorts Reasoning
+- basename: improving_your_think_da4710_probabilities_tradeo_aa66d9
+  title: Probabilities | Improving Your Thinking And Analytical Skills
+  permalink: /probabilities/
+  short_title: Probabilities
+  heading_title: How Do You Think Through Uncertainty?
+- basename: improving_your_think_da4710_problem_framing_7f52a6
+  title: Problem Framing | Improving Your Thinking And Analytical Skills
+  permalink: /problem-framing/
+  short_title: Problem Framing
+  heading_title: Are You Solving the Right Problem?
+- basename: improving_your_think_da4710_project_failure_syst_695c51
+  title: Project Failure | Improving Your Thinking And Analytical Skills
+  permalink: /project-failure/
+  short_title: Project Failure
+  heading_title: Is the System Creating the Delay?
+- basename: improving_your_think_da4710_retrieval_practice_750003
+  title: Retrieval | Improving Your Thinking And Analytical Skills
+  permalink: /retrieval/
+  short_title: Retrieval
+  heading_title: Can Testing Yourself Make You Smarter?
+- basename: improving_your_think_da4710_plain_english_teachi_399aee
+  title: Teach It | Improving Your Thinking And Analytical Skills
+  permalink: /teach-it/
+  short_title: Teach It
+  heading_title: Can You Explain It Without Jargon?
+- basename: improving_your_think_da4710_teaching_thinking_sk_b24d42
+  title: Teaching | Improving Your Thinking And Analytical Skills
+  permalink: /teaching/
+  short_title: Teaching
+  heading_title: Can Thinking Be Taught Directly?
+- basename: improving_your_think_da4710_three_parts_thinking_a75215
+  title: Three Parts | Improving Your Thinking And Analytical Skills
+  permalink: /three-parts/
+  short_title: Three Parts
+  heading_title: What Makes a Strong Thinker?
+- basename: improving_your_think_da4710_real_world_transfer_0cecd5
+  title: Transfer | Improving Your Thinking And Analytical Skills
+  permalink: /transfer/
+  short_title: Transfer
+  heading_title: Will Thinking Skills Work in Real Life?
 child_links:
-- basename: improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_feedbac_6aa270
+- basename: improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_persona_4eff62
   title: Brier Scores | Calibration
-  permalink: /brier-scores-bad9a3/
+  permalink: /brier-scores/
   short_title: Brier Scores
-  heading_title: What Brier Scores Can And Cannot Tell You
-- basename: improving_your_think_da4710_confidence_calibrati_3ec11e_narrow_confidence_in_fb59fd
-  title: Narrow Ranges | Calibration
-  permalink: /narrow-ranges/
-  short_title: Narrow Ranges
-  heading_title: Why Your Safe Range May Be Too Tight
-- basename: improving_your_think_da4710_confidence_calibrati_3ec11e_probability_words_66fb37
+  heading_title: A Simple Scorecard for Forecasting Skill
+- basename: improving_your_think_da4710_confidence_calibrati_3ec11e_good_judgment_lesson_ea91a6
+  title: Good Judgment | Calibration
+  permalink: /good-judgment/
+  short_title: Good Judgment
+  heading_title: What Superforecasting Teaches Everyday Thinkers
+- basename: improving_your_think_da4710_confidence_calibrati_3ec11e_missed_prediction_re_740db4
+  title: Miss Reviews | Calibration
+  permalink: /miss-reviews/
+  short_title: Miss Reviews
+  heading_title: When a Wrong Forecast Was Still Reasonable
+- basename: improving_your_think_da4710_confidence_calibrati_3ec11e_probabilities_not_wo_bcc6f4
   title: Probability Words | Calibration
   permalink: /probability-words/
   short_title: Probability Words
-  heading_title: When Likely Does Not Mean the Same Thing
-- basename: improving_your_think_da4710_confidence_calibrati_3ec11e_resolution_rules_4d6bea
-  title: Resolution Rules | Calibration
-  permalink: /resolution-rules/
-  short_title: Resolution Rules
-  heading_title: How To Make A Forecast Actually Checkable
-- basename: improving_your_think_da4710_confidence_calibrati_3ec11e_forecasting_tourname_5ba5fb
-  title: Tournaments | Calibration
-  permalink: /tournaments/
-  short_title: Tournaments
-  heading_title: What Forecasting Tournaments Teach About Better Judgment
-- basename: improving_your_think_da4710_confidence_calibrati_3ec11e_update_triggers_6870d4
-  title: Update Triggers | Calibration
-  permalink: /update-triggers/
-  short_title: Update Triggers
-  heading_title: Know What Would Change Your Mind
+  heading_title: Why Probably Is Not Precise Enough
+- basename: improving_your_think_da4710_confidence_calibrati_3ec11e_scorable_forecast_qu_0298c2
+  title: Scorable Questions | Calibration
+  permalink: /scorable-questions/
+  short_title: Scorable Questions
+  heading_title: Can Your Forecast Actually Be Scored?
+- basename: improving_your_think_da4710_confidence_calibrati_3ec11e_useful_prediction_ta_59e4ac
+  title: What To Predict | Calibration
+  permalink: /what-to-predict/
+  short_title: What To Predict
+  heading_title: The Predictions Worth Writing Down
 up_link:
   basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 prev_link:
-  basename: improving_your_think_da4710_question_design_1265c2
-  title: Better Questions | Improving Your Think
-  permalink: /better-questions/
-  short_title: Better Questions
-  heading_title: Ask Better Questions Before Seeking Answers
+  basename: improving_your_think_da4710_argument_mapping_8e4963
+  title: Argument Maps | Improving Your Thinking And Analytical Skills
+  permalink: /argument-maps/
+  short_title: Argument Maps
+  heading_title: Can Mapping an Argument Improve It?
 next_link:
-  basename: improving_your_think_da4710_cause_correlation_008ee5
-  title: Cause Check | Improving Your Think
-  permalink: /cause-check/
-  short_title: Cause Check
-  heading_title: Did It Cause It, or Just Happen Nearby?
+  basename: improving_your_think_da4710_correlation_causatio_a505f2
+  title: Causation | Improving Your Thinking And Analytical Skills
+  permalink: /causation/
+  short_title: Causation
+  heading_title: Does the Evidence Show a Cause?
 header:
   og_image: /assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-overview-social.jpg
   preview_image: /assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-overview.webp
@@ -447,385 +448,366 @@ image: /assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-ov
 
 ## Introduction
 
-Confidence is useful only when it means something. Saying “I’m sure” or “I think so” gives little help unless the listener knows how that confidence relates to reality. Confidence calibration is the habit of matching your stated certainty to the evidence: when you say 70%, [outcomes]({{ 'outcomes/' | relative_url }}) like that should happen about seven times in ten; when you give a 90% range, the true answer should fall inside it about nine times in ten. This matters because better thinking is not just about reaching the right answer. It is about knowing how much weight to place on an answer before events prove it right or wrong.
+Confidence calibration is the [practice]({{ 'practice/' | relative_url }}) of checking whether your certainty matches reality. If you say ten things are 70% likely, roughly seven should happen over time. A prediction journal makes that test possible: before an outcome is known, you write down the claim, the probability you assign to it, the evidence behind it, and the date when it will be checked. That small habit turns judgement from a private feeling into a [feedback loop]({{ 'feedback-loop/' | relative_url }}).
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-overview.webp" | relative_url }}" alt="Overview image for Calibration" loading="eager" decoding="sync" fetchpriority="high">
-Calibration turns [uncertainty]({{ 'uncertainty/' | relative_url }}) from an embarrassment into a tool. It helps you separate strong evidence from a strong feeling, make forecasts that can be checked, learn from outcomes without rewriting history, and update beliefs without swinging wildly after every new clue. Research on forecasting, overconfidence and judgement shows the same basic lesson in different settings: confidence improves when it is expressed on a scale, tested against feedback, and revised with attention to both prior evidence and new information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iarpa.gov/research-programs/ace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iarpa.gov">[iarpa.gov+2learnmoore.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iarpa.gov</span><span class="citation-popover-snippet">ACEThe goal of the ACE Program is to dramatically enhance the accuracy, precision, and timeliness of intelligence forecasts for a broad r...</span></span></span>
+This matters because memory is a poor scorekeeper. People often remember the broad direction of their past views, but not the exact confidence they felt, the alternatives they dismissed, or the conditions under which they said they would change their mind. Calibration does not require you to become cautious about everything. The aim is sharper confidence: low when the evidence is thin, higher when the evidence is strong, and revisable when new information arrives. Forecasting research, especially the [Good Judgment]({{ 'good-judgment/' | relative_url }}) Project, suggests that probabilistic prediction, [feedback]({{ 'feedback/' | relative_url }}), practice and clear scoring can improve judgement in real-world questions, not just in classroom puzzles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/wp-content/uploads/2018/12/jdm16511.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">Good Judgment The impact of training and practice on judgmental accuracy</span><span class="citation-popover-snippet">Good JudgmentThe impact of training and practice on judgmental accuracy...September 30, 2016 — by W Chang · 2016 · Cited by 153 — Althou...</span><span class="citation-popover-meta">Published: September 30, 2016</span></span></span>
 
-## Why confidence needs a scale
+## Why calibration matters
 
-The first step in calibration is replacing vague confidence words with usable degrees of belief. “Likely”, “possible” and “almost certain” sound precise in conversation, but people use them differently. One person’s “likely” may mean 55%; another’s may mean 80%. A numerical probability is not magic, but it forces a clearer claim. “I’m 70% confident this supplier will deliver by Friday” is easier to test than “they should probably deliver”.
+A person can be knowledgeable and still miscalibrated. The issue is not simply whether a conclusion is right or wrong; it is whether the stated confidence was appropriate. A 55% judgement that turns out wrong may have been reasonable. A 95% judgement that turns out wrong deserves much closer review, because the error was not only in the prediction but in the strength of belief attached to it.
 
-A calibrated confidence statement has two parts: the answer and the uncertainty around it. For a yes-or-no forecast, the statement may be a probability: “There is a 30% chance this feature will miss the deadline.” For a quantity, it may be an interval: “I am 80% confident the final cost will be between £40,000 and £55,000.” The point is not to pretend that judgement is mathematical in every detail. The point is to make the uncertainty visible enough that it can be compared with later outcomes.
+Calibration is easiest to understand through weather forecasts. If a forecaster says there is a 70% chance of rain on many similar days, rain should occur on about 70% of those days. The same idea applies to personal and professional judgement: “I am 80% sure this project will ship by Friday”, “There is a 30% chance this client renews”, or “I am 65% confident this news report will be corrected within a week”. The Brier score, originally developed for probability forecasts, measures the gap between predicted probabilities and actual outcomes; lower scores mean better probabilistic accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brier score</span><span class="citation-popover-snippet">Brier score</span></span></span>
 
-The classic calibration test is simple. Gather many [predictions]({{ 'predictions/' | relative_url }}) made at the same confidence level and ask whether the outcomes match. If 100 of your forecasts were made at 80% confidence, roughly 80 should turn out right. If only 60 do, you are overconfident at that level. If 95 do, you may be underconfident or making your forecasts too cautious. For interval estimates, the same logic applies: if your 90% confidence intervals contain the true value only half the time, your ranges are far too narrow.
-
-This is why calibration is different from ordinary accuracy. A person can be accurate on easy questions while still being poorly calibrated if they express too much certainty on hard ones. A person can also be modestly accurate but well calibrated if they know when the evidence is weak. In decision-making, that second skill is often more valuable than it sounds. A well-calibrated thinker can say, “I am probably right, but not right enough to bet the project on it.”
-
-Research on overconfidence helps clarify the target. Don Moore and Paul Healy distinguish three forms of overconfidence: overestimating your actual performance, overplacing yourself relative to others, and overprecision, which is excessive certainty that your belief is correct. Calibration mainly attacks the third problem. It does not ask, “Are you clever?” It asks, “Does the certainty you expressed match the track record of claims like this?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://healy.econ.ohio-state.edu/papers/Moore_Healy-TroubleWithOverconfidence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healy.econ.ohio-state.edu">[healy.econ.ohio-state.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healy.econ.ohio-state.edu</span><span class="citation-popover-title">The Trouble With Overconfidence</span><span class="citation-popover-snippet">by DA Moore · 2008 · Cited by 3888 — The authors present a reconciliation of 3 distinct ways in defined overconfidence: (a) overesti...</span></span></span>
-
-## What calibration checks reveal that intuition misses
-
-Calibration becomes powerful when predictions are recorded before the result is known. Without that record, feedback is easily distorted. After an outcome arrives, people often remember their earlier view as more accurate than it was, or judge the quality of a decision mainly by whether it worked out. That is dangerous because a good decision can fail in an unlucky world, and a poor decision can succeed by chance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s13164-023-00672-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
-
-A practical calibration check needs three ingredients:
-
-
-<div class="content-enhancement content-enhancement--step-flow" markdown="1">
-
-1. **A clear forecast.** The statement must be specific enough to resolve. “This campaign will do well” is too vague; “This campaign will generate at least 500 qualified leads by 30 September” is checkable.
-2. **A confidence level.** The prediction should include a probability or interval. “70% chance” is better than “I expect”, because it lets you compare similar forecasts over time.
-3. **A resolution rule.** You need to know what counts as right. For complex decisions, this may mean defining the metric, deadline, data source and threshold in advance.
-
-</div>
-
-Forecasting tournaments show why this discipline matters. The Intelligence Advanced Research Projects Activity’s Aggregative Contingent Estimation programme was designed to improve intelligence forecasting by eliciting probabilistic judgements, combining forecasts, and testing them against real events. The Good Judgment Project, led by Philip Tetlock and Barbara Mellers, used behavioural interventions such as probability training, collaboration and tracking of high performers; its research found that these interventions improved both calibration and resolution, meaning forecasters became better at matching probabilities to reality and at distinguishing more likely from less likely events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iarpa.gov/research-programs/ace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iarpa.gov">[iarpa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iarpa.gov</span><span class="citation-popover-snippet">ACEThe goal of the ACE Program is to dramatically enhance the accuracy, precision, and timeliness of intelligence forecasts for a broad r...</span></span></span>
-
-The lesson is not that every personal or workplace decision should become a formal tournament. It is that calibration requires a feedback loop. A sales manager, doctor, analyst, engineer or student can all benefit from the same basic routine: write the prediction down, include the confidence, decide how it will be checked, and later compare the confidence with the outcome.
-
-The Brier score is one common way to score probabilistic forecasts. It measures the squared difference between the probability assigned to an event and the event’s actual outcome, so lower scores are better. It rewards both being right and being appropriately confident. However, it should not be treated as a complete verdict on judgement by itself: recent methodological work stresses that Brier scores can reflect not only calibration but also the underlying difficulty and distribution of the prediction problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
-
-
-<img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-1-dark.svg" | relative_url }}" alt="Calibration illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## How to state uncertainty without sounding evasive
-
-Many people avoid calibrated language because they fear it will make them look indecisive. In practice, the opposite is often true. A precise uncertainty statement can be more decision-ready than a confident slogan because it tells others how much risk remains.
-
-Compare these two statements:
-
-“The launch will be fine.”
-
-“I put the chance of launching on time at about 65%. The main risk is supplier testing, and I would raise my confidence to 80% if the test report arrives by Wednesday.”
-
-The second statement is less macho but more useful. It identifies the confidence level, the evidence behind it, and the condition that would change the estimate. That is exactly what good analytical thinking needs.
-
-A calibrated statement usually does four things:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
-* **Names the claim.** “The renewal rate will stay above 85% this quarter.”
-* **Gives a probability or range.** “I’m about 75% confident.”
-* **States the evidence.** “The last three quarters were stable, but the price rise affects a third of customers.”
-* **Names the update trigger.** “If cancellations exceed 5% in the first two weeks, I would revise down sharply.”
-
-</div>
-
-This structure also reduces false certainty in group settings. Teams often hear the loudest or most senior voice as the most confident voice, then mistake confidence for evidence. Asking everyone to give a probability before discussion can reveal hidden disagreement. A team that appears aligned around “probably yes” may discover that one person means 55%, another means 85%, and a third means “I have not really thought about it”.
-
-Calibration does not require pretending that all uncertainty is measurable with scientific precision. A probability can be a disciplined estimate rather than a laboratory result. The benefit is that it makes uncertainty comparable. “I am 60% confident” and “I am 90% confident” should lead to different actions, different levels of checking, and different willingness to commit resources.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yDKBHSCV6Bk" title="The Science of Making Better Decisions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yDKBHSCV6Bk" target="_blank" rel="noopener noreferrer">The Science of Making Better Decisions</a></p><p class="youtube-embed-meta">Channel: Janus Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yDKBHSCV6Bk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yDKBHSCV6Bk">Open on YouTube</a></p></div></div></div>
-
-## Calibration checks for forecasts and decisions
-
-Forecasts are the cleanest training ground for calibration because they resolve. Decisions are messier, because their outcomes depend on action, luck, changing circumstances and the quality of execution. Still, most serious decisions contain forecasts inside them. “We should hire this person” includes forecasts about performance, fit, retention and opportunity cost. “We should buy this tool” includes forecasts about adoption, savings, integration and risk.
-
-A useful [decision journal]({{ 'decision-journal/' | relative_url }}) therefore records not just what you chose, but what you expected to happen. This protects learning from outcome bias. If a risky decision succeeds, the journal can show whether it was a good risk or a lucky escape. If a careful decision fails, it can show whether the reasoning was weak or the world simply broke against you.
-
-For practical use, calibration checks can be kept light:
-
-
-<div class="content-enhancement content-enhancement--caution" markdown="1">
-
-* **Use prediction buckets.** Review predictions at 50%, 60%, 70%, 80% and 90% confidence. Over time, ask whether each bucket resolves at roughly the stated rate.
-* **Track interval coverage.** For estimates such as cost, duration or demand, check whether your 80% or 90% ranges contain the true value as often as they should.
-* **Separate calibration from discrimination.** Calibration asks whether your probabilities match frequencies. Discrimination asks whether you successfully rank high-risk and low-risk cases. A model or person can be good at one and weaker at the other.
-* **Review by category.** You may be calibrated on technical estimates but overconfident on timelines, people judgements or market reactions.
-
-</div>
-
-The category point matters. Studies of confidence and accuracy repeatedly show that calibration is not a single global trait. A person may be well calibrated in a familiar domain with repeated feedback and poorly calibrated in a noisy domain where feedback is delayed or ambiguous. In eyewitness research, for example, confidence can be informative under some “pristine” conditions, but contamination, delay and other case features can weaken the confidence-accuracy link. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psych.utah.edu">[psych.utah.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psych.utah.edu</span><span class="citation-popover-title">Eyewitness Confidence Does Not Necessarily Indicate</span><span class="citation-popover-snippet">Eyewitness Confidence Does Not Necessarily Indicate</span></span></span>
-
-This is why calibration should be local. Instead of asking, “Am I overconfident?”, ask, “Where does my confidence outrun my evidence?” Common high-risk zones include long timelines, rare events, adversarial situations, personal performance, hiring, investment, medical diagnosis, political predictions and any setting where feedback is slow or ambiguous.
-
-
-<img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-2-dark.svg" | relative_url }}" alt="Calibration illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What good forecasters do differently
-
-Good forecasters are not simply more cautious. If they were, they would assign middling probabilities to everything and avoid embarrassment. That is not good calibration; it is fog. Strong forecasters learn when to move away from 50% and when not to.
-
-The Good Judgment Project evidence is useful because it treated forecasting as a skill that could be measured and improved rather than as a mysterious talent. In the ACE tournament, participants made probabilistic forecasts on real geopolitical questions. Good Judgment’s published research reported that probability training, team collaboration and tracking of high performers improved forecasting performance, while IARPA described the broader programme as an effort to enhance the accuracy, precision and timeliness of intelligence forecasts through elicitation, aggregation and empirical testing against real events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iarpa.gov/research-programs/ace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iarpa.gov">[iarpa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iarpa.gov</span><span class="citation-popover-snippet">ACEThe goal of the ACE Program is to dramatically enhance the accuracy, precision, and timeliness of intelligence forecasts for a broad r...</span></span></span>
-
-The habits associated with better forecasting are directly relevant to everyday analytical thinking:
+The practical value is that calibration separates three things people often blur together:
 
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* **Start with the base rate.** Before asking what makes this case special, ask how often similar cases succeed, fail, overrun or reverse.
-* **Break the question into parts.** A launch forecast might depend on engineering completion, legal approval, customer readiness and supplier reliability.
-* **Update gradually but meaningfully.** Do not ignore new evidence, but do not let one vivid clue erase a stronger prior record.
-* **Look for disconfirming evidence.** Ask what you would expect to see if your current view were wrong.
-* **Keep score.** Calibration cannot improve reliably if forecasts disappear after the meeting.
+* **Accuracy:** did the thing happen?
+* **Confidence:** how strongly did you expect it?
+* **Learning signal:** what should change in your future judgement?
 
 </div>
 
-This last habit is often the missing one. People receive feedback constantly, but not all feedback teaches. If the original forecast was vague, if the confidence level was never written down, or if the outcome is judged through hindsight, the mind can protect its self-image while learning very little.
+Without calibration, a person can protect almost any self-image. A failed 80% prediction becomes “I only said it was likely, not certain”. A successful 55% prediction becomes “I knew it”. Written probabilities make that escape harder. They also make improvement less moralistic. Instead of asking “Am I good at judgement?”, you ask “Where am I overconfident, underconfident, vague, or slow to update?”
+
+Research on overconfidence is more nuanced than the slogan “people are always overconfident”. Reviews of probability calibration show that miscalibration varies by task difficulty, knowledge and evidence quality. People may be overconfident on hard questions yet underconfident on easier ones, which means the useful intervention is not blanket humility but better matching between evidence and certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bear.warrington.ufl.edu/brenner/mar7588/Papers/koehlerbrennergriffin2002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bear.warrington.ufl.edu">[Warrington College of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bear.warrington.ufl.edu</span><span class="citation-popover-snippet">Open source on ufl.edu.</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mBDh5yivq7M" title="Toward Superforecasting®: Lessons from the Eli Lilly Probability Assessment Panel | SDG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mBDh5yivq7M" target="_blank" rel="noopener noreferrer">Toward Superforecasting®: Lessons from the Eli Lilly Probability Assessment Panel | SDG</a></p><p class="youtube-embed-meta">Channel: Strategic Decisions Group</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mBDh5yivq7M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mBDh5yivq7M">Open on YouTube</a></p></div></div></div>
+<img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-1-dark.svg" | relative_url }}" alt="Calibration illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How prediction journals work
 
-## Updating without overcorrecting
+A prediction journal is a simple record of claims before reality has had a chance to make them look obvious. It can be a spreadsheet, notebook, database, forecasting platform or shared team log. The format matters less than the discipline: the prediction must be specific enough to resolve, probabilistic enough to reveal confidence, and reviewed often enough to create feedback.
 
-Good calibration is not stubbornness. When evidence changes, confidence should change too. The difficulty is that people can err in both directions: they may cling to an old view despite strong new information, or overreact to a recent, vivid event and abandon a well-supported prior.
+A useful entry normally includes five parts:
 
-Bayesian reasoning offers a useful ideal: combine prior beliefs with new evidence according to how reliable each is. In plain English, ask two questions. First, what did similar cases usually look like before this new information arrived? Second, how diagnostic is the new information? Research on probabilistic reasoning finds that people often underweight prior information, known as base-rate neglect, and may also underweight new evidence, known as conservatism, depending on the situation and how beliefs are elicited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/base-rate-neglect-and-conservatism-in-probabilistic-reasoning-insights-from-eliciting-full-distributions/57619E3572DB3A6035101546DB147F7E" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
+1. **A clear question.** “Will the supplier deliver the parts by 5 pm on 30 June 2026?” is better than “Will the supplier be reliable?”
+2. **A probability.** Use numbers, not vague words such as “probably” or “unlikely”. A 60% forecast and an 85% forecast should not be treated as the same belief.
+3. **The evidence and [assumptions]({{ 'assumptions/' | relative_url }}).** Record the base rate, current signals, reasons for doubt, and any key dependency.
+4. **A resolution rule.** State what will count as yes, no, partial, or unresolved.
+5. **A review date.** Decide when the prediction will be scored or revisited.
 
-A balanced update has three movements:
+The Good Judgment Project is the strongest modern demonstration of this style of judgement training at scale. In a multi-year geopolitical forecasting tournament, forecasters made probabilistic predictions on real-world questions, updated them as new information arrived, and were scored using measures such as the Brier score. Research from the project found that brief probability training improved forecasting accuracy, with one study reporting Brier-score improvements of 6% to 11% over a control condition after training lasting less than an hour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/wp-content/uploads/2018/12/jdm16511.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">Good Judgment The impact of training and practice on judgmental accuracy</span><span class="citation-popover-snippet">Good JudgmentThe impact of training and practice on judgmental accuracy...September 30, 2016 — by W Chang · 2016 · Cited by 153 — Althou...</span><span class="citation-popover-meta">Published: September 30, 2016</span></span></span>
 
-1. **Anchor in the prior.** Start with the [outside view]({{ 'outside-view/' | relative_url }}). If nine out of ten similar projects overran, your project should not begin at “almost certain to be on time” just because the plan looks tidy.
-2. **Estimate evidence strength.** A signed contract, failed test, customer cancellation or audited result should move confidence more than a rumour, anecdote or single emotional meeting.
-3. **Move by degrees.** A 70% belief might become 55% or 85% after new evidence. It should not automatically become 5% or 99% unless the evidence is decisive.
+The point is not that everyone needs a formal tournament. The transferable lesson is that judgement improves when forecasts are explicit, repeated, scored, and compared against outcomes. Good Judgment describes its evidence-based process as combining talent spotting, training, teamwork and aggregation; for an individual or small team, the most accessible parts are training, practice, and careful review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/about/the-science-of-superforecasting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-snippet">Open source on goodjudgment.com.</span></span></span>
 
-Weather forecasting gives a clear public example of why updating can support trust when done well. Research on probabilistic weather communication found that explicit uncertainty information and newer, more reliable forecast updates can help users make decisions and maintain trust, especially when forecasts change as better information arrives. The principle transfers: changing your mind is not a weakness if the change is tied to better evidence and explained clearly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://repository.library.noaa.gov/view/noaa/51145/noaa_51145_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.library.noaa.gov">[repository.library.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.library.noaa.gov</span><span class="citation-popover-title">The Impact of Forecast Inconsistency and Probabilistic</span><span class="citation-popover-snippet">The Impact of Forecast Inconsistency and Probabilistic</span></span></span>
+A prediction journal also changes the emotional texture of thinking. When a belief stays private, being wrong can feel like a threat. When predictions are logged routinely, wrong forecasts become data. A journal makes it normal to say, “I gave this 75%, it failed, and here is what I missed.” That is a better learning environment than one in which only confident-sounding conclusions are rewarded.
 
-Overcorrection often happens after emotionally salient outcomes. A failed hire makes a manager distrust all candidates from the same background. A successful product launch makes a team believe its process is better than it was. A missed deadline leads to absurdly padded future estimates. Calibration asks for a quieter review: what probability did we assign, what happened, what evidence did we miss, and how much should similar forecasts move next time?
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SAzTP2A634g" title="&#x27;Superforecasting&#x27;: The people that predict the future – BBC REEL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SAzTP2A634g" target="_blank" rel="noopener noreferrer">&#x27;Superforecasting&#x27;: The people that predict the future – BBC REEL</a></p><p class="youtube-embed-meta">Channel: BBC Global</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SAzTP2A634g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SAzTP2A634g">Open on YouTube</a></p></div></div></div>
+
+## What to predict
+
+The best journal questions sit in the middle zone: uncertain enough to teach you something, but concrete enough to resolve. Very obvious predictions teach little. Extremely vague predictions cannot be scored. The useful targets are decisions and recurring judgement clusters where better calibration would change behaviour.
+
+Good candidates include:
+
+
+<div class="content-enhancement content-enhancement--checklist" markdown="1">
+
+* **Project delivery:** whether a task will finish by a date, exceed budget, or need rework.
+* **Hiring and management:** whether a candidate will accept, whether a team member will hit a milestone, or whether a meeting will produce a decision.
+* **Research and analysis:** whether a source will be confirmed, whether a claim will survive checking, or whether an initial explanation will remain the best one.
+* **Personal planning:** whether a habit will be maintained, whether a trip will stay within budget, or whether a deadline estimate is realistic.
+* **External events:** public questions in politics, economics, technology, sport or policy, where outcome criteria are available.
+
+</div>
+
+For improving analytical skill, repeated small predictions are usually more valuable than rare dramatic ones. A person who makes two major forecasts a year gets little feedback. A person who makes ten small forecasts a week can begin to see patterns: perhaps they are too optimistic about delivery dates, too deferential to confident colleagues, too slow to update after contrary evidence, or too inclined to put everything in the safe 55% to 65% range.
+
+Forecasting platforms such as Metaculus and Good Judgment Open show how this can work in public settings: questions are stated in advance, probabilities can be updated, and track records can be compared over time. Their broader value for a private prediction journal is cultural as much as technical: they normalise the idea that good judgement is not a single impressive call, but a long-run record of probabilistic claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metaculus.com/notebooks/28552/comparing-forecasting-track-records-for-ai-benchmarking-and-beyond/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metaculus.com">[metaculus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metaculus.com</span><span class="citation-popover-title">comparing forecasting track records for ai benchmarking and beyond</span><span class="citation-popover-snippet">comparing forecasting track records for ai benchmarking and beyond</span></span></span>
+
+## Learning from misses
+
+The review is where a prediction journal becomes a thinking intervention rather than a diary. It is tempting to look only at wrong predictions, but calibration requires a wider view. You need to ask whether your 60% predictions happen about 60% of the time, whether your 80% predictions happen about 80% of the time, and whether your very high confidence forecasts are rare and justified.
+
+A useful review separates different kinds of failure:
+
+**The evidence was weak.** You may have relied on a vivid anecdote, a single source, or a recent example instead of a base rate.
+
+**The question was badly framed.** If the resolution rule was unclear, the forecast cannot teach much. Ambiguous predictions are often a sign that the original thinking was also ambiguous.
+
+**The probability was too extreme.** A 90% forecast means the outcome should fail only about once in ten comparable cases. Many people use high numbers to express emphasis rather than measured probability.
+
+**The update was too slow.** Forecasting skill is not only about the first estimate. In Good Judgment-style forecasting, updating in response to new evidence is part of the discipline; strong forecasters often revise as facts change rather than defending the first number.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commoncog.com/how-do-you-evaluate-your-own-predictions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commoncog.com">[Commoncog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commoncog.com</span><span class="citation-popover-title">how do you evaluate your own predictions</span><span class="citation-popover-snippet">how do you evaluate your own predictions</span></span></span>
+
+**The miss was reasonable.** Some low-probability events happen. A good review does not punish every wrong forecast; it asks whether the probability was fair at the time.
+
+This last point is important. Calibration is not hindsight perfection. If you predicted a 20% chance of an event and it happened, that does not automatically mean your forecast was bad. Low-probability events should occur sometimes. The question is whether, across many similar calls, your 20% bucket behaves like a 20% bucket.
+
+
+<img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-2-dark.svg" | relative_url }}" alt="Calibration illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Scoring without overcomplicating it
+
+A full scoring system is useful, but it should not become a barrier to practice. For most people, the first step is simply to group forecasts by confidence band and compare them with outcomes.
+
+For example:
+
+Confidence bandNumber of predictionsNumber that happenedWhat to check50–60%2012Close to expected; look for vague hedging70–80%2010Possible overconfidence90–100%106Serious overconfidence unless sample is unusual
+
+The Brier score adds a stricter numerical penalty: confident wrong predictions hurt more than cautious wrong predictions. That is exactly why it is useful. Saying “95%” should carry more accountability than saying “60%”. At the same time, researchers note that [Brier scores]({{ 'brier-scores/' | relative_url }}) can be decomposed into different properties, including calibration and resolution. Resolution matters because a person who always says 50% may be well protected from embarrassment but is not adding much decision value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8172E04F2DBC601DA5D953D4685CA346/S1930297500007099a.pdf/weighted_brier_score_decompositions_for_topically_heterogenous_forecasting_tournaments.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Weighted Brier score decompositions for topically</span><span class="citation-popover-snippet">University Press &amp; Assessment Weighted Brier score decompositions for topically</span></span></span>
+
+For everyday use, the scoring rule can be modest:
+
+
+<div class="content-enhancement content-enhancement--metric" markdown="1">
+
+* Review monthly, not after every single outcome.
+* Track confidence bands before calculating complex scores.
+* Keep original predictions visible after updates.
+* Note whether misses came from bad information, bad framing, poor base rates, or emotional commitment.
+* Watch for both overconfidence and underconfidence.
+
+</div>
+
+This approach keeps the focus on better judgement rather than score-chasing. A prediction journal should make decisions clearer, not turn thinking into a game where people avoid useful forecasts because they fear damaging their record.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zSNQTfKGvhE" title="Meelis Kull: &quot;Calibration and confidence in Machine Learning&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zSNQTfKGvhE" target="_blank" rel="noopener noreferrer">Meelis Kull: &quot;Calibration and confidence in Machine Learning&quot;</a></p><p class="youtube-embed-meta">Channel: University of Tartu Institute of Computer Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zSNQTfKGvhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zSNQTfKGvhE">Open on YouTube</a></p></div></div></div>
+
+## Using calibration in teams
+
+Prediction journals are especially powerful in teams because they reduce the social distortions around confidence. In many organisations, the most fluent or senior person can sound “right” before evidence has been tested. A forecasting habit asks everyone to put a number on the claim and record the reason. That makes disagreement more productive: two people can both favour the same outcome but differ sharply between 55% and 85%, which reveals different assumptions.
+
+For a team, the intervention can be simple:
+
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
+1. Identify a recurring decision cluster, such as project deadlines, sales renewals, policy risks or product launches.
+2. Require a small number of written probabilistic forecasts before major decisions.
+3. Record assumptions and resolution rules.
+4. Review outcomes in batches.
+5. Adjust decision rules, not just individual opinions.
+
+</div>
+
+The batch review is crucial. If a product team repeatedly gives 80% confidence to delivery dates that succeed only half the time, the lesson is not merely “be less confident”. The team may need to change planning buffers, dependency checks, escalation triggers or how it treats optimistic estimates. Calibration turns judgement errors into process evidence.
+
+Structured forecasting also helps distinguish confidence from authority. A junior analyst with a strong track record on a specific class of questions may deserve more weight than a senior person who speaks firmly but has not been scored. Good Judgment’s work on forecasting tournaments reflects this broader idea: track records, training and aggregation can reveal signal that status alone may hide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/about/the-science-of-superforecasting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-snippet">Open source on goodjudgment.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-3-dark.svg" | relative_url }}" alt="Calibration illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## The traps that make confidence feel better than it is
+## Common traps
 
-Miscalibration often feels like clear thinking from the inside. That is what makes it hard to catch. Several traps are especially common.
+The first trap is writing predictions that cannot lose. “The launch may face challenges” is not a prediction journal entry; it is a fog machine. A better version is: “There is a 70% chance the launch is delayed by more than five working days, using the currently announced date as the baseline.”
 
-**Fluency feels like truth.** If an explanation is easy to tell, people often feel more confident in it. But a smooth story can be built from selective evidence. Calibration improves when you ask, “What would I expect to see if the opposite were true?”
+The second trap is treating calibration as pessimism. Good calibration can make someone more confident when the evidence supports it. The goal is not to lower every probability, but to stop using confidence as a mood, [identity]({{ 'identity/' | relative_url }}) signal or negotiation tactic.
 
-**Detail feels like evidence.** A plan with many steps can seem more credible because it is vivid. Yet each extra dependency may add failure points. For timelines and budgets, calibrated thinkers often widen rather than narrow their uncertainty when they inspect the details.
+The third trap is reviewing only spectacular errors. Most calibration problems are mundane and repeated: deadline optimism, exaggerated certainty from small samples, failure to update after new evidence, or treating a preferred outcome as more likely than it is.
 
-**Expertise leaks across boundaries.** Skill in one domain can create excessive confidence in another. A person with deep technical knowledge may still be poorly calibrated about customer behaviour, regulation, hiring or politics.
+The fourth trap is ignoring sample size. Ten predictions are enough to start a habit, not enough to diagnose your whole mind. Calibration curves and confidence bands become more informative as the number of forecasts grows. Older calibration research has long emphasised that confidence and accuracy need to be compared across many judgements rather than inferred from isolated examples.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://home.csulb.edu/~cwallis/382/certainty/chapter19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: home.csulb.edu">[California State University Long Beach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">home.csulb.edu</span><span class="citation-popover-snippet">Open source on csulb.edu.</span></span></span>
 
-**Consensus can hide uncertainty.** A group may agree on a decision while disagreeing sharply on likelihoods. Asking for private probability estimates before discussion helps reveal whether apparent agreement is real.
+The fifth trap is using scoring in a punitive way. If a manager uses prediction records mainly to shame people, forecasts will become timid, political or vague. The healthier norm is accountability without humiliation: strong claims should be tested, but honest uncertainty should be protected.
 
-**Outcomes rewrite memories.** Once the result is known, people tend to see it as more predictable than it was. That weakens learning unless the original prediction is recorded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_2102632_11/component/file_2102631/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">Open source on mpg.de.</span></span></span>
+## A simple starting routine
 
-The practical answer is not to distrust every confident thought. It is to treat confidence as a claim that needs calibration. When the stakes are low, rough confidence is fine. When the stakes are high, confidence should be written down, attached to evidence, and checked later.
+A practical routine can be small enough to use immediately. At the end of each working day, write one to three predictions about decisions already on your mind. Use percentages in increments such as 5% or 10%. Add a one-sentence reason and a review date. Once a week, update any forecasts where new evidence has appeared. Once a month, review resolved predictions by confidence band.
 
+The most valuable prompt is often: “What would I expect to see if I were wrong?” That question pushes the journal beyond betting and into analysis. It asks you to name the evidence that would weaken your current view before the world has delivered it.
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cac76CPLc-M" title="You Don&#x27;t Lose Money by Being Wrong. You Lose It by Being Certain | Superforecasting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cac76CPLc-M" target="_blank" rel="noopener noreferrer">You Don&#x27;t Lose Money by Being Wrong. You Lose It by Being Certain | Superforecasting</a></p><p class="youtube-embed-meta">Channel: Playbooks de Caja</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cac76CPLc-M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cac76CPLc-M">Open on YouTube</a></p></div></div></div>
-
-## A practical calibration routine
-
-Calibration improves through repeated, low-friction practice. The routine does not need to be elaborate. It needs to be consistent enough to expose patterns.
-
-Start with ten to twenty predictions a week in areas where outcomes will resolve within days or months. They can be work estimates, personal forecasts, project risks, meeting outcomes, learning goals or public events. Each prediction should include a probability and a resolution date. Avoid trick questions and avoid predictions that depend entirely on your own future choice unless that is what you are trying to study.
-
-For each prediction, record:
+Over time, the journal should reveal a personal calibration map. You may find that you are well calibrated about technical estimates but overconfident about people’s availability. You may be accurate about short-term deadlines but poor at three-month planning. You may be too cautious in public forecasts and too bold in private assumptions. These patterns are exactly the point. They show where better thinking has to be implemented, not merely admired.
 
 
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pedNak4S9IE" title="Superforecasting | Philip Tetlock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pedNak4S9IE" target="_blank" rel="noopener noreferrer">Superforecasting | Philip Tetlock</a></p><p class="youtube-embed-meta">Channel: The Long Now Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pedNak4S9IE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pedNak4S9IE">Open on YouTube</a></p></div></div></div>
 
-* the claim;
-* the probability or confidence interval; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/8685888_Overconfidence_in_Interval_Estimates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* the main reason for the estimate;
-* what evidence would move the estimate up or down;
-* the eventual outcome.
+## The real payoff
 
-</div>
+Confidence calibration is valuable because it changes the unit of improvement. Instead of trying to become “a better thinker” in the abstract, you build a record of specific judgements, confidence levels, outcomes and lessons. Prediction journals make thinking visible enough to correct.
 
-After enough predictions resolve, look for patterns rather than single embarrassments. Are your 80% predictions right only 60% of the time? Are your 60% predictions actually closer to coin flips? Are your time estimates consistently too narrow? Are you better calibrated after writing down [base rates]({{ 'base-rates/' | relative_url }})? This is where calibration becomes a thinking skill rather than a personality judgement.
-
-Commercial and professional calibration training shows both promise and limits. A 2024 study of intelligence analysts found that calibration training improved overall calibration and bias, especially for interval estimation, but the effects varied by task; on a binary-choice task, the shift looked more like reduced confidence than a general improvement in metacognitive monitoring. That is an important caution: calibration is not simply “be less confident”. The goal is to be confident at the right times, doubtful at the right times, and explicit enough that reality can correct you. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1002/acp.4236" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Open source on wiley.com.</span></span></span>
-
-A useful personal benchmark is interval estimation. Try giving 80% ranges for factual quantities you do not know exactly: the population of a city, the cost of a past project, the number of customers affected by an issue, or the time required for a task. If fewer than eight out of ten true values fall inside your ranges, widen them. If nearly all do, sharpen them. This exercise teaches the feel of honest uncertainty better than abstract advice does.
-
-## What calibrated confidence changes
-
-Calibrated confidence changes the way you argue, decide and learn. Arguments become less about defending identity and more about locating uncertainty. Decisions become less dependent on the most forceful voice. Reviews become less about blame and more about whether the evidence available at the time justified the confidence expressed.
-
-It also makes intellectual humility more concrete. Humility is often misunderstood as low confidence. Calibration offers a better version: confidence proportional to evidence. A calibrated thinker can be bold when the evidence is strong, cautious when the evidence is thin, and ready to update when the world supplies new information.
-
-The wider benefit is compounding learning. Every clear forecast becomes a small experiment in judgement. Every resolved outcome becomes feedback. Every update becomes a chance to distinguish “I was wrong” from “I was unlucky”, and “I was right” from “I got away with it”. Over time, this builds a more reliable sense of when to trust your judgement, when to seek more evidence, and when to leave room for surprise.
+The deeper benefit is intellectual honesty under uncertainty. Calibrated thinkers can still be bold, but their boldness is earned. They know the difference between a strong signal and a strong feeling. They can say “I am 60% confident” without sounding weak, and “I was 90% confident and wrong” without pretending the mistake never happened. For improving analytical skill, that shift is hard to beat: it makes confidence answerable to evidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Confident Should You Be?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Your Confidence Matched to Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Explains calibration, forecasting, updating beliefs and measuring judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers calibration, probabilistic thinking, forecasting practice and feedback.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Covers overconfidence, judgment under uncertainty and cognitive bias.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases and overconfidence underlying poor calibration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-        </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+</h4>
+<p class="fr-book-author">By Douglas W. Hubbard</p>
         
-        <p class="fr-book-desc">Shows practical ways to quantify uncertainty and confidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows practical methods for quantifying uncertainty and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Focuses on probabilistic reasoning and uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on probabilistic prediction, uncertainty and learning from forecasts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Things We Should Do Before Break Up 2020 1 Movie Poster Art Print Canvas Unfr"><img src="{{ '/assets/images/marketplace-covers/fe6ee8af6b3ee2c95455.jpg' | relative_url }}" alt="Listing image for 10 Things We Should Do Before Break Up 2020 1 Movie Poster Art Print Canvas Unfr" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">10 Things We Should Do Before Break Up 2020 1 Movie Poster Art Print Canvas Unfr</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for should poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: should poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YOUR PERSONALISED PHOTO ON SATIN PAPER FRAMED WALL ART POSTER PRINT 4 SIZES"><img src="{{ '/assets/images/marketplace-covers/8d1c3506d960663b9bc2.jpg' | relative_url }}" alt="Listing image for YOUR PERSONALISED PHOTO ON SATIN PAPER FRAMED WALL ART POSTER PRINT 4 SIZES" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">YOUR PERSONALISED PHOTO ON SATIN PAPER FRAMED WALL ART POSTER PRINT 4 SIZES</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: your poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for We should look to the mind Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/dd99dbad29450a262300.jpg' | relative_url }}" alt="Listing image for We should look to the mind Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">We should look to the mind Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for should poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: should poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Poster Printing All Sizes *YOUR IMAGE/FILE* - A5 A4 A3 A2 A1 Poster"><img src="{{ '/assets/images/marketplace-covers/fab8fc23410ddc48d3e5.jpg' | relative_url }}" alt="Listing image for Custom Poster Printing All Sizes *YOUR IMAGE/FILE* - A5 A4 A3 A2 A1 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Custom Poster Printing All Sizes *YOUR IMAGE/FILE* - A5 A4 A3 A2 A1 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: your poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Things We Should Do Before Break Up 2020 1 Movie Poster Art Print Canvas Unfr"><img src="{{ '/assets/images/marketplace-covers/bc3a3a8ba452e2eb8af2.jpg' | relative_url }}" alt="Listing image for 10 Things We Should Do Before Break Up 2020 1 Movie Poster Art Print Canvas Unfr" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">10 Things We Should Do Before Break Up 2020 1 Movie Poster Art Print Canvas Unfr</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for should poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: should poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Upload Your Image | Custom Poster Printing A3 A4 A5 | Personalised Photo Print"><img src="{{ '/assets/images/marketplace-covers/0a75a496a4c811079282.jpg' | relative_url }}" alt="Listing image for Upload Your Image | Custom Poster Printing A3 A4 A5 | Personalised Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Upload Your Image | Custom Poster Printing A3 A4 A5 | Personalised Photo Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: your poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Always Do What You Should Do Logo Poster for bedroom - Streetwear Print"><img src="{{ '/assets/images/marketplace-covers/3e283297d1bff16d5a94.jpg' | relative_url }}" alt="Listing image for Always Do What You Should Do Logo Poster for bedroom - Streetwear Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Always Do What You Should Do Logo Poster for bedroom - Streetwear Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for should poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: should poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should poster -book -books -dvd" data-ebay-reference="calibration-how-confident-should-you-be-improving-your-think-should-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Printing A4 A3 A2 A1 A0 Custom Size Full Colour Print your own Artwork"><img src="{{ '/assets/images/marketplace-covers/58b4fcbe316fef060a6a.jpg' | relative_url }}" alt="Listing image for Poster Printing A4 A3 A2 A1 A0 Custom Size Full Colour Print your own Artwork" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Poster Printing A4 A3 A2 A1 A0 Custom Size Full Colour Print your own Artwork</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: your poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="calibration-is-your-confidence-matched-to-evidence-improving-your-thinking-and-analytical-skills-your-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -841,7 +823,7 @@ The wider benefit is compounding learning. Every clear forecast becomes a small 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -861,7 +843,7 @@ The wider benefit is compounding learning. Every clear forecast becomes a small 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -893,7 +875,7 @@ The wider benefit is compounding learning. Every clear forecast becomes a small 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -945,7 +927,7 @@ The wider benefit is compounding learning. Every clear forecast becomes a small 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -990,7 +972,7 @@ The wider benefit is compounding learning. Every clear forecast becomes a small 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1031,205 +1013,171 @@ The wider benefit is compounding learning. Every clear forecast becomes a small 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
-   Source: iarpa.gov  
-   Link: <a href="https://www.iarpa.gov/research-programs/ace" target="_blank" rel="noopener noreferrer nofollow">https://www.iarpa.gov/research-programs/ace</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACEThe goal of the ACE Program is to dramatically enhance the accuracy, precision, and timeliness of intelligence forecasts for a broad r...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: learnmoore.org  
-   Link: <a href="https://learnmoore.org/papers/Mellers%20et%20al%202014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learnmoore.org/papers/Mellers%20et%20al%202014.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mellers et al 2014.pdfby B Mellers · 2014 · Cited by 434 — Results showed that probability training, team collaboration, and tracking imp...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: healy.econ.ohio-state.edu  
-   Title: The Trouble With Overconfidence  
-   Link: <a href="https://healy.econ.ohio-state.edu/papers/Moore_Healy-TroubleWithOverconfidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://healy.econ.ohio-state.edu/papers/Moore_Healy-TroubleWithOverconfidence.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by DA Moore · 2008 · Cited by 3888 — The authors present a reconciliation of 3 distinct ways in defined overconfidence: (a) overesti...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: learnmoore.org  
-   Link: <a href="https://learnmoore.org/mooredata/HOC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learnmoore.org/mooredata/HOC.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overprecision in Judgmentby DA Moore · Cited by 192 — Moore and Healy (2008) distinguish three varieties of overconfidence: 1) Overestima...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s13164-023-00672-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13164-023-00672-2</a>  
-
-6. <a id="endnote-6"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/</a>  
-
-7. <a id="endnote-7"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/</a>  
-
-8. <a id="endnote-8"></a>
-   Source: psych.utah.edu  
-   Title: Eyewitness Confidence Does Not Necessarily Indicate  
-   Link: <a href="https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf</a>  
-
-9. <a id="endnote-9"></a>
-   Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/base-rate-neglect-and-conservatism-in-probabilistic-reasoning-insights-from-eliciting-full-distributions/57619E3572DB3A6035101546DB147F7E" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/base-rate-neglect-and-conservatism-in-probabilistic-reasoning-insights-from-eliciting-full-distributions/57619E3572DB3A6035101546DB147F7E</a>  
-
-10. <a id="endnote-10"></a>
-   Source: repository.library.noaa.gov  
-   Title: The Impact of Forecast Inconsistency and Probabilistic  
-   Link: <a href="https://repository.library.noaa.gov/view/noaa/51145/noaa_51145_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/51145/noaa_51145_DS1.pdf</a>  
-
-11. <a id="endnote-11"></a>
-   Source: pure.mpg.de  
-   Link: <a href="https://pure.mpg.de/rest/items/item_2102632_11/component/file_2102631/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2102632_11/component/file_2102631/content</a>  
-
-12. <a id="endnote-12"></a>
-   Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/acp.4236" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/acp.4236</a>  
-
-13. <a id="endnote-13"></a>
-   Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-026-00717-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-026-00717-x</a>  
-
-14. <a id="endnote-14"></a>
-   Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/BF03205299" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/BF03205299</a>  
-
-15. <a id="endnote-15"></a>
-   Source: link.springer.com  
-   Link: <a href="https://link.springer.com/rwe/10.1007/978-3-319-28099-8_1157-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-319-28099-8_1157-1</a>  
-
-16. <a id="endnote-16"></a>
-   Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6093d448e90e0726f52fc54c/updating-the-evidence-behind-the-optimism-bias-uplifts-for-transport-appraisals.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6093d448e90e0726f52fc54c/updating-the-evidence-behind-the-optimism-bias-uplifts-for-transport-appraisals.pdf</a>  
-
-17. <a id="endnote-17"></a>
-   Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acp.4258" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/acp.4258</a>  
-
-18. <a id="endnote-18"></a>
-   Source: sms.onlinelibrary.wiley.com  
-   Link: <a href="https://sms.onlinelibrary.wiley.com/doi/10.1002/smj.3450" target="_blank" rel="noopener noreferrer nofollow">https://sms.onlinelibrary.wiley.com/doi/10.1002/smj.3450</a>  
-
-19. <a id="endnote-19"></a>
-   Source: healy.econ.ohio-state.edu  
-   Title: Moore Healy Trouble With Overconfidence WP  
-   Link: <a href="https://healy.econ.ohio-state.edu/papers/Moore_Healy-TroubleWithOverconfidence_WP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://healy.econ.ohio-state.edu/papers/Moore_Healy-TroubleWithOverconfidence_WP.pdf</a>  
-
-20. <a id="endnote-20"></a>
-   Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/weighted-brier-score-decompositions-for-topically-heterogenous-forecasting-[tournaments" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/weighted-brier-score-decompositions-for-topically-heterogenous-forecasting-[tournaments</a>  
-
-21. <a id="endnote-21"></a>
-   Source: cambridge.org  
-   Title: recalibrating probabilistic forecasts to improve theiraccuracy  
-   Link: <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5D8F0DFC90FC1E9B5C38C12992A6C6A7/S1930297500009049a.pdf/recalibrating_probabilistic_forecasts_to_improve_theiraccuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5D8F0DFC90FC1E9B5C38C12992A6C6A7/S1930297500009049a.pdf/recalibrating_probabilistic_forecasts_to_improve_theiraccuracy.pdf</a>  
-
-22. <a id="endnote-22"></a>
-   Source: researchnow.flinders.edu.au  
-   Link: <a href="https://researchnow.flinders.edu.au/en/publications/the-effect-of-judgement-type-and-confidence-scale-on-confidence-a/" target="_blank" rel="noopener noreferrer nofollow">https://researchnow.flinders.edu.au/en/publications/the-effect-of-judgement-type-and-confidence-scale-on-confidence-a/</a>  
-
-23. <a id="endnote-23"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12101119/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12101119/</a>  
-
-24. <a id="endnote-24"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7923594/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7923594/</a>  
-
-25. <a id="endnote-25"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12523994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12523994/</a>  
-
-26. <a id="endnote-26"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12730000/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12730000/</a>  
-
-27. <a id="endnote-27"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/</a>  
-
-28. <a id="endnote-28"></a>
-   Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18426301/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18426301/</a>  
-
-29. <a id="endnote-29"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
-
-30. <a id="endnote-30"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12366471/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12366471/</a>  
-
-31. <a id="endnote-31"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8074796/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8074796/</a>  
-
-32. <a id="endnote-32"></a>
-   Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Probability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Probability</a>  
-
-33. <a id="endnote-33"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Brier score  
-   Link: <a href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brier_score</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brier_score</a>  
 
-34. <a id="endnote-34"></a>
+2.<a id="endnote-2"></a>
+   Source: metaculus.com  
+   Title: comparing forecasting track records for ai benchmarking and beyond  
+   Link:<a href="https://www.metaculus.com/notebooks/28552/comparing-forecasting-track-records-for-ai-benchmarking-and-beyond/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/28552/comparing-forecasting-track-records-for-ai-benchmarking-and-beyond/</a>  
+
+3.<a id="endnote-3"></a>
+   Source: commoncog.com  
+   Title: how do you evaluate your own predictions  
+   Link:<a href="https://commoncog.com/how-do-you-evaluate-your-own-predictions/" target="_blank" rel="noopener noreferrer nofollow">https://commoncog.com/how-do-you-evaluate-your-own-predictions/</a>  
+
+4.<a id="endnote-4"></a>
+   Source: cambridge.org  
+   Title: University Press & Assessment Weighted Brier score decompositions for topically  
+   Link:<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8172E04F2DBC601DA5D953D4685CA346/S1930297500007099a.pdf/weighted_brier_score_decompositions_for_topically_heterogenous_forecasting_tournaments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8172E04F2DBC601DA5D953D4685CA346/S1930297500007099a.pdf/weighted_brier_score_decompositions_for_topically_heterogenous_forecasting_tournaments.pdf</a>  
+
+5.<a id="endnote-5"></a>
+   Source: metaculus.com  
+   Title: exploring metaculuss ai track record  
+   Link:<a href="https://www.metaculus.com/notebooks/16708/exploring-metaculuss-ai-track-record/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/16708/exploring-metaculuss-ai-track-record/</a>  
+
+6.<a id="endnote-6"></a>
+   Source: metaculus.com  
+   Title: why i reject the comparison of metaculus to prediction markets  
+   Link:<a href="https://www.metaculus.com/notebooks/17599/why-i-reject-the-comparison-of-metaculus-to-prediction-markets/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/17599/why-i-reject-the-comparison-of-metaculus-to-prediction-markets/</a>  
+
+7.<a id="endnote-7"></a>
+   Source: cambridge.org  
+   Link:<a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/weighted-brier-score-decompositions-for-topically-heterogenous-forecasting-tournaments/8172E04F2DBC601DA5D953D4685CA346" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/weighted-brier-score-decompositions-for-topically-heterogenous-forecasting-tournaments/8172E04F2DBC601DA5D953D4685CA346</a>  
+
+8.<a id="endnote-8"></a>
+   Source: dictionary.cambridge.org  
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/confidence" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/confidence</a>  
+
+9.<a id="endnote-9"></a>
+   Source: cambridge.org  
+   Link:<a href="https://www.cambridge.org/core/books/judgment-under-uncertainty/calibration-of-probabilities-the-state-of-the-art-to-1980/9F0C9EC2997AEEB6DDDB304C2F935A16" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/judgment-under-uncertainty/calibration-of-probabilities-the-state-of-the-art-to-1980/9F0C9EC2997AEEB6DDDB304C2F935A16</a>  
+
+10.<a id="endnote-10"></a>
+   Source: Wikipedia  
+   Link:<a href="https://en.wikipedia.org/wiki/Confidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confidence</a>  
+
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: The Good Judgment Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Good_Judgment_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Good_Judgment_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Good_Judgment_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Good_Judgment_Project</a>  
 
-35. <a id="endnote-35"></a>
-   Source: emergentmind.com  
-   Title: brier score  
-   Link: <a href="https://www.emergentmind.com/topics/brier-score" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/brier-score</a>  
+12.<a id="endnote-12"></a>
+   Source: goodjudgment.com  
+   Title: Good Judgment The impact of training and practice on judgmental accuracy  
+   Link:<a href="https://goodjudgment.com/wp-content/uploads/2018/12/jdm16511.pdf" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/wp-content/uploads/2018/12/jdm16511.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Good JudgmentThe impact of training and practice on judgmental accuracy...September 30, 2016 — by W Chang · 2016 · Cited by 153 — Althou...</p></details>
+   Published: September 30, 2016  
 
-36. <a id="endnote-36"></a>
-   Source: dataopsschool.com  
-   Title: brier score  
-   Link: <a href="https://dataopsschool.com/blog/brier-score/" target="_blank" rel="noopener noreferrer nofollow">https://dataopsschool.com/blog/brier-score/</a>  
+13.<a id="endnote-13"></a>
+   Source: bear.warrington.ufl.edu  
+   Link:<a href="https://bear.warrington.ufl.edu/brenner/mar7588/Papers/koehlerbrennergriffin2002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bear.warrington.ufl.edu/brenner/mar7588/Papers/koehlerbrennergriffin2002.pdf</a>  
+
+14.<a id="endnote-14"></a>
+   Source: goodjudgment.com  
+   Link:<a href="https://goodjudgment.com/about/the-science-of-superforecasting/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/about/the-science-of-superforecasting/</a>  
+
+15.<a id="endnote-15"></a>
+   Source: goodjudgment.com  
+   Link:<a href="https://goodjudgment.com/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/</a>  
+
+16.<a id="endnote-16"></a>
+   Source: home.csulb.edu  
+   Link:<a href="https://home.csulb.edu/~cwallis/382/certainty/chapter19.html" target="_blank" rel="noopener noreferrer nofollow">https://home.csulb.edu/~cwallis/382/certainty/chapter19.html</a>  
+
+17.<a id="endnote-17"></a>
+   Source: goodjudgment.com  
+   Link:<a href="https://goodjudgment.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/about/</a>  
+
+18.<a id="endnote-18"></a>
+   Source: goodjudgment.com  
+   Title: Goldstein et al GJP vs ICPM  
+   Link:<a href="https://goodjudgment.com/wp-content/uploads/2020/11/Goldstein-et-al-GJP-vs-ICPM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/wp-content/uploads/2020/11/Goldstein-et-al-GJP-vs-ICPM.pdf</a>  
+
+19.<a id="endnote-19"></a>
+   Source: goodjudgment.com  
+   Link:<a href="https://goodjudgment.com/resources/case-studies/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/resources/case-studies/</a>  
+
+20.<a id="endnote-20"></a>
+   Source: psychologytoday.com  
+   Link:<a href="https://www.psychologytoday.com/us/basics/confidence" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/confidence</a>  
+
+21.<a id="endnote-21"></a>
+   Source: jclinepi.com  
+   Link:<a href="https://www.jclinepi.com/article/S0895-4356%2809%2900363-1/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jclinepi.com/article/S0895-4356%2809%2900363-1/pdf</a>  
+
+22.<a id="endnote-22"></a>
+   Source: home.csulb.edu  
+   Title: Training to Improve Calibration  
+   Link:<a href="https://home.csulb.edu/~cwallis/382/certainty/overconfidence/Training%20to%20Improve%20Calibration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://home.csulb.edu/~cwallis/382/certainty/overconfidence/Training%20to%20Improve%20Calibration.pdf</a>  
+
+23.<a id="endnote-23"></a>
+   Source: pure.mpg.de  
+   Link:<a href="https://pure.mpg.de/rest/items/item_2220390_1/component/file_2220389/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2220390_1/component/file_2220389/content</a>  
+
+24.<a id="endnote-24"></a>
+   Source: goodjudgment.substack.com  
+   Link:<a href="https://goodjudgment.substack.com/p/a-primer-on-good-judgment-inc-and" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.substack.com/p/a-primer-on-good-judgment-inc-and</a>  
+
+25.<a id="endnote-25"></a>
+   Source: stat.berkeley.edu  
+   Link:<a href="https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/calibration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/calibration.pdf</a>  
+
+26.<a id="endnote-26"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=pedNak4S9IE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pedNak4S9IE</a>  
+
+27.<a id="endnote-27"></a>
+   Source: alexandria.unisg.ch  
+   Link:<a href="https://www.alexandria.unisg.ch/server/api/core/bitstreams/50fe560a-bf6b-47dd-827c-6432801ea15a/content" target="_blank" rel="noopener noreferrer nofollow">https://www.alexandria.unisg.ch/server/api/core/bitstreams/50fe560a-bf6b-47dd-827c-6432801ea15a/content</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cac76CPLc-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cac76CPLc-M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward Superforecasting®: Lessons from the Eli Lilly Probability [Assessment](&amp;#123;&amp;#123; &#x27;assessment/&#x27; | relative_url &amp;#125;&amp;#125;) Panel | SDG...</p></details>
+   Title: LLM confidence calibration. Confidence Gap in high stakes decision making  
+   Link:<a href="https://www.youtube.com/watch?v=7trfF0BV3xo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7trfF0BV3xo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brier Score That Proves PropsBot.AI Beats Vegas — AI Sports Betting Tutorial #6...</p></details>
 
-38. <a id="endnote-38"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Title: The Science of Making Better Decisions  
-   Link: <a href="https://www.youtube.com/watch?v=yDKBHSCV6Bk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yDKBHSCV6Bk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence Calibration forecasting Superforecasting You Don&#x27;t Lose Money by Being Wrong. You Lose It by Being Certain | Superforecasting...</p></details>
+   Title: 'Superforecasting': The people that [predict](&#123;&#123; 'predict/' | relative_url &#125;&#125;) the future – BBC REEL  
+   Link:<a href="https://www.youtube.com/watch?v=SAzTP2A634g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SAzTP2A634g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Model Calibration - Brier Score Explained...</p></details>
 
-39. <a id="endnote-39"></a>
+30.<a id="endnote-30"></a>
+   Source: stanford.edu  
+   Link:<a href="https://stanford.edu/~knutson/jdm/mellers15.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stanford.edu/~knutson/jdm/mellers15.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityIdentifying and Cultivating Superforecasters as a Method of...by B Mellers · 2015 · Cited by 332 — Accurate probabili...</p></details>
+
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mBDh5yivq7M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBDh5yivq7M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision-Making Under Miscalibration...</p></details>
+   Title: Model Calibration  
+   Link:<a href="https://www.youtube.com/watch?v=BiaebXlgfNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BiaebXlgfNQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LLM confidence calibration. Confidence Gap in high stakes decision making...</p></details>
 
-40. <a id="endnote-40"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/364692195_Base_rate_neglect_and_conservatism_in_probabilistic_reasoning_Insights_from_eliciting_full_distributions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364692195_Base_rate_neglect_and_conservatism_in_probabilistic_reasoning_Insights_from_eliciting_full_distributions</a>  
+   Link:<a href="https://www.researchgate.net/publication/320911494_Confidence_Calibration_in_a_Multiyear_Geopolitical_Forecasting_Competition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320911494_Confidence_Calibration_in_a_Multiyear_Geopolitical_Forecasting_Competition</a>  
 
-41. <a id="endnote-41"></a>
-   Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/320911494_Confidence_Calibration_in_a_Multiyear_Geopolitical_Forecasting_Competition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320911494_Confidence_Calibration_in_a_Multiyear_Geopolitical_Forecasting_Competition</a>  
+33.<a id="endnote-33"></a>
+   Source: stata.com  
+   Link:<a href="https://www.stata.com/manuals15/rbrier.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stata.com/manuals15/rbrier.pdf</a>  
 
-42. <a id="endnote-42"></a>
-   Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/8685888_Overconfidence_in_Interval_Estimates" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/8685888_Overconfidence_in_Interval_Estimates</a>  
+34.<a id="endnote-34"></a>
+   Source: merriam-webster.com  
+   Link:<a href="https://www.merriam-webster.com/dictionary/calibration" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/calibration</a>  
 
-43. <a id="endnote-43"></a>
-   Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/5305238_The_Trouble_With_Overconfidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5305238_The_Trouble_With_Overconfidence</a>  
+35.<a id="endnote-35"></a>
+   Source: merriam-webster.com  
+   Link:<a href="https://www.merriam-webster.com/dictionary/confidence" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/confidence</a>  
 
-44. <a id="endnote-44"></a>
-   Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/264682051_Confidence-Accuracy_Calibration_with_General_Knowledge_and_Eyewitness_Memory_Cued_Recall_Questions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264682051_Confidence-Accuracy_Calibration_with_General_Knowledge_and_Eyewitness_Memory_Cued_Recall_Questions</a>  
+36.<a id="endnote-36"></a>
+   Source: openreview.net  
+   Link:<a href="https://openreview.net/forum?id=6DDaTwTvdE" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=6DDaTwTvdE</a>  
 
-45. <a id="endnote-45"></a>
-   Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions</a>  
-
-46. <a id="endnote-46"></a>
-   Source: medium.com  
-   Link: <a href="https://medium.com/%40eskandar.sahel/applying-calibration-techniques-to-improve-probabilistic-predictions-in-machine-learning-models-c175c2e38ffc" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40eskandar.sahel/applying-calibration-techniques-to-improve-probabilistic-predictions-in-machine-learning-models-c175c2e38ffc</a>  
+37.<a id="endnote-37"></a>
+   Source: aiimpacts.org  
+   Link:<a href="https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/</a>  

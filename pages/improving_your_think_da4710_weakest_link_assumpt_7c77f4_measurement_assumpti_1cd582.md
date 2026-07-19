@@ -286,7 +286,7 @@ Metrics do more than record reality. They also define what success looks like.
 
 Suppose a company claims its customer support has improved because average call time has fallen by 30%. That statistic assumes that shorter calls represent better service. Yet customers may simply be ending calls without resolving their problems. The metric has silently changed the question from "Did customers receive effective help?" to "How quickly were calls completed?"
 
-Measurement experts describe this as a problem of **construct validity**: whether a measure genuinely represents the concept it claims to measure. A measure can be reliable—producing consistent numbers—while still lacking validity because it captures the wrong construct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cur.org/journal-article/so-you-want-to-measure-something-an-introduction-to-measurement-validity-in-educational-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cur.org">[cur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cur.org</span><span class="citation-popover-title">So, You Want to Measure Something?</span><span class="citation-popover-snippet">An Introduction...by TT Tuma — Measurement validity is essential for ensuring that research findings lead to trustworthy conclusions. Ye...</span></span></span>
+Measurement experts describe this as a problem of **construct validity**: whether a measure genuinely represents the concept it claims to measure. A measure can be reliable—producing consistent numbers—while still lacking validity because it captures the wrong construct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cur.org/journal-article/so-you-want-to-measure-something-an-introduction-to-measurement-validity-in-educational-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cur.org">[cur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cur.org</span><span class="citation-popover-title">So, You Want to Measure Something?</span><span class="citation-popover-snippet">An Introduction...by TT Tuma — Measurement validity is essential for ensuring that research findings lead to trustworthy conclusions. Ye...</span></span></span>
 
 Weakest-link thinking therefore asks:
 
@@ -334,7 +334,7 @@ DecisionMetricHidden assumptionShould we keep this employee?Annual performance r
 
 The more important the decision, the stronger the evidence needed that the metric corresponds to the underlying objective.
 
-Measurement specialists emphasise gathering multiple forms of validity evidence rather than assuming that a familiar measure automatically represents the intended concept. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psicothema.com/pdf/4167.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psicothema.com">[Psicothema]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psicothema.com</span><span class="citation-popover-title">Validity evidence based on test content</span><span class="citation-popover-snippet">Validity evidence based on test contentJanuary 15, 2014 — by S Sireci · 2014 · Cited by 576 — In this paper, we describe the lo...</span><span class="citation-popover-meta">Published: January 15, 2014</span></span></span>
+Measurement specialists emphasise gathering multiple forms of validity evidence rather than assuming that a familiar measure automatically represents the intended concept.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psicothema.com/pdf/4167.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psicothema.com">[Psicothema]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psicothema.com</span><span class="citation-popover-title">Validity evidence based on test content</span><span class="citation-popover-snippet">Validity evidence based on test contentJanuary 15, 2014 — by S Sireci · 2014 · Cited by 576 — In this paper, we describe the lo...</span><span class="citation-popover-meta">Published: January 15, 2014</span></span></span>
 
 ## Common failures in churn, hiring and performance claims
 
@@ -392,7 +392,7 @@ Employees naturally optimise whatever receives attention.
 
 If quality, creativity or long-term improvement are omitted from measurement, they may decline while performance metrics continue to rise.
 
-This illustrates a broader pattern identified by Goodhart's Law: when a measure becomes the target itself, its usefulness as a measure tends to deteriorate because people adapt their behaviour to maximise the metric rather than the underlying objective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9122957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Splunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on metrics is a fundamental challenge for AI</span><span class="citation-popover-snippet">Goodhart&#x27;s law. Here Goodhart&#x27;s law is framed in terms of a metric being chosen as a proxy for a goal, and the collapse that occurs with...</span></span></span>
+This illustrates a broader pattern identified by Goodhart's Law: when a measure becomes the target itself, its usefulness as a measure tends to deteriorate because people adapt their behaviour to maximise the metric rather than the underlying objective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9122957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Splunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on metrics is a fundamental challenge for AI</span><span class="citation-popover-snippet">Goodhart&#x27;s law. Here Goodhart&#x27;s law is framed in terms of a metric being chosen as a proxy for a goal, and the collapse that occurs with...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uKVZ3Zxi1no" title="What is Goodhart&#x27;s Law? And Why does it Matter?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uKVZ3Zxi1no" target="_blank" rel="noopener noreferrer">What is Goodhart&#x27;s Law? And Why does it Matter?</a></p><p class="youtube-embed-meta">Channel: Erik Wilde</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uKVZ3Zxi1no" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uKVZ3Zxi1no">Open on YouTube</a></p></div></div></div>
@@ -408,7 +408,7 @@ Researchers sometimes distinguish between questions such as:
 
 The second question is often more important.
 
-A survey might estimate customer satisfaction with remarkable precision, but if respondents interpret the questions differently from what researchers intended, highly accurate calculations merely produce highly accurate measurements of the wrong thing. Measurement validity research repeatedly stresses that trustworthy conclusions depend on both accurate measurement and appropriate interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cur.org/journal-article/so-you-want-to-measure-something-an-introduction-to-measurement-validity-in-educational-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cur.org">[cur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cur.org</span><span class="citation-popover-title">So, You Want to Measure Something?</span><span class="citation-popover-snippet">An Introduction...by TT Tuma — Measurement validity is essential for ensuring that research findings lead to trustworthy conclusions. Ye...</span></span></span>
+A survey might estimate customer satisfaction with remarkable precision, but if respondents interpret the questions differently from what researchers intended, highly accurate calculations merely produce highly accurate measurements of the wrong thing. Measurement validity research repeatedly stresses that trustworthy conclusions depend on both accurate measurement and appropriate interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cur.org/journal-article/so-you-want-to-measure-something-an-introduction-to-measurement-validity-in-educational-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cur.org">[cur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cur.org</span><span class="citation-popover-title">So, You Want to Measure Something?</span><span class="citation-popover-snippet">An Introduction...by TT Tuma — Measurement validity is essential for ensuring that research findings lead to trustworthy conclusions. Ye...</span></span></span>
 
 Weakest-link thinking therefore resists being impressed by precision alone. Confidence intervals, significance tests and decimal places matter only after establishing that the metric itself represents the intended concept.
 
@@ -436,201 +436,201 @@ These questions focus attention on the assumption connecting the metric to the c
 
 Measurement assumptions often become invisible because numbers appear objective. Yet every metric is a model of reality rather than reality itself. The weakest link is frequently not the data but the unexamined belief that the chosen measure captures what truly matters.
 
-The most robust conclusions rely on metrics that have demonstrated validity, are interpreted alongside complementary evidence, and remain tied to the real decision instead of becoming the decision's substitute. When a conclusion looks unusually strong because it is backed by precise numbers, one of the first questions should be whether those numbers are measuring the right thing at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9122957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on metrics is a fundamental challenge for AI</span><span class="citation-popover-snippet">Goodhart&#x27;s law. Here Goodhart&#x27;s law is framed in terms of a metric being chosen as a proxy for a goal, and the collapse that occurs with...</span></span></span>
+The most robust conclusions rely on metrics that have demonstrated validity, are interpreted alongside complementary evidence, and remain tied to the real decision instead of becoming the decision's substitute. When a conclusion looks unusually strong because it is backed by precise numbers, one of the first questions should be whether those numbers are measuring the right thing at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9122957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on metrics is a fundamental challenge for AI</span><span class="citation-popover-snippet">Goodhart&#x27;s law. Here Goodhart&#x27;s law is framed in terms of a metric being chosen as a proxy for a goal, and the collapse that occurs with...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7WtM_8pXH9U" title="When the Measure Becomes the Idol | Goodhart’s Law &amp; The Law of Distortion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7WtM_8pXH9U" target="_blank" rel="noopener noreferrer">When the Measure Becomes the Idol | Goodhart’s Law &amp; The Law of Distortion</a></p><p class="youtube-embed-meta">Channel: BASIRA Lab &middot; Views: 101 &middot; Uploaded: February 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7WtM_8pXH9U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7WtM_8pXH9U">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the Metric Is the Weak Link. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the Metric Is the Weak Link. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-        </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+</h4>
+<p class="fr-book-author">By Douglas W. Hubbard</p>
         
-        <p class="fr-book-desc">Directly addresses whether chosen measures genuinely capture what matters and how to improve weak metrics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses whether chosen measures genuinely capture what matters and how to improve weak metrics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics+by+Jerry+Z.+Muller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tyranny of Metrics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J3GYDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Tyranny of Metrics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics+by+Jerry+Z.+Muller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tyranny of Metrics">The Tyranny of Metrics</a>
-        </h4>
-        <p class="fr-book-author">By Jerry Z. Muller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics+by+Jerry+Z.+Muller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tyranny of Metrics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J3GYDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Tyranny of Metrics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics+by+Jerry+Z.+Muller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tyranny of Metrics">The Tyranny of Metrics</a>
+</h4>
+<p class="fr-book-author">By Jerry Z. Muller</p>
         
-        <p class="fr-book-desc">Closely matches the page&#x27;s focus on metrics redefining success and creating false confidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics+by+Jerry+Z.+Muller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches the page&#x27;s focus on metrics redefining success and creating false confidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics+by+Jerry+Z.+Muller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases that cause people to trust misleading numbers and weak proxies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases that cause people to trust misleading numbers and weak proxies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Helps readers distinguish meaningful evidence from misleading measurements and weak indicators.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish meaningful evidence from misleading measurements and weak indicators.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tyranny of Metrics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tyranny of Metrics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 50/60/70/120cm Wide Magnetic Office Home Whiteboard White Board Notice Dry Wipe"><img src="{{ '/assets/images/marketplace-covers/94e89e8fa08e20f519c3.jpg' | relative_url }}" alt="Listing image for 50/60/70/120cm Wide Magnetic Office Home Whiteboard White Board Notice Dry Wipe" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer">50/60/70/120cm Wide Magnetic Office Home Whiteboard White Board Notice Dry Wipe</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: office whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 50/60/70/120cm Wide Magnetic Office Home Whiteboard White Board Notice Dry Wipe"><img src="{{ '/assets/images/marketplace-covers/94e89e8fa08e20f519c3.jpg' | relative_url }}" alt="Listing image for 50/60/70/120cm Wide Magnetic Office Home Whiteboard White Board Notice Dry Wipe" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer">50/60/70/120cm Wide Magnetic Office Home Whiteboard White Board Notice Dry Wipe</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: office whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home"><img src="{{ '/assets/images/marketplace-covers/5b3f81e9ac849dc6c760.jpg' | relative_url }}" alt="Listing image for Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: office whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home"><img src="{{ '/assets/images/marketplace-covers/5b3f81e9ac849dc6c760.jpg' | relative_url }}" alt="Listing image for Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: office whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe Small Memo Notice Board for Office Home Eraser"><img src="{{ '/assets/images/marketplace-covers/9280dae25db5c52468df.jpg' | relative_url }}" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe Small Memo Notice Board for Office Home Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe Small Memo Notice Board for Office Home Eraser</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: office whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe Small Memo Notice Board for Office Home Eraser"><img src="{{ '/assets/images/marketplace-covers/9280dae25db5c52468df.jpg' | relative_url }}" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe Small Memo Notice Board for Office Home Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe Small Memo Notice Board for Office Home Eraser</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: office whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="{{ '/assets/images/marketplace-covers/f589e8baffbb3a97ef13.jpg' | relative_url }}" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: office whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="{{ '/assets/images/marketplace-covers/f589e8baffbb3a97ef13.jpg' | relative_url }}" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: office whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office whiteboard" data-ebay-reference="bad-metrics-when-the-metric-is-the-weak-link-improving-your-think-office-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -646,7 +646,7 @@ The most robust conclusions rely on metrics that have demonstrated validity, are
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -666,7 +666,7 @@ The most robust conclusions rely on metrics that have demonstrated validity, are
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -698,7 +698,7 @@ The most robust conclusions rely on metrics that have demonstrated validity, are
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -750,7 +750,7 @@ The most robust conclusions rely on metrics that have demonstrated validity, are
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -795,7 +795,7 @@ The most robust conclusions rely on metrics that have demonstrated validity, are
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -836,93 +836,93 @@ The most robust conclusions rely on metrics that have demonstrated validity, are
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cur.org  
    Title: So, You Want to Measure Something?  
-   Link: <a href="https://www.cur.org/journal-article/so-you-want-to-measure-something-an-introduction-to-measurement-validity-in-educational-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.cur.org/journal-article/so-you-want-to-measure-something-an-introduction-to-measurement-validity-in-educational-research/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Introduction...by TT Tuma — Measurement validity is essential for ensuring that research findings lead to trustworthy conclusions. Ye...</p></details>
+   Link:<a href="https://www.cur.org/journal-article/so-you-want-to-measure-something-an-introduction-to-measurement-validity-in-educational-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.cur.org/journal-article/so-you-want-to-measure-something-an-introduction-to-measurement-validity-in-educational-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Introduction...by TT Tuma — Measurement validity is essential for ensuring that research findings lead to trustworthy conclusions. Ye...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCConstructing Validity: New Developments in Creating  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6754793/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6754793/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by LA Clark · 2019 · Cited by 1777 — Clark and Watson (1995) discussed theoretical principles, practical issues, and pragmatic decisio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6754793/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6754793/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by LA Clark · 2019 · Cited by 1777 — Clark and Watson (1995) discussed theoretical principles, practical issues, and pragmatic decisio...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: psicothema.com  
    Title: Validity evidence based on test content  
-   Link: <a href="https://www.psicothema.com/pdf/4167.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.psicothema.com/pdf/4167.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Validity evidence based on test contentJanuary 15, 2014 — by S Sireci · 2014 · Cited by 576 — In this paper, we describe the lo...</p></details>
+   Link:<a href="https://www.psicothema.com/pdf/4167.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.psicothema.com/pdf/4167.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Validity evidence based on test contentJanuary 15, 2014 — by S Sireci · 2014 · Cited by 576 — In this paper, we describe the lo...</p></details>
    Published: January 15, 2014  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCReliance on metrics is a fundamental challenge for AI  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9122957/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9122957/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s law. Here Goodhart&#x27;s law is framed in terms of a metric being chosen as a proxy for a goal, and the collapse that occurs with...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9122957/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9122957/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s law. Here Goodhart&#x27;s law is framed in terms of a metric being chosen as a proxy for a goal, and the collapse that occurs with...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: splunk.com  
    Title: goodharts law  
-   Link: <a href="https://www.splunk.com/en_us/blog/learn/goodharts-law.html" target="_blank" rel="noopener noreferrer nofollow">https://www.splunk.com/en_us/blog/learn/goodharts-law.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Goodhart&#x27;s Law?6 Mar 2024 — Goodhart&#x27;s Law warns of distorted metrics when tied to goals: It states, &quot;When a measure becomes a ta...</p></details>
+   Link:<a href="https://www.splunk.com/en_us/blog/learn/goodharts-law.html" target="_blank" rel="noopener noreferrer nofollow">https://www.splunk.com/en_us/blog/learn/goodharts-law.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Goodhart&#x27;s Law?6 Mar 2024 — Goodhart&#x27;s Law warns of distorted metrics when tied to goals: It states, &quot;When a measure becomes a ta...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Goodhart's law  
-   Link: <a href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Goodhart%27s_law</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s lawGoodhart&#x27;s law is an adage that has been stated as, &quot;When a measure becomes a target, it ceases to be a good measure&quot;. F...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Goodhart%27s_law</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s lawGoodhart&#x27;s law is an adage that has been stated as, &quot;When a measure becomes a target, it ceases to be a good measure&quot;. F...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2505.10573v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.10573v3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Validity-Centered Framework for AI EvaluationAt the same time, our framework also informs the construction of evaluations designed to s...</p></details>
+   Link:<a href="https://arxiv.org/html/2505.10573v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.10573v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Validity-Centered Framework for AI EvaluationAt the same time, our framework also informs the construction of evaluations designed to s...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/259825627_Validity_evidence_based_on_test_content" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259825627_Validity_evidence_based_on_test_content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Validity evidence based on test contentValidity evidence based on test content is one of the five forms of validity evidence stipul...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/259825627_Validity_evidence_based_on_test_content" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259825627_Validity_evidence_based_on_test_content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Validity evidence based on test contentValidity evidence based on test content is one of the five forms of validity evidence stipul...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: modelthinkers.com  
-   Link: <a href="https://modelthinkers.com/mental-model/goodharts-law" target="_blank" rel="noopener noreferrer nofollow">https://modelthinkers.com/mental-model/goodharts-law</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s LawGoodhart&#x27;s Law highlights challenges with measuring anything as a proxy for a goal, but it should not be mistaken for dismi...</p></details>
+   Link:<a href="https://modelthinkers.com/mental-model/goodharts-law" target="_blank" rel="noopener noreferrer nofollow">https://modelthinkers.com/mental-model/goodharts-law</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s LawGoodhart&#x27;s Law highlights challenges with measuring anything as a proxy for a goal, but it should not be mistaken for dismi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/goodharts-law-why-your-metrics-lying-you-kassidy-bird-sagbf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/goodharts-law-why-your-metrics-lying-you-kassidy-bird-sagbf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law and Why Your Metrics are Lying to YouHow is behavior evolving relative to original assumptions? This is a shift from measu...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/goodharts-law-why-your-metrics-lying-you-kassidy-bird-sagbf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/goodharts-law-why-your-metrics-lying-you-kassidy-bird-sagbf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law and Why Your Metrics are Lying to YouHow is behavior evolving relative to original assumptions? This is a shift from measu...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law and the Death of Honest MetricsExample: “reduce average handling time” in customer support works until it starts rewarding...</p></details>
+   Link:<a href="https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law and the Death of Honest MetricsExample: “reduce average handling time” in customer support works until it starts rewarding...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: changeassociates.com  
-   Link: <a href="https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/" target="_blank" rel="noopener noreferrer nofollow">https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law in change programmesHow Goodhart&#x27;s Law undermines change programmes when metrics become the goal. Plus practical ways to k...</p></details>
+   Link:<a href="https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/" target="_blank" rel="noopener noreferrer nofollow">https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law in change programmesHow Goodhart&#x27;s Law undermines change programmes when metrics become the goal. Plus practical ways to k...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: m.youtube.com  
    Title: Distinguish among direct, indirect, and product measures of behavior  
-   Link: <a href="https://m.youtube.com/watch?v=mttsaDFto-8" target="_blank" rel="noopener noreferrer nofollow">https://m.youtube.com/watch?v=mttsaDFto-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The KPI Trap: When Metrics Start Managing You is highly relevant because it directly explains how choosing the wrong metric can distort i...</p></details>
+   Link:<a href="https://m.youtube.com/watch?v=mttsaDFto-8" target="_blank" rel="noopener noreferrer nofollow">https://m.youtube.com/watch?v=mttsaDFto-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The KPI Trap: When Metrics Start Managing You is highly relevant because it directly explains how choosing the wrong metric can distort i...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: deviq.com  
-   Link: <a href="https://deviq.com/laws/goodharts-law/" target="_blank" rel="noopener noreferrer nofollow">https://deviq.com/laws/goodharts-law/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>w highlights a paradox inherent in relying on specific metrics for...Read more...</p></details>
+   Link:<a href="https://deviq.com/laws/goodharts-law/" target="_blank" rel="noopener noreferrer nofollow">https://deviq.com/laws/goodharts-law/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>w highlights a paradox inherent in relying on specific metrics for...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psychsafety.com  
    Title: goodharts law campbells law and the cobra effect  
-   Link: <a href="https://psychsafety.com/goodharts-law-campbells-law-and-the-cobra-effect/" target="_blank" rel="noopener noreferrer nofollow">https://psychsafety.com/goodharts-law-campbells-law-and-the-cobra-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law, Campbell&#x27;s Law, and the Cobra Effect.19 Jul 2024 — Goodhart&#x27;s Law is “When a measure becomes a target, it ceases to be a...</p></details>
+   Link:<a href="https://psychsafety.com/goodharts-law-campbells-law-and-the-cobra-effect/" target="_blank" rel="noopener noreferrer nofollow">https://psychsafety.com/goodharts-law-campbells-law-and-the-cobra-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law, Campbell&#x27;s Law, and the Cobra Effect.19 Jul 2024 — Goodhart&#x27;s Law is “When a measure becomes a target, it ceases to be a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gesis.org  
-   Link: <a href="https://www.gesis.org/fileadmin/admin/Dateikatalog/pdf/guidelines/validity_in_survey_research_repke_birkenmaier_lechner_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gesis.org/fileadmin/admin/Dateikatalog/pdf/guidelines/validity_in_survey_research_repke_birkenmaier_lechner_2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It encompasses multiple kinds of validity-...Read more...</p></details>
+   Link:<a href="https://www.gesis.org/fileadmin/admin/Dateikatalog/pdf/guidelines/validity_in_survey_research_repke_birkenmaier_lechner_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gesis.org/fileadmin/admin/Dateikatalog/pdf/guidelines/validity_in_survey_research_repke_birkenmaier_lechner_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It encompasses multiple kinds of validity-...Read more...</p></details>

@@ -278,7 +278,7 @@ Breaking a difficult problem into smaller parts is one of the most useful analyt
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_rebuilding_problem_l_e90efa-Illustration-1-dark.svg" | relative_url }}" alt="Rebuild Links illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_rebuilding_problem_l_e90efa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_rebuilding_problem_l_e90efa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Good analytical thinking therefore moves from **decomposition to synthesis**. After identifying separate elements, you rebuild the connections between them to understand how one decision affects another, where trade-offs appear, and which interactions determine the overall outcome. Research on systems thinking consistently shows that many important properties of complex situations arise from the relationships between parts rather than from the parts themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/systemic-thinking-for-policy-making_879c4f7a-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD+2The W. Edwards Deming Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Systemic Thinking for Policy Making</span><span class="citation-popover-snippet">Systemic Thinking for Policy Making - OECDThe approach provides a methodology to achieve a better understanding of the non-linear beh...</span></span></span>
+Good analytical thinking therefore moves from **decomposition to synthesis**. After identifying separate elements, you rebuild the connections between them to understand how one decision affects another, where trade-offs appear, and which interactions determine the overall outcome. Research on systems thinking consistently shows that many important properties of complex situations arise from the relationships between parts rather than from the parts themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/systemic-thinking-for-policy-making_879c4f7a-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD+2The W. Edwards Deming Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Systemic Thinking for Policy Making</span><span class="citation-popover-snippet">Systemic Thinking for Policy Making - OECDThe approach provides a methodology to achieve a better understanding of the non-linear beh...</span></span></span>
 
 ## How decomposition can fragment the situation
 
@@ -286,9 +286,9 @@ Separating a problem into manageable pieces makes investigation easier, but it a
 
 Imagine a delayed product launch. A decomposed analysis may produce separate workstreams for engineering, finance, marketing and customer support. Each team can optimise its own area successfully, yet the organisation may still make a poor decision if the interactions between those areas are ignored. A cheaper engineering solution may increase support costs. A marketing deadline may increase technical risk. A financial saving may damage customer trust.
 
-This is a classic example of what systems thinkers describe as losing the behaviour of the whole by concentrating exclusively on the behaviour of the parts. Russell Ackoff argued that analysis explains how components function, whereas synthesis explains why the overall system behaves as it does. Understanding emerges when the relationships are restored rather than when the components are studied in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://annievella.com/posts/exploring-systems-thinking-through-russell-ackoff/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: annievella.com">[Annie Vella]</a><span class="citation-popover" role="note"><span class="citation-popover-source">annievella.com</span><span class="citation-popover-title">Synthesis involves</span><span class="citation-popover-snippet">Annie VellaExploring Systems Thinking Through Russell Ackoff - Annie VellaJuly 6, 2024 — Synthetic thinking helps us understand the role...</span><span class="citation-popover-meta">Published: July 6, 2024</span></span></span>
+This is a classic example of what systems thinkers describe as losing the behaviour of the whole by concentrating exclusively on the behaviour of the parts. Russell Ackoff argued that analysis explains how components function, whereas synthesis explains why the overall system behaves as it does. Understanding emerges when the relationships are restored rather than when the components are studied in isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://annievella.com/posts/exploring-systems-thinking-through-russell-ackoff/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: annievella.com">[Annie Vella]</a><span class="citation-popover" role="note"><span class="citation-popover-source">annievella.com</span><span class="citation-popover-title">Synthesis involves</span><span class="citation-popover-snippet">Annie VellaExploring Systems Thinking Through Russell Ackoff - Annie VellaJuly 6, 2024 — Synthetic thinking helps us understand the role...</span><span class="citation-popover-meta">Published: July 6, 2024</span></span></span>
 
-The same principle appears in the OECD's work on complex problem solving. Modern analytical skill requires not only separating information into manageable components but also reconnecting those components into a coherent understanding of a changing system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/04/the-nature-of-problem-solving_g1g787cf/9789264273955-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">PDF] The Nature of Problem Solving (EN</span><span class="citation-popover-snippet">OECD[PDF] The Nature of Problem Solving (EN) - OECDMay 18, 2025 — While in individual CPS, problem solvers have to interact with a dynami...</span><span class="citation-popover-meta">Published: May 18, 2025</span></span></span>
+The same principle appears in the OECD's work on complex problem solving. Modern analytical skill requires not only separating information into manageable components but also reconnecting those components into a coherent understanding of a changing system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/04/the-nature-of-problem-solving_g1g787cf/9789264273955-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">PDF] The Nature of Problem Solving (EN</span><span class="citation-popover-snippet">OECD[PDF] The Nature of Problem Solving (EN) - OECDMay 18, 2025 — While in individual CPS, problem solvers have to interact with a dynami...</span><span class="citation-popover-meta">Published: May 18, 2025</span></span></span>
 
 ## Mapping interactions between parts
 
@@ -304,7 +304,7 @@ Several types of relationships deserve particular attention.
 
 These connections are often more informative than the individual components themselves. For example, reducing inventory may appear financially attractive until the relationship with supplier delays, customer demand and production resilience is considered. The important insight is not that inventory exists, but that inventory interacts with [uncertainty]({{ 'uncertainty/' | relative_url }}) throughout the system.
 
-Systems engineering standards similarly emphasise identifying interfaces and interdependencies because performance, resilience and security depend on how components work together, not merely on how well each component performs independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-title">SP.800 160v1</span><span class="citation-popover-snippet">NIST PublicationsNIST.SP.800-160v1.pdf16 Nov 2022 — It provides security-related implementation guidance for the standard and should be u...</span></span></span>
+Systems engineering standards similarly emphasise identifying interfaces and interdependencies because performance, resilience and security depend on how components work together, not merely on how well each component performs independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-title">SP.800 160v1</span><span class="citation-popover-snippet">NIST PublicationsNIST.SP.800-160v1.pdf16 Nov 2022 — It provides security-related implementation guidance for the standard and should be u...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o-Yp8A7BPE8" title="System Dynamics: Systems Thinking and Modeling for a Complex World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o-Yp8A7BPE8" target="_blank" rel="noopener noreferrer">System Dynamics: Systems Thinking and Modeling for a Complex World</a></p><p class="youtube-embed-meta">Channel: MIT OpenCourseWare</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o-Yp8A7BPE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o-Yp8A7BPE8">Open on YouTube</a></p></div></div></div>
@@ -352,7 +352,7 @@ Consider several common examples:
 
 None of these [outcomes]({{ 'outcomes/' | relative_url }}) becomes obvious if each issue is examined separately.
 
-System dynamics research has repeatedly demonstrated that many persistent organisational problems arise because decision-makers underestimate delayed effects and feedback loops. Actions that appear beneficial in the short term can trigger balancing or reinforcing feedback that reverses the original gains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://executive.mit.edu/course/business-dynamics/a056g00000URaMkAAL.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: executive.mit.edu">[executive.mit.edu+2MIT OpenCourseWare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">executive.mit.edu</span><span class="citation-popover-snippet">System Dynamics and the Problem-Solving ProcessIn this 5-day course, discover MIT Sloan&#x27;s approach to System Dynamics and problem-solving...</span></span></span>
+System dynamics research has repeatedly demonstrated that many persistent organisational problems arise because decision-makers underestimate delayed effects and feedback loops. Actions that appear beneficial in the short term can trigger balancing or reinforcing feedback that reverses the original gains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://executive.mit.edu/course/business-dynamics/a056g00000URaMkAAL.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: executive.mit.edu">[executive.mit.edu+2MIT OpenCourseWare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">executive.mit.edu</span><span class="citation-popover-snippet">System Dynamics and the Problem-Solving ProcessIn this 5-day course, discover MIT Sloan&#x27;s approach to System Dynamics and problem-solving...</span></span></span>
 
 A useful discipline is therefore to test every proposed intervention with questions such as:
 
@@ -402,178 +402,178 @@ The aim is not to abandon structure but to ensure that structure reflects realit
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When neat parts hide the real problem. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When neat parts hide the real problem. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CpbLAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Systems">Thinking in Systems</a>
-        </h4>
-        <p class="fr-book-author">By Donella Meadows</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CpbLAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Systems">Thinking in Systems</a>
+</h4>
+<p class="fr-book-author">By Donella Meadows</p>
         
-        <p class="fr-book-desc">Directly explains how interactions between parts create system-wide behaviour and why synthesis matters after decomposition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how interactions between parts create system-wide behaviour and why synthesis matters after decomposition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fifth Discipline on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OtyLDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fifth Discipline" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fifth Discipline">The Fifth Discipline</a>
-        </h4>
-        <p class="fr-book-author">By Peter M. Senge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fifth Discipline on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OtyLDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fifth Discipline" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fifth Discipline">The Fifth Discipline</a>
+</h4>
+<p class="fr-book-author">By Peter M. Senge</p>
         
-        <p class="fr-book-desc">Shows how interconnected structures and feedback loops shape organisational outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how interconnected structures and feedback loops shape organisational outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Helps readers recognise analytical mistakes that arise from oversimplifying complex situations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognise analytical mistakes that arise from oversimplifying complex situations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Systems+View+of+Life+by+Fritjof+Capra&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Systems View of Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WsoNAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Systems View of Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Systems+View+of+Life+by+Fritjof+Capra&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Systems View of Life">The Systems View of Life</a>
-        </h4>
-        <p class="fr-book-author">By Fritjof Capra, Pier Luigi Luisi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Systems+View+of+Life+by+Fritjof+Capra&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Systems View of Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WsoNAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Systems View of Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Systems+View+of+Life+by+Fritjof+Capra&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Systems View of Life">The Systems View of Life</a>
+</h4>
+<p class="fr-book-author">By Fritjof Capra, Pier Luigi Luisi</p>
         
-        <p class="fr-book-desc">Explores why relationships between components often matter more than isolated parts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Systems+View+of+Life+by+Fritjof+Capra&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why relationships between components often matter more than isolated parts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Systems+View+of+Life+by+Fritjof+Capra&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Systems</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fifth+Discipline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fifth Discipline</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Systems</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fifth+Discipline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fifth Discipline</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Car Parts Illustration Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ETMAAeSwGYJp1~dA/s-l225.jpg" alt="Listing image for Car Parts Illustration Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Car Parts Illustration Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for parts poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: parts poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Car Parts Illustration Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ETMAAeSwGYJp1~dA/s-l225.jpg" alt="Listing image for Car Parts Illustration Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Car Parts Illustration Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for parts poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: parts poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Garage Metal Tin Sign Plaque Home Bar Man Cave Shed Tiki Bar Poster Signs M89"><img src="https://i.ebayimg.com/images/g/TKYAAeSw9SNqMFQy/s-l225.jpg" alt="Listing image for Garage Metal Tin Sign Plaque Home Bar Man Cave Shed Tiki Bar Poster Signs M89" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Garage Metal Tin Sign Plaque Home Bar Man Cave Shed Tiki Bar Poster Signs M89</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for parts poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: parts poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Garage Metal Tin Sign Plaque Home Bar Man Cave Shed Tiki Bar Poster Signs M89"><img src="https://i.ebayimg.com/images/g/TKYAAeSw9SNqMFQy/s-l225.jpg" alt="Listing image for Garage Metal Tin Sign Plaque Home Bar Man Cave Shed Tiki Bar Poster Signs M89" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Garage Metal Tin Sign Plaque Home Bar Man Cave Shed Tiki Bar Poster Signs M89</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for parts poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: parts poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Things I Want Cars Car Parts Bigger Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/AhkAAeSw3y9p1~aN/s-l225.jpg" alt="Listing image for Things I Want Cars Car Parts Bigger Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Things I Want Cars Car Parts Bigger Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for parts poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: parts poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Things I Want Cars Car Parts Bigger Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/AhkAAeSw3y9p1~aN/s-l225.jpg" alt="Listing image for Things I Want Cars Car Parts Bigger Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Things I Want Cars Car Parts Bigger Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for parts poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: parts poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=parts+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="parts poster -book -books -dvd" data-ebay-reference="when-neat-parts-hide-the-real-problem-parts-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ The aim is not to abandon structure but to ensure that structure reflects realit
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ The aim is not to abandon structure but to ensure that structure reflects realit
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ The aim is not to abandon structure but to ensure that structure reflects realit
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ The aim is not to abandon structure but to ensure that structure reflects realit
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ The aim is not to abandon structure but to ensure that structure reflects realit
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,130 +778,130 @@ The aim is not to abandon structure but to ensure that structure reflects realit
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: oecd.org  
    Title: Systemic Thinking for Policy Making  
-   Link: <a href="https://www.oecd.org/en/publications/systemic-thinking-for-policy-making_879c4f7a-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/systemic-thinking-for-policy-making_879c4f7a-en.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Systemic Thinking for Policy Making - OECDThe approach provides a methodology to achieve a better understanding of the non-linear beh...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/systemic-thinking-for-policy-making_879c4f7a-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/systemic-thinking-for-policy-making_879c4f7a-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Systemic Thinking for Policy Making - OECDThe approach provides a methodology to achieve a better understanding of the non-linear beh...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: deming.org  
-   Link: <a href="https://deming.org/ackoff-on-systems-thinking-and-management/" target="_blank" rel="noopener noreferrer nofollow">https://deming.org/ackoff-on-systems-thinking-and-management/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Edwards Deming InstituteAckoff on Systems Thinking and Management - The Deming InstituteAckoff starts with a very good explanation of ana...</p></details>
+   Link:<a href="https://deming.org/ackoff-on-systems-thinking-and-management/" target="_blank" rel="noopener noreferrer nofollow">https://deming.org/ackoff-on-systems-thinking-and-management/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Edwards Deming InstituteAckoff on Systems Thinking and Management - The Deming InstituteAckoff starts with a very good explanation of ana...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nvlpubs.nist.gov  
    Title: SP.800 160v1  
-   Link: <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsNIST.SP.800-160v1.pdf16 Nov 2022 — It provides security-related implementation guidance for the standard and should be u...</p></details>
+   Link:<a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsNIST.SP.800-160v1.pdf16 Nov 2022 — It provides security-related implementation guidance for the standard and should be u...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: oecd.org  
    Title: [PDF] The Nature of Problem Solving (EN)  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/04/the-nature-of-problem-solving_g1g787cf/9789264273955-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/04/the-nature-of-problem-solving_g1g787cf/9789264273955-en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD[PDF] The Nature of Problem Solving (EN) - OECDMay 18, 2025 — While in individual CPS, problem solvers have to interact with a dynami...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/04/the-nature-of-problem-solving_g1g787cf/9789264273955-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/04/the-nature-of-problem-solving_g1g787cf/9789264273955-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OECD[PDF] The Nature of Problem Solving (EN) - OECDMay 18, 2025 — While in individual CPS, problem solvers have to interact with a dynami...</p></details>
    Published: May 18, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nvlpubs.nist.gov  
    Title: SP.800 160v1r1  
-   Link: <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1r1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1r1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsEngineering Trustworthy Secure Systemsby R Ross · 2022 · Cited by 77 — NIST is responsible for developing information se...</p></details>
+   Link:<a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1r1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1r1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsEngineering Trustworthy Secure Systemsby R Ross · 2022 · Cited by 77 — NIST is responsible for developing information se...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: executive.mit.edu  
-   Link: <a href="https://executive.mit.edu/course/business-dynamics/a056g00000URaMkAAL.html" target="_blank" rel="noopener noreferrer nofollow">https://executive.mit.edu/course/business-dynamics/a056g00000URaMkAAL.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>System Dynamics and the Problem-Solving ProcessIn this 5-day course, discover MIT Sloan&#x27;s approach to System Dynamics and problem-solving...</p></details>
+   Link:<a href="https://executive.mit.edu/course/business-dynamics/a056g00000URaMkAAL.html" target="_blank" rel="noopener noreferrer nofollow">https://executive.mit.edu/course/business-dynamics/a056g00000URaMkAAL.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>System Dynamics and the Problem-Solving ProcessIn this 5-day course, discover MIT Sloan&#x27;s approach to System Dynamics and problem-solving...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ocw.mit.edu  
-   Link: <a href="https://ocw.mit.edu/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/resources/systems-thinking-and-modeling-for-a-complex-world-iap-2020/" target="_blank" rel="noopener noreferrer nofollow">https://ocw.mit.edu/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/resources/systems-thinking-and-modeling-for-a-complex-world-iap-2020/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT OpenCourseWareSystems Thinking and Modeling for a Complex WorldThis one-day workshop provides a brief overview of System Dynamics and...</p></details>
+   Link:<a href="https://ocw.mit.edu/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/resources/systems-thinking-and-modeling-for-a-complex-world-iap-2020/" target="_blank" rel="noopener noreferrer nofollow">https://ocw.mit.edu/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/resources/systems-thinking-and-modeling-for-a-complex-world-iap-2020/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT OpenCourseWareSystems Thinking and Modeling for a Complex WorldThis one-day workshop provides a brief overview of System Dynamics and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: protection.interaction.org  
    Title: Systems thinking aims to examine and understand the whole  
-   Link: <a href="https://protection.interaction.org/resources/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://protection.interaction.org/resources/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>for Systems Thinkers: The 6 Fundamental Concepts of...September 7, 2017 — Synthesis: Synthesis is the combining of two or more things to...</p></details>
+   Link:<a href="https://protection.interaction.org/resources/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://protection.interaction.org/resources/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Systems Thinkers: The 6 Fundamental Concepts of...September 7, 2017 — Synthesis: Synthesis is the combining of two or more things to...</p></details>
    Published: September 7, 2017  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: csrc.nist.gov  
    Title: sp800 160 second draft  
-   Link: <a href="https://csrc.nist.gov/files/pubs/sp/800/160/2pd/docs/sp800_160_second-draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/files/pubs/sp/800/160/2pd/docs/sp800_160_second-draft.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Security Engineering Considerations for a Multidiscipl4 May 2016 — NIST Special Publication 800-160 attempts to bring greater clarity to...</p></details>
+   Link:<a href="https://csrc.nist.gov/files/pubs/sp/800/160/2pd/docs/sp800_160_second-draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/files/pubs/sp/800/160/2pd/docs/sp800_160_second-draft.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Security Engineering Considerations for a Multidiscipl4 May 2016 — NIST Special Publication 800-160 attempts to bring greater clarity to...</p></details>
    Published: May 2016  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: csrc.nist.rip  
    Title: rip S P 800-160 Vol  
-   Link: <a href="https://csrc.nist.rip/publications/detail/sp/800-160/vol-1/final" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.rip/publications/detail/sp/800-160/vol-1/final</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1, Systems Security Engineering - CSRCEngineering-based solutions are essential to managing the growing complexity, dynamicity, and inter...</p></details>
+   Link:<a href="https://csrc.nist.rip/publications/detail/sp/800-160/vol-1/final" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.rip/publications/detail/sp/800-160/vol-1/final</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1, Systems Security Engineering - CSRCEngineering-based solutions are essential to managing the growing complexity, dynamicity, and inter...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Systems Thinking  
-   Link: <a href="https://www.youtube.com/watch?v=Miy9uQcwo3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Miy9uQcwo3U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Synthesis &amp; Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Miy9uQcwo3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Miy9uQcwo3U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synthesis &amp; Analysis...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: annievella.com  
    Title: Synthesis involves  
-   Link: <a href="https://annievella.com/posts/exploring-systems-thinking-through-russell-ackoff/" target="_blank" rel="noopener noreferrer nofollow">https://annievella.com/posts/exploring-systems-thinking-through-russell-ackoff/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annie VellaExploring Systems Thinking Through Russell Ackoff - Annie VellaJuly 6, 2024 — Synthetic thinking helps us understand the role...</p></details>
+   Link:<a href="https://annievella.com/posts/exploring-systems-thinking-through-russell-ackoff/" target="_blank" rel="noopener noreferrer nofollow">https://annievella.com/posts/exploring-systems-thinking-through-russell-ackoff/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annie VellaExploring Systems Thinking Through Russell Ackoff - Annie VellaJuly 6, 2024 — Synthetic thinking helps us understand the role...</p></details>
    Published: July 6, 2024  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: amazon.de  
-   Link: <a href="https://www.amazon.de/NIST-800-160-Systems-Security-Engineering/dp/1547146141?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/NIST-800-160-Systems-Security-Engineering/dp/1547146141?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST SP 800-160 Systems Security EngineeringThis publication addresses the engineering-driven perspective and actions necessary to develo...</p></details>
+   Link:<a href="https://www.amazon.de/NIST-800-160-Systems-Security-Engineering/dp/1547146141?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/NIST-800-160-Systems-Security-Engineering/dp/1547146141?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST SP 800-160 Systems Security EngineeringThis publication addresses the engineering-driven perspective and actions necessary to develo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/science-maths-technology/computing-ict/managing-complexity-a-systems-approach-introduction/content-section-15.9.2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/science-maths-technology/computing-ict/managing-complexity-a-systems-approach-introduction/content-section-15.9.2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Managing complexity: Systems dynamics | OpenLearnThe closed-loop diagram used in SD modelling raises awareness of unintended consequences...</p></details>
+   Link:<a href="https://www.open.edu/openlearn/science-maths-technology/computing-ict/managing-complexity-a-systems-approach-introduction/content-section-15.9.2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/science-maths-technology/computing-ict/managing-complexity-a-systems-approach-introduction/content-section-15.9.2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Managing complexity: Systems dynamics | OpenLearnThe closed-loop diagram used in SD modelling raises awareness of unintended consequences...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ac.cto.mil  
-   Link: <a href="https://ac.cto.mil/wp-content/uploads/2022/08/Systems-Eng-Guidebook_Feb2022-Cleared.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ac.cto.mil/wp-content/uploads/2022/08/Systems-Eng-Guidebook_Feb2022-Cleared.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Engineering GuidebookThe Systems Engineering Guidebook provides guidance and recommended best practices for defense acquisition programs...</p></details>
+   Link:<a href="https://ac.cto.mil/wp-content/uploads/2022/08/Systems-Eng-Guidebook_Feb2022-Cleared.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ac.cto.mil/wp-content/uploads/2022/08/Systems-Eng-Guidebook_Feb2022-Cleared.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Engineering GuidebookThe Systems Engineering Guidebook provides guidance and recommended best practices for defense acquisition programs...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: industrialcyber.co  
-   Link: <a href="https://industrialcyber.co/nist/nist-sp-800-160-focuses-on-plugging-security-into-systems-engineering-to-develop-defensible-survivable-systems/" target="_blank" rel="noopener noreferrer nofollow">https://industrialcyber.co/nist/nist-sp-800-160-focuses-on-plugging-security-into-systems-engineering-to-develop-defensible-survivable-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST SP 800-160 focuses on plugging security into...9 Jun 2022 — NIST SP 800-160 focuses on plugging security into systems engineering t...</p></details>
+   Link:<a href="https://industrialcyber.co/nist/nist-sp-800-160-focuses-on-plugging-security-into-systems-engineering-to-develop-defensible-survivable-systems/" target="_blank" rel="noopener noreferrer nofollow">https://industrialcyber.co/nist/nist-sp-800-160-focuses-on-plugging-security-into-systems-engineering-to-develop-defensible-survivable-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST SP 800-160 focuses on plugging security into...9 Jun 2022 — NIST SP 800-160 focuses on plugging security into systems engineering t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: educationaldatamining.org  
-   Link: <a href="https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-long-papers.4/2023.EDM-long-papers.4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-long-papers.4/2023.EDM-long-papers.4.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>training intervention, named Chunky Parsons Prob- lem (CPP), that introduces to students the...</p></details>
+   Link:<a href="https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-long-papers.4/2023.EDM-long-papers.4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-long-papers.4/2023.EDM-long-papers.4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>training intervention, named Chunky Parsons Prob- lem (CPP), that introduces to students the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2227-7102/13/2/201" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7102/13/2/201</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>heory in the IS field, bonds to CT to address some well-known common issues related to CT...</p></details>
+   Link:<a href="https://www.mdpi.com/2227-7102/13/2/201" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7102/13/2/201</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>heory in the IS field, bonds to CT to address some well-known common issues related to CT...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 7, 2017 — In this series on systems thinking, I share the key insights and tools needed to develop and advance a systems mindse...</p></details>
+   Link:<a href="https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 7, 2017 — In this series on systems thinking, I share the key insights and tools needed to develop and advance a systems mindse...</p></details>
    Published: September 7, 2017  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: learning.com  
    Title: Why is Decomposition Required in Computational Thinking  
-   Link: <a href="https://www.learning.com/blog/why-is-decomposition-required-in-computational-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://www.learning.com/blog/why-is-decomposition-required-in-computational-thinking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 6, 2022 — The technique of decomposition is required in computational thinking because it breaks complex tasks into subtasks wh...</p></details>
+   Link:<a href="https://www.learning.com/blog/why-is-decomposition-required-in-computational-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://www.learning.com/blog/why-is-decomposition-required-in-computational-thinking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 6, 2022 — The technique of decomposition is required in computational thinking because it breaks complex tasks into subtasks wh...</p></details>
    Published: September 6, 2022  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/44827001_Business_Dynamics_System_Thinking_and_Modeling_for_a_Complex_World" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/44827001_Business_Dynamics_System_Thinking_and_Modeling_for_a_Complex_World</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d illustrate with a successful application to a difficult business issue.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/44827001_Business_Dynamics_System_Thinking_and_Modeling_for_a_Complex_World" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/44827001_Business_Dynamics_System_Thinking_and_Modeling_for_a_Complex_World</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d illustrate with a successful application to a difficult business issue.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/334660587_Analysis_of_Systems_Security_Engineering_Design_Principles_for_the_Development_of_Secure_and_Resilient_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334660587_Analysis_of_Systems_Security_Engineering_Design_Principles_for_the_Development_of_Secure_and_Resilient_Systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Standards and Technology Special Publication (NIST SP) 800-160 Volume 1...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/334660587_Analysis_of_Systems_Security_Engineering_Design_Principles_for_the_Development_of_Secure_and_Resilient_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334660587_Analysis_of_Systems_Security_Engineering_Design_Principles_for_the_Development_of_Secure_and_Resilient_Systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Standards and Technology Special Publication (NIST SP) 800-160 Volume 1...</p></details>

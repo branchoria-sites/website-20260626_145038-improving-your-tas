@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710-live/
 description: Focused pages that expand on Alternatives.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: improving_your_think_da4710_live_alternatives_e775b1
 parent_title: Alternatives
@@ -16,7 +16,7 @@ parent_permalink: /alternatives/
 
 # Explore Topics in Alternatives
 
-The following pages expand on the main **[Alternatives]({{ '/alternatives/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Alternatives]({{ '/alternatives/' | relative_url }})** page and cover its key branches in.
 
 - [ACH Lite]({{ '/ach-lite/' | relative_url }})
 - [Positive Tests]({{ '/positive-tests/' | relative_url }})

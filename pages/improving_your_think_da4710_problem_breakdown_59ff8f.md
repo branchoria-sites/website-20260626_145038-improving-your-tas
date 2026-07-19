@@ -457,7 +457,7 @@ This matters because people often search too quickly for one persuasive answer. 
 
 A hard problem usually begins as a blur. “Should we launch?” sounds like one question, but it may contain a market question, a technical readiness question, a timing question, a cash-flow question, a reputational-risk question and a question about opportunity cost. Analytical thinking starts by refusing to treat the blur as the problem.
 
-The OECD’s work on problem-solving defines the skill as the capacity to engage in cognitive processing to understand and resolve situations where the method of solution is not immediately obvious. That definition is useful because it places “understanding” before “resolving”: if the method is not obvious, the first task is not action but problem construction. The same OECD report notes that traditional education often breaks problems into manageable pieces, but modern problem-solving also requires synthesising disparate parts and making connections across fields. In other words, decomposition is necessary but not sufficient; the parts must later be reconnected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/04/the-nature-of-problem-solving_g1g787cf/9789264273955-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">The Nature of Problem Solving (EN</span><span class="citation-popover-snippet">The Nature of Problem Solving (EN)...</span></span></span>
+The OECD’s work on problem-solving defines the skill as the capacity to engage in cognitive processing to understand and resolve situations where the method of solution is not immediately obvious. That definition is useful because it places “understanding” before “resolving”: if the method is not obvious, the first task is not action but problem construction. The same OECD report notes that traditional education often breaks problems into manageable pieces, but modern problem-solving also requires synthesising disparate parts and making connections across fields. In other words, decomposition is necessary but not sufficient; the parts must later be reconnected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/04/the-nature-of-problem-solving_g1g787cf/9789264273955-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">The Nature of Problem Solving (EN</span><span class="citation-popover-snippet">The Nature of Problem Solving (EN)...</span></span></span>
 
 A useful first move is to split the issue into four working questions:
 
@@ -482,11 +482,11 @@ This is why a good problem breakdown is not the same as a neat outline. A neat o
 
 Once the problem has been separated into parts, the next step is to classify the parts by function. Three categories are especially useful: causes, constraints and [comparisons]({{ 'comparisons/' | relative_url }}).
 
-**Causes** explain why the issue exists. If customer complaints have risen, the cause might be a product defect, a change in customer expectations, a support backlog, a misleading advert, a new competitor or a measurement change. Jumping straight to one favoured cause creates a false sense of progress. Root-cause methods such as fishbone [diagrams]({{ 'diagrams/' | relative_url }}) are popular because they force people to generate possible causes across categories rather than treating the first explanation as sufficient; a 2024 medical-quality article describes the cause-and-effect, or fishbone, diagram as a tool for analysing possible root causes of quality-related problems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11077513/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Cause-and-Effect (Fishbone) Diagram: A Tool for Generating...by A Kumah · 2024 · Cited by 124 — A cause-and-effect diagram (fishbone...</span></span></span>
+**Causes** explain why the issue exists. If customer complaints have risen, the cause might be a product defect, a change in customer expectations, a support backlog, a misleading advert, a new competitor or a measurement change. Jumping straight to one favoured cause creates a false sense of progress. Root-cause methods such as fishbone [diagrams]({{ 'diagrams/' | relative_url }}) are popular because they force people to generate possible causes across categories rather than treating the first explanation as sufficient; a 2024 medical-quality article describes the cause-and-effect, or fishbone, diagram as a tool for analysing possible root causes of quality-related problems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11077513/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Cause-and-Effect (Fishbone) Diagram: A Tool for Generating...by A Kumah · 2024 · Cited by 124 — A cause-and-effect diagram (fishbone...</span></span></span>
 
 **Constraints** are the limits within which a solution must work. These include money, time, law, staffing, trust, political feasibility, technical compatibility and ethical boundaries. Constraints are often mistaken for causes. “We do not have enough engineers” might be a cause of missed deadlines, but it might also be a constraint that rules out some solutions. The analytical difference matters: causes invite explanation; constraints shape option design.
 
-**Comparisons** prevent the current frame from becoming invisible. In intelligence analysis, Richards Heuer’s work on Analysis of Competing Hypotheses argues that analysts should start with a full set of alternative possibilities rather than pick one likely answer and look for confirming evidence. Heuer emphasises evidence with “diagnostic value”: evidence that helps distinguish between hypotheses, not evidence that merely fits one of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">Psychology of Intelligence Analysis</span><span class="citation-popover-snippet">Psychology of Intelligence Analysis...</span></span></span>
+**Comparisons** prevent the current frame from becoming invisible. In intelligence analysis, Richards Heuer’s work on Analysis of Competing Hypotheses argues that analysts should start with a full set of alternative possibilities rather than pick one likely answer and look for confirming evidence. Heuer emphasises evidence with “diagnostic value”: evidence that helps distinguish between hypotheses, not evidence that merely fits one of them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">Psychology of Intelligence Analysis</span><span class="citation-popover-snippet">Psychology of Intelligence Analysis...</span></span></span>
 
 The comparison habit is useful outside intelligence work. Suppose a manager asks, “Why is this employee underperforming?” A weak analysis might collect evidence for one story: poor motivation. A stronger analysis compares at least four explanations: unclear expectations, insufficient skill, overload, misaligned incentives and low motivation. The best evidence is not “something that makes one story sound plausible”, because several stories may sound plausible. The best evidence is the observation that separates them.
 
@@ -503,7 +503,7 @@ The table is not the analysis itself. It is a way to stop different kinds of thi
 
 Assumptions are the hidden [load-bearing]({{ 'load-bearing/' | relative_url }}) beams of analysis. They are not always bad; every practical decision requires some beliefs that cannot be fully proven in time. The danger is that assumptions often feel like background reality rather than choices.
 
-The CIA’s structured analytic techniques primer defines a key assumption as a hypothesis that analysts have accepted as true and that forms the basis of an [assessment]({{ 'assessment/' | relative_url }}). It also warns that hidden assumptions are hard to identify because they are often held unconsciously and therefore rarely challenged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
+The CIA’s structured analytic techniques primer defines a key assumption as a hypothesis that analysts have accepted as true and that forms the basis of an [assessment]({{ 'assessment/' | relative_url }}). It also warns that hidden assumptions are hard to identify because they are often held unconsciously and therefore rarely challenged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
 
 That point is widely applicable. A person deciding whether to change careers may assume that a pay cut is temporary, that a new sector will value their existing skills, that their family will tolerate the disruption, or that staying put is the safer option. A team deciding whether to automate a process may assume that the process is stable, that the data are clean, that users will accept the new workflow, or that maintenance costs will be modest.
 
@@ -520,7 +520,7 @@ A practical way to isolate assumptions is to use three [prompts]({{ 'prompts/' |
 
 The third prompt is especially powerful because not all assumptions deserve equal attention. Some are minor. Others hold the argument together. If a project plan assumes that a supplier will deliver in six weeks, and every downstream date depends on that, the supplier assumption is not a footnote. It is a central analytical object.
 
-The same principle appears in Heuer’s Analysis of Competing Hypotheses: the point is not simply to collect more information, but to identify the evidence and assumptions that most discriminate between possible explanations. Heuer argues that conventional intuitive analysis often looks for support for a favoured hypothesis, while structured analysis gives competing alternatives a fairer test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">Psychology of Intelligence Analysis</span><span class="citation-popover-snippet">Psychology of Intelligence Analysis...</span></span></span>
+The same principle appears in Heuer’s Analysis of Competing Hypotheses: the point is not simply to collect more information, but to identify the evidence and assumptions that most discriminate between possible explanations. Heuer argues that conventional intuitive analysis often looks for support for a favoured hypothesis, while structured analysis gives competing alternatives a fairer test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">Psychology of Intelligence Analysis</span><span class="citation-popover-snippet">Psychology of Intelligence Analysis...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f-Illustration-2-dark.svg" | relative_url }}" alt="Problem Parts illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -530,7 +530,7 @@ There is a trap in decomposition: the parts become so tidy that the real situati
 
 This is why analytical thinking needs a rebuilding phase. After breaking the problem into parts, ask how the parts interact. Does one cause amplify another? Does solving one part worsen a different part? Does a constraint make an otherwise good option unrealistic? Does the same piece of evidence support more than one explanation?
 
-Complex and “wicked” problems make this especially important. Work on wicked problems describes situations with incomplete, contradictory or changing requirements, where there may be no single correct solution and where attempts to solve one part can expose or create other problems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wicked_problem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wicked problem</span><span class="citation-popover-snippet">Wicked problem</span></span></span> In such cases, breaking the problem down is still useful, but only if the thinker remembers that the pieces are not independent components in a machine. They are connected parts of a changing system.
+Complex and “wicked” problems make this especially important. Work on wicked problems describes situations with incomplete, contradictory or changing requirements, where there may be no single correct solution and where attempts to solve one part can expose or create other problems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wicked_problem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wicked problem</span><span class="citation-popover-snippet">Wicked problem</span></span></span> In such cases, breaking the problem down is still useful, but only if the thinker remembers that the pieces are not independent components in a machine. They are connected parts of a changing system.
 
 The practical test is whether the breakdown improves judgement or merely produces categories. A useful breakdown makes at least one of these things clearer:
 
@@ -538,7 +538,7 @@ The practical test is whether the breakdown improves judgement or merely produce
 * which constraint is binding;
 * which comparison matters;
 * which evidence is missing;
-* which assumption is riskiest; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[stat.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">Tradecraft Primer apr09</span><span class="citation-popover-snippet">Tradecraft Primer apr09</span></span></span>
+* which assumption is riskiest;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[stat.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">Tradecraft Primer apr09</span><span class="citation-popover-snippet">Tradecraft Primer apr09</span></span></span>
 * which trade-off cannot be avoided;
 * which next action would reduce [uncertainty]({{ 'uncertainty/' | relative_url }}).
 
@@ -569,7 +569,7 @@ Finally, rebuild the answer. The conclusion may be: “The missed deadlines are 
 
 Breaking a problem into parts can fail in two opposite ways. Too little decomposition leaves the issue vague. Too much decomposition creates analysis paralysis.
 
-The right level of detail depends on stakes, reversibility and uncertainty. A low-stakes, reversible decision may need only a quick split into options, costs and risks. A high-stakes, hard-to-reverse decision needs more deliberate separation of evidence, assumptions, alternatives and constraints. Harvard Business Review’s classic account of decision traps notes that bad decisions are often traceable to process failures: alternatives were not clearly defined, the right information was not collected, or costs and benefits were not accurately weighed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/1998/09/the-hidden-traps-in-decision-making-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review The Hidden Traps in Decision Making</span><span class="citation-popover-snippet">Harvard Business Review The Hidden Traps in Decision Making</span></span></span>
+The right level of detail depends on stakes, reversibility and uncertainty. A low-stakes, reversible decision may need only a quick split into options, costs and risks. A high-stakes, hard-to-reverse decision needs more deliberate separation of evidence, assumptions, alternatives and constraints. Harvard Business Review’s classic account of decision traps notes that bad decisions are often traceable to process failures: alternatives were not clearly defined, the right information was not collected, or costs and benefits were not accurately weighed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/1998/09/the-hidden-traps-in-decision-making-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review The Hidden Traps in Decision Making</span><span class="citation-popover-snippet">Harvard Business Review The Hidden Traps in Decision Making</span></span></span>
 
 A useful rule is to decompose until the next action becomes clearer. If the parts still do not suggest what to check, compare or decide, the problem is probably still too vague. If the parts are multiplying without changing the decision, the analysis has probably gone too far.
 
@@ -595,7 +595,7 @@ This keeps analytical thinking practical. The goal is not to produce a perfect m
 
 The final step is synthesis: turning the parts back into a coherent answer. This is where many analytical efforts weaken. People either stay fragmented, listing factors without judgement, or they collapse too quickly into a single neat story.
 
-A good synthesis does three things. It states the best current answer, names the strongest reasons for it, and identifies what would change it. Heuer’s work is useful here again: he recommends identifying milestones for future observation that would indicate events are taking a different course than expected. That practice makes conclusions more resilient because it treats them as provisional rather than final. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">Psychology of Intelligence Analysis</span><span class="citation-popover-snippet">Psychology of Intelligence Analysis...</span></span></span>
+A good synthesis does three things. It states the best current answer, names the strongest reasons for it, and identifies what would change it. Heuer’s work is useful here again: he recommends identifying milestones for future observation that would indicate events are taking a different course than expected. That practice makes conclusions more resilient because it treats them as provisional rather than final.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">Psychology of Intelligence Analysis</span><span class="citation-popover-snippet">Psychology of Intelligence Analysis...</span></span></span>
 
 For a personal decision, this might sound like: “Taking the new job is the better option because it improves learning and long-term earning power, but the answer depends heavily on the assumption that the role really includes management responsibility. I should verify that before accepting.”
 
@@ -606,194 +606,194 @@ For a policy or organisational problem, it might sound like: “No single cause 
 That is the value of breaking problems into parts. It does not remove uncertainty, and it does not guarantee the right answer. It makes the reasoning inspectable. It shows which part of the problem is evidence, which part is assumption, which part is constraint, and which part is choice. In practical analytical thinking, that visibility is often the difference between sounding reasonable and actually reasoning well.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Break Down a Hard Problem. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Break Down a Hard Problem. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pyramid Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpUowkjMX_gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pyramid Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pyramid Principle">The Pyramid Principle</a>
-        </h4>
-        <p class="fr-book-author">By Barbara Minto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pyramid Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpUowkjMX_gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pyramid Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pyramid Principle">The Pyramid Principle</a>
+</h4>
+<p class="fr-book-author">By Barbara Minto</p>
         
-        <p class="fr-book-desc">Shows how to break complex problems into logical components and rebuild clear arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to break complex problems into logical components and rebuild clear arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains common thinking errors and supports structured analysis before reaching conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common thinking errors and supports structured analysis before reaching conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
+</h4>
+<p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
         
-        <p class="fr-book-desc">Provides practical frameworks for decomposing problems, comparing options, and testing assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical frameworks for decomposing problems, comparing options, and testing assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Highlights cognitive biases that interfere with effective problem breakdown and analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights cognitive biases that interfere with effective problem breakdown and analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pyramid+Principle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pyramid Principle</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pyramid+Principle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pyramid Principle</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Critical Thinking Card Games: Easy-To-Play, Reproducible Card and Board Games"><img src="{{ '/assets/images/marketplace-covers/43abfb8c342525030c58.jpg' | relative_url }}" alt="Listing image for 10 Critical Thinking Card Games: Easy-To-Play, Reproducible Card and Board Games" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">10 Critical Thinking Card Games: Easy-To-Play, Reproducible Card and Board Games</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Critical Thinking Card Games: Easy-To-Play, Reproducible Card and Board Games"><img src="{{ '/assets/images/marketplace-covers/43abfb8c342525030c58.jpg' | relative_url }}" alt="Listing image for 10 Critical Thinking Card Games: Easy-To-Play, Reproducible Card and Board Games" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">10 Critical Thinking Card Games: Easy-To-Play, Reproducible Card and Board Games</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hilarious Uno Emoji Card Game - Develops Social Skills &amp; Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/0862a19bd69d9c22a111.jpg' | relative_url }}" alt="Listing image for Hilarious Uno Emoji Card Game - Develops Social Skills &amp; Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">Hilarious Uno Emoji Card Game - Develops Social Skills &amp; Critical Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hilarious Uno Emoji Card Game - Develops Social Skills &amp; Critical Thinking"><img src="{{ '/assets/images/marketplace-covers/0862a19bd69d9c22a111.jpg' | relative_url }}" alt="Listing image for Hilarious Uno Emoji Card Game - Develops Social Skills &amp; Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">Hilarious Uno Emoji Card Game - Develops Social Skills &amp; Critical Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Critical Thinking Card Games: Ea..., Richard, Elaine"><img src="{{ '/assets/images/marketplace-covers/1c121bd15a48df63679b.jpg' | relative_url }}" alt="Listing image for 10 Critical Thinking Card Games: Ea..., Richard, Elaine" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">10 Critical Thinking Card Games: Ea..., Richard, Elaine</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Critical Thinking Card Games: Ea..., Richard, Elaine"><img src="{{ '/assets/images/marketplace-covers/1c121bd15a48df63679b.jpg' | relative_url }}" alt="Listing image for 10 Critical Thinking Card Games: Ea..., Richard, Elaine" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">10 Critical Thinking Card Games: Ea..., Richard, Elaine</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trolls 2 Top Trumps Card Game - Social Skills &amp; Critical Thinking, Ages 3+"><img src="{{ '/assets/images/marketplace-covers/df3911fc6b8778e0a963.jpg' | relative_url }}" alt="Listing image for Trolls 2 Top Trumps Card Game - Social Skills &amp; Critical Thinking, Ages 3+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">Trolls 2 Top Trumps Card Game - Social Skills &amp; Critical Thinking, Ages 3+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trolls 2 Top Trumps Card Game - Social Skills &amp; Critical Thinking, Ages 3+"><img src="{{ '/assets/images/marketplace-covers/df3911fc6b8778e0a963.jpg' | relative_url }}" alt="Listing image for Trolls 2 Top Trumps Card Game - Social Skills &amp; Critical Thinking, Ages 3+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">Trolls 2 Top Trumps Card Game - Social Skills &amp; Critical Thinking, Ages 3+</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="problem-parts-how-to-break-down-a-hard-problem-improving-your-think-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -809,7 +809,7 @@ That is the value of breaking problems into parts. It does not remove uncertaint
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -829,7 +829,7 @@ That is the value of breaking problems into parts. It does not remove uncertaint
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -861,7 +861,7 @@ That is the value of breaking problems into parts. It does not remove uncertaint
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -913,7 +913,7 @@ That is the value of breaking problems into parts. It does not remove uncertaint
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -958,7 +958,7 @@ That is the value of breaking problems into parts. It does not remove uncertaint
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -999,178 +999,178 @@ That is the value of breaking problems into parts. It does not remove uncertaint
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: oecd.org  
    Title: The Nature of Problem Solving (EN)  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/04/the-nature-of-problem-solving_g1g787cf/9789264273955-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/04/the-nature-of-problem-solving_g1g787cf/9789264273955-en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Nature of Problem Solving (EN)...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/04/the-nature-of-problem-solving_g1g787cf/9789264273955-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/04/the-nature-of-problem-solving_g1g787cf/9789264273955-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Nature of Problem Solving (EN)...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11077513/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11077513/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cause-and-Effect (Fishbone) Diagram: A Tool for Generating...by A Kumah · 2024 · Cited by 124 — A cause-and-effect diagram (fishbone...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11077513/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11077513/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cause-and-Effect (Fishbone) Diagram: A Tool for Generating...by A Kumah · 2024 · Cited by 124 — A cause-and-effect diagram (fishbone...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cia.gov  
    Title: Psychology of Intelligence Analysis  
-   Link: <a href="https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of Intelligence Analysis...</p></details>
+   Link:<a href="https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of Intelligence Analysis...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf</a>  
+   Link:<a href="https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Wicked problem  
-   Link: <a href="https://en.wikipedia.org/wiki/Wicked_problem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wicked_problem</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wicked_problem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wicked_problem</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
    Title: Why Bad Things Happen  
-   Link: <a href="https://www.cia.gov/resources/csi/static/Why-Bad-Things-Happen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Why-Bad-Things-Happen.pdf</a>  
+   Link:<a href="https://www.cia.gov/resources/csi/static/Why-Bad-Things-Happen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Why-Bad-Things-Happen.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cia.gov  
    Title: Future of Analysis  
-   Link: <a href="https://www.cia.gov/resources/csi/static/Future-of-Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Future-of-Analysis.pdf</a>  
+   Link:<a href="https://www.cia.gov/resources/csi/static/Future-of-Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Future-of-Analysis.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
    Title: Developing a Taxonomy  
-   Link: <a href="https://www.cia.gov/resources/csi/static/Developing-a-Taxonomy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Developing-a-Taxonomy.pdf</a>  
+   Link:<a href="https://www.cia.gov/resources/csi/static/Developing-a-Taxonomy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Developing-a-Taxonomy.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cia.gov  
    Title: Remembering Richards J Heuer  
-   Link: <a href="https://www.cia.gov/resources/csi/static/Remembering-Richards-J-Heuer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Remembering-Richards-J-Heuer.pdf</a>  
+   Link:<a href="https://www.cia.gov/resources/csi/static/Remembering-Richards-J-Heuer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Remembering-Richards-J-Heuer.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/resources/csi/static/Analytic-Culture-Intelligence-Community.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Analytic-Culture-Intelligence-Community.pdf</a>  
+   Link:<a href="https://www.cia.gov/resources/csi/static/Analytic-Culture-Intelligence-Community.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Analytic-Culture-Intelligence-Community.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/resources/csi/static/e228eea610f76862a05274ca88500679/analytic_pathologies_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/e228eea610f76862a05274ca88500679/analytic_pathologies_report.pdf</a>  
+   Link:<a href="https://www.cia.gov/resources/csi/static/e228eea610f76862a05274ca88500679/analytic_pathologies_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/e228eea610f76862a05274ca88500679/analytic_pathologies_report.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/14/145C9D2CC61E91C8E3FD7A25EFD7E0B5_PENNSY~1.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/14/145C9D2CC61E91C8E3FD7A25EFD7E0B5_PENNSY~1.PDF</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/14/145C9D2CC61E91C8E3FD7A25EFD7E0B5_PENNSY~1.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/14/145C9D2CC61E91C8E3FD7A25EFD7E0B5_PENNSY~1.PDF</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cia.gov  
    Title: Review1 Language Machinese Studies 70 1 Mar2026  
-   Link: <a href="https://www.cia.gov/resources/csi/static/Review1-Language-Machinese-Studies-70-1-Mar2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Review1-Language-Machinese-Studies-70-1-Mar2026.pdf</a>  
+   Link:<a href="https://www.cia.gov/resources/csi/static/Review1-Language-Machinese-Studies-70-1-Mar2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Review1-Language-Machinese-Studies-70-1-Mar2026.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: communicate.gse.harvard.edu  
    Title: file url  
-   Link: <a href="https://communicate.gse.harvard.edu/file_url/273" target="_blank" rel="noopener noreferrer nofollow">https://communicate.gse.harvard.edu/file_url/273</a>  
+   Link:<a href="https://communicate.gse.harvard.edu/file_url/273" target="_blank" rel="noopener noreferrer nofollow">https://communicate.gse.harvard.edu/file_url/273</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hbsp.harvard.edu  
    Title: H060J3 PDF ENG  
-   Link: <a href="https://hbsp.harvard.edu/product/H060J3-PDF-ENG" target="_blank" rel="noopener noreferrer nofollow">https://hbsp.harvard.edu/product/H060J3-PDF-ENG</a>  
+   Link:<a href="https://hbsp.harvard.edu/product/H060J3-PDF-ENG" target="_blank" rel="noopener noreferrer nofollow">https://hbsp.harvard.edu/product/H060J3-PDF-ENG</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: all.net  
    Title: Psychology of Intelligence Analysis  
-   Link: <a href="https://www.all.net/journal/deception/ciabook2/www.cia.gov/csi/books/19104/art3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.all.net/journal/deception/ciabook2/www.cia.gov/csi/books/19104/art3.html</a>  
+   Link:<a href="https://www.all.net/journal/deception/ciabook2/www.cia.gov/csi/books/19104/art3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.all.net/journal/deception/ciabook2/www.cia.gov/csi/books/19104/art3.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Analytical Thinking | Psychology  
-   Link: <a href="https://www.youtube.com/watch?v=NmyWfvHjtic" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NmyWfvHjtic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Difference between [Critical Thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;) Vs Analytical Thinking:- 6...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NmyWfvHjtic" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NmyWfvHjtic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Difference between [Critical Thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;) Vs Analytical Thinking:- 6...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hbr.org  
    Title: Harvard Business Review The Hidden Traps in Decision Making  
-   Link: <a href="https://hbr.org/1998/09/the-hidden-traps-in-decision-making-2" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/1998/09/the-hidden-traps-in-decision-making-2</a>  
+   Link:<a href="https://hbr.org/1998/09/the-hidden-traps-in-decision-making-2" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/1998/09/the-hidden-traps-in-decision-making-2</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11306497/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11306497/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11306497/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11306497/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10890380/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10890380/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10890380/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10890380/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12241059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12241059/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12241059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12241059/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9332318/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9332318/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9332318/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9332318/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715817/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715817/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715817/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715817/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7382331/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7382331/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7382331/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7382331/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hbr.org  
-   Link: <a href="https://hbr.org/2024/01/to-solve-a-tough-problem-reframe-it" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2024/01/to-solve-a-tough-problem-reframe-it</a>  
+   Link:<a href="https://hbr.org/2024/01/to-solve-a-tough-problem-reframe-it" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2024/01/to-solve-a-tough-problem-reframe-it</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: stat.berkeley.edu  
    Title: Tradecraft Primer apr09  
-   Link: <a href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf</a>  
+   Link:<a href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/harvard-business-review_how-you-define-the-problem-determines-whether-activity-6872126437667696640-PROI" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/harvard-business-review_how-you-define-the-problem-determines-whether-activity-6872126437667696640-PROI</a>  
+   Link:<a href="https://www.linkedin.com/posts/harvard-business-review_how-you-define-the-problem-determines-whether-activity-6872126437667696640-PROI" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/harvard-business-review_how-you-define-the-problem-determines-whether-activity-6872126437667696640-PROI</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Difference between Critical Thinking Vs Analytical Thinking:- 6  
-   Link: <a href="https://www.youtube.com/watch?v=Z9vsxt4dqfo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z9vsxt4dqfo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analytical Thinking and Problem Solving | Exclusive Lesson...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Z9vsxt4dqfo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z9vsxt4dqfo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analytical Thinking and Problem Solving | Exclusive Lesson...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Analytical Skills Everyone Should Know  
-   Link: <a href="https://www.youtube.com/watch?v=mRsiPFJG2u4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mRsiPFJG2u4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Solve Any Complex Problem Like McKinsey: 4-Step Framework for Clear Thinking...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mRsiPFJG2u4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mRsiPFJG2u4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Solve Any Complex Problem Like McKinsey: 4-Step Framework for Clear Thinking...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/337154064_Structured_Analytic_Techniques_Taxonomy_and_Technique_Selection_for_Information_and_Intelligence_Analysis_Practitioners" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337154064_Structured_Analytic_Techniques_Taxonomy_and_Technique_Selection_for_Information_and_Intelligence_Analysis_Practitioners</a>  
+   Link:<a href="https://www.researchgate.net/publication/337154064_Structured_Analytic_Techniques_Taxonomy_and_Technique_Selection_for_Information_and_Intelligence_Analysis_Practitioners" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337154064_Structured_Analytic_Techniques_Taxonomy_and_Technique_Selection_for_Information_and_Intelligence_Analysis_Practitioners</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis</a>  
+   Link:<a href="https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: madssingers.com  
-   Link: <a href="https://madssingers.com/management/analytical-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://madssingers.com/management/analytical-thinking/</a>  
+   Link:<a href="https://madssingers.com/management/analytical-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://madssingers.com/management/analytical-thinking/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/380124761_Developing_Critical_Thinking_Skills_Encouraging_Analytical_and_Creative_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380124761_Developing_Critical_Thinking_Skills_Encouraging_Analytical_and_Creative_Thinking</a>  
+   Link:<a href="https://www.researchgate.net/publication/380124761_Developing_Critical_Thinking_Skills_Encouraging_Analytical_and_Creative_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380124761_Developing_Critical_Thinking_Skills_Encouraging_Analytical_and_Creative_Thinking</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394803420_Teaching_and_Assessing_Abstraction_in_K-12_Computational_Thinking_Education_A_Systematic_Literature_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394803420_Teaching_and_Assessing_Abstraction_in_K-12_Computational_Thinking_Education_A_Systematic_Literature_Review</a>  
+   Link:<a href="https://www.researchgate.net/publication/394803420_Teaching_and_Assessing_Abstraction_in_K-12_Computational_Thinking_Education_A_Systematic_Literature_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394803420_Teaching_and_Assessing_Abstraction_in_K-12_Computational_Thinking_Education_A_Systematic_Literature_Review</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: greydynamics.com  
-   Link: <a href="https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/</a>  
+   Link:<a href="https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: futuribles.com  
-   Link: <a href="https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706" target="_blank" rel="noopener noreferrer nofollow">https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706</a>  
+   Link:<a href="https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706" target="_blank" rel="noopener noreferrer nofollow">https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/top-content/future-of-work/up-skilling-online-courses/analytical-reasoning-and-critical-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/future-of-work/up-skilling-online-courses/analytical-reasoning-and-critical-thinking/</a>  
+   Link:<a href="https://www.linkedin.com/top-content/future-of-work/up-skilling-online-courses/analytical-reasoning-and-critical-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/future-of-work/up-skilling-online-courses/analytical-reasoning-and-critical-thinking/</a>  

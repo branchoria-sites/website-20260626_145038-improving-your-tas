@@ -447,25 +447,25 @@ image: /assets/images/improving_your_think_da4710_myside_bias_de0ec5-overview-so
 
 ## Introduction
 
-Myside bias is the habit of judging evidence differently depending on whether it helps “my side”. It shows up when people search harder for flaws in arguments they dislike, accept friendly evidence too quickly, remember supportive examples more easily, or turn a discussion into a defence of a favourite belief rather than a test of what is true. It matters for analytical thinking because it can make careful reasoning look like objectivity while quietly serving loyalty, identity or pride. Research on myside bias suggests an uncomfortable lesson: intelligence and education do not reliably remove it. In some settings, stronger reasoning ability can simply provide better tools for defending a preferred conclusion. The practical answer is not to distrust every belief, but to build checks that force your thinking to treat inconvenient evidence as something to learn from, not merely something to defeat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/0963721413480174" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMyside Bias, Rational Thinking, and Intelligenceby KE Stanovich · 2013 · Cited by 669 — Myside bias occurs when people evalu...</span></span></span>
+Myside bias is the habit of judging evidence differently depending on whether it helps “my side”. It shows up when people search harder for flaws in arguments they dislike, accept friendly evidence too quickly, remember supportive examples more easily, or turn a discussion into a defence of a favourite belief rather than a test of what is true. It matters for analytical thinking because it can make careful reasoning look like objectivity while quietly serving loyalty, identity or pride. Research on myside bias suggests an uncomfortable lesson: intelligence and education do not reliably remove it. In some settings, stronger reasoning ability can simply provide better tools for defending a preferred conclusion. The practical answer is not to distrust every belief, but to build checks that force your thinking to treat inconvenient evidence as something to learn from, not merely something to defeat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/0963721413480174" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMyside Bias, Rational Thinking, and Intelligenceby KE Stanovich · 2013 · Cited by 669 — Myside bias occurs when people evalu...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5-overview.webp" | relative_url }}" alt="Overview image for Myside Bias" loading="eager" decoding="sync" fetchpriority="high">
 ## What myside bias looks like in real thinking
 
-Myside bias is not just “having opinions”. A person can have a strong view and still reason well if they are willing to ask what would count against it. The bias appears when the standard of evaluation changes with the direction of the evidence. A weak study that supports your side feels “suggestive”; a similarly weak study against your side feels “fatally flawed”. A friendly anecdote feels vivid and revealing; an unfriendly anecdote is dismissed as unrepresentative. The same intellectual move looks careful when you use it against an opponent and evasive when someone uses it against you. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">nickerson Confirmation Bias</span><span class="citation-popover-snippet">nickerson Confirmation Bias</span></span></span>
+Myside bias is not just “having opinions”. A person can have a strong view and still reason well if they are willing to ask what would count against it. The bias appears when the standard of evaluation changes with the direction of the evidence. A weak study that supports your side feels “suggestive”; a similarly weak study against your side feels “fatally flawed”. A friendly anecdote feels vivid and revealing; an unfriendly anecdote is dismissed as unrepresentative. The same intellectual move looks careful when you use it against an opponent and evasive when someone uses it against you.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">nickerson Confirmation Bias</span><span class="citation-popover-snippet">nickerson Confirmation Bias</span></span></span>
 
-A classic demonstration is the 1979 study by Charles Lord, Lee Ross and Mark Lepper on attitudes to capital punishment. Participants who already supported or opposed the death penalty were shown mixed evidence about whether it deters murder. Rather than converging, they tended to rate evidence that supported their existing view as more convincing and scrutinise opposing evidence more critically. The study became influential because it captured a familiar pattern: mixed evidence can make people feel more justified in what they already believed, especially when the issue is morally or politically charged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span><span class="citation-popover-snippet">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span></span></span>
+A classic demonstration is the 1979 study by Charles Lord, Lee Ross and Mark Lepper on attitudes to capital punishment. Participants who already supported or opposed the death penalty were shown mixed evidence about whether it deters murder. Rather than converging, they tended to rate evidence that supported their existing view as more convincing and scrutinise opposing evidence more critically. The study became influential because it captured a familiar pattern: mixed evidence can make people feel more justified in what they already believed, especially when the issue is morally or politically charged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span><span class="citation-popover-snippet">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span></span></span>
 
-This does not mean every correction will “backfire” or that people never change their minds. Later research has challenged the idea that factual corrections usually make false beliefs stronger. For example, Wood and Porter tested more than 10,100 participants across 52 contested issues and found no corrections that triggered factual backfire, while Nyhan has argued that corrective information only rarely produces backfire effects, though its benefits may be modest or short-lived. The better lesson is narrower and more useful: people often can learn from contrary facts, but belief-protection can shape which facts they seek, how much weight they give them, and whether the correction changes the broader attitude attached to the belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11109-018-9443-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
+This does not mean every correction will “backfire” or that people never change their minds. Later research has challenged the idea that factual corrections usually make false beliefs stronger. For example, Wood and Porter tested more than 10,100 participants across 52 contested issues and found no corrections that triggered factual backfire, while Nyhan has argued that corrective information only rarely produces backfire effects, though its benefits may be modest or short-lived. The better lesson is narrower and more useful: people often can learn from contrary facts, but belief-protection can shape which facts they seek, how much weight they give them, and whether the correction changes the broader attitude attached to the belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11109-018-9443-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
 
 Myside bias also appears before evidence is even evaluated. It can influence which questions people ask. A person defending a favourite diet, investment thesis, political position or workplace plan may unconsciously ask, “What evidence supports this?” rather than “What evidence would distinguish this from a tempting but false alternative?” That difference matters. The first question recruits reasoning as a lawyer; the second recruits reasoning as an investigator.
 
 ## Why favourite beliefs are so well defended
 
-Favourite beliefs are not always favourite because they are pleasant. Some are tied to identity, group belonging, moral conviction, professional reputation or a past decision that would be painful to revisit. Once a belief becomes part of “who I am”, criticism can feel less like information and more like status loss, betrayal or humiliation. That is why myside bias is especially common around politics, religion, moral controversies, social identity, professional expertise and personal choices people have publicly defended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/motivated-numeracy-and-enlightened-selfgovernment/EC9F2410D5562EF10B7A5E2539063806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
+Favourite beliefs are not always favourite because they are pleasant. Some are tied to identity, group belonging, moral conviction, professional reputation or a past decision that would be painful to revisit. Once a belief becomes part of “who I am”, criticism can feel less like information and more like status loss, betrayal or humiliation. That is why myside bias is especially common around politics, religion, moral controversies, social identity, professional expertise and personal choices people have publicly defended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/motivated-numeracy-and-enlightened-selfgovernment/EC9F2410D5562EF10B7A5E2539063806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
 
-Charles Taber and Milton Lodge’s research on [motivated scepticism]({{ 'uneven-doubt/' | relative_url }}) helps explain the mechanism. In experiments on political issues such as gun control and affirmative action, people evaluated arguments that matched their prior attitudes as stronger than arguments that opposed them. The important point is not that people refused to think. They often did think — but their scepticism was unevenly distributed. They generated counterarguments more readily against uncongenial claims, while congenial claims received an easier hearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner+2PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">AJPS 2006 Taber</span><span class="citation-popover-snippet">AJPS 2006 Taber</span></span></span>
+Charles Taber and Milton Lodge’s research on [motivated scepticism]({{ 'uneven-doubt/' | relative_url }}) helps explain the mechanism. In experiments on political issues such as gun control and affirmative action, people evaluated arguments that matched their prior attitudes as stronger than arguments that opposed them. The important point is not that people refused to think. They often did think — but their scepticism was unevenly distributed. They generated counterarguments more readily against uncongenial claims, while congenial claims received an easier hearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner+2PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">AJPS 2006 Taber</span><span class="citation-popover-snippet">AJPS 2006 Taber</span></span></span>
 
 This is why myside bias can feel internally honest. From the inside, you may not experience yourself as “twisting the evidence”. You experience yourself as noticing genuine flaws in the other side. Often those flaws are real. The bias lies in failing to apply the same searchlight to your own side. A person can be right about an opponent’s weak evidence and still biased if they never ask whether their preferred evidence would survive the [same standard]({{ 'same-standard/' | relative_url }}).
 
@@ -475,11 +475,11 @@ The bias also feeds on ambiguity. Many real-world questions do not come with cle
 <img src="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5-Illustration-1-dark.svg" | relative_url }}" alt="Myside Bias illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why intelligence does not remove it
 
-One of the most important findings for anyone trying to improve analytical skill is that myside bias is not simply a problem of low intelligence. Keith Stanovich, Richard West and Maggie Toplak reviewed evidence across different myside-bias tasks and concluded that the magnitude of the bias shows little relation to intelligence. In other words, being good at abstract reasoning does not automatically mean you will evaluate belief-threatening evidence fairly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/0963721413480174" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2maggietoplak.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMyside Bias, Rational Thinking, and Intelligenceby KE Stanovich · 2013 · Cited by 669 — Myside bias occurs when people evalu...</span></span></span>
+One of the most important findings for anyone trying to improve analytical skill is that myside bias is not simply a problem of low intelligence. Keith Stanovich, Richard West and Maggie Toplak reviewed evidence across different myside-bias tasks and concluded that the magnitude of the bias shows little relation to intelligence. In other words, being good at abstract reasoning does not automatically mean you will evaluate belief-threatening evidence fairly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/0963721413480174" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2maggietoplak.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMyside Bias, Rational Thinking, and Intelligenceby KE Stanovich · 2013 · Cited by 669 — Myside bias occurs when people evalu...</span></span></span>
 
 This makes sense once the problem is understood as direction, not horsepower. Intelligence can improve the quality of reasoning, but it does not by itself choose the goal of reasoning. If the goal is accuracy, cognitive skill helps you test ideas more carefully. If the goal is defence, the same skill can help you find loopholes, produce impressive counterarguments and protect a conclusion from revision. A clever person may therefore be better at sounding rational while still being selectively rational.
 
-Dan Kahan’s “motivated numeracy” work gives a striking example. Participants solved a difficult data problem. When the problem was framed as a neutral test of whether a skin-rash treatment worked, more numerate participants did better. But when the same kind of data was framed around a politically charged issue, people’s interpretations were pulled towards identity-consistent conclusions. The finding challenges the comforting idea that public disagreement is mainly caused by people not knowing enough or not being numerate enough. On contested identity-linked questions, better analytic ability may not be enough unless the person is also motivated to apply it even-handedly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/motivated-numeracy-and-enlightened-selfgovernment/EC9F2410D5562EF10B7A5E2539063806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
+Dan Kahan’s “motivated numeracy” work gives a striking example. Participants solved a difficult data problem. When the problem was framed as a neutral test of whether a skin-rash treatment worked, more numerate participants did better. But when the same kind of data was framed around a politically charged issue, people’s interpretations were pulled towards identity-consistent conclusions. The finding challenges the comforting idea that public disagreement is mainly caused by people not knowing enough or not being numerate enough. On contested identity-linked questions, better analytic ability may not be enough unless the person is also motivated to apply it even-handedly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/motivated-numeracy-and-enlightened-selfgovernment/EC9F2410D5562EF10B7A5E2539063806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
 
 This does not make intelligence useless. Analytical ability still matters enormously for understanding evidence, spotting weak arguments and making better decisions. The risk is that intelligence without belief-checking can become a shield for favourite conclusions. The more fluent you are with evidence and argument, the easier it is to mistake “I can defend this” for “I have tested this”.
 
@@ -513,9 +513,9 @@ Myside bias can enter at several points in the thinking process. Separating them
 
 **First, it shapes attention.** You notice evidence that fits your belief more readily because it feels relevant. A manager who believes a new strategy is working may remember every enthusiastic customer comment and overlook quieter signs of churn. A voter may remember scandals from the other party and treat similar behaviour from their own side as complicated or exaggerated.
 
-**Second, it shapes interpretation.** The same evidence can be read through different stories. In a study of belief-biased data interpretation, participants estimated correlations in scatterplots. When axes had meaningful labels and participants already believed two variables should be related, they overestimated the relationship; when they believed the variables should be unrelated, they underestimated it. Even a visual display that looks objective can be filtered through prior belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2208.04436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+**Second, it shapes interpretation.** The same evidence can be read through different stories. In a study of belief-biased data interpretation, participants estimated correlations in scatterplots. When axes had meaningful labels and participants already believed two variables should be related, they overestimated the relationship; when they believed the variables should be unrelated, they underestimated it. Even a visual display that looks objective can be filtered through prior belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2208.04436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-**Third, it shapes argument generation.** When asked to make a case, people often produce more reasons for their own side than against it. Research on written argumentation has found that myside bias can appear in how people generate and evaluate arguments, with prior beliefs influencing which considerations are treated as strong or worth including. This matters because many people judge their confidence by the number of reasons they can list, without noticing that they never gave the other side the same opportunity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.rug.nl/files/1266847446/qt8nq023zs_noSplash_944c2b8ba5ca05bb8ef709bc02e1d089.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.rug.nl">[Groningen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.rug.nl</span><span class="citation-popover-title">qt8nq023zs noSplash 944c2b8ba5ca05bb8ef709bc02e1d089</span><span class="citation-popover-snippet">qt8nq023zs noSplash 944c2b8ba5ca05bb8ef709bc02e1d089</span></span></span>
+**Third, it shapes argument generation.** When asked to make a case, people often produce more reasons for their own side than against it. Research on written argumentation has found that myside bias can appear in how people generate and evaluate arguments, with prior beliefs influencing which considerations are treated as strong or worth including. This matters because many people judge their confidence by the number of reasons they can list, without noticing that they never gave the other side the same opportunity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.rug.nl/files/1266847446/qt8nq023zs_noSplash_944c2b8ba5ca05bb8ef709bc02e1d089.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.rug.nl">[Groningen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.rug.nl</span><span class="citation-popover-title">qt8nq023zs noSplash 944c2b8ba5ca05bb8ef709bc02e1d089</span><span class="citation-popover-snippet">qt8nq023zs noSplash 944c2b8ba5ca05bb8ef709bc02e1d089</span></span></span>
 
 **Fourth, it shapes memory.** Supportive examples are easier to retrieve because they have been rehearsed, shared and emotionally tagged. Opposing examples may never be encoded with the same care. Over time, a belief can feel well supported not because the evidence base is balanced, but because the mind’s archive has been curated.
 
@@ -533,7 +533,7 @@ This check works because myside bias often survives by moving the [goalposts]({{
 
 ### Consider the opposite, but do it concretely
 
-A well-supported debiasing technique is to “consider the opposite”: deliberately generate reasons why your current belief might be wrong. Lord, Lepper and Preston found that inducing people to consider opposite possibilities reduced bias more effectively than simply telling them to be fair and unbiased. The distinction is crucial. “Be objective” is too vague; “What evidence would I expect to see if the opposite were true?” gives the mind a task. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+A well-supported debiasing technique is to “consider the opposite”: deliberately generate reasons why your current belief might be wrong. Lord, Lepper and Preston found that inducing people to consider opposite possibilities reduced bias more effectively than simply telling them to be fair and unbiased. The distinction is crucial. “Be objective” is too vague; “What evidence would I expect to see if the opposite were true?” gives the mind a task.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 A practical version is to write a short, sincere case for the strongest rival view before defending your own. Not a caricature; not the weakest comment you found online; the version an intelligent opponent would recognise. If you cannot state the rival view in a way its supporters would accept, you are probably not ready to dismiss it.
 
@@ -554,7 +554,7 @@ The point is not to create endless debate. It is to move criticism to the stage 
 
 ### Reward accuracy, not just loyalty
 
-Some evidence suggests that accuracy incentives and task design can reduce partisan bias in judgement. In experiments on misinformation, financial incentives improved accuracy and reduced partisan bias in headline judgements by about 30%, largely by increasing perceived accuracy for true news from the opposing party. But incentives that asked people to predict what their political allies would like reduced accuracy. This finding is useful beyond politics: people reason better when the environment rewards getting it right rather than pleasing their side. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10289897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Some evidence suggests that accuracy incentives and task design can reduce partisan bias in judgement. In experiments on misinformation, financial incentives improved accuracy and reduced partisan bias in headline judgements by about 30%, largely by increasing perceived accuracy for true news from the opposing party. But incentives that asked people to predict what their political allies would like reduced accuracy. This finding is useful beyond politics: people reason better when the environment rewards getting it right rather than pleasing their side.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10289897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 For personal thinking, the equivalent is to make accuracy emotionally rewarding. Keep a record of predictions. Notice when changing your mind prevented a mistake. Praise people for useful corrections. In a group, do not punish someone for surfacing inconvenient evidence early. If social rewards go only to confident defence, myside bias will look like commitment.
 
@@ -590,178 +590,178 @@ Myside bias is dangerous because it turns reasoning into defence while preservin
 That shift is a core part of improving analytical skill. A better thinker is not someone without favourite beliefs. A better thinker is someone who notices when a belief has become too protected, applies the same standards in both directions, and treats disconfirming evidence as a tool for getting less wrong. Myside bias cannot be removed by intelligence alone, but it can be constrained by routines that make selective reasoning harder to hide.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Your Favorite Beliefs Fool You. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Your Favorite Beliefs Fool You. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Focuses on overcoming motivated reasoning and evaluating evidence more fairly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on overcoming motivated reasoning and evaluating evidence more fairly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases, including confirmation-related errors that underpin myside bias.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases, including confirmation-related errors that underpin myside bias.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Directly examines why people protect existing beliefs despite contrary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines why people protect existing beliefs despite contrary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Covers many common thinking errors related to biased judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers many common thinking errors related to biased judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hilarious Uno Emoji Card Game - Develops Social Skills &amp; Critical Thinking"><img src="https://i.ebayimg.com/images/g/YfIAAeSwkxNp43a4/s-l225.jpg" alt="Listing image for Hilarious Uno Emoji Card Game - Develops Social Skills &amp; Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">Hilarious Uno Emoji Card Game - Develops Social Skills &amp; Critical Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hilarious Uno Emoji Card Game - Develops Social Skills &amp; Critical Thinking"><img src="https://i.ebayimg.com/images/g/YfIAAeSwkxNp43a4/s-l225.jpg" alt="Listing image for Hilarious Uno Emoji Card Game - Develops Social Skills &amp; Critical Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">Hilarious Uno Emoji Card Game - Develops Social Skills &amp; Critical Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 52 Essential Critical Thinking: Flash Cards for Problem Solving &amp; Decision Makin"><img src="https://i.ebayimg.com/images/g/iZ4AAOSwrM9l0WEv/s-l225.jpg" alt="Listing image for 52 Essential Critical Thinking: Flash Cards for Problem Solving &amp; Decision Makin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">52 Essential Critical Thinking: Flash Cards for Problem Solving &amp; Decision Makin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 52 Essential Critical Thinking: Flash Cards for Problem Solving &amp; Decision Makin"><img src="https://i.ebayimg.com/images/g/iZ4AAOSwrM9l0WEv/s-l225.jpg" alt="Listing image for 52 Essential Critical Thinking: Flash Cards for Problem Solving &amp; Decision Makin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">52 Essential Critical Thinking: Flash Cards for Problem Solving &amp; Decision Makin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Critical Thinking Card Games: Ea..., Richard, Elaine"><img src="https://i.ebayimg.com/images/g/AiEAAeSwZxlpPuiV/s-l225.jpg" alt="Listing image for 10 Critical Thinking Card Games: Ea..., Richard, Elaine" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">10 Critical Thinking Card Games: Ea..., Richard, Elaine</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Critical Thinking Card Games: Ea..., Richard, Elaine"><img src="https://i.ebayimg.com/images/g/AiEAAeSwZxlpPuiV/s-l225.jpg" alt="Listing image for 10 Critical Thinking Card Games: Ea..., Richard, Elaine" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">10 Critical Thinking Card Games: Ea..., Richard, Elaine</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-your-favorite-beliefs-fool-you-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-your-favorite-beliefs-fool-you-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -777,7 +777,7 @@ That shift is a core part of improving analytical skill. A better thinker is not
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -797,7 +797,7 @@ That shift is a core part of improving analytical skill. A better thinker is not
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -829,7 +829,7 @@ That shift is a core part of improving analytical skill. A better thinker is not
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -881,7 +881,7 @@ That shift is a core part of improving analytical skill. A better thinker is not
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -926,7 +926,7 @@ That shift is a core part of improving analytical skill. A better thinker is not
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -966,226 +966,226 @@ That shift is a core part of improving analytical skill. A better thinker is not
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/cognitive-science-of-belief/elusive-search-for-individual-differences-in-myside-thinking/BC84D93540EAF663ECF9117912364EBE" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cognitive-science-of-belief/elusive-search-for-individual-differences-in-myside-thinking/BC84D93540EAF663ECF9117912364EBE</a>  
+   Link:<a href="https://www.cambridge.org/core/books/cognitive-science-of-belief/elusive-search-for-individual-differences-in-myside-thinking/BC84D93540EAF663ECF9117912364EBE" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cognitive-science-of-belief/elusive-search-for-individual-differences-in-myside-thinking/BC84D93540EAF663ECF9117912364EBE</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11109-018-9443-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11109-018-9443-y</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s11109-018-9443-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11109-018-9443-y</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1912440117</a>  
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1912440117</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/motivated-numeracy-and-enlightened-selfgovernment/EC9F2410D5562EF10B7A5E2539063806" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/motivated-numeracy-and-enlightened-selfgovernment/EC9F2410D5562EF10B7A5E2539063806</a>  
+   Link:<a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/motivated-numeracy-and-enlightened-selfgovernment/EC9F2410D5562EF10B7A5E2539063806" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/motivated-numeracy-and-enlightened-selfgovernment/EC9F2410D5562EF10B7A5E2539063806</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: link.springer.com  
    Title: The case for partisan motivated reasoning  
-   Link: <a href="https://link.springer.com/article/10.1007/s11229-023-04223-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11229-023-04223-1</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s11229-023-04223-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11229-023-04223-1</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: philpapers.org  
    Title: TABMSI 2  
-   Link: <a href="https://philpapers.org/rec/TABMSI-2" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/TABMSI-2</a>  
+   Link:<a href="https://philpapers.org/rec/TABMSI-2" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/TABMSI-2</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: maggietoplak.com  
-   Link: <a href="https://maggietoplak.com/wp-content/uploads/2025/05/Stanovich-K.-E.-West-R.-F.-Toplak-M.-E.-2013.-Myside-bias-rational-thinking-and-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://maggietoplak.com/wp-content/uploads/2025/05/Stanovich-K.-E.-West-R.-F.-Toplak-M.-E.-2013.-Myside-bias-rational-thinking-and-intelligence.pdf</a>  
+   Link:<a href="https://maggietoplak.com/wp-content/uploads/2025/05/Stanovich-K.-E.-West-R.-F.-Toplak-M.-E.-2013.-Myside-bias-rational-thinking-and-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://maggietoplak.com/wp-content/uploads/2025/05/Stanovich-K.-E.-West-R.-F.-Toplak-M.-E.-2013.-Myside-bias-rational-thinking-and-intelligence.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319992" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319992</a>  
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319992" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319992</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2208.04436" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.04436</a>  
+   Link:<a href="https://arxiv.org/abs/2208.04436" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.04436</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10289897/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10289897/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10289897/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10289897/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/rec/STANMB" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/STANMB</a>  
+   Link:<a href="https://philpapers.org/rec/STANMB" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/STANMB</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/cambridge-handbook-of-intelligence/intelligence-and-rationality/88583A1AA652606A4381E980A812D9C1" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-handbook-of-intelligence/intelligence-and-rationality/88583A1AA652606A4381E980A812D9C1</a>  
+   Link:<a href="https://www.cambridge.org/core/books/cambridge-handbook-of-intelligence/intelligence-and-rationality/88583A1AA652606A4381E980A812D9C1" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-handbook-of-intelligence/intelligence-and-rationality/88583A1AA652606A4381E980A812D9C1</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
    Title: org英語での intelligence の意味  
-   Link: <a href="https://dictionary.cambridge.org/ja/dictionary/english/intelligence" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/ja/dictionary/english/intelligence</a>  
+   Link:<a href="https://dictionary.cambridge.org/ja/dictionary/english/intelligence" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/ja/dictionary/english/intelligence</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4</a>  
+   Link:<a href="https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11229-020-02910-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11229-020-02910-x</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s11229-020-02910-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11229-020-02910-x</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s13164-024-00737-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13164-024-00737-w</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s13164-024-00737-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13164-024-00737-w</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-023-00492-z</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-023-00492-z</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0963721413480174" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0963721413480174</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMyside Bias, Rational Thinking, and Intelligenceby KE Stanovich · 2013 · Cited by 669 — Myside bias occurs when people evalu...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/0963721413480174" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0963721413480174</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMyside Bias, Rational Thinking, and Intelligenceby KE Stanovich · 2013 · Cited by 669 — Myside bias occurs when people evalu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pages.ucsd.edu  
    Title: nickerson Confirmation Bias  
-   Link: <a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
+   Link:<a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fbaum.unc.edu  
    Title: Frank Baumgartner [Biased Assimilation](&#123;&#123; 'mixed-evidence-accf68/' | relative_url &#125;&#125;) and Attitude Polarization: The Effects  
-   Link: <a href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf</a>  
+   Link:<a href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: fbaum.unc.edu  
    Title: AJPS 2006 Taber  
-   Link: <a href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf</a>  
+   Link:<a href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: research.rug.nl  
    Title: qt8nq023zs noSplash 944c2b8ba5ca05bb8ef709bc02e1d089  
-   Link: <a href="https://research.rug.nl/files/1266847446/qt8nq023zs_noSplash_944c2b8ba5ca05bb8ef709bc02e1d089.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/files/1266847446/qt8nq023zs_noSplash_944c2b8ba5ca05bb8ef709bc02e1d089.pdf</a>  
+   Link:<a href="https://research.rug.nl/files/1266847446/qt8nq023zs_noSplash_944c2b8ba5ca05bb8ef709bc02e1d089.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/files/1266847446/qt8nq023zs_noSplash_944c2b8ba5ca05bb8ef709bc02e1d089.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0741088312457909" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0741088312457909</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0741088312457909" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0741088312457909</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/6527215/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/6527215/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8167750/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8167750/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8167750/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8167750/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10319185/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10319185/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10319185/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10319185/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7546453/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7546453/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7546453/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7546453/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11478866/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11478866/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11478866/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11478866/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623627/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623627/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623627/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623627/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11522166/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11522166/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11522166/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11522166/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: math.drexel.edu  
    Title: Motivated Numeracy  
-   Link: <a href="https://www.math.drexel.edu/~dp399/mathpolitics/MotivatedNumeracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.math.drexel.edu/~dp399/mathpolitics/MotivatedNumeracy.pdf</a>  
+   Link:<a href="https://www.math.drexel.edu/~dp399/mathpolitics/MotivatedNumeracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.math.drexel.edu/~dp399/mathpolitics/MotivatedNumeracy.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: research.rug.nl  
-   Link: <a href="https://research.rug.nl/files/1163597046/pgae506.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/files/1163597046/pgae506.pdf</a>  
+   Link:<a href="https://research.rug.nl/files/1163597046/pgae506.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/files/1163597046/pgae506.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: iphils.uj.edu.pl  
-   Link: <a href="https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf</a>  
+   Link:<a href="https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: scholar.google.com  
-   Link: <a href="https://scholar.google.com/citations?hl=en&amp;user=9VwvxRIAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com/citations?hl=en&amp;user=9VwvxRIAAAAJ</a>  
+   Link:<a href="https://scholar.google.com/citations?hl=en&amp;user=9VwvxRIAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com/citations?hl=en&amp;user=9VwvxRIAAAAJ</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: springerprofessional.de  
    Title: the elusive backfire effect mass attitudes steadfast factual adh  
-   Link: <a href="https://www.springerprofessional.de/en/the-elusive-backfire-effect-mass-attitudes-steadfast-factual-adh/15368028" target="_blank" rel="noopener noreferrer nofollow">https://www.springerprofessional.de/en/the-elusive-backfire-effect-mass-attitudes-steadfast-factual-adh/15368028</a>  
+   Link:<a href="https://www.springerprofessional.de/en/the-elusive-backfire-effect-mass-attitudes-steadfast-factual-adh/15368028" target="_blank" rel="noopener noreferrer nofollow">https://www.springerprofessional.de/en/the-elusive-backfire-effect-mass-attitudes-steadfast-factual-adh/15368028</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Intelligence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Intelligence</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: apple.com  
-   Link: <a href="https://www.apple.com/jp/apple-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/jp/apple-intelligence/</a>  
+   Link:<a href="https://www.apple.com/jp/apple-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/jp/apple-intelligence/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: psychotricks.com  
    Title: myside bias  
-   Link: <a href="https://psychotricks.com/myside-bias/" target="_blank" rel="noopener noreferrer nofollow">https://psychotricks.com/myside-bias/</a>  
+   Link:<a href="https://psychotricks.com/myside-bias/" target="_blank" rel="noopener noreferrer nofollow">https://psychotricks.com/myside-bias/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/us/basics/intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/intelligence</a>  
+   Link:<a href="https://www.psychologytoday.com/us/basics/intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/intelligence</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Smart People Are Harder to Fool — And That's Exactly Why They Fall Harder  
-   Link: <a href="https://www.youtube.com/watch?v=tsxASG9RUoQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tsxASG9RUoQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Lawyers Predict Case [Outcomes](&amp;#123;&amp;#123; &#x27;outcomes/&#x27; | relative_url &amp;#125;&amp;#125;): Myside Bias and Overconfidence in Legal Advice...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tsxASG9RUoQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tsxASG9RUoQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Lawyers Predict Case [Outcomes](&amp;#123;&amp;#123; &#x27;outcomes/&#x27; | relative_url &amp;#125;&amp;#125;): Myside Bias and Overconfidence in Legal Advice...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WkKN6TSqwgA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WkKN6TSqwgA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bias That Makes Gender-Affirming Care Impossible to Debate...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WkKN6TSqwgA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WkKN6TSqwgA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bias That Makes Gender-Affirming Care Impossible to Debate...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Behind the research: Myside Bias with F. Ece Özkan | Chi LD Lab  
-   Link: <a href="https://www.youtube.com/watch?v=AqHiePJ3AWg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AqHiePJ3AWg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“See, I told you so!” - The Cognitive Bias Called The Confirmation Bias...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AqHiePJ3AWg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AqHiePJ3AWg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“See, I told you so!” - The Cognitive Bias Called The Confirmation Bias...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: The Bias That Makes Gender-Affirming Care Impossible to Debate  
-   Link: <a href="https://www.youtube.com/watch?v=oj7pTpxufmY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oj7pTpxufmY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behind the research: Myside Bias with F. Ece Özkan | ChiLD Lab...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oj7pTpxufmY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oj7pTpxufmY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behind the research: Myside Bias with F. Ece Özkan | ChiLD Lab...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/what-we-do/what-is-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/what-we-do/what-is-intelligence</a>  
+   Link:<a href="https://www.dni.gov/index.php/what-we-do/what-is-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/what-we-do/what-is-intelligence</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/55787043/Myside_Bias_Rational_Thinking_and_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/55787043/Myside_Bias_Rational_Thinking_and_Intelligence</a>  
+   Link:<a href="https://www.academia.edu/55787043/Myside_Bias_Rational_Thinking_and_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/55787043/Myside_Bias_Rational_Thinking_and_Intelligence</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/258127972_Myside_Bias_Rational_Thinking_and_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258127972_Myside_Bias_Rational_Thinking_and_Intelligence</a>  
+   Link:<a href="https://www.researchgate.net/publication/258127972_Myside_Bias_Rational_Thinking_and_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258127972_Myside_Bias_Rational_Thinking_and_Intelligence</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/284068525_Differences_in_student_reasoning_about_belief-relevant_arguments_a_mixed_methods_study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284068525_Differences_in_student_reasoning_about_belief-relevant_arguments_a_mixed_methods_study</a>  
+   Link:<a href="https://www.researchgate.net/publication/284068525_Differences_in_student_reasoning_about_belief-relevant_arguments_a_mixed_methods_study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284068525_Differences_in_student_reasoning_about_belief-relevant_arguments_a_mixed_methods_study</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390843764_The_Puzzle_of_Myside_Bias_and_Actively_Open-Minded_Thinking_in_the_Conceptualization_of_Critical_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390843764_The_Puzzle_of_Myside_Bias_and_Actively_Open-Minded_Thinking_in_the_Conceptualization_of_Critical_Thinking</a>  
+   Link:<a href="https://www.researchgate.net/publication/390843764_The_Puzzle_of_Myside_Bias_and_Actively_Open-Minded_Thinking_in_the_Conceptualization_of_Critical_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390843764_The_Puzzle_of_Myside_Bias_and_Actively_Open-Minded_Thinking_in_the_Conceptualization_of_Critical_Thinking</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: sjdm.org  
-   Link: <a href="https://sjdm.org/dmidi/Actively_Open-Minded_Thinking_Beliefs.html" target="_blank" rel="noopener noreferrer nofollow">https://sjdm.org/dmidi/Actively_Open-Minded_Thinking_Beliefs.html</a>  
+   Link:<a href="https://sjdm.org/dmidi/Actively_Open-Minded_Thinking_Beliefs.html" target="_blank" rel="noopener noreferrer nofollow">https://sjdm.org/dmidi/Actively_Open-Minded_Thinking_Beliefs.html</a>  

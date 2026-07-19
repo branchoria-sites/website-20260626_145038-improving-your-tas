@@ -274,17 +274,17 @@ image: /assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_br
 
 ## Introduction
 
-A feedback loop only improves judgement if it measures more than whether [predictions]({{ 'predictions/' | relative_url }}) were right or wrong. It should also reveal whether your confidence tracked the strength of the evidence. The Brier score is one of the best-known tools for evaluating probabilistic forecasts because it rewards assigning realistic [probabilities]({{ 'probabilities/' | relative_url }}) rather than making overconfident guesses. However, a good Brier score does not automatically mean your confidence scale is genuinely informative. Two forecasters can appear equally well calibrated while differing dramatically in their ability to distinguish easy cases from difficult ones. Understanding this distinction is essential if you want feedback that improves judgement rather than merely confirming that your average confidence was reasonable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brier score</span><span class="citation-popover-snippet">Brier score</span></span></span>
+A feedback loop only improves judgement if it measures more than whether [predictions]({{ 'predictions/' | relative_url }}) were right or wrong. It should also reveal whether your confidence tracked the strength of the evidence. The Brier score is one of the best-known tools for evaluating probabilistic forecasts because it rewards assigning realistic [probabilities]({{ 'probabilities/' | relative_url }}) rather than making overconfident guesses. However, a good Brier score does not automatically mean your confidence scale is genuinely informative. Two forecasters can appear equally well calibrated while differing dramatically in their ability to distinguish easy cases from difficult ones. Understanding this distinction is essential if you want feedback that improves judgement rather than merely confirming that your average confidence was reasonable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brier score</span><span class="citation-popover-snippet">Brier score</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_brier_scores_limits_363784-Illustration-1-dark.svg" | relative_url }}" alt="Brier Scores illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_brier_scores_limits_363784-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_brier_scores_limits_363784-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What a forecast score can and cannot tell you
 
-The Brier score measures the average squared difference between the probability you assigned and what actually happened. A forecast of 80% that succeeds receives a small penalty because it was close to reality, while an 80% forecast that fails receives a much larger one. Lower scores are better, and the score is considered a *strictly proper scoring rule*, meaning that, in expectation, it encourages honest probability estimates rather than strategic exaggeration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brier score</span><span class="citation-popover-snippet">Brier score</span></span></span>
+The Brier score measures the average squared difference between the probability you assigned and what actually happened. A forecast of 80% that succeeds receives a small penalty because it was close to reality, while an 80% forecast that fails receives a much larger one. Lower scores are better, and the score is considered a *strictly proper scoring rule*, meaning that, in expectation, it encourages honest probability estimates rather than strategic exaggeration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brier score</span><span class="citation-popover-snippet">Brier score</span></span></span>
 
 This makes the Brier score extremely valuable for learning from repeated predictions. If you consistently claim 90% confidence when only about 60% of those predictions come true, your Brier score will expose that overconfidence.
 
-However, the score is an overall measure of forecast quality, not a diagnosis. By itself, it cannot explain *why* one forecaster performed better than another. Similar overall scores can arise from very different combinations of strengths and weaknesses. One person may be well calibrated but poor at recognising strong evidence; another may separate easy from difficult problems well but express probabilities that are systematically too high or too low. Looking only at the overall score hides these differences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</span></span></span>
+However, the score is an overall measure of forecast quality, not a diagnosis. By itself, it cannot explain *why* one forecaster performed better than another. Similar overall scores can arise from very different combinations of strengths and weaknesses. One person may be well calibrated but poor at recognising strong evidence; another may separate easy from difficult problems well but express probabilities that are systematically too high or too low. Looking only at the overall score hides these differences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</span></span></span>
 
 ## Calibration versus discrimination in judgement
 
@@ -310,7 +310,7 @@ Forecast researchers therefore emphasise that useful probability judgements requ
 * **Calibration (reliability):** stated confidence matches observed frequencies.
 * **Resolution (discrimination):** confidence changes appropriately across cases instead of clustering around the average probability.
 
-Murphy's classic decomposition of the Brier score separates these components mathematically into reliability, resolution and [uncertainty]({{ 'uncertainty/' | relative_url }}), making it possible to identify whether poor performance comes from miscalibration or from failing to distinguish informative from uninformative situations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society+2Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</span></span></span>
+Murphy's classic decomposition of the Brier score separates these components mathematically into reliability, resolution and [uncertainty]({{ 'uncertainty/' | relative_url }}), making it possible to identify whether poor performance comes from miscalibration or from failing to distinguish informative from uninformative situations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society+2Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5mbX6ITznHk" title="Bias-Variance Trade-off - Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5mbX6ITznHk" target="_blank" rel="noopener noreferrer">Bias-Variance Trade-off - Explained</a></p><p class="youtube-embed-meta">Channel: DataMListic &middot; Views: 6.6K &middot; Uploaded: February 2023 &middot; Length: 4 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5mbX6ITznHk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5mbX6ITznHk">Open on YouTube</a></p></div></div></div>
@@ -325,7 +325,7 @@ Now compare this with predicting medical diagnoses, weather, or election [outcom
 
 If every forecast remains close to the base rate—perhaps 45–55%—calibration may still appear excellent even though the forecaster has learned almost nothing from the evidence available in individual cases.
 
-Murphy's decomposition captures this through the **resolution** term. High resolution means forecasts move away from the overall base rate when evidence justifies it. Low resolution means forecasts stay close to the average regardless of what is known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society+2Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</span></span></span>
+Murphy's decomposition captures this through the **resolution** term. High resolution means forecasts move away from the overall base rate when evidence justifies it. Low resolution means forecasts stay close to the average regardless of what is known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society+2Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</span></span></span>
 
 This is an important lesson for improving judgement. Avoiding overconfidence is valuable, but permanently avoiding strong confidence can become a different kind of mistake if you fail to recognise situations where the evidence genuinely warrants it.
 
@@ -337,7 +337,7 @@ This is an important lesson for improving judgement. Avoiding overconfidence is 
 
 Forecasting whether it will rain tomorrow in a region with highly variable weather is fundamentally harder than forecasting whether the sun will rise tomorrow. Even a perfect forecaster cannot eliminate uncertainty that genuinely exists in the world.
 
-Murphy's decomposition therefore includes an **uncertainty** component reflecting the variability of the underlying events themselves. High uncertainty does not necessarily indicate poor judgement; it may simply describe a difficult forecasting environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</span></span></span>
+Murphy's decomposition therefore includes an **uncertainty** component reflecting the variability of the underlying events themselves. High uncertainty does not necessarily indicate poor judgement; it may simply describe a difficult forecasting environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</span></span></span>
 
 This matters when comparing performance across domains.
 
@@ -350,7 +350,7 @@ This matters when comparing performance across domains.
 
 </div>
 
-Researchers in forecast verification have shown that rare events can make Brier scores unstable unless many observations are available, making [comparisons]({{ 'comparisons/' | relative_url }}) between forecasters more difficult than they first appear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brier score</span><span class="citation-popover-snippet">Brier score</span></span></span>
+Researchers in forecast verification have shown that rare events can make Brier scores unstable unless many observations are available, making [comparisons]({{ 'comparisons/' | relative_url }}) between forecasters more difficult than they first appear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brier score</span><span class="citation-popover-snippet">Brier score</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oJa7JVPjnpQ" title="The Brier Score That Proves PropsBot.AI Beats Vegas — AI Sports Betting Tutorial #6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oJa7JVPjnpQ" target="_blank" rel="noopener noreferrer">The Brier Score That Proves PropsBot.AI Beats Vegas — AI Sports Betting Tutorial #6</a></p><p class="youtube-embed-meta">Channel: PropsBotAI</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oJa7JVPjnpQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oJa7JVPjnpQ">Open on YouTube</a></p></div></div></div>
@@ -371,7 +371,7 @@ Used alone, it cannot reveal:
 
 </div>
 
-This is why forecasting researchers increasingly recommend combining several diagnostics. Reliability [diagrams]({{ 'diagrams/' | relative_url }}) reveal calibration visually, while measures such as receiver operating characteristic (ROC) curves assess discrimination separately. More recent work argues that examining calibration, discrimination and overall scoring together provides a much richer picture of judgement quality than any single metric alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7923594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCStable reliability diagrams for probabilistic classifiers</span><span class="citation-popover-snippet">by T Dimitriadis · 2021 · Cited by 134 — We introduce the CORP approach, which generates provably statistically consistent, optimally...</span></span></span>
+This is why forecasting researchers increasingly recommend combining several diagnostics. Reliability [diagrams]({{ 'diagrams/' | relative_url }}) reveal calibration visually, while measures such as receiver operating characteristic (ROC) curves assess discrimination separately. More recent work argues that examining calibration, discrimination and overall scoring together provides a much richer picture of judgement quality than any single metric alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7923594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCStable reliability diagrams for probabilistic classifiers</span><span class="citation-popover-snippet">by T Dimitriadis · 2021 · Cited by 134 — We introduce the CORP approach, which generates provably statistically consistent, optimally...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_brier_scores_limits_363784-Illustration-3-dark.svg" | relative_url }}" alt="Brier Scores illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_brier_scores_limits_363784-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_brier_scores_limits_363784-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -398,194 +398,194 @@ A feedback loop that answers only "Were my probabilities calibrated?" is incompl
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Your Confidence Scale Actually Useful?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Your Confidence Scale Actually Useful?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Explains forecasting accuracy, calibration, scoring rules, and feedback loops including Brier scores.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains forecasting accuracy, calibration, scoring rules, and feedback loops including Brier scores.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Provides practical context for probabilistic reasoning, uncertainty, and evaluating predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical context for probabilistic reasoning, uncertainty, and evaluating predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o7rZzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o7rZzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
         
-        <p class="fr-book-desc">Helps readers understand variability in judgment beyond simple calibration metrics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand variability in judgment beyond simple calibration metrics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Builds the cognitive foundations behind confidence estimation and forecasting errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds the cognitive foundations behind confidence estimation and forecasting errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desktop Glass Whiteboard with Storage Caddy/ Pen/ Dry Eraser"><img src="https://i.ebayimg.com/images/g/vZEAAeSwOhNqCuKl/s-l225.jpg" alt="Listing image for Desktop Glass Whiteboard with Storage Caddy/ Pen/ Dry Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Desktop Glass Whiteboard with Storage Caddy/ Pen/ Dry Eraser</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desktop Glass Whiteboard with Storage Caddy/ Pen/ Dry Eraser"><img src="https://i.ebayimg.com/images/g/vZEAAeSwOhNqCuKl/s-l225.jpg" alt="Listing image for Desktop Glass Whiteboard with Storage Caddy/ Pen/ Dry Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Desktop Glass Whiteboard with Storage Caddy/ Pen/ Dry Eraser</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 Magnetic Whiteboard 40 x 30 cm Hanging Folding Double Sided Dry Erase"><img src="https://i.ebayimg.com/images/g/bEAAAeSwEk1o34qk/s-l225.jpg" alt="Listing image for A3 Magnetic Whiteboard 40 x 30 cm Hanging Folding Double Sided Dry Erase" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A3 Magnetic Whiteboard 40 x 30 cm Hanging Folding Double Sided Dry Erase</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 Magnetic Whiteboard 40 x 30 cm Hanging Folding Double Sided Dry Erase"><img src="https://i.ebayimg.com/images/g/bEAAAeSwEk1o34qk/s-l225.jpg" alt="Listing image for A3 Magnetic Whiteboard 40 x 30 cm Hanging Folding Double Sided Dry Erase" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A3 Magnetic Whiteboard 40 x 30 cm Hanging Folding Double Sided Dry Erase</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desktop Mini Whiteboard Storage Dry Erase Board W/ Marker&amp;Eraser Desk Organizer"><img src="https://i.ebayimg.com/images/g/VR4AAeSwUjNpq-UC/s-l225.jpg" alt="Listing image for Desktop Mini Whiteboard Storage Dry Erase Board W/ Marker&amp;Eraser Desk Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Desktop Mini Whiteboard Storage Dry Erase Board W/ Marker&amp;Eraser Desk Organizer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desktop Mini Whiteboard Storage Dry Erase Board W/ Marker&amp;Eraser Desk Organizer"><img src="https://i.ebayimg.com/images/g/VR4AAeSwUjNpq-UC/s-l225.jpg" alt="Listing image for Desktop Mini Whiteboard Storage Dry Erase Board W/ Marker&amp;Eraser Desk Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Desktop Mini Whiteboard Storage Dry Erase Board W/ Marker&amp;Eraser Desk Organizer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Whiteboard Desktop Double-Sided Dry Erase 1 Pens 2 Magnets with Stand"><img src="https://i.ebayimg.com/images/g/kbQAAeSwwMlqH4tu/s-l225.jpg" alt="Listing image for Magnetic Whiteboard Desktop Double-Sided Dry Erase 1 Pens 2 Magnets with Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Magnetic Whiteboard Desktop Double-Sided Dry Erase 1 Pens 2 Magnets with Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Whiteboard Desktop Double-Sided Dry Erase 1 Pens 2 Magnets with Stand"><img src="https://i.ebayimg.com/images/g/kbQAAeSwwMlqH4tu/s-l225.jpg" alt="Listing image for Magnetic Whiteboard Desktop Double-Sided Dry Erase 1 Pens 2 Magnets with Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Magnetic Whiteboard Desktop Double-Sided Dry Erase 1 Pens 2 Magnets with Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-confidence-scale-actually-useful-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="is-your-confidence-scale-actually-useful-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -601,7 +601,7 @@ A feedback loop that answers only "Were my probabilities calibrated?" is incompl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,7 +621,7 @@ A feedback loop that answers only "Were my probabilities calibrated?" is incompl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -653,7 +653,7 @@ A feedback loop that answers only "Were my probabilities calibrated?" is incompl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ A feedback loop that answers only "Were my probabilities calibrated?" is incompl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -750,7 +750,7 @@ A feedback loop that answers only "Were my probabilities calibrated?" is incompl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,109 +791,109 @@ A feedback loop that answers only "Were my probabilities calibrated?" is incompl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Brier score  
-   Link: <a href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brier_score</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brier_score</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCStable reliability diagrams for probabilistic classifiers  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7923594/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7923594/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by T Dimitriadis · 2021 · Cited by 134 — We introduce the CORP approach, which generates provably statistically consistent, optimally...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7923594/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7923594/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by T Dimitriadis · 2021 · Cited by 134 — We introduce the CORP approach, which generates provably statistically consistent, optimally...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Murphy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Murphy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MurphyMurphy is a surname of Irish origin meaning &#x27;sea warrior&#x27;. Murphy. Pronunciation, /ˈmɜːrfi/. Language, English. Origin. Language...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Murphy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Murphy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MurphyMurphy is a surname of Irish origin meaning &#x27;sea warrior&#x27;. Murphy. Pronunciation, /ˈmɜːrfi/. Language, English. Origin. Language...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rmets.onlinelibrary.wiley.com  
-   Link: <a href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</p></details>
+   Link:<a href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rmets.onlinelibrary.wiley.com  
-   Link: <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.2985</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...15 Dec 2016 — The decomposition of the Brier score into...</p></details>
+   Link:<a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.2985</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...15 Dec 2016 — The decomposition of the Brier score into...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: rmets.onlinelibrary.wiley.com  
-   Link: <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4478" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4478</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Meteorological SocietyA conditional decomposition of proper scores: quantifying the...24 Apr 2023 — The classical decomposition of...</p></details>
+   Link:<a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4478" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4478</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Meteorological SocietyA conditional decomposition of proper scores: quantifying the...24 Apr 2023 — The classical decomposition of...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: insightful-data-lab.com  
    Title: Murphy's Decomposition  
-   Link: <a href="https://insightful-data-lab.com/2025/08/21/murphys-decomposition/" target="_blank" rel="noopener noreferrer nofollow">https://insightful-data-lab.com/2025/08/21/murphys-decomposition/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Gateway to Data Mastery21 Aug 2025 — Murphy&#x27;s decomposition = a way to break down forecast error into calibration (reliability), sha...</p></details>
+   Link:<a href="https://insightful-data-lab.com/2025/08/21/murphys-decomposition/" target="_blank" rel="noopener noreferrer nofollow">https://insightful-data-lab.com/2025/08/21/murphys-decomposition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your Gateway to Data Mastery21 Aug 2025 — Murphy&#x27;s decomposition = a way to break down forecast error into calibration (reliability), sha...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: metricgate.com  
    Title: brier score decomposition  
-   Link: <a href="https://metricgate.com/docs/brier-score-decomposition/" target="_blank" rel="noopener noreferrer nofollow">https://metricgate.com/docs/brier-score-decomposition/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CalculatorDec 7, 2024 — A high Brier score might stem from poor calibration (high reliability), poor discrimination (low resolution), or...</p></details>
+   Link:<a href="https://metricgate.com/docs/brier-score-decomposition/" target="_blank" rel="noopener noreferrer nofollow">https://metricgate.com/docs/brier-score-decomposition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CalculatorDec 7, 2024 — A high Brier score might stem from poor calibration (high reliability), poor discrimination (low resolution), or...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: emergentmind.com  
    Title: brier score term  
-   Link: <a href="https://www.emergentmind.com/topics/brier-score-term" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/brier-score-term</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brier Score: Calibration, Resolution, and Uncertainty25 Jul 2025 — The Brier score term evaluates probabilistic forecasts by decomposing...</p></details>
+   Link:<a href="https://www.emergentmind.com/topics/brier-score-term" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/brier-score-term</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brier Score: Calibration, Resolution, and Uncertainty25 Jul 2025 — The Brier score term evaluates probabilistic forecasts by decomposing...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: murphyoilcorp.com  
-   Link: <a href="https://www.murphyoilcorp.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.murphyoilcorp.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Murphy Oil: Global Offshore Onshore ExplorationMurphy Oil Corporation is a global oil exploration &amp; production company. Our North America...</p></details>
+   Link:<a href="https://www.murphyoilcorp.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.murphyoilcorp.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Murphy Oil: Global Offshore Onshore ExplorationMurphy Oil Corporation is a global oil exploration &amp; production company. Our North America...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8172E04F2DBC601DA5D953D4685CA346/S1930297500007099a.pdf/weighted_brier_score_decompositions_for_topically_heterogenous_forecasting_[tournaments" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8172E04F2DBC601DA5D953D4685CA346/S1930297500007099a.pdf/weighted_brier_score_decompositions_for_topically_heterogenous_forecasting_[tournaments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weighted Brier score decompositions for topically...by EC Merkle · 2018 · Cited by 13 — Brier score decompositions, including those attr...</p></details>
+   Link:<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8172E04F2DBC601DA5D953D4685CA346/S1930297500007099a.pdf/weighted_brier_score_decompositions_for_topically_heterogenous_forecasting_[tournaments" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8172E04F2DBC601DA5D953D4685CA346/S1930297500007099a.pdf/weighted_brier_score_decompositions_for_topically_heterogenous_forecasting_[tournaments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weighted Brier score decompositions for topically...by EC Merkle · 2018 · Cited by 13 — Brier score decompositions, including those attr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: stats.stackexchange.com  
    Title: how does the brier score break down to reliability resolution uncertainty  
-   Link: <a href="https://stats.stackexchange.com/questions/597679/how-does-the-brier-score-break-down-to-reliability-resolution-uncertainty" target="_blank" rel="noopener noreferrer nofollow">https://stats.stackexchange.com/questions/597679/how-does-the-brier-score-break-down-to-reliability-resolution-uncertainty</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>does the Brier Score break down to (Reliability2 Dec 2022 — The Wikipedia page states this in the decompositions section, and it is also...</p></details>
+   Link:<a href="https://stats.stackexchange.com/questions/597679/how-does-the-brier-score-break-down-to-reliability-resolution-uncertainty" target="_blank" rel="noopener noreferrer nofollow">https://stats.stackexchange.com/questions/597679/how-does-the-brier-score-break-down-to-reliability-resolution-uncertainty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>does the Brier Score break down to (Reliability2 Dec 2022 — The Wikipedia page states this in the decompositions section, and it is also...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Exploring the intricacies of prediction markets | David Chee | EAG London 23  
-   Link: <a href="https://www.youtube.com/watch?v=S4Oa_CD5a0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S4Oa_CD5a0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Model Calibration Overview is highly relevant because it explicitly explains how the Brier score evaluates probabilistic forecasts a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S4Oa_CD5a0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S4Oa_CD5a0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Model Calibration Overview is highly relevant because it explicitly explains how the Brier score evaluates probabilistic forecasts a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: murphydriverewards.com  
    Title: Earn up to 100 points for signing up  
-   Link: <a href="https://www.murphydriverewards.com/pwa_home" target="_blank" rel="noopener noreferrer nofollow">https://www.murphydriverewards.com/pwa_home</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Find loads of deals on home and road trip essentials. Get Rewards. Rack up the reward points buying gas, snacks, drinks, and more. Gas, t...</p></details>
+   Link:<a href="https://www.murphydriverewards.com/pwa_home" target="_blank" rel="noopener noreferrer nofollow">https://www.murphydriverewards.com/pwa_home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Find loads of deals on home and road trip essentials. Get Rewards. Rack up the reward points buying gas, snacks, drinks, and more. Gas, t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: murphynet.com  
    Title: Murphy Company Mechanical Contractor  
-   Link: <a href="https://murphynet.com/" target="_blank" rel="noopener noreferrer nofollow">https://murphynet.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LouisMurphy Company is a leading full-service mechanical contracting firm with over 100 years of experience, giving you a single source f...</p></details>
+   Link:<a href="https://murphynet.com/" target="_blank" rel="noopener noreferrer nofollow">https://murphynet.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LouisMurphy Company is a leading full-service mechanical contracting firm with over 100 years of experience, giving you a single source f...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: research-information.bris.ac.uk  
    Title: 2015 ecml decomposition cameraready  
-   Link: <a href="https://research-information.bris.ac.uk/files/76351926/2015_ecml_decomposition_cameraready.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/76351926/2015_ecml_decomposition_cameraready.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Novel Decompositions of Properby M Kull · 2015 · Cited by 129 — Interestingly, none of the decompositions re- lates to the loss of the op...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/files/76351926/2015_ecml_decomposition_cameraready.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/76351926/2015_ecml_decomposition_cameraready.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Novel Decompositions of Properby M Kull · 2015 · Cited by 129 — Interestingly, none of the decompositions re- lates to the loss of the op...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: stats.stackexchange.com  
    Title: unpack the notation used in wikipedias decomposition of the brier score  
-   Link: <a href="https://stats.stackexchange.com/questions/631333/unpack-the-notation-used-in-wikipedias-decomposition-of-the-brier-score" target="_blank" rel="noopener noreferrer nofollow">https://stats.stackexchange.com/questions/631333/unpack-the-notation-used-in-wikipedias-decomposition-of-the-brier-score</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The article starts out easy enough by defining the Brier score to be: BS=1NN∑i=1(ft...</p></details>
+   Link:<a href="https://stats.stackexchange.com/questions/631333/unpack-the-notation-used-in-wikipedias-decomposition-of-the-brier-score" target="_blank" rel="noopener noreferrer nofollow">https://stats.stackexchange.com/questions/631333/unpack-the-notation-used-in-wikipedias-decomposition-of-the-brier-score</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The article starts out easy enough by defining the Brier score to be: BS=1NN∑i=1(ft...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oJa7JVPjnpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oJa7JVPjnpQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the intricacies of prediction markets | David Chee | EAG London 23...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oJa7JVPjnpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oJa7JVPjnpQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the intricacies of prediction markets | David Chee | EAG London 23...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: centaur.reading.ac.uk  
-   Link: <a href="https://centaur.reading.ac.uk/29154/" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/29154/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reading.ac.ukReliability, sufficiency, and the decomposition of proper scoresby J Bröcker · 2009 · Cited by 300 — In the binary case, str...</p></details>
+   Link:<a href="https://centaur.reading.ac.uk/29154/" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/29154/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reading.ac.ukReliability, sufficiency, and the decomposition of proper scoresby J Bröcker · 2009 · Cited by 300 — In the binary case, str...</p></details>

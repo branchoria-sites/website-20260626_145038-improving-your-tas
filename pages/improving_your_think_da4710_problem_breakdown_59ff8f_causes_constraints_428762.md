@@ -302,7 +302,7 @@ Several factors encourage this confusion:
 
 </div>
 
-Root-cause analysis methods such as the Ishikawa (fishbone) diagram exist precisely because multiple plausible explanations usually compete until evidence separates them. They encourage teams to organise possible causes rather than accepting the first convincing story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ishikawa_diagram" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ishikawa diagram</span><span class="citation-popover-snippet">Ishikawa diagram</span></span></span>
+Root-cause analysis methods such as the Ishikawa (fishbone) diagram exist precisely because multiple plausible explanations usually compete until evidence separates them. They encourage teams to organise possible causes rather than accepting the first convincing story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ishikawa_diagram" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ishikawa diagram</span><span class="citation-popover-snippet">Ishikawa diagram</span></span></span>
 
 ## Project delay examples where the distinction matters
 
@@ -391,7 +391,7 @@ When managing **constraints**, the questions become:
 
 This shift prevents unrealistic recovery plans. For example, identifying that unrealistic original estimates caused a delay does not justify promising an even shorter remaining schedule unless additional resources, reduced scope or another genuine change makes that possible.
 
-Project management guidance consistently treats constraints as boundaries within which delivery decisions must be made. Modern practice commonly extends beyond the traditional time-cost-scope triangle to include quality, resources and risk because these factors often define what recovery strategies are actually possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saviom.com/resources/project-management/articles/project-constraints/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saviom.com">[SAVIOM+2Atlassian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saviom.com</span><span class="citation-popover-title">6 Project Constraints: Ways to Manage Them Effectively</span><span class="citation-popover-snippet">6 Project Constraints: Ways to Manage Them EffectivelyJune 5, 2026 — Project constraints are limitations or restrictions that can i...</span><span class="citation-popover-meta">Published: June 5, 2026</span></span></span>
+Project management guidance consistently treats constraints as boundaries within which delivery decisions must be made. Modern practice commonly extends beyond the traditional time-cost-scope triangle to include quality, resources and risk because these factors often define what recovery strategies are actually possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saviom.com/resources/project-management/articles/project-constraints/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saviom.com">[SAVIOM+2Atlassian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saviom.com</span><span class="citation-popover-title">6 Project Constraints: Ways to Manage Them Effectively</span><span class="citation-popover-snippet">6 Project Constraints: Ways to Manage Them EffectivelyJune 5, 2026 — Project constraints are limitations or restrictions that can i...</span><span class="citation-popover-meta">Published: June 5, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FuLcFXL7ZBg" title="Stop Project Delays: The Resource Constrained Scheduling Method ( part 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FuLcFXL7ZBg" target="_blank" rel="noopener noreferrer">Stop Project Delays: The Resource Constrained Scheduling Method ( part 2)</a></p><p class="youtube-embed-meta">Channel: CREDITCARES</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FuLcFXL7ZBg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FuLcFXL7ZBg">Open on YouTube</a></p></div></div></div>
@@ -426,194 +426,194 @@ By deliberately sorting these two types of information before choosing a respons
 <img src="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_causes_constraints_428762-Illustration-3-dark.svg" | relative_url }}" alt="Causes vs Limits illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_causes_constraints_428762-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_causes_constraints_428762-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is it a cause or a constraint?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is it a cause or a constraint?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Goal+by+Eliyahu+M.+Goldratt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Goal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HyxLDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Goal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Goal+by+Eliyahu+M.+Goldratt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Goal">The Goal</a>
-        </h4>
-        <p class="fr-book-author">By Eliyahu M. Goldratt, Jeff Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Goal+by+Eliyahu+M.+Goldratt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Goal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HyxLDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Goal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Goal+by+Eliyahu+M.+Goldratt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Goal">The Goal</a>
+</h4>
+<p class="fr-book-author">By Eliyahu M. Goldratt, Jeff Cox</p>
         
-        <p class="fr-book-desc">Directly helps readers distinguish system constraints from underlying causes and choose effective responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Goal+by+Eliyahu+M.+Goldratt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly helps readers distinguish system constraints from underlying causes and choose effective responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Goal+by+Eliyahu+M.+Goldratt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains common reasoning errors that lead people to confuse explanations, symptoms, and limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common reasoning errors that lead people to confuse explanations, symptoms, and limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Five+Dysfunctions+of+a+Team+by+Patrick+M.+Lencioni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Five Dysfunctions of a Team on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dsN3CgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Five Dysfunctions of a Team" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Five+Dysfunctions+of+a+Team+by+Patrick+M.+Lencioni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Five Dysfunctions of a Team">The Five Dysfunctions of a Team</a>
-        </h4>
-        <p class="fr-book-author">By Patrick M. Lencioni</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Five+Dysfunctions+of+a+Team+by+Patrick+M.+Lencioni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Five Dysfunctions of a Team on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dsN3CgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Five Dysfunctions of a Team" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Five+Dysfunctions+of+a+Team+by+Patrick+M.+Lencioni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Five Dysfunctions of a Team">The Five Dysfunctions of a Team</a>
+</h4>
+<p class="fr-book-author">By Patrick M. Lencioni</p>
         
-        <p class="fr-book-desc">Shows how better team discussions improve diagnosis, decision-making, and problem solving.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Five+Dysfunctions+of+a+Team+by+Patrick+M.+Lencioni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how better team discussions improve diagnosis, decision-making, and problem solving.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Five+Dysfunctions+of+a+Team+by+Patrick+M.+Lencioni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Root+Cause+Analysis%2C+Second+Edition+by+Bj%C3%B8rn+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Root Cause Analysis, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N7bCQty-yH0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Root Cause Analysis, Second Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Root+Cause+Analysis%2C+Second+Edition+by+Bj%C3%B8rn+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Root Cause Analysis, Second Edition">Root Cause Analysis, Second Edition</a>
-        </h4>
-        <p class="fr-book-author">By Bjørn Andersen, Tom Fagerhaug</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Root+Cause+Analysis%2C+Second+Edition+by+Bj%C3%B8rn+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Root Cause Analysis, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N7bCQty-yH0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Root Cause Analysis, Second Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Root+Cause+Analysis%2C+Second+Edition+by+Bj%C3%B8rn+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Root Cause Analysis, Second Edition">Root Cause Analysis, Second Edition</a>
+</h4>
+<p class="fr-book-author">By Bjørn Andersen, Tom Fagerhaug</p>
         
-        <p class="fr-book-desc">Focuses on identifying genuine causes rather than treating symptoms or constraints as explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Root+Cause+Analysis%2C+Second+Edition+by+Bj%C3%B8rn+Andersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on identifying genuine causes rather than treating symptoms or constraints as explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Root+Cause+Analysis%2C+Second+Edition+by+Bj%C3%B8rn+Andersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Goal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Goal</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Five+Dysfunctions+of+a+Team&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Five Dysfunctions of a Team</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Goal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Goal</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Five+Dysfunctions+of+a+Team&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Five Dysfunctions of a Team</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Memorabilia Quilts: Fabulous Projects with Keepsakes &amp; Collectibles-Linda Cause"><img src="https://i.ebayimg.com/images/g/faAAAOSwZ2xgXyA2/s-l225.jpg" alt="Listing image for Memorabilia Quilts: Fabulous Projects with Keepsakes &amp; Collectibles-Linda Cause" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Memorabilia Quilts: Fabulous Projects with Keepsakes &amp; Collectibles-Linda Cause</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cause memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: cause memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Memorabilia Quilts: Fabulous Projects with Keepsakes &amp; Collectibles-Linda Cause"><img src="https://i.ebayimg.com/images/g/faAAAOSwZ2xgXyA2/s-l225.jpg" alt="Listing image for Memorabilia Quilts: Fabulous Projects with Keepsakes &amp; Collectibles-Linda Cause" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Memorabilia Quilts: Fabulous Projects with Keepsakes &amp; Collectibles-Linda Cause</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cause memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: cause memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Polikicks Political Memorabilia Catalog No. 2 Uncle Sam &amp; Cause Collecti"><img src="https://i.ebayimg.com/images/g/xw0AAeSwCYNpMyLe/s-l225.jpg" alt="Listing image for Vintage Polikicks Political Memorabilia Catalog No. 2 Uncle Sam &amp; Cause Collecti" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage Polikicks Political Memorabilia Catalog No. 2 Uncle Sam &amp; Cause Collecti</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cause memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: cause memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Polikicks Political Memorabilia Catalog No. 2 Uncle Sam &amp; Cause Collecti"><img src="https://i.ebayimg.com/images/g/xw0AAeSwCYNpMyLe/s-l225.jpg" alt="Listing image for Vintage Polikicks Political Memorabilia Catalog No. 2 Uncle Sam &amp; Cause Collecti" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage Polikicks Political Memorabilia Catalog No. 2 Uncle Sam &amp; Cause Collecti</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cause memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: cause memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for James Dean Rebel Without A Cause Movie Photo Collage Memorabilia Framed"><img src="https://i.ebayimg.com/images/g/FmAAAeSweJZqBgxP/s-l225.jpg" alt="Listing image for James Dean Rebel Without A Cause Movie Photo Collage Memorabilia Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">James Dean Rebel Without A Cause Movie Photo Collage Memorabilia Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cause memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: cause memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for James Dean Rebel Without A Cause Movie Photo Collage Memorabilia Framed"><img src="https://i.ebayimg.com/images/g/FmAAAeSweJZqBgxP/s-l225.jpg" alt="Listing image for James Dean Rebel Without A Cause Movie Photo Collage Memorabilia Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">James Dean Rebel Without A Cause Movie Photo Collage Memorabilia Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cause memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: cause memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for James Dean Rebel Without A Cause Movie Photo Collage Memorabilia Framed"><img src="https://i.ebayimg.com/images/g/vnIAAeSwrWdp6Pzc/s-l225.jpg" alt="Listing image for James Dean Rebel Without A Cause Movie Photo Collage Memorabilia Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">James Dean Rebel Without A Cause Movie Photo Collage Memorabilia Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cause memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: cause memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for James Dean Rebel Without A Cause Movie Photo Collage Memorabilia Framed"><img src="https://i.ebayimg.com/images/g/vnIAAeSwrWdp6Pzc/s-l225.jpg" alt="Listing image for James Dean Rebel Without A Cause Movie Photo Collage Memorabilia Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">James Dean Rebel Without A Cause Movie Photo Collage Memorabilia Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cause memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: cause memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cause+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cause memorabilia -book -books -dvd" data-ebay-reference="is-it-a-cause-or-a-constraint-cause-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -629,7 +629,7 @@ By deliberately sorting these two types of information before choosing a respons
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -649,7 +649,7 @@ By deliberately sorting these two types of information before choosing a respons
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -681,7 +681,7 @@ By deliberately sorting these two types of information before choosing a respons
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -733,7 +733,7 @@ By deliberately sorting these two types of information before choosing a respons
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -778,7 +778,7 @@ By deliberately sorting these two types of information before choosing a respons
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -818,91 +818,91 @@ By deliberately sorting these two types of information before choosing a respons
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ishikawa diagram  
-   Link: <a href="https://en.wikipedia.org/wiki/Ishikawa_diagram" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ishikawa_diagram</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ishikawa_diagram" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ishikawa_diagram</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Current reality tree (theory of constraints)  
-   Link: <a href="https://en.wikipedia.org/wiki/Current_reality_tree_%28theory_of_constraints%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Current_reality_tree_%28theory_of_constraints%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Current_reality_tree_%28theory_of_constraints%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Current_reality_tree_%28theory_of_constraints%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: saviom.com  
    Title: 6 Project Constraints: Ways to Manage Them Effectively  
-   Link: <a href="https://www.saviom.com/resources/project-management/articles/project-constraints/" target="_blank" rel="noopener noreferrer nofollow">https://www.saviom.com/resources/project-management/articles/project-constraints/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Project Constraints: Ways to Manage Them EffectivelyJune 5, 2026 — Project constraints are limitations or restrictions that can i...</p></details>
+   Link:<a href="https://www.saviom.com/resources/project-management/articles/project-constraints/" target="_blank" rel="noopener noreferrer nofollow">https://www.saviom.com/resources/project-management/articles/project-constraints/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Project Constraints: Ways to Manage Them EffectivelyJune 5, 2026 — Project constraints are limitations or restrictions that can i...</p></details>
    Published: June 5, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: atlassian.com  
-   Link: <a href="https://www.atlassian.com/work-management/project-management/triple-constraints" target="_blank" rel="noopener noreferrer nofollow">https://www.atlassian.com/work-management/project-management/triple-constraints</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ationships, and practical strategies for managing them effectively.Read more...</p></details>
+   Link:<a href="https://www.atlassian.com/work-management/project-management/triple-constraints" target="_blank" rel="noopener noreferrer nofollow">https://www.atlassian.com/work-management/project-management/triple-constraints</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ationships, and practical strategies for managing them effectively.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gridfox.com  
-   Link: <a href="https://gridfox.com/blog/constraints-of-the-project/" target="_blank" rel="noopener noreferrer nofollow">https://gridfox.com/blog/constraints-of-the-project/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Constraints of the Project: Key Limitations and Boundaries...7 Aug 2025 — Project constraints are the boundaries you must work within, U...</p></details>
+   Link:<a href="https://gridfox.com/blog/constraints-of-the-project/" target="_blank" rel="noopener noreferrer nofollow">https://gridfox.com/blog/constraints-of-the-project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Constraints of the Project: Key Limitations and Boundaries...7 Aug 2025 — Project constraints are the boundaries you must work within, U...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: galorath.com  
-   Link: <a href="https://galorath.com/project/constraints/" target="_blank" rel="noopener noreferrer nofollow">https://galorath.com/project/constraints/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Constraints: Definition, Examples, and Why They...15 Apr 2025 — Project constraints are the boundaries that define what is possi...</p></details>
+   Link:<a href="https://galorath.com/project/constraints/" target="_blank" rel="noopener noreferrer nofollow">https://galorath.com/project/constraints/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Constraints: Definition, Examples, and Why They...15 Apr 2025 — Project constraints are the boundaries that define what is possi...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmi.org  
-   Link: <a href="https://www.pmi.org/learning/library/triple-constraint-erroneous-useless-value-8024" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/learning/library/triple-constraint-erroneous-useless-value-8024</a>  
+   Link:<a href="https://www.pmi.org/learning/library/triple-constraint-erroneous-useless-value-8024" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/learning/library/triple-constraint-erroneous-useless-value-8024</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: projectmanager.com  
    Title: triple constraint project management time scope cost  
-   Link: <a href="https://www.projectmanager.com/blog/triple-constraint-project-management-time-scope-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.projectmanager.com/blog/triple-constraint-project-management-time-scope-cost</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Triple Constraint in Project Management: Time, Scope...2 Apr 2025 — The triple constraint states that the success of the project is...</p></details>
+   Link:<a href="https://www.projectmanager.com/blog/triple-constraint-project-management-time-scope-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.projectmanager.com/blog/triple-constraint-project-management-time-scope-cost</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Triple Constraint in Project Management: Time, Scope...2 Apr 2025 — The triple constraint states that the success of the project is...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Delay Analysis for Beginners: As Planned vs As Built Comparison  
-   Link: <a href="https://www.youtube.com/watch?v=KRKHracW-BY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KRKHracW-BY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Smart Project Managers Handle Schedule Slips Without Losing Trust provides a direct framework for navigating schedule slips, differen...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KRKHracW-BY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KRKHracW-BY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Smart Project Managers Handle Schedule Slips Without Losing Trust provides a direct framework for navigating schedule slips, differen...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377051498_The_impact_of_triple_constraints_on_the_project_success_a_moderating_role_of_organizational_support" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377051498_The_impact_of_triple_constraints_on_the_project_success_a_moderating_role_of_organizational_support</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>time, cost, and quality on construction projects.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377051498_The_impact_of_triple_constraints_on_the_project_success_a_moderating_role_of_organizational_support" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377051498_The_impact_of_triple_constraints_on_the_project_success_a_moderating_role_of_organizational_support</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>time, cost, and quality on construction projects.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmcerts.com.my  
-   Link: <a href="https://pmcerts.com.my/project-management/6-project-constraints/" target="_blank" rel="noopener noreferrer nofollow">https://pmcerts.com.my/project-management/6-project-constraints/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Project Constraints: Tackle Challenges in Management Today12 Dec 2023 — Project constraints in project management is something that lim...</p></details>
+   Link:<a href="https://pmcerts.com.my/project-management/6-project-constraints/" target="_blank" rel="noopener noreferrer nofollow">https://pmcerts.com.my/project-management/6-project-constraints/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Project Constraints: Tackle Challenges in Management Today12 Dec 2023 — Project constraints in project management is something that lim...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: How to Make a Fishbone Diagram (Ishikawa Diagram)  
-   Link: <a href="https://www.youtube.com/watch?v=dPenE6NzrCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dPenE6NzrCM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Project Delays: The Resource Constrained Scheduling Method (part 2)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dPenE6NzrCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dPenE6NzrCM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Project Delays: The Resource Constrained Scheduling Method (part 2)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Stop Project Delays: The Resource Constrained Scheduling Method (part 2)  
-   Link: <a href="https://www.youtube.com/watch?v=FuLcFXL7ZBg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FuLcFXL7ZBg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Delay Analysis for Beginners: As Planned vs As Built Comparison...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FuLcFXL7ZBg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FuLcFXL7ZBg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Delay Analysis for Beginners: As Planned vs As Built Comparison...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: How Smart Project Managers Handle Schedule Slips Without Losing Trust  
-   Link: <a href="https://www.youtube.com/watch?v=eOM3NSIGwo8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eOM3NSIGwo8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fishbone Diagram &amp; 5 Whys for Root Cause Analysis | PM Expert...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eOM3NSIGwo8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eOM3NSIGwo8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fishbone Diagram &amp; 5 Whys for Root Cause Analysis | PM Expert...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Fishbone Diagram & 5 Whys for Root Cause Analysis | PM Expert  
-   Link: <a href="https://www.youtube.com/watch?v=JnE3h740Z7s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JnE3h740Z7s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make a Fishbone Diagram (Ishikawa Diagram) - Root Cause Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JnE3h740Z7s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JnE3h740Z7s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make a Fishbone Diagram (Ishikawa Diagram) - Root Cause Analysis...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pressbooks.ulib.csuohio.edu  
-   Link: <a href="https://pressbooks.ulib.csuohio.edu/projectmanagement2ndedition/chapter/1-3-project-constraints/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.ulib.csuohio.edu/projectmanagement2ndedition/chapter/1-3-project-constraints/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pressbooks@MSL1.3 Project Constraints – Project Management, 2nd EditionThree main constraints (i.e., triple or iron triangle constraints)...</p></details>
+   Link:<a href="https://pressbooks.ulib.csuohio.edu/projectmanagement2ndedition/chapter/1-3-project-constraints/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.ulib.csuohio.edu/projectmanagement2ndedition/chapter/1-3-project-constraints/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pressbooks@MSL1.3 Project Constraints – Project Management, 2nd EditionThree main constraints (i.e., triple or iron triangle constraints)...</p></details>

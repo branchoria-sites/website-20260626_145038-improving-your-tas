@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_cause_correlation_008ee5_confo
 
 ## Introduction
 
-A confounder is a hidden factor that makes one variable appear to cause another when, in reality, both are being influenced by something else. This is one of the most common reasons people overestimate the strength of a causal relationship. A striking correlation may still be genuine, but its size—or even its direction—can be distorted because an important third factor has not been taken into account. Observational studies are particularly vulnerable because people, organisations and environments rarely differ in only one respect. Modern causal inference therefore treats confounding as a central problem to solve rather than a minor statistical nuisance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jech.bmj.com/content/76/11/960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jech.bmj.com">[jech.bmj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jech.bmj.com</span><span class="citation-popover-snippet">Causal inference and effect estimation using observational databy E Igelström · 2022 · Cited by 113 — Fourth, we define and explain biase...</span></span></span>
+A confounder is a hidden factor that makes one variable appear to cause another when, in reality, both are being influenced by something else. This is one of the most common reasons people overestimate the strength of a causal relationship. A striking correlation may still be genuine, but its size—or even its direction—can be distorted because an important third factor has not been taken into account. Observational studies are particularly vulnerable because people, organisations and environments rarely differ in only one respect. Modern causal inference therefore treats confounding as a central problem to solve rather than a minor statistical nuisance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jech.bmj.com/content/76/11/960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jech.bmj.com">[jech.bmj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jech.bmj.com</span><span class="citation-popover-snippet">Causal inference and effect estimation using observational databy E Igelström · 2022 · Cited by 113 — Fourth, we define and explain biase...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_confounders_hidden_d_239664-Illustration-1-dark.svg" | relative_url }}" alt="Confounders illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_confounders_hidden_d_239664-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_confounders_hidden_d_239664-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ Understanding confounders is an essential thinking skill because many persuasive
 
 ## The Hidden Factor Behind the Pattern
 
-A confounder is a variable that influences both the supposed cause and the outcome without lying on the causal pathway between them. If it is ignored, the observed relationship can look much stronger—or sometimes weaker—than the true causal effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jech.bmj.com/content/76/11/960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jech.bmj.com">[jech.bmj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jech.bmj.com</span><span class="citation-popover-snippet">Causal inference and effect estimation using observational databy E Igelström · 2022 · Cited by 113 — Fourth, we define and explain biase...</span></span></span>
+A confounder is a variable that influences both the supposed cause and the outcome without lying on the causal pathway between them. If it is ignored, the observed relationship can look much stronger—or sometimes weaker—than the true causal effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jech.bmj.com/content/76/11/960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jech.bmj.com">[jech.bmj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jech.bmj.com</span><span class="citation-popover-snippet">Causal inference and effect estimation using observational databy E Igelström · 2022 · Cited by 113 — Fourth, we define and explain biase...</span></span></span>
 
 Imagine researchers observe that people who carry reusable water bottles are healthier than those who do not. It would be easy to conclude that carrying the bottle improves health. Yet health-consciousness could be the real driver. People who care more about their health may exercise more, eat better and also choose reusable bottles. The bottle becomes a marker of the underlying lifestyle rather than its cause.
 
@@ -305,9 +305,9 @@ A classic illustration involves ice cream sales and drowning deaths. Both tend t
 
 In medicine, age is one of the most common confounders. Older people often take more medications and also experience more illnesses. If age is ignored, a harmless medication might appear associated with poor health simply because older patients are more likely both to receive the drug and to become ill.
 
-Researchers therefore ask whether potential confounders existed before the suspected cause occurred. Variables measured after the exposure may instead represent consequences of the treatment rather than genuine confounders, making adjustment inappropriate. Modern causal frameworks often use directed acyclic graphs (DAGs)—causal [diagrams]({{ 'diagrams/' | relative_url }}) showing assumed relationships—to identify which variables should and should not be controlled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jech.bmj.com/content/76/11/960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jech.bmj.com">[jech.bmj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jech.bmj.com</span><span class="citation-popover-snippet">Causal inference and effect estimation using observational databy E Igelström · 2022 · Cited by 113 — Fourth, we define and explain biase...</span></span></span>
+Researchers therefore ask whether potential confounders existed before the suspected cause occurred. Variables measured after the exposure may instead represent consequences of the treatment rather than genuine confounders, making adjustment inappropriate. Modern causal frameworks often use directed acyclic graphs (DAGs)—causal [diagrams]({{ 'diagrams/' | relative_url }}) showing assumed relationships—to identify which variables should and should not be controlled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jech.bmj.com/content/76/11/960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jech.bmj.com">[jech.bmj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jech.bmj.com</span><span class="citation-popover-snippet">Causal inference and effect estimation using observational databy E Igelström · 2022 · Cited by 113 — Fourth, we define and explain biase...</span></span></span>
 
-Importantly, controlling for every available variable is not automatically better. Adjusting for the wrong variables can introduce new biases, including collider bias, where conditioning on a common consequence of two variables creates a spurious association that did not previously exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jech.bmj.com/content/76/11/960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jech.bmj.com">[jech.bmj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jech.bmj.com</span><span class="citation-popover-snippet">Causal inference and effect estimation using observational databy E Igelström · 2022 · Cited by 113 — Fourth, we define and explain biase...</span></span></span>
+Importantly, controlling for every available variable is not automatically better. Adjusting for the wrong variables can introduce new biases, including collider bias, where conditioning on a common consequence of two variables creates a spurious association that did not previously exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jech.bmj.com/content/76/11/960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jech.bmj.com">[jech.bmj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jech.bmj.com</span><span class="citation-popover-snippet">Causal inference and effect estimation using observational databy E Igelström · 2022 · Cited by 113 — Fourth, we define and explain biase...</span></span></span>
 
 ## Reverse Causation and Selection Effects
 
@@ -319,7 +319,7 @@ Not every misleading causal story is caused by confounding alone. Two related [m
 
 Sometimes the apparent outcome actually influences the supposed cause.
 
-For example, researchers might observe that people taking stronger pain medication report worse pain. The medication could seem ineffective or harmful. In reality, severe pain often leads doctors to prescribe stronger medication. The severity of illness influences treatment choice, producing an association that points in the opposite direction from the true causal pathway. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK606119/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPrinciples of Causation</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf - NIHby R Dhawan · 2024 · Cited by 2 — Causation refers to a process wherein an initial or inciting event (ex...</span></span></span>
+For example, researchers might observe that people taking stronger pain medication report worse pain. The medication could seem ineffective or harmful. In reality, severe pain often leads doctors to prescribe stronger medication. The severity of illness influences treatment choice, producing an association that points in the opposite direction from the true causal pathway.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK606119/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPrinciples of Causation</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf - NIHby R Dhawan · 2024 · Cited by 2 — Causation refers to a process wherein an initial or inciting event (ex...</span></span></span>
 
 This is especially common in observational healthcare research because treatments are rarely assigned randomly.
 
@@ -329,7 +329,7 @@ Selection effects arise when the people or organisations being compared entered 
 
 Suppose a leadership course is voluntary. Participants later perform better than non-participants. The improvement may partly reflect the fact that ambitious employees were more likely to enrol in the first place. The course may still help, but its apparent impact is inflated because the comparison groups differed before the intervention.
 
-Selection problems also occur when analysing only survivors, successful firms, or accepted applicants. Restricting analysis to a selected group can manufacture relationships that do not represent the wider population. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jech.bmj.com/content/76/11/960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jech.bmj.com">[jech.bmj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jech.bmj.com</span><span class="citation-popover-snippet">Causal inference and effect estimation using observational databy E Igelström · 2022 · Cited by 113 — Fourth, we define and explain biase...</span></span></span>
+Selection problems also occur when analysing only survivors, successful firms, or accepted applicants. Restricting analysis to a selected group can manufacture relationships that do not represent the wider population.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jech.bmj.com/content/76/11/960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jech.bmj.com">[jech.bmj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jech.bmj.com</span><span class="citation-popover-snippet">Causal inference and effect estimation using observational databy E Igelström · 2022 · Cited by 113 — Fourth, we define and explain biase...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cvwRt9aCNpk" title="Correlation and Causation - understanding the Bradford Hill criteria in a nutshell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cvwRt9aCNpk" target="_blank" rel="noopener noreferrer">Correlation and Causation - understanding the Bradford Hill criteria in a nutshell</a></p><p class="youtube-embed-meta">Channel: Global Health with Greg Martin</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cvwRt9aCNpk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cvwRt9aCNpk">Open on YouTube</a></p></div></div></div>
@@ -342,7 +342,7 @@ When confronted with an impressive correlation, a few disciplined questions ofte
 * **Were the groups already different before the exposure?** Pre-existing differences frequently explain later outcomes.
 * **How were participants selected?** Voluntary participation, referral patterns and drop-out can all distort [comparisons]({{ 'comparisons/' | relative_url }}).
 * **Could the direction run the other way?** Consider whether the outcome might influence the exposure instead.
-* **Would the relationship remain after accounting for plausible confounders?** Strong causal claims become more convincing when they persist across different analytical approaches and populations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Assessing causality in epidemiology: revisiting Bradford Hill to...by M Shimonovich · 2020 · Cited by 231 — Bradford Hill argued that...</span></span></span>
+* **Would the relationship remain after accounting for plausible confounders?** Strong causal claims become more convincing when they persist across different analytical approaches and populations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Assessing causality in epidemiology: revisiting Bradford Hill to...by M Shimonovich · 2020 · Cited by 231 — Bradford Hill argued that...</span></span></span>
 
 These questions do not prove that a claim is wrong. Instead, they identify alternative explanations that deserve investigation before accepting a causal conclusion.
 
@@ -350,205 +350,205 @@ These questions do not prove that a claim is wrong. Instead, they identify alter
 <img src="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_confounders_hidden_d_239664-Illustration-3-dark.svg" | relative_url }}" alt="Confounders illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_confounders_hidden_d_239664-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_confounders_hidden_d_239664-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Randomisation Helps—but Does Not Solve Everything
 
-Randomised experiments reduce confounding because chance assignment tends to balance both measured and unmeasured characteristics between groups before treatment begins. As a result, differences observed afterwards are less likely to be explained by hidden common causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK606119/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPrinciples of Causation</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf - NIHby R Dhawan · 2024 · Cited by 2 — Causation refers to a process wherein an initial or inciting event (ex...</span></span></span>
+Randomised experiments reduce confounding because chance assignment tends to balance both measured and unmeasured characteristics between groups before treatment begins. As a result, differences observed afterwards are less likely to be explained by hidden common causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK606119/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPrinciples of Causation</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf - NIHby R Dhawan · 2024 · Cited by 2 — Causation refers to a process wherein an initial or inciting event (ex...</span></span></span>
 
-Outside experiments, researchers attempt to reduce confounding using approaches such as matching comparable participants, stratifying analyses, statistical adjustment, instrumental-variable methods and carefully designed natural experiments. None of these methods automatically removes hidden bias, because they depend on assumptions about which confounders have been measured and how accurately they have been represented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.publisso.de/en/journals/gms/volume20/000314" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.publisso.de">[journals.publisso.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.publisso.de</span><span class="citation-popover-snippet">Causal evidence in health decision makingby F Kühne · 2022 · Cited by 34 — Causal inference and health decision science are two methodolo...</span></span></span>
+Outside experiments, researchers attempt to reduce confounding using approaches such as matching comparable participants, stratifying analyses, statistical adjustment, instrumental-variable methods and carefully designed natural experiments. None of these methods automatically removes hidden bias, because they depend on assumptions about which confounders have been measured and how accurately they have been represented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.publisso.de/en/journals/gms/volume20/000314" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.publisso.de">[journals.publisso.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.publisso.de</span><span class="citation-popover-snippet">Causal evidence in health decision makingby F Kühne · 2022 · Cited by 34 — Causal inference and health decision science are two methodolo...</span></span></span>
 
-The practical lesson is that confounding is rarely eliminated by a single statistical technique. Credible causal claims usually emerge from multiple studies, different methods and repeated attempts to rule out alternative explanations rather than from one striking correlation alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Assessing causality in epidemiology: revisiting Bradford Hill to...by M Shimonovich · 2020 · Cited by 231 — Bradford Hill argued that...</span></span></span>
+The practical lesson is that confounding is rarely eliminated by a single statistical technique. Credible causal claims usually emerge from multiple studies, different methods and repeated attempts to rule out alternative explanations rather than from one striking correlation alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Assessing causality in epidemiology: revisiting Bradford Hill to...by M Shimonovich · 2020 · Cited by 231 — Bradford Hill argued that...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Od6oAz1Op2k" title="Causal Inference - EXPLAINED!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Od6oAz1Op2k" target="_blank" rel="noopener noreferrer">Causal Inference - EXPLAINED!</a></p><p class="youtube-embed-meta">Channel: CodeEmporium</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Od6oAz1Op2k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Od6oAz1Op2k">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Hidden Factor Behind the Pattern. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Hidden Factor Behind the Pattern. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VV0otAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Why">The Book of Why</a>
-        </h4>
-        <p class="fr-book-author">By Judea Pearl, Dana Mackenzie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VV0otAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Why">The Book of Why</a>
+</h4>
+<p class="fr-book-author">By Judea Pearl, Dana Mackenzie</p>
         
-        <p class="fr-book-desc">Explains causation, confounding, and how to distinguish correlation from cause.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains causation, confounding, and how to distinguish correlation from cause.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-bvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-bvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Shows how to question misleading causal claims, statistics, and apparent patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to question misleading causal claims, statistics, and apparent patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EL87wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EL87wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">Covers observational evidence, bias, confounding, and careful interpretation of data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers observational evidence, bias, confounding, and careful interpretation of data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Helps readers recognize misleading statistical relationships and weak causal arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognize misleading statistical relationships and weak causal arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Why&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Why</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Why&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Why</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistics Humor Mug Normal Distribution Math Science Gift"><img src="{{ '/assets/images/marketplace-covers/e1f90bc297cb8735e7d7.jpg' | relative_url }}" alt="Listing image for Statistics Humor Mug Normal Distribution Math Science Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Statistics Humor Mug Normal Distribution Math Science Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistics Humor Mug Normal Distribution Math Science Gift"><img src="{{ '/assets/images/marketplace-covers/e1f90bc297cb8735e7d7.jpg' | relative_url }}" alt="Listing image for Statistics Humor Mug Normal Distribution Math Science Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Statistics Humor Mug Normal Distribution Math Science Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistician - Funny Nutritional Facts - Statistics Expert Mug"><img src="{{ '/assets/images/marketplace-covers/39e3c64527c23f043d24.jpg' | relative_url }}" alt="Listing image for Statistician - Funny Nutritional Facts - Statistics Expert Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Statistician - Funny Nutritional Facts - Statistics Expert Mug</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistician - Funny Nutritional Facts - Statistics Expert Mug"><img src="{{ '/assets/images/marketplace-covers/39e3c64527c23f043d24.jpg' | relative_url }}" alt="Listing image for Statistician - Funny Nutritional Facts - Statistics Expert Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Statistician - Funny Nutritional Facts - Statistics Expert Mug</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee Yellow Ceramic Cup"><img src="{{ '/assets/images/marketplace-covers/83458b70f34370d39c24.jpg' | relative_url }}" alt="Listing image for Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee Yellow Ceramic Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee Yellow Ceramic Cup</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee Yellow Ceramic Cup"><img src="{{ '/assets/images/marketplace-covers/83458b70f34370d39c24.jpg' | relative_url }}" alt="Listing image for Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee Yellow Ceramic Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee Yellow Ceramic Cup</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be Significant Funny Statistics Mug Humor Coffee Cup Gift Present"><img src="{{ '/assets/images/marketplace-covers/8fa19b96a733dba63a02.jpg' | relative_url }}" alt="Listing image for Be Significant Funny Statistics Mug Humor Coffee Cup Gift Present" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Be Significant Funny Statistics Mug Humor Coffee Cup Gift Present</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be Significant Funny Statistics Mug Humor Coffee Cup Gift Present"><img src="{{ '/assets/images/marketplace-covers/8fa19b96a733dba63a02.jpg' | relative_url }}" alt="Listing image for Be Significant Funny Statistics Mug Humor Coffee Cup Gift Present" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Be Significant Funny Statistics Mug Humor Coffee Cup Gift Present</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="confounders-the-hidden-factor-behind-the-pattern-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ The practical lesson is that confounding is rarely eliminated by a single statis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ The practical lesson is that confounding is rarely eliminated by a single statis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ The practical lesson is that confounding is rarely eliminated by a single statis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ The practical lesson is that confounding is rarely eliminated by a single statis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ The practical lesson is that confounding is rarely eliminated by a single statis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,122 +754,122 @@ The practical lesson is that confounding is rarely eliminated by a single statis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jech.bmj.com  
-   Link: <a href="https://jech.bmj.com/content/76/11/960" target="_blank" rel="noopener noreferrer nofollow">https://jech.bmj.com/content/76/11/960</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Causal inference and effect estimation using observational databy E Igelström · 2022 · Cited by 113 — Fourth, we define and explain biase...</p></details>
+   Link:<a href="https://jech.bmj.com/content/76/11/960" target="_blank" rel="noopener noreferrer nofollow">https://jech.bmj.com/content/76/11/960</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Causal inference and effect estimation using observational databy E Igelström · 2022 · Cited by 113 — Fourth, we define and explain biase...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIPrinciples of [Causation](&#123;&#123; 'causation/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK606119/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK606119/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StatPearls - NCBI Bookshelf - NIHby R Dhawan · 2024 · Cited by 2 — Causation refers to a process wherein an initial or inciting event (ex...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK606119/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK606119/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StatPearls - NCBI Bookshelf - NIHby R Dhawan · 2024 · Cited by 2 — Causation refers to a process wherein an initial or inciting event (ex...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8882362/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8882362/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Note: Confounding and Causality in Observational...by C Horvat · 2021 · Cited by 17 — As an increasing number of Bradford Hill criteria...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8882362/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8882362/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Note: Confounding and Causality in Observational...by C Horvat · 2021 · Cited by 17 — As an increasing number of Bradford Hill criteria...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing causality in epidemiology: revisiting Bradford Hill to...by M Shimonovich · 2020 · Cited by 231 — Bradford Hill argued that...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing causality in epidemiology: revisiting Bradford Hill to...by M Shimonovich · 2020 · Cited by 231 — Bradford Hill argued that...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.publisso.de  
-   Link: <a href="https://journals.publisso.de/en/journals/gms/volume20/000314" target="_blank" rel="noopener noreferrer nofollow">https://journals.publisso.de/en/journals/gms/volume20/000314</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Causal evidence in health decision makingby F Kühne · 2022 · Cited by 34 — Causal inference and health decision science are two methodolo...</p></details>
+   Link:<a href="https://journals.publisso.de/en/journals/gms/volume20/000314" target="_blank" rel="noopener noreferrer nofollow">https://journals.publisso.de/en/journals/gms/volume20/000314</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Causal evidence in health decision makingby F Kühne · 2022 · Cited by 34 — Causal inference and health decision science are two methodolo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12133282/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12133282/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>evolved interpretation of Austin Bradford Hill&#x27;s causal...by CR Lesko · 2024 · Cited by 5 — In 1965, Sir Austin Bradford Hill articulate...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12133282/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12133282/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>evolved interpretation of Austin Bradford Hill&#x27;s causal...by CR Lesko · 2024 · Cited by 5 — In 1965, Sir Austin Bradford Hill articulate...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Confounding Variables in Research: What They Are & How to Control Them  
-   Link: <a href="https://www.youtube.com/watch?v=tL86VPitfC4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tL86VPitfC4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Causal Inference - EXPLAINED...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tL86VPitfC4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tL86VPitfC4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Causal Inference - EXPLAINED...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Causal Inference  
-   Link: <a href="https://www.youtube.com/watch?v=Od6oAz1Op2k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Od6oAz1Op2k</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confounding Examples - Causal Inference...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Od6oAz1Op2k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Od6oAz1Op2k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confounding Examples - Causal Inference...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Confounding" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confounding</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Confounding" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confounding</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2706236/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2706236/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>role of causal criteria in causal inferences: Bradford Hill&#x27;s...by AC Ward · 2009 · Cited by 141 — Research in epidemiology and the heal...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2706236/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2706236/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>role of causal criteria in causal inferences: Bradford Hill&#x27;s...by AC Ward · 2009 · Cited by 141 — Research in epidemiology and the heal...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC524370/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC524370/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In his last few paragraphs, he offers an important...R...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC524370/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC524370/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In his last few paragraphs, he offers an important...R...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4589117/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4589117/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Bradford Hill criteria in the 21st century: how data...by KM Fedak · 2015 · Cited by 895 — In 1965, Sir Austin Bradford Hill publish...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4589117/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4589117/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Bradford Hill criteria in the 21st century: how data...by KM Fedak · 2015 · Cited by 895 — In 1965, Sir Austin Bradford Hill publish...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/causal" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/causal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAUSAL Definition &amp; Meaning1. expressing or indicating cause: causative a causal clause introduced by since 2. of, relating to, or const...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/causal" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/causal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CAUSAL Definition &amp; Meaning1. expressing or indicating cause: causative a causal clause introduced by since 2. of, relating to, or const...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: healthknowledge.org.uk  
-   Link: <a href="https://www.healthknowledge.org.uk/e-learning/epidemiology/practitioners/causation-epidemiology-association-causation" target="_blank" rel="noopener noreferrer nofollow">https://www.healthknowledge.org.uk/e-learning/epidemiology/practitioners/causation-epidemiology-association-causation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Causation in epidemiology: association and causationAt the end of the session you should be able to differentiate between the concepts of...</p></details>
+   Link:<a href="https://www.healthknowledge.org.uk/e-learning/epidemiology/practitioners/causation-epidemiology-association-causation" target="_blank" rel="noopener noreferrer nofollow">https://www.healthknowledge.org.uk/e-learning/epidemiology/practitioners/causation-epidemiology-association-causation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Causation in epidemiology: association and causationAt the end of the session you should be able to differentiate between the concepts of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
    Title: Bradford Hill: A tool for causal inference | William J  
-   Link: <a href="https://www.linkedin.com/posts/williamjlee_great-post-i-think-about-bradford-hill-a-activity-7231625823621931008-KNNW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/williamjlee_great-post-i-think-about-bradford-hill-a-activity-7231625823621931008-KNNW</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lee, JD...Aug 20, 2024 — There are several challenges to inferring causation from observational data. We really need data from multiple...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/williamjlee_great-post-i-think-about-bradford-hill-a-activity-7231625823621931008-KNNW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/williamjlee_great-post-i-think-about-bradford-hill-a-activity-7231625823621931008-KNNW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lee, JD...Aug 20, 2024 — There are several challenges to inferring causation from observational data. We really need data from multiple...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Bradford Hill criteria  
-   Link: <a href="https://en.wikipedia.org/wiki/Bradford_Hill_criteria" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bradford_Hill_criteria</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bradford Hill criteriaThe Bradford Hill criteria, otherwise known as Hill&#x27;s criteria for causation, are a group of nine principles tha...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Bradford_Hill_criteria" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bradford_Hill_criteria</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bradford Hill criteriaThe Bradford Hill criteria, otherwise known as Hill&#x27;s criteria for causation, are a group of nine principles tha...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: who-umc.org  
    Title: bradford hill criteria  
-   Link: <a href="https://who-umc.org/signal-management/bradford-hill-criteria/" target="_blank" rel="noopener noreferrer nofollow">https://who-umc.org/signal-management/bradford-hill-criteria/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Feb 2026 — The Bradford Hill criteria for causation were developed by Sir Austin Bradford Hill in 1965. They consist of nine conditions...</p></details>
+   Link:<a href="https://who-umc.org/signal-management/bradford-hill-criteria/" target="_blank" rel="noopener noreferrer nofollow">https://who-umc.org/signal-management/bradford-hill-criteria/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Feb 2026 — The Bradford Hill criteria for causation were developed by Sir Austin Bradford Hill in 1965. They consist of nine conditions...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Correlation and Causation  
-   Link: <a href="https://www.youtube.com/watch?v=cvwRt9aCNpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cvwRt9aCNpk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>understanding the Bradford Hill...In this video we&#x27;re going to be looking at reasons for correlation and it includes how we better under...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cvwRt9aCNpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cvwRt9aCNpk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>understanding the Bradford Hill...In this video we&#x27;re going to be looking at reasons for correlation and it includes how we better under...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/add.16329" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/add.16329</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bradford Hill&#x27;s &#x27;Environment and disease...27 Aug 2023 — Modernizing the Bradford Hill criteria for assessing causal relationships in ob...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/add.16329" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/add.16329</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bradford Hill&#x27;s &#x27;Environment and disease...27 Aug 2023 — Modernizing the Bradford Hill criteria for assessing causal relationships in ob...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.938163/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.938163/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying the Bradford Hill Criteria for Causation to...by CJ Nowinski · 2022 · Cited by 189 — This article aims to explore the question...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.938163/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.938163/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Applying the Bradford Hill Criteria for Causation to...by CJ Nowinski · 2022 · Cited by 189 — This article aims to explore the question...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Clearing Up Confounding  
-   Link: <a href="https://www.youtube.com/watch?v=fjdb4ID7HVg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fjdb4ID7HVg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confounding Variables in Research: What They Are &amp; How to Control Them...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fjdb4ID7HVg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fjdb4ID7HVg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confounding Variables in Research: What They Are &amp; How to Control Them...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Confounding Variables: Definition & Examples (3 Minute Explanation)  
-   Link: <a href="https://www.youtube.com/watch?v=Wl5nSDTL66U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wl5nSDTL66U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clearing Up Confounding...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Wl5nSDTL66U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wl5nSDTL66U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clearing Up Confounding...</p></details>

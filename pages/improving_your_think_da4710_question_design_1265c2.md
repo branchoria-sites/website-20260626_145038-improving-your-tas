@@ -451,17 +451,17 @@ Better questions create better answers because they decide what kind of answer y
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2-overview.webp" | relative_url }}" alt="Overview image for Better Questions" loading="eager" decoding="sync" fetchpriority="high">
-This matters for improving thinking and analytical skills because many reasoning failures begin before the evidence search starts. The same facts can lead people to different choices when a problem is framed differently, a pattern shown in classic work by Amos Tversky and Daniel Kahneman on decision [framing]({{ 'framing/' | relative_url }}). Their research found predictable shifts in preference when equivalent decision problems were presented in different ways, including choices involving money and human lives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/7455683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The psychological principles that govern the perception of decision problems and the evaluation of probabilities and outcomes produce...</span></span></span>
+This matters for improving thinking and analytical skills because many reasoning failures begin before the evidence search starts. The same facts can lead people to different choices when a problem is framed differently, a pattern shown in classic work by Amos Tversky and Daniel Kahneman on decision [framing]({{ 'framing/' | relative_url }}). Their research found predictable shifts in preference when equivalent decision problems were presented in different ways, including choices involving money and human lives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/7455683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The psychological principles that govern the perception of decision problems and the evaluation of probabilities and outcomes produce...</span></span></span>
 
 ## Why vague questions mislead
 
 A vague question feels open-minded, but it often smuggles in hidden assumptions. “Is remote work good?” sounds neutral, yet it hides several missing choices: good for whom, compared with what, measured by productivity, retention, wellbeing, cost, creativity or promotion prospects, and over what period? Because the question is underspecified, almost any answer can seem relevant. A study about employee satisfaction, a manager’s anecdote about coordination problems and a cost-saving spreadsheet may all appear to answer it, even though they are answering different questions.
 
-This is why evidence-based practice begins by turning practical [uncertainty]({{ 'uncertainty/' | relative_url }}) into an answerable question. Evidence-based practice is not simply “using research”; it is the conscientious use of the best available evidence from multiple sources, combined with critical appraisal, to improve the chance of a favourable outcome. The Chartered Institute of Personnel and Development describes this as a way to avoid relying on fads, received wisdom or superficial quick fixes when making workplace decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipd.org">[CIPD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipd.org</span><span class="citation-popover-title">Evidence-based practice for effective decision-making</span><span class="citation-popover-snippet">Evidence-based practice for effective decision-makingMay 19, 2025 — Evidence-based practice is an approach for improving decision-mak...</span><span class="citation-popover-meta">Published: May 19, 2025</span></span></span>
+This is why evidence-based practice begins by turning practical [uncertainty]({{ 'uncertainty/' | relative_url }}) into an answerable question. Evidence-based practice is not simply “using research”; it is the conscientious use of the best available evidence from multiple sources, combined with critical appraisal, to improve the chance of a favourable outcome. The Chartered Institute of Personnel and Development describes this as a way to avoid relying on fads, received wisdom or superficial quick fixes when making workplace decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipd.org">[CIPD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipd.org</span><span class="citation-popover-title">Evidence-based practice for effective decision-making</span><span class="citation-popover-snippet">Evidence-based practice for effective decision-makingMay 19, 2025 — Evidence-based practice is an approach for improving decision-mak...</span><span class="citation-popover-meta">Published: May 19, 2025</span></span></span>
 
 The danger is not only that vague questions waste time. They also make weak answers look strong. If someone asks “Does this training work?”, a positive satisfaction survey may seem persuasive. A better question might be: “Compared with our current onboarding, does this training reduce first-month error rates among new support staff within eight weeks, without increasing manager time?” That question blocks several common evasions. Enjoyment is not mistaken for performance, no comparison is ignored, and the timeframe prevents a one-week glow from being confused with durable improvement.
 
-Question design is therefore a thinking skill in its own right. The National Library of Medicine’s evidence-based practice guidance puts question formulation at the start of the process, using the three actions “Capture, Clarify, and Cull” to move from loose curiosity to answerable inquiry. The same source notes that questions drive the whole evidence-based practice process, which is why poorly shaped questions distort everything that follows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK603122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">Go to: 2.2 Capture. Questions drive the entire EBP Process.Read more</span><span class="citation-popover-snippet">Question Formulation - Evidence Based Practice - NCBI - NIHby J Eldredge · 2024 — This chapter revolves around the three C&#x27;s of quest...</span></span></span>
+Question design is therefore a thinking skill in its own right. The National Library of Medicine’s evidence-based practice guidance puts question formulation at the start of the process, using the three actions “Capture, Clarify, and Cull” to move from loose curiosity to answerable inquiry. The same source notes that questions drive the whole evidence-based practice process, which is why poorly shaped questions distort everything that follows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK603122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">Go to: 2.2 Capture. Questions drive the entire EBP Process.Read more</span><span class="citation-popover-snippet">Question Formulation - Evidence Based Practice - NCBI - NIHby J Eldredge · 2024 — This chapter revolves around the three C&#x27;s of quest...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2-Illustration-1-dark.svg" | relative_url }}" alt="Better Questions illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -469,11 +469,11 @@ Question design is therefore a thinking skill in its own right. The National Lib
 
 A strong everyday question usually passes three tests before the search begins.
 
-**First, it names the comparison.** A question such as “Should I take this job?” is hard to answer because “take it” is being compared with an undefined alternative. The real comparison might be staying in the current role, negotiating a different package, taking a rival offer, freelancing for six months, or waiting for a better fit. Evidence only becomes meaningful once the alternatives are visible. In clinical and evidence-review settings, this is one reason the [PICO]({{ 'pico/' | relative_url }}) framework asks users to identify not only the population and intervention, but also the comparator and outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochranelibrary.com/about-pico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochranelibrary.com">[Cochrane Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochranelibrary.com</span><span class="citation-popover-snippet">Cochrane LibraryCochrane Library About PICOThe PICO model is widely used and taught in evidence-based health care as a strategy for defin...</span></span></span>
+**First, it names the comparison.** A question such as “Should I take this job?” is hard to answer because “take it” is being compared with an undefined alternative. The real comparison might be staying in the current role, negotiating a different package, taking a rival offer, freelancing for six months, or waiting for a better fit. Evidence only becomes meaningful once the alternatives are visible. In clinical and evidence-review settings, this is one reason the [PICO]({{ 'pico/' | relative_url }}) framework asks users to identify not only the population and intervention, but also the comparator and outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochranelibrary.com/about-pico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochranelibrary.com">[Cochrane Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochranelibrary.com</span><span class="citation-popover-snippet">Cochrane LibraryCochrane Library About PICOThe PICO model is widely used and taught in evidence-based health care as a strategy for defin...</span></span></span>
 
-**Second, it names the outcome.** “Better” is too slippery unless the desired result is explicit. Better may mean cheaper, safer, faster, less stressful, more durable, easier to reverse or fairer to affected people. The outcome should be concrete enough that the answer can be challenged. “Will this study routine improve my learning?” is weaker than “Will this routine improve my delayed recall on weekly [practice tests]({{ 'practice-tests/' | relative_url }}) without increasing total study time?” Research guidance on PICO and related formats treats [outcomes]({{ 'outcomes/' | relative_url }}) as essential because they define what success means before evidence is gathered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5875219/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAppearance of Population, Intervention, Comparison</span><span class="citation-popover-snippet">PMCAppearance of Population, Intervention, Comparison</span></span></span>
+**Second, it names the outcome.** “Better” is too slippery unless the desired result is explicit. Better may mean cheaper, safer, faster, less stressful, more durable, easier to reverse or fairer to affected people. The outcome should be concrete enough that the answer can be challenged. “Will this study routine improve my learning?” is weaker than “Will this routine improve my delayed recall on weekly [practice tests]({{ 'practice-tests/' | relative_url }}) without increasing total study time?” Research guidance on PICO and related formats treats [outcomes]({{ 'outcomes/' | relative_url }}) as essential because they define what success means before evidence is gathered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5875219/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAppearance of Population, Intervention, Comparison</span><span class="citation-popover-snippet">PMCAppearance of Population, Intervention, Comparison</span></span></span>
 
-**Third, it names the timeframe.** Many answers change depending on whether the horizon is one week, one quarter, one year or ten years. “Will cutting prices help?” may be true this month and false over a year if it trains customers to wait for discounts. Some evidence-based practice guides extend PICO into PICOT, adding time so the expected effect is judged over a specified period rather than left floating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.futurelearn.com/info/courses/mastering-evidence-based-practice-foundational-strategies/0/steps/436922" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futurelearn.com">[FutureLearn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futurelearn.com</span><span class="citation-popover-snippet">Open source on futurelearn.com.</span></span></span>
+**Third, it names the timeframe.** Many answers change depending on whether the horizon is one week, one quarter, one year or ten years. “Will cutting prices help?” may be true this month and false over a year if it trains customers to wait for discounts. Some evidence-based practice guides extend PICO into PICOT, adding time so the expected effect is judged over a specified period rather than left floating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.futurelearn.com/info/courses/mastering-evidence-based-practice-foundational-strategies/0/steps/436922" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futurelearn.com">[FutureLearn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futurelearn.com</span><span class="citation-popover-snippet">Open source on futurelearn.com.</span></span></span>
 
 Together, these tests turn a loose question into a miniature research design. They do not make the answer automatic, but they make answer hunting more disciplined. Instead of asking, “What do people say about this?”, you ask, “What evidence would help distinguish these alternatives on the outcome I actually care about, within the time period that matters?”
 
@@ -482,13 +482,13 @@ Together, these tests turn a loose question into a miniature research design. Th
 
 ## Why framing can beat facts
 
-Question design matters because humans do not evaluate evidence in a vacuum. The frame sets the mental stage: what looks relevant, what feels risky, which alternatives are salient, and which losses or gains dominate attention. Tversky and Kahneman’s framing research showed that people’s preferences can reverse when the same underlying decision is described in different terms. The facts have not changed, but the question has changed the psychological meaning of the facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/7455683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The psychological principles that govern the perception of decision problems and the evaluation of probabilities and outcomes produce...</span></span></span>
+Question design matters because humans do not evaluate evidence in a vacuum. The frame sets the mental stage: what looks relevant, what feels risky, which alternatives are salient, and which losses or gains dominate attention. Tversky and Kahneman’s framing research showed that people’s preferences can reverse when the same underlying decision is described in different terms. The facts have not changed, but the question has changed the psychological meaning of the facts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/7455683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The psychological principles that govern the perception of decision problems and the evaluation of probabilities and outcomes produce...</span></span></span>
 
 A familiar everyday example is the difference between asking, “How can we stop this project failing?” and “How can we make this project succeed?” These are not identical [prompts]({{ 'prompts/' | relative_url }}). The first may surface risks, dependencies and failure modes; the second may surface motivation, resources and growth paths. Both can be useful, but each hides something. Better question design often means deliberately trying more than one frame before searching for answers.
 
-Business and policy settings make this especially important because problem definitions can carry power. A city transport issue framed as “driver congestion” invites road-capacity answers; framed as “access to jobs and services”, it may invite public transport, cycling, land-use and remote-service answers. Policy analysis literature treats problem structuring as something that comes before solution design because the way a problem is abstracted from a messy situation shapes what counts as a solution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ippapublicpolicy.org/file/paper/5aeff35b03d17.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ippapublicpolicy.org">[ippapublicpolicy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ippapublicpolicy.org</span><span class="citation-popover-title">problem structuring in public policy analysis</span><span class="citation-popover-snippet">problem structuring in public policy analysis</span></span></span>
+Business and policy settings make this especially important because problem definitions can carry power. A city transport issue framed as “driver congestion” invites road-capacity answers; framed as “access to jobs and services”, it may invite public transport, cycling, land-use and remote-service answers. Policy analysis literature treats problem structuring as something that comes before solution design because the way a problem is abstracted from a messy situation shapes what counts as a solution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ippapublicpolicy.org/file/paper/5aeff35b03d17.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ippapublicpolicy.org">[ippapublicpolicy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ippapublicpolicy.org</span><span class="citation-popover-title">problem structuring in public policy analysis</span><span class="citation-popover-snippet">problem structuring in public policy analysis</span></span></span>
 
-The same risk now applies to AI-assisted thinking. If a person gives an AI system a badly framed question, the answer may be fluent but misdirected. Recent research on large language models has found that fact-preserved but differently framed inputs can destabilise model decisions, with one 2026 benchmark reporting an average decision flip rate of 28.6% across framing variations. That finding is not a reason to avoid AI tools; it is a reason to design the question before asking for the answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.28188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The same risk now applies to AI-assisted thinking. If a person gives an AI system a badly framed question, the answer may be fluent but misdirected. Recent research on large language models has found that fact-preserved but differently framed inputs can destabilise model decisions, with one 2026 benchmark reporting an average decision flip rate of 28.6% across framing variations. That finding is not a reason to avoid AI tools; it is a reason to design the question before asking for the answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.28188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 ## How to design a better question before searching
 
@@ -508,7 +508,7 @@ Pick the measure that matters most. For a learning method, it may be delayed rec
 Decide when the outcome should appear. A question about “this week” may need speed and simplicity; a question about “the next year” may need sustainability and side effects.
 5. **Name what would change your mind.**
 
-This converts the question from an opinion prompt into a testable inquiry. Evidence-based decision-making emphasises critical appraisal of evidence rather than a search for proof, because “proof” is often unavailable in practical settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipd.org">[CIPD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipd.org</span><span class="citation-popover-title">Evidence-based practice for effective decision-making</span><span class="citation-popover-snippet">Evidence-based practice for effective decision-makingMay 19, 2025 — Evidence-based practice is an approach for improving decision-mak...</span><span class="citation-popover-meta">Published: May 19, 2025</span></span></span>
+This converts the question from an opinion prompt into a testable inquiry. Evidence-based decision-making emphasises critical appraisal of evidence rather than a search for proof, because “proof” is often unavailable in practical settings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipd.org">[CIPD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipd.org</span><span class="citation-popover-title">Evidence-based practice for effective decision-making</span><span class="citation-popover-snippet">Evidence-based practice for effective decision-makingMay 19, 2025 — Evidence-based practice is an approach for improving decision-mak...</span><span class="citation-popover-meta">Published: May 19, 2025</span></span></span>
 
 The final version should be narrow enough to guide a search but not so narrow that it excludes relevant alternatives. “Should I learn coding?” is too broad. “Will learning Python for 30 minutes a day for 12 weeks help me automate at least two recurring spreadsheet tasks at work, compared with continuing to use manual Excel steps?” is answerable. It gives the searcher a domain, method, dose, timeframe, comparison and outcome.
 
@@ -531,7 +531,7 @@ Question design should not become premature narrowing. Early in a messy problem,
 
 The practical distinction is between **exploration** and **answer hunting**. Exploration broadens the map. Answer hunting tests a chosen route. A team trying to understand a rise in customer complaints may first ask open questions: Which customers are affected? When did the pattern begin? What changed in the product, support process or customer mix? Once plausible explanations exist, the questions should become sharper: “Did complaints increase more among customers moved to the new billing system than among those still on the old system during the first four weeks after migration?”
 
-Complex-intervention research makes a similar point. Work on question formulation for complex interventions argues that this stage is a chance to surface and resolve complexity-related issues rather than pretend the question is simple from the start. In other words, the question should become precise enough to guide evidence, but not so simplified that it erases the system being studied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gh.bmj.com/content/4/Suppl_1/e001107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gh.bmj.com">[BMJ Global Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gh.bmj.com</span><span class="citation-popover-snippet">Open source on bmj.com.</span></span></span>
+Complex-intervention research makes a similar point. Work on question formulation for complex interventions argues that this stage is a chance to surface and resolve complexity-related issues rather than pretend the question is simple from the start. In other words, the question should become precise enough to guide evidence, but not so simplified that it erases the system being studied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gh.bmj.com/content/4/Suppl_1/e001107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gh.bmj.com">[BMJ Global Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gh.bmj.com</span><span class="citation-popover-snippet">Open source on bmj.com.</span></span></span>
 
 A good rule is: keep questions open while discovering the shape of the problem; make them specific before judging the answer. The mistake is not asking broad questions. The mistake is using broad questions to collect evidence and then acting as though the answer is precise.
 
@@ -546,7 +546,7 @@ A better question improves thinking in four concrete ways.
 
 **It exposes missing information.** A vague question lets gaps stay hidden. A designed question makes them visible: no comparison group, no long-term data, no evidence for the relevant population, no measure of the outcome you care about.
 
-**It improves search strategy.** In evidence reviews, PICO is widely used not only to formulate questions but also to define review criteria and search strategies. The same principle applies outside medicine: better question components become better search terms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochranelibrary.com/about-pico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochranelibrary.com">[Cochrane Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochranelibrary.com</span><span class="citation-popover-snippet">Cochrane LibraryCochrane Library About PICOThe PICO model is widely used and taught in evidence-based health care as a strategy for defin...</span></span></span>
+**It improves search strategy.** In evidence reviews, PICO is widely used not only to formulate questions but also to define review criteria and search strategies. The same principle applies outside medicine: better question components become better search terms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochranelibrary.com/about-pico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochranelibrary.com">[Cochrane Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochranelibrary.com</span><span class="citation-popover-snippet">Cochrane LibraryCochrane Library About PICOThe PICO model is widely used and taught in evidence-based health care as a strategy for defin...</span></span></span>
 
 **It improves disagreement.** People often argue because they are answering different questions. One person asks whether a policy is fair, another whether it is cheap, another whether it is fast, and another whether it is politically possible. Naming the question does not remove disagreement, but it makes the disagreement more honest.
 
@@ -556,162 +556,162 @@ The deeper payoff is metacognitive: you become more aware of your own frame. Ins
 <img src="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2-Illustration-3-dark.svg" | relative_url }}" alt="Better Questions illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Ask Better Questions Before Seeking Answers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Ask Better Questions Before Seeking Answers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains framing effects, cognitive biases, and why better question design improves thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains framing effects, cognitive biases, and why better question design improves thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Beautiful+Questions+by+Warren+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Beautiful Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eOxlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Book of Beautiful Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Beautiful+Questions+by+Warren+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Beautiful Questions">The Book of Beautiful Questions</a>
-        </h4>
-        <p class="fr-book-author">By Warren Berger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Beautiful+Questions+by+Warren+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Beautiful Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eOxlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Book of Beautiful Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+Beautiful+Questions+by+Warren+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Beautiful Questions">The Book of Beautiful Questions</a>
+</h4>
+<p class="fr-book-author">By Warren Berger</p>
         
-        <p class="fr-book-desc">Shows how better questions lead to better decisions, learning, and problem solving.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Beautiful+Questions+by+Warren+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how better questions lead to better decisions, learning, and problem solving.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+Beautiful+Questions+by+Warren+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
+</h4>
+<p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
         
-        <p class="fr-book-desc">Provides mental models that encourage structured questions before seeking answers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides mental models that encourage structured questions before seeking answers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Demonstrates structured decision processes that begin with framing the right question.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates structured decision processes that begin with framing the right question.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Beautiful+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Beautiful Questions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Beautiful+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Beautiful Questions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4th Grade 4 Build Your Bundle Homeschool Curriculum Library Textbooks Workbooks"><img src="https://i.ebayimg.com/images/g/ttUAAOSwjtBlTRJ-/s-l225.jpg" alt="Listing image for 4th Grade 4 Build Your Bundle Homeschool Curriculum Library Textbooks Workbooks" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">4th Grade 4 Build Your Bundle Homeschool Curriculum Library Textbooks Workbooks</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thinking skills poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: thinking skills poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4th Grade 4 Build Your Bundle Homeschool Curriculum Library Textbooks Workbooks"><img src="https://i.ebayimg.com/images/g/ttUAAOSwjtBlTRJ-/s-l225.jpg" alt="Listing image for 4th Grade 4 Build Your Bundle Homeschool Curriculum Library Textbooks Workbooks" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">4th Grade 4 Build Your Bundle Homeschool Curriculum Library Textbooks Workbooks</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thinking skills poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: thinking skills poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Creative 3 in 1 Wooden Puzzle Set - Develops Thinking Skills in Children"><img src="https://i.ebayimg.com/images/g/JXIAAeSwWrVpwLVU/s-l225.jpg" alt="Listing image for Creative 3 in 1 Wooden Puzzle Set - Develops Thinking Skills in Children" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Creative 3 in 1 Wooden Puzzle Set - Develops Thinking Skills in Children</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thinking skills poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: thinking skills poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Creative 3 in 1 Wooden Puzzle Set - Develops Thinking Skills in Children"><img src="https://i.ebayimg.com/images/g/JXIAAeSwWrVpwLVU/s-l225.jpg" alt="Listing image for Creative 3 in 1 Wooden Puzzle Set - Develops Thinking Skills in Children" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Creative 3 in 1 Wooden Puzzle Set - Develops Thinking Skills in Children</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thinking skills poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: thinking skills poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=thinking+skills+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thinking skills poster -book -books" data-ebay-reference="ask-better-questions-before-seeking-answers-thinking-skills-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -727,7 +727,7 @@ The deeper payoff is metacognitive: you become more aware of your own frame. Ins
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -747,7 +747,7 @@ The deeper payoff is metacognitive: you become more aware of your own frame. Ins
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -779,7 +779,7 @@ The deeper payoff is metacognitive: you become more aware of your own frame. Ins
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -831,7 +831,7 @@ The deeper payoff is metacognitive: you become more aware of your own frame. Ins
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -876,7 +876,7 @@ The deeper payoff is metacognitive: you become more aware of your own frame. Ins
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -916,140 +916,140 @@ The deeper payoff is metacognitive: you become more aware of your own frame. Ins
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cipd.org  
    Title: Evidence-based practice for effective decision-making  
-   Link: <a href="https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-based practice for effective decision-makingMay 19, 2025 — Evidence-based practice is an approach for improving decision-mak...</p></details>
+   Link:<a href="https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-based practice for effective decision-makingMay 19, 2025 — Evidence-based practice is an approach for improving decision-mak...</p></details>
    Published: May 19, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: Go to: 2.2 Capture. Questions drive the entire EBP Process.Read more  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK603122/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK603122/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Question Formulation - Evidence Based Practice - NCBI - NIHby J Eldredge · 2024 — This chapter revolves around the three C&#x27;s of quest...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK603122/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK603122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Question Formulation - Evidence Based Practice - NCBI - NIHby J Eldredge · 2024 — This chapter revolves around the three C&#x27;s of quest...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAppearance of Population, Intervention, Comparison  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5875219/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5875219/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5875219/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5875219/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAsking Focused Answerable Clinical Questions  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4170378/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4170378/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4170378/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4170378/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: futurelearn.com  
-   Link: <a href="https://www.futurelearn.com/info/courses/mastering-evidence-based-practice-foundational-strategies/0/steps/436922" target="_blank" rel="noopener noreferrer nofollow">https://www.futurelearn.com/info/courses/mastering-evidence-based-practice-foundational-strategies/0/steps/436922</a>  
+   Link:<a href="https://www.futurelearn.com/info/courses/mastering-evidence-based-practice-foundational-strategies/0/steps/436922" target="_blank" rel="noopener noreferrer nofollow">https://www.futurelearn.com/info/courses/mastering-evidence-based-practice-foundational-strategies/0/steps/436922</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ippapublicpolicy.org  
    Title: problem structuring in public policy analysis  
-   Link: <a href="https://www.ippapublicpolicy.org/file/paper/5aeff35b03d17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ippapublicpolicy.org/file/paper/5aeff35b03d17.pdf</a>  
+   Link:<a href="https://www.ippapublicpolicy.org/file/paper/5aeff35b03d17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ippapublicpolicy.org/file/paper/5aeff35b03d17.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.28188" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.28188</a>  
+   Link:<a href="https://arxiv.org/abs/2605.28188" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.28188</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gh.bmj.com  
-   Link: <a href="https://gh.bmj.com/content/4/Suppl_1/e001107" target="_blank" rel="noopener noreferrer nofollow">https://gh.bmj.com/content/4/Suppl_1/e001107</a>  
+   Link:<a href="https://gh.bmj.com/content/4/Suppl_1/e001107" target="_blank" rel="noopener noreferrer nofollow">https://gh.bmj.com/content/4/Suppl_1/e001107</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6148624/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6148624/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6148624/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6148624/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/7455683/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7455683/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological principles that govern the perception of decision problems and the evaluation of [probabilities](&amp;#123;&amp;#123; &#x27;probabilities/&#x27; | relative_url &amp;#125;&amp;#125;) and outcomes produce...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/7455683/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7455683/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological principles that govern the perception of decision problems and the evaluation of [probabilities](&amp;#123;&amp;#123; &#x27;probabilities/&#x27; | relative_url &amp;#125;&amp;#125;) and outcomes produce...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cochranelibrary.com  
-   Link: <a href="https://www.cochranelibrary.com/about-pico" target="_blank" rel="noopener noreferrer nofollow">https://www.cochranelibrary.com/about-pico</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cochrane LibraryCochrane Library About PICOThe PICO model is widely used and taught in evidence-based health care as a strategy for defin...</p></details>
+   Link:<a href="https://www.cochranelibrary.com/about-pico" target="_blank" rel="noopener noreferrer nofollow">https://www.cochranelibrary.com/about-pico</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cochrane LibraryCochrane Library About PICOThe PICO model is widely used and taught in evidence-based health care as a strategy for defin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11129835/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11129835/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11129835/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11129835/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11584869/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11584869/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11584869/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11584869/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nlm.nih.gov  
-   Link: <a href="https://www.nlm.nih.gov/oet/ed/pubmed/pubmed_in_ebp/02-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nlm.nih.gov/oet/ed/pubmed/pubmed_in_ebp/02-100.html</a>  
+   Link:<a href="https://www.nlm.nih.gov/oet/ed/pubmed/pubmed_in_ebp/02-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nlm.nih.gov/oet/ed/pubmed/pubmed_in_ebp/02-100.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: latrobe.libguides.com  
-   Link: <a href="https://latrobe.libguides.com/ebp/Ask" target="_blank" rel="noopener noreferrer nofollow">https://latrobe.libguides.com/ebp/Ask</a>  
+   Link:<a href="https://latrobe.libguides.com/ebp/Ask" target="_blank" rel="noopener noreferrer nofollow">https://latrobe.libguides.com/ebp/Ask</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: casp-uk.net  
    Title: pico framework  
-   Link: <a href="https://casp-uk.net/pico-framework/" target="_blank" rel="noopener noreferrer nofollow">https://casp-uk.net/pico-framework/</a>  
+   Link:<a href="https://casp-uk.net/pico-framework/" target="_blank" rel="noopener noreferrer nofollow">https://casp-uk.net/pico-framework/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: guides.temple.edu  
-   Link: <a href="https://guides.temple.edu/systematicreviews/question" target="_blank" rel="noopener noreferrer nofollow">https://guides.temple.edu/systematicreviews/question</a>  
+   Link:<a href="https://guides.temple.edu/systematicreviews/question" target="_blank" rel="noopener noreferrer nofollow">https://guides.temple.edu/systematicreviews/question</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: brainly.com  
-   Link: <a href="https://brainly.com/question/36681782" target="_blank" rel="noopener noreferrer nofollow">https://brainly.com/question/36681782</a>  
+   Link:<a href="https://brainly.com/question/36681782" target="_blank" rel="noopener noreferrer nofollow">https://brainly.com/question/36681782</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hup.harvard.edu  
-   Link: <a href="https://www.hup.harvard.edu/books/9780674088078" target="_blank" rel="noopener noreferrer nofollow">https://www.hup.harvard.edu/books/9780674088078</a>  
+   Link:<a href="https://www.hup.harvard.edu/books/9780674088078" target="_blank" rel="noopener noreferrer nofollow">https://www.hup.harvard.edu/books/9780674088078</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.7455683" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.7455683</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological principles that govern the perception of decision problems and the evaluation of probabilities and outcomes produce pre...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/science.7455683" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.7455683</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological principles that govern the perception of decision problems and the evaluation of probabilities and outcomes produce pre...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: What is the Patient, Intervention, Comparator, Outcome (PICO) framework?  
-   Link: <a href="https://www.youtube.com/watch?v=BtPL1MWVqec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BtPL1MWVqec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Framing Effect | The Psychological Bias That Shapes our Decisions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BtPL1MWVqec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BtPL1MWVqec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Framing Effect | The Psychological Bias That Shapes our Decisions...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Framing Effect | The Psychological Bias That Shapes our Decisions  
-   Link: <a href="https://www.youtube.com/watch?v=keXzVu2O_80" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=keXzVu2O_80</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ask Better Questions, Get Better Results: The Secret to Deeper Insights...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=keXzVu2O_80" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=keXzVu2O_80</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ask Better Questions, Get Better Results: The Secret to Deeper Insights...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Ask Better Questions, Get Better Results: The Secret to Deeper Insights!  
-   Link: <a href="https://www.youtube.com/watch?v=2c1gN-g3YDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2c1gN-g3YDo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Change The Frame, Change Your Brain (The Framing Effect)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2c1gN-g3YDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2c1gN-g3YDo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Change The Frame, Change Your Brain (The Framing Effect)...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Evidence-Based Practice, Step 1: Asking the Clinical Question  
-   Link: <a href="https://www.youtube.com/watch?v=PJhnN7sjPBg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PJhnN7sjPBg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the Patient, Intervention, Comparator, Outcome (PICO) framework?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PJhnN7sjPBg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PJhnN7sjPBg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is the Patient, Intervention, Comparator, Outcome (PICO) framework?...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/problem-framing-dana-vetan" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/problem-framing-dana-vetan</a>  
+   Link:<a href="https://www.linkedin.com/pulse/problem-framing-dana-vetan" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/problem-framing-dana-vetan</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/top-content/science/developing-effective-research-questions/developing-research-questions-that-encourage-[critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/science/developing-effective-research-questions/developing-research-questions-that-encourage-[critical-thinking</a>  
+   Link:<a href="https://www.linkedin.com/top-content/science/developing-effective-research-questions/developing-research-questions-that-encourage-[critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/science/developing-effective-research-questions/developing-research-questions-that-encourage-[critical-thinking</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: amorebeautifulquestion.com  
-   Link: <a href="https://amorebeautifulquestion.com/einstein-questioning/" target="_blank" rel="noopener noreferrer nofollow">https://amorebeautifulquestion.com/einstein-questioning/</a>  
+   Link:<a href="https://amorebeautifulquestion.com/einstein-questioning/" target="_blank" rel="noopener noreferrer nofollow">https://amorebeautifulquestion.com/einstein-questioning/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/503058801/We-Cannot-Solve-Our-Problems-With-the-Same-Thinki" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/503058801/We-Cannot-Solve-Our-Problems-With-the-Same-Thinki</a>  
+   Link:<a href="https://www.scribd.com/document/503058801/We-Cannot-Solve-Our-Problems-With-the-Same-Thinki" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/503058801/We-Cannot-Solve-Our-Problems-With-the-Same-Thinki</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/SassySeniorSociety/posts/9048950308561847/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SassySeniorSociety/posts/9048950308561847/</a>  
+   Link:<a href="https://www.facebook.com/groups/SassySeniorSociety/posts/9048950308561847/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SassySeniorSociety/posts/9048950308561847/</a>  

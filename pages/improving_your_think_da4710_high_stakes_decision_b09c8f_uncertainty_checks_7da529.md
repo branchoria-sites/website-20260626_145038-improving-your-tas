@@ -278,7 +278,7 @@ When a decision will be difficult or expensive to reverse, the key question is n
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_uncertainty_checks_7da529-Illustration-1-dark.svg" | relative_url }}" alt="Uncertainty illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_uncertainty_checks_7da529-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_uncertainty_checks_7da529-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This approach prevents a common mistake: spending time reducing uncertainty that has little practical value while ignoring one unanswered question that could overturn the entire plan. Decision analysis, public-sector appraisal guidance and research on judgement all converge on the same principle: uncertainty should shape what is investigated before commitment, not become an excuse for endless delay. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2scholarworks.umb.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">the green book 2026</span><span class="citation-popover-snippet">The Green Book (2026)5 Feb 2026 — Green Book guidance should be used proportionately. Business cases should contain sufficient detail to...</span></span></span>
+This approach prevents a common mistake: spending time reducing uncertainty that has little practical value while ignoring one unanswered question that could overturn the entire plan. Decision analysis, public-sector appraisal guidance and research on judgement all converge on the same principle: uncertainty should shape what is investigated before commitment, not become an excuse for endless delay.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2scholarworks.umb.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">the green book 2026</span><span class="citation-popover-snippet">The Green Book (2026)5 Feb 2026 — Green Book guidance should be used proportionately. Business cases should contain sufficient detail to...</span></span></span>
 
 ## Which unknown could actually break the plan?
 
@@ -288,7 +288,7 @@ Not every missing fact deserves equal attention. A useful uncertainty check begi
 
 If the answer is no, the uncertainty is interesting but not decision-critical. If the answer is yes, it becomes a priority before irreversible commitment.
 
-This idea comes from decision analysis, where the "value of information" depends on whether additional evidence would improve the decision rather than simply increase confidence. Information has practical value only when it changes the preferred course of action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1021&amp;context=msis_faculty_pubs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarworks.umb.edu">[scholarworks.umb.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarworks.umb.edu</span><span class="citation-popover-snippet">An application of value-of-information to decision process...by J Keisler · 2009 · Cited by 9 — This meant assuring that decision makers...</span></span></span>
+This idea comes from decision analysis, where the "value of information" depends on whether additional evidence would improve the decision rather than simply increase confidence. Information has practical value only when it changes the preferred course of action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1021&amp;context=msis_faculty_pubs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarworks.umb.edu">[scholarworks.umb.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarworks.umb.edu</span><span class="citation-popover-snippet">An application of value-of-information to decision process...by J Keisler · 2009 · Cited by 9 — This meant assuring that decision makers...</span></span></span>
 
 For example:
 
@@ -323,7 +323,7 @@ Typical examples include:
 
 </div>
 
-Research on optimism bias consistently shows that planners tend to underestimate costs, underestimate delays and overestimate benefits, particularly for novel or complex projects. Because these errors are systematic rather than random, simply feeling confident provides little protection. Public-sector appraisal guidance therefore recommends explicitly adjusting for optimism bias and improving evidence before final approval rather than assuming forecasts are unbiased. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/green-book-supplementary-guidance-optimism-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">green book supplementary guidance optimism bias</span><span class="citation-popover-snippet">Green Book supplementary guidance: optimism bias21 Apr 2013 — This guidance provides cost and time uplift percentages for generic project...</span></span></span>
+Research on optimism bias consistently shows that planners tend to underestimate costs, underestimate delays and overestimate benefits, particularly for novel or complex projects. Because these errors are systematic rather than random, simply feeling confident provides little protection. Public-sector appraisal guidance therefore recommends explicitly adjusting for optimism bias and improving evidence before final approval rather than assuming forecasts are unbiased.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/green-book-supplementary-guidance-optimism-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">green book supplementary guidance optimism bias</span><span class="citation-popover-snippet">Green Book supplementary guidance: optimism bias21 Apr 2013 — This guidance provides cost and time uplift percentages for generic project...</span></span></span>
 
 A practical exercise is to complete the sentence:
 
@@ -370,7 +370,7 @@ Useful questions include:
 
 </div>
 
-This discipline limits unnecessary research while focusing effort on genuinely decision-changing evidence. Decision-analysis research describes this as concentrating on information with high expected decision value rather than information that merely reduces curiosity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1021&amp;context=msis_faculty_pubs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarworks.umb.edu">[scholarworks.umb.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarworks.umb.edu</span><span class="citation-popover-snippet">An application of value-of-information to decision process...by J Keisler · 2009 · Cited by 9 — This meant assuring that decision makers...</span></span></span>
+This discipline limits unnecessary research while focusing effort on genuinely decision-changing evidence. Decision-analysis research describes this as concentrating on information with high expected decision value rather than information that merely reduces curiosity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1021&amp;context=msis_faculty_pubs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarworks.umb.edu">[scholarworks.umb.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarworks.umb.edu</span><span class="citation-popover-snippet">An application of value-of-information to decision process...by J Keisler · 2009 · Cited by 9 — This meant assuring that decision makers...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CEAR5Zsld6g" title="Re-Broadcast - Using PreMortem Analysis to Make Better Decisions with Gary A. Klein" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CEAR5Zsld6g" target="_blank" rel="noopener noreferrer">Re-Broadcast - Using PreMortem Analysis to Make Better Decisions with Gary A. Klein</a></p><p class="youtube-embed-meta">Channel: Red Team Thinking</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CEAR5Zsld6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CEAR5Zsld6g">Open on YouTube</a></p></div></div></div>
@@ -402,11 +402,11 @@ The value comes from preserving flexibility until the assumptions that matter mo
 <img src="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_uncertainty_checks_7da529-Illustration-3-dark.svg" | relative_url }}" alt="Uncertainty illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_uncertainty_checks_7da529-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_uncertainty_checks_7da529-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Use a pre-mortem to expose hidden uncertainty
 
-One practical technique is the pre-mortem, developed by psychologist Gary Klein. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/doc/85021339/The-Premortem-Technique" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">tion, improving scenario analysis over mere scenario development by...Read more...</span></span></span>
+One practical technique is the pre-mortem, developed by psychologist Gary Klein.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/doc/85021339/The-Premortem-Technique" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">tion, improving scenario analysis over mere scenario development by...Read more...</span></span></span>
 
 Instead of asking why a plan might fail, participants imagine that the decision has already failed spectacularly and then work backwards to explain what happened.
 
-This simple change in perspective helps overcome social pressures that discourage criticism of a favoured plan. Team members often identify concerns they would otherwise hesitate to raise because the exercise legitimises scepticism rather than treating it as opposition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review Performing a Project Premortem</span><span class="citation-popover-snippet">Harvard Business ReviewPerforming a Project PremortemSeptember 1, 2007 — Reprint: F0709A In a premortem, team members assume that the pro...</span><span class="citation-popover-meta">Published: September 1, 2007</span></span></span>
+This simple change in perspective helps overcome social pressures that discourage criticism of a favoured plan. Team members often identify concerns they would otherwise hesitate to raise because the exercise legitimises scepticism rather than treating it as opposition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review Performing a Project Premortem</span><span class="citation-popover-snippet">Harvard Business ReviewPerforming a Project PremortemSeptember 1, 2007 — Reprint: F0709A In a premortem, team members assume that the pro...</span><span class="citation-popover-meta">Published: September 1, 2007</span></span></span>
 
 The most valuable outputs are not long lists of hypothetical risks. They are the few failure explanations that reveal previously hidden assumptions which can still be tested before commitment.
 
@@ -428,7 +428,7 @@ A useful stopping rule is:
 
 </div>
 
-This principle also appears in public appraisal guidance, which emphasises proportionality: the effort spent reducing uncertainty should match the scale, complexity and irreversibility of the decision rather than seeking perfect knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">the green book 2026</span><span class="citation-popover-snippet">The Green Book (2026)5 Feb 2026 — Green Book guidance should be used proportionately. Business cases should contain sufficient detail to...</span></span></span>
+This principle also appears in public appraisal guidance, which emphasises proportionality: the effort spent reducing uncertainty should match the scale, complexity and irreversibility of the decision rather than seeking perfect knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">the green book 2026</span><span class="citation-popover-snippet">The Green Book (2026)5 Feb 2026 — Green Book guidance should be used proportionately. Business cases should contain sufficient detail to...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wi05irVpK40" title="Calculating the Value of Information with DPL Professional" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wi05irVpK40" target="_blank" rel="noopener noreferrer">Calculating the Value of Information with DPL Professional</a></p><p class="youtube-embed-meta">Channel: Syncopation Software</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wi05irVpK40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wi05irVpK40">Open on YouTube</a></p></div></div></div>
@@ -451,178 +451,178 @@ Immediately before making an irreversible decision, ask five questions:
 These questions shift attention from eliminating all uncertainty to identifying the unknowns that genuinely matter. The goal is not perfect prediction. It is ensuring that commitment follows the most important learning, rather than preceding it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which unknown could break the plan?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which unknown could break the plan?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hOZFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
-        </h4>
-        <p class="fr-book-author">By Annie Duke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hOZFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
+</h4>
+<p class="fr-book-author">By Annie Duke</p>
         
-        <p class="fr-book-desc">Directly addresses incomplete information, uncertainty, probabilities, and separating good process from lucky outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses incomplete information, uncertainty, probabilities, and separating good process from lucky outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Covers reality-testing assumptions and preparing to be wrong before a decision becomes hard to reverse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers reality-testing assumptions and preparing to be wrong before a decision becomes hard to reverse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Teaches how to identify what would change a forecast and update beliefs as evidence arrives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to identify what would change a forecast and update beliefs as evidence arrives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d6yMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d6yMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Explains how uncertainty, noise, evidence quality, and probability affect real-world judgement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how uncertainty, noise, evidence quality, and probability affect real-world judgement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Summer Flowers 100% Cotton Pink Scrub Cap Hat Surgical Doctor Theatre Nurse ODP"><img src="{{ '/assets/images/marketplace-covers/86d3746fcbd6f1f8862e.jpg' | relative_url }}" alt="Listing image for Summer Flowers 100% Cotton Pink Scrub Cap Hat Surgical Doctor Theatre Nurse ODP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">Summer Flowers 100% Cotton Pink Scrub Cap Hat Surgical Doctor Theatre Nurse ODP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for surgical scrub cap">Search <span data-ebay-domain-label>eBay.co.uk</span>: surgical scrub cap</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Summer Flowers 100% Cotton Pink Scrub Cap Hat Surgical Doctor Theatre Nurse ODP"><img src="{{ '/assets/images/marketplace-covers/86d3746fcbd6f1f8862e.jpg' | relative_url }}" alt="Listing image for Summer Flowers 100% Cotton Pink Scrub Cap Hat Surgical Doctor Theatre Nurse ODP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">Summer Flowers 100% Cotton Pink Scrub Cap Hat Surgical Doctor Theatre Nurse ODP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for surgical scrub cap">Search<span data-ebay-domain-label>eBay.co.uk</span>: surgical scrub cap</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nurses Life Toggle Scrub Cap Eye Doctor Theatre Nurse Surgical Surgeon ODP Cap"><img src="{{ '/assets/images/marketplace-covers/6ed3c955fd85a746e14e.jpg' | relative_url }}" alt="Listing image for Nurses Life Toggle Scrub Cap Eye Doctor Theatre Nurse Surgical Surgeon ODP Cap" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">Nurses Life Toggle Scrub Cap Eye Doctor Theatre Nurse Surgical Surgeon ODP Cap</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for surgical scrub cap">Search <span data-ebay-domain-label>eBay.co.uk</span>: surgical scrub cap</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nurses Life Toggle Scrub Cap Eye Doctor Theatre Nurse Surgical Surgeon ODP Cap"><img src="{{ '/assets/images/marketplace-covers/6ed3c955fd85a746e14e.jpg' | relative_url }}" alt="Listing image for Nurses Life Toggle Scrub Cap Eye Doctor Theatre Nurse Surgical Surgeon ODP Cap" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">Nurses Life Toggle Scrub Cap Eye Doctor Theatre Nurse Surgical Surgeon ODP Cap</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for surgical scrub cap">Search<span data-ebay-domain-label>eBay.co.uk</span>: surgical scrub cap</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cotton Surgical Scrub Cap Hat SurgeryTheatre Doctor Nurses Solid Unisex"><img src="{{ '/assets/images/marketplace-covers/5d0191cb5865ffc8bbbc.jpg' | relative_url }}" alt="Listing image for Cotton Surgical Scrub Cap Hat SurgeryTheatre Doctor Nurses Solid Unisex" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">Cotton Surgical Scrub Cap Hat SurgeryTheatre Doctor Nurses Solid Unisex</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for surgical scrub cap">Search <span data-ebay-domain-label>eBay.co.uk</span>: surgical scrub cap</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cotton Surgical Scrub Cap Hat SurgeryTheatre Doctor Nurses Solid Unisex"><img src="{{ '/assets/images/marketplace-covers/5d0191cb5865ffc8bbbc.jpg' | relative_url }}" alt="Listing image for Cotton Surgical Scrub Cap Hat SurgeryTheatre Doctor Nurses Solid Unisex" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">Cotton Surgical Scrub Cap Hat SurgeryTheatre Doctor Nurses Solid Unisex</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for surgical scrub cap">Search<span data-ebay-domain-label>eBay.co.uk</span>: surgical scrub cap</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="uncertainty-which-unknown-could-break-the-plan-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -638,7 +638,7 @@ These questions shift attention from eliminating all uncertainty to identifying 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -658,7 +658,7 @@ These questions shift attention from eliminating all uncertainty to identifying 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -690,7 +690,7 @@ These questions shift attention from eliminating all uncertainty to identifying 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -742,7 +742,7 @@ These questions shift attention from eliminating all uncertainty to identifying 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -787,7 +787,7 @@ These questions shift attention from eliminating all uncertainty to identifying 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -828,114 +828,114 @@ These questions shift attention from eliminating all uncertainty to identifying 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: the green book 2026  
-   Link: <a href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Green Book (2026)5 Feb 2026 — Green Book guidance should be used proportionately. Business cases should contain sufficient detail to...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Green Book (2026)5 Feb 2026 — Green Book guidance should be used proportionately. Business cases should contain sufficient detail to...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scholarworks.umb.edu  
-   Link: <a href="https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1021&amp;context=msis_faculty_pubs" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1021&amp;context=msis_faculty_pubs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An application of value-of-information to decision process...by J Keisler · 2009 · Cited by 9 — This meant assuring that decision makers...</p></details>
+   Link:<a href="https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1021&amp;context=msis_faculty_pubs" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1021&amp;context=msis_faculty_pubs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An application of value-of-information to decision process...by J Keisler · 2009 · Cited by 9 — This meant assuring that decision makers...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: green book supplementary guidance optimism bias  
-   Link: <a href="https://www.gov.uk/government/publications/green-book-supplementary-guidance-optimism-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/green-book-supplementary-guidance-optimism-bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Green Book supplementary guidance: optimism bias21 Apr 2013 — This guidance provides cost and time uplift percentages for generic project...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/green-book-supplementary-guidance-optimism-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/green-book-supplementary-guidance-optimism-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Green Book supplementary guidance: optimism bias21 Apr 2013 — This guidance provides cost and time uplift percentages for generic project...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a74dae740f0b65f61322c72/Optimism_bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74dae740f0b65f61322c72/Optimism_bias.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Green Book Guidance – Optimism BiasFor instance, high optimism bias may be acceptable for a strategic outline business case but would not...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a74dae740f0b65f61322c72/Optimism_bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74dae740f0b65f61322c72/Optimism_bias.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Green Book Guidance – Optimism BiasFor instance, high optimism bias may be acceptable for a strategic outline business case but would not...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Performing a Project PremortemThe pre-mortem, in which a group imagines that its chosen course has already failed and works backwar...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Performing a Project PremortemThe pre-mortem, in which a group imagines that its chosen course has already failed and works backwar...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/264591874_Decisionmaking_under_uncertainty_with_various_assumptions_about_available_information_IEEE_Transactions_on_Systems_Man_and_Cybernetics_14_888-900" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264591874_Decisionmaking_under_uncertainty_with_various_assumptions_about_available_information_IEEE_Transactions_on_Systems_Man_and_Cybernetics_14_888-900</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mber of alternative actions in the context of uncertainty.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/264591874_Decisionmaking_under_uncertainty_with_various_assumptions_about_available_information_IEEE_Transactions_on_Systems_Man_and_Cybernetics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264591874_Decisionmaking_under_uncertainty_with_various_assumptions_about_available_information_IEEE_Transactions_on_Systems_Man_and_Cybernetics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mber of alternative actions in the context of uncertainty.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: finance-ni.gov.uk  
    Title: Risk and optimism bias.Read more  
-   Link: <a href="https://www.finance-ni.gov.uk/articles/useful-links-developing-appraisals" target="_blank" rel="noopener noreferrer nofollow">https://www.finance-ni.gov.uk/articles/useful-links-developing-appraisals</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Useful links for developing appraisals | Department of FinanceThis page lists a number of guides to specific types of impact [assessment](&amp;#123;&amp;#123; &#x27;assessment/&#x27; | relative_url &amp;#125;&amp;#125;) i...</p></details>
+   Link:<a href="https://www.finance-ni.gov.uk/articles/useful-links-developing-appraisals" target="_blank" rel="noopener noreferrer nofollow">https://www.finance-ni.gov.uk/articles/useful-links-developing-appraisals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Useful links for developing appraisals | Department of FinanceThis page lists a number of guides to specific types of impact [assessment](&amp;#123;&amp;#123; &#x27;assessment/&#x27; | relative_url &amp;#125;&amp;#125;) i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: GOV.UK  
    Title: the green book appraisal and evaluation in central government  
-   Link: <a href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Green Book5 Feb 2026 — The Green Book is the government&#x27;s guidance on appraisal, the process of assessing the costs, benefits and risks o...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Green Book5 Feb 2026 — The Green Book is the government&#x27;s guidance on appraisal, the process of assessing the costs, benefits and risks o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hbr.org  
    Title: Harvard Business Review Performing a Project Premortem  
-   Link: <a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2007/09/performing-a-project-premortem</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewPerforming a Project PremortemSeptember 1, 2007 — Reprint: F0709A In a premortem, team members assume that the pro...</p></details>
+   Link:<a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2007/09/performing-a-project-premortem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewPerforming a Project PremortemSeptember 1, 2007 — Reprint: F0709A In a premortem, team members assume that the pro...</p></details>
    Published: September 1, 2007  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2011.00305/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2011.00305/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Constraints on Decision Making under Uncertaintyby C Lebiere · 2011 · Cited by 39 — Decision making under uncertainty can be be...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2011.00305/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2011.00305/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Constraints on Decision Making under Uncertaintyby C Lebiere · 2011 · Cited by 39 — Decision making under uncertainty can be be...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: themindcollection.com  
-   Link: <a href="https://themindcollection.com/premortem-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://themindcollection.com/premortem-analysis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Premortem Analysis: How to Anticipate FailureIt&#x27;s a method to avoid both, the regret and the failure itself. It hinges on a simple yet cr...</p></details>
+   Link:<a href="https://themindcollection.com/premortem-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://themindcollection.com/premortem-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Premortem Analysis: How to Anticipate FailureIt&#x27;s a method to avoid both, the regret and the failure itself. It hinges on a simple yet cr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theuncertaintyproject.org  
-   Link: <a href="https://www.theuncertaintyproject.org/tools/pre-mortem" target="_blank" rel="noopener noreferrer nofollow">https://www.theuncertaintyproject.org/tools/pre-mortem</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-MortemThe pre-mortem analysis is a tool intended to increase the probability of a project&#x27;s success. It is based on &#x27;prospective hind...</p></details>
+   Link:<a href="https://www.theuncertaintyproject.org/tools/pre-mortem" target="_blank" rel="noopener noreferrer nofollow">https://www.theuncertaintyproject.org/tools/pre-mortem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-MortemThe pre-mortem analysis is a tool intended to increase the probability of a project&#x27;s success. It is based on &#x27;prospective hind...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: acadmathsci.org.uk  
    Title: understanding hm treasurys green book a guide for mathematical scientists  
-   Link: <a href="https://www.acadmathsci.org.uk/2025/11/06/understanding-hm-treasurys-green-book-a-guide-for-mathematical-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.acadmathsci.org.uk/2025/11/06/understanding-hm-treasurys-green-book-a-guide-for-mathematical-scientists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding HM Treasury&#x27;s Green Book: A guide...6 Nov 2025 — The FAS&#x27;s business case followed the Five Case Model, addressing its stra...</p></details>
+   Link:<a href="https://www.acadmathsci.org.uk/2025/11/06/understanding-hm-treasurys-green-book-a-guide-for-mathematical-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.acadmathsci.org.uk/2025/11/06/understanding-hm-treasurys-green-book-a-guide-for-mathematical-scientists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding HM Treasury&#x27;s Green Book: A guide...6 Nov 2025 — The FAS&#x27;s business case followed the Five Case Model, addressing its stra...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CEAR5Zsld6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CEAR5Zsld6g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using PreMortem Analysis to Make Better Decisions with Gary...Gary Klein. Gary is the creator of PreMortem Analysis, a powerful tool des...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CEAR5Zsld6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CEAR5Zsld6g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using PreMortem Analysis to Make Better Decisions with Gary...Gary Klein. Gary is the creator of PreMortem Analysis, a powerful tool des...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: newoon.com  
    Title: the hidden power of pre mortem analysis in business development  
-   Link: <a href="https://newoon.com/the-hidden-power-of-pre-mortem-analysis-in-business-development/" target="_blank" rel="noopener noreferrer nofollow">https://newoon.com/the-hidden-power-of-pre-mortem-analysis-in-business-development/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden Power of Pre-Mortem Analysis in Business...9 Apr 2025 — A pre-mortem is a forward-looking risk assessment technique where a t...</p></details>
+   Link:<a href="https://newoon.com/the-hidden-power-of-pre-mortem-analysis-in-business-development/" target="_blank" rel="noopener noreferrer nofollow">https://newoon.com/the-hidden-power-of-pre-mortem-analysis-in-business-development/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden Power of Pre-Mortem Analysis in Business...9 Apr 2025 — A pre-mortem is a forward-looking risk assessment technique where a t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: strategy-engine.pages.dev  
-   Link: <a href="https://strategy-engine.pages.dev/chapters/chapter-27-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://strategy-engine.pages.dev/chapters/chapter-27-decision-making/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do cognitive biases distort strategic decisions, and how can you mitigate them?Read more...</p></details>
+   Link:<a href="https://strategy-engine.pages.dev/chapters/chapter-27-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://strategy-engine.pages.dev/chapters/chapter-27-decision-making/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How do cognitive biases distort strategic decisions, and how can you mitigate them?Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: get-alfred.ai  
-   Link: <a href="https://get-alfred.ai/blog/pre-mortem-technique" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/pre-mortem-technique</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pre-Mortem Technique: Gary Klein&#x27;s 30% Risk-Spotting...26 May 2026 — Gary Klein&#x27;s 2007 HBR pre-mortem improves failure prediction by...</p></details>
+   Link:<a href="https://get-alfred.ai/blog/pre-mortem-technique" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/pre-mortem-technique</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pre-Mortem Technique: Gary Klein&#x27;s 30% Risk-Spotting...26 May 2026 — Gary Klein&#x27;s 2007 HBR pre-mortem improves failure prediction by...</p></details>
    Published: May 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/85021339/The-Premortem-Technique" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/85021339/The-Premortem-Technique</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tion, improving scenario analysis over mere scenario development by...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/doc/85021339/The-Premortem-Technique" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/85021339/The-Premortem-Technique</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tion, improving scenario analysis over mere scenario development by...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Decision Analysis 2: EMV & EVPI  
-   Link: <a href="https://www.youtube.com/watch?v=tbv9E9D2BRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tbv9E9D2BRQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calculating the Value of Information with DPL Professional - YouTube Calculating the Value of Information with DPL Professional - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tbv9E9D2BRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tbv9E9D2BRQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calculating the Value of Information with DPL Professional - YouTube Calculating the Value of Information with DPL Professional - YouTube...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: turningdataintowisdom.com  
-   Link: <a href="https://www.turningdataintowisdom.com/the-decision-making-model-you-learned-is-designed-for-a-world-that-no-longer-exists/" target="_blank" rel="noopener noreferrer nofollow">https://www.turningdataintowisdom.com/the-decision-making-model-you-learned-is-designed-for-a-world-that-no-longer-exists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They fail because assumptions go unchecked. In a fast-changing world, organizations need...</p></details>
+   Link:<a href="https://www.turningdataintowisdom.com/the-decision-making-model-you-learned-is-designed-for-a-world-that-no-longer-exists/" target="_blank" rel="noopener noreferrer nofollow">https://www.turningdataintowisdom.com/the-decision-making-model-you-learned-is-designed-for-a-world-that-no-longer-exists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They fail because assumptions go unchecked. In a fast-changing world, organizations need...</p></details>

@@ -284,7 +284,7 @@ The biggest cost of a [high-stakes decision]({{ 'decision-routines/' | relative_
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_hidden_decision_cost_bb81f0-Illustration-1-dark.svg" | relative_url }}" alt="The Biggest Cost Of A High Stakes Decision illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_hidden_decision_cost_bb81f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_hidden_decision_cost_bb81f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on behavioural decision-making repeatedly shows that people systematically underestimate future costs, overestimate their ability to deliver difficult plans, and continue investing in failing choices because they focus on what has already been spent rather than what remains to be gained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK A review of optimism bias, planning fallacy, sunk cost</span><span class="citation-popover-snippet">review of optimism bias, planning fallacy, sunk cost...July 12, 2017 — This literature review provides an overview of three common cogni...</span><span class="citation-popover-meta">Published: July 12, 2017</span></span></span> The purpose of a cost check is to make those hidden losses visible before they become unavoidable.
+Research on behavioural decision-making repeatedly shows that people systematically underestimate future costs, overestimate their ability to deliver difficult plans, and continue investing in failing choices because they focus on what has already been spent rather than what remains to be gained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK A review of optimism bias, planning fallacy, sunk cost</span><span class="citation-popover-snippet">review of optimism bias, planning fallacy, sunk cost...July 12, 2017 — This literature review provides an overview of three common cogni...</span><span class="citation-popover-meta">Published: July 12, 2017</span></span></span> The purpose of a cost check is to make those hidden losses visible before they become unavoidable.
 
 ## Visible costs versus delayed costs
 
@@ -300,7 +300,7 @@ A useful cost check separates expenses into at least two categories.
 
 </div>
 
-The distinction matters because delayed costs frequently determine whether a decision succeeds. Large infrastructure projects, technology programmes and organisational change initiatives often exceed their original estimates because planners underestimate delivery complexity, risks and implementation effort while overestimating benefits. Studies of public projects consistently find cost overruns and benefit shortfalls to be common rather than exceptional, largely because of optimism bias and inaccurate forecasting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2112.03171" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Cost-Benefit Fallacy: Why Cost-Benefit Analysis Is Broken and How to Fix ItOctober 12, 2021...</span><span class="citation-popover-meta">Published: October 12, 2021</span></span></span>
+The distinction matters because delayed costs frequently determine whether a decision succeeds. Large infrastructure projects, technology programmes and organisational change initiatives often exceed their original estimates because planners underestimate delivery complexity, risks and implementation effort while overestimating benefits. Studies of public projects consistently find cost overruns and benefit shortfalls to be common rather than exceptional, largely because of optimism bias and inaccurate forecasting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2112.03171" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Cost-Benefit Fallacy: Why Cost-Benefit Analysis Is Broken and How to Fix ItOctober 12, 2021...</span><span class="citation-popover-meta">Published: October 12, 2021</span></span></span>
 
 A practical question is therefore:
 
@@ -328,7 +328,7 @@ Every major commitment excludes alternatives. Time, capital and attention cannot
 
 </div>
 
-This question is especially valuable because people naturally compare a proposal with doing nothing instead of comparing it with the best realistic alternative. Economics treats opportunity cost as the value of the next-best forgone option, not merely money spent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Opportunity_cost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Opportunity cost</span><span class="citation-popover-snippet">Opportunity cost</span></span></span>
+This question is especially valuable because people naturally compare a proposal with doing nothing instead of comparing it with the best realistic alternative. Economics treats opportunity cost as the value of the next-best forgone option, not merely money spent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Opportunity_cost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Opportunity cost</span><span class="citation-popover-snippet">Opportunity cost</span></span></span>
 
 For example:
 
@@ -413,7 +413,7 @@ Costs distributed across many people often receive less attention than costs con
 
 Several recurring categories deserve explicit checking because they are routinely underestimated.
 
-**Time cost.** People usually underestimate implementation duration, coordination effort and delays. The planning fallacy causes individuals and organisations to predict shorter completion times and lower delivery costs than experience justifies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Planning_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Planning fallacy</span><span class="citation-popover-snippet">Planning fallacy</span></span></span>
+**Time cost.** People usually underestimate implementation duration, coordination effort and delays. The planning fallacy causes individuals and organisations to predict shorter completion times and lower delivery costs than experience justifies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Planning_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Planning fallacy</span><span class="citation-popover-snippet">Planning fallacy</span></span></span>
 
 **Attention cost.** Leadership attention is limited. A major initiative often succeeds or fails according to how much senior focus it consumes rather than its financial budget.
 
@@ -423,7 +423,7 @@ Several recurring categories deserve explicit checking because they are routinel
 
 **Reputation cost.** Public failures, customer dissatisfaction or broken commitments may create losses that far exceed the original financial investment.
 
-These costs rarely disappear because they were omitted from the original business case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5125514/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat Were They Thinking?</span><span class="citation-popover-snippet">Reducing Sunk-Cost Bias in a Life...by JN Strough · 2016 · Cited by 40 — We tested interventions to reduce “sunk-cost bias,” the tendenc...</span></span></span>
+These costs rarely disappear because they were omitted from the original business case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5125514/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat Were They Thinking?</span><span class="citation-popover-snippet">Reducing Sunk-Cost Bias in a Life...by JN Strough · 2016 · Cited by 40 — We tested interventions to reduce “sunk-cost bias,” the tendenc...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_hidden_decision_cost_bb81f0-Illustration-3-dark.svg" | relative_url }}" alt="The Biggest Cost Of A High Stakes Decision illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_hidden_decision_cost_bb81f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_hidden_decision_cost_bb81f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -431,7 +431,7 @@ These costs rarely disappear because they were omitted from the original busines
 
 One of the most damaging hidden decision losses occurs after commitment rather than before it.
 
-Once people have invested money, effort or reputation, they often continue investing because abandoning the project feels like admitting the original investment was wasted. Behavioural research calls this the sunk-cost fallacy or escalation of commitment. Instead of asking whether future investment still makes sense, people become influenced by irrecoverable past expenditure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5125514/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat Were They Thinking?</span><span class="citation-popover-snippet">Reducing Sunk-Cost Bias in a Life...by JN Strough · 2016 · Cited by 40 — We tested interventions to reduce “sunk-cost bias,” the tendenc...</span></span></span>
+Once people have invested money, effort or reputation, they often continue investing because abandoning the project feels like admitting the original investment was wasted. Behavioural research calls this the sunk-cost fallacy or escalation of commitment. Instead of asking whether future investment still makes sense, people become influenced by irrecoverable past expenditure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5125514/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat Were They Thinking?</span><span class="citation-popover-snippet">Reducing Sunk-Cost Bias in a Life...by JN Strough · 2016 · Cited by 40 — We tested interventions to reduce “sunk-cost bias,” the tendenc...</span></span></span>
 
 This bias can produce a second layer of hidden costs:
 
@@ -448,7 +448,7 @@ to:
 
 > "Knowing what we know today, would we begin this project now?"
 
-If the answer is no, previous expenditure should not justify further commitment. That principle is central to economic decision-making and is supported by decades of behavioural research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Opportunity_cost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Opportunity cost</span><span class="citation-popover-snippet">Opportunity cost</span></span></span>
+If the answer is no, previous expenditure should not justify further commitment. That principle is central to economic decision-making and is supported by decades of behavioural research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Opportunity_cost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Opportunity cost</span><span class="citation-popover-snippet">Opportunity cost</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jJajz9n9Oi4" title="Sunk Cost Fallacy: Not Knowing When It’s Time to Stop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jJajz9n9Oi4" target="_blank" rel="noopener noreferrer">Sunk Cost Fallacy: Not Knowing When It’s Time to Stop</a></p><p class="youtube-embed-meta">Channel: Sprouts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jJajz9n9Oi4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jJajz9n9Oi4">Open on YouTube</a></p></div></div></div>
@@ -467,178 +467,178 @@ A short set of questions often reveals losses that conventional budgeting overlo
 None of these questions predicts the future perfectly. Their value lies in widening the frame before commitment. High-stakes decisions become safer not because every risk disappears, but because important costs are recognised while they are still choices rather than consequences.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What will this decision really cost?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What will this decision really cost?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hOZFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
-        </h4>
-        <p class="fr-book-author">By Annie Duke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hOZFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
+</h4>
+<p class="fr-book-author">By Annie Duke</p>
         
-        <p class="fr-book-desc">Helps readers separate decision quality from outcomes and think more clearly about downside, odds, and uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers separate decision quality from outcomes and think more clearly about downside, odds, and uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Covers hidden costs, narrow framing, opportunity costs, and reality-testing before irreversible commitments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers hidden costs, narrow framing, opportunity costs, and reality-testing before irreversible commitments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational, Revised and Expanded Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ro7X8HRyuEIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Predictably Irrational, Revised and Expanded Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational, Revised and Expanded Edition">Predictably Irrational, Revised and Expanded Edition</a>
-        </h4>
-        <p class="fr-book-author">By Dan Ariely</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how people misjudge costs, value, incentives, and trade-offs in ways that can distort major choices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational, Revised and Expanded Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ro7X8HRyuEIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Predictably Irrational, Revised and Expanded Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational, Revised and Expanded Edition">Predictably Irrational, Revised and Expanded Edition</a>
+</h4>
+<p class="fr-book-author">By Dan Ariely</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
+<p class="fr-book-desc">Explains how people misjudge costs, value, incentives, and trade-offs in ways that can distort major choices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Includes concise discussions of sunk cost, opportunity cost, overconfidence, and other traps behind hidden decision costs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes concise discussions of sunk cost, opportunity cost, overconfidence, and other traps behind hidden decision costs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Predictably Irrational, Revised and Expanded Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Predictably Irrational, Revised and Expanded Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk"><img src="{{ '/assets/images/marketplace-covers/c49e531cf1863fd785b7.jpg' | relative_url }}" alt="Listing image for Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk"><img src="{{ '/assets/images/marketplace-covers/c49e531cf1863fd785b7.jpg' | relative_url }}" alt="Listing image for Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder"><img src="{{ '/assets/images/marketplace-covers/ed40463974a57f4e909b.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder"><img src="{{ '/assets/images/marketplace-covers/ed40463974a57f4e909b.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Office Desk Organizer Stationary Storage Tabletop Storage Case Tidy Gift"><img src="{{ '/assets/images/marketplace-covers/88f092023edcf90cc68b.jpg' | relative_url }}" alt="Listing image for Wooden Office Desk Organizer Stationary Storage Tabletop Storage Case Tidy Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Wooden Office Desk Organizer Stationary Storage Tabletop Storage Case Tidy Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Office Desk Organizer Stationary Storage Tabletop Storage Case Tidy Gift"><img src="{{ '/assets/images/marketplace-covers/88f092023edcf90cc68b.jpg' | relative_url }}" alt="Listing image for Wooden Office Desk Organizer Stationary Storage Tabletop Storage Case Tidy Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Wooden Office Desk Organizer Stationary Storage Tabletop Storage Case Tidy Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="the-biggest-cost-of-a-high-stakes-what-will-this-decision-really-cost-improving-your-think-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -654,7 +654,7 @@ None of these questions predicts the future perfectly. Their value lies in widen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -674,7 +674,7 @@ None of these questions predicts the future perfectly. Their value lies in widen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -706,7 +706,7 @@ None of these questions predicts the future perfectly. Their value lies in widen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -758,7 +758,7 @@ None of these questions predicts the future perfectly. Their value lies in widen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -803,7 +803,7 @@ None of these questions predicts the future perfectly. Their value lies in widen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -844,110 +844,110 @@ None of these questions predicts the future perfectly. Their value lies in widen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK A review of optimism bias, planning fallacy, sunk cost  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>review of optimism bias, planning fallacy, sunk cost...July 12, 2017 — This literature review provides an overview of three common cogni...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>review of optimism bias, planning fallacy, sunk cost...July 12, 2017 — This literature review provides an overview of three common cogni...</p></details>
    Published: July 12, 2017  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhat Were They Thinking?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5125514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5125514/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing Sunk-Cost Bias in a Life...by JN Strough · 2016 · Cited by 40 — We tested interventions to reduce “sunk-cost bias,” the tendenc...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5125514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5125514/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing Sunk-Cost Bias in a Life...by JN Strough · 2016 · Cited by 40 — We tested interventions to reduce “sunk-cost bias,” the tendenc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Planning fallacy  
-   Link: <a href="https://en.wikipedia.org/wiki/Planning_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Planning_fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Planning_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Planning_fallacy</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2112.03171" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2112.03171</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cost-Benefit Fallacy: Why Cost-Benefit Analysis Is Broken and How to Fix ItOctober 12, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2112.03171" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2112.03171</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cost-Benefit Fallacy: Why Cost-Benefit Analysis Is Broken and How to Fix ItOctober 12, 2021...</p></details>
    Published: October 12, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Planning Fallacy or Hiding Hand: Which Is the Better Explanation?  
-   Link: <a href="https://arxiv.org/abs/1802.09999" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.09999</a>  
+   Link:<a href="https://arxiv.org/abs/1802.09999" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.09999</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Opportunity cost  
-   Link: <a href="https://en.wikipedia.org/wiki/Opportunity_cost" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Opportunity_cost</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Opportunity_cost" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Opportunity_cost</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Escalation of commitment  
-   Link: <a href="https://en.wikipedia.org/wiki/Escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Escalation_of_commitment</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Escalation_of_commitment</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Sunk cost  
-   Link: <a href="https://en.wikipedia.org/wiki/Sunk_cost" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sunk_cost</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sunk costIn economics and business decision-making, a sunk cost (also known as retrospective cost) is a cost that has already been inc...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sunk_cost" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sunk_cost</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sunk costIn economics and business decision-making, a sunk cost (also known as retrospective cost) is a cost that has already been inc...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/the-sunk-cost-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/the-sunk-cost-fallacy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sunk Cost FallacyThe sunk cost fallacy is our tendency to follow through with something that we&#x27;ve already invested heavily in (be it...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/the-sunk-cost-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/the-sunk-cost-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sunk Cost FallacyThe sunk cost fallacy is our tendency to follow through with something that we&#x27;ve already invested heavily in (be it...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/iamshjay/posts/caught-in-the-trap-of-[sunk-costs" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iamshjay/posts/caught-in-the-trap-of-[sunk-costs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caught in the trap of sunk costs? Sunk-Cost FallacyThe sunk cost fallacy is a cognitive bias that influences decision-making, where indiv...</p></details>
+   Link:<a href="https://www.facebook.com/iamshjay/posts/caught-in-the-trap-of-[sunk-costs" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iamshjay/posts/caught-in-the-trap-of-[sunk-costs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caught in the trap of sunk costs? Sunk-Cost FallacyThe sunk cost fallacy is a cognitive bias that influences decision-making, where indiv...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: warwick.ac.uk  
-   Link: <a href="https://warwick.ac.uk/fac/soc/economics/staff/dsgroi/evaluating_the_sunk_cost_effect.pdf" target="_blank" rel="noopener noreferrer nofollow">https://warwick.ac.uk/fac/soc/economics/staff/dsgroi/evaluating_the_sunk_cost_effect.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating the Sunk Cost EffectThe sunk cost effect is one of the most well-known biases in decision making. Our work ad- vances the iden...</p></details>
+   Link:<a href="https://warwick.ac.uk/fac/soc/economics/staff/dsgroi/evaluating_the_sunk_cost_effect.pdf" target="_blank" rel="noopener noreferrer nofollow">https://warwick.ac.uk/fac/soc/economics/staff/dsgroi/evaluating_the_sunk_cost_effect.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating the Sunk Cost EffectThe sunk cost effect is one of the most well-known biases in decision making. Our work ad- vances the iden...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/364368242_Sunk_Cost_Bias_in_Decision_Making_Empirical_Evidence_on_Capital_Expenditure_in_Mergers_and_Acquisitions_Deals" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364368242_Sunk_Cost_Bias_in_Decision_Making_Empirical_Evidence_on_Capital_Expenditure_in_Mergers_and_Acquisitions_Deals</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sunk Cost Bias in Decision Making: Empirical Evidence on...19 Oct 2022 — We do not find a standard sunk cost bias, but observe a robust...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/364368242_Sunk_Cost_Bias_in_Decision_Making_Empirical_Evidence_on_Capital_Expenditure_in_Mergers_and_Acquisitions_Deals" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364368242_Sunk_Cost_Bias_in_Decision_Making_Empirical_Evidence_on_Capital_Expenditure_in_Mergers_and_Acquisitions_Deals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sunk Cost Bias in Decision Making: Empirical Evidence on...19 Oct 2022 — We do not find a standard sunk cost bias, but observe a robust...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: How Sunk Cost Bias & Behavior Finance Biases Sabotage Smart Decision Making  
-   Link: <a href="https://www.youtube.com/watch?v=zGwEw8nR8CQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zGwEw8nR8CQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden costs decision making optimism bias cost overruns Execution Doesn’t Kill Projects. Early Decisions Do...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zGwEw8nR8CQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zGwEw8nR8CQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden costs decision making optimism bias cost overruns Execution Doesn’t Kill Projects. Early Decisions Do...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: leadershipiq.com  
    Title: the sunk cost fallacy  
-   Link: <a href="https://www.leadershipiq.com/blogs/leadershipiq/the-sunk-cost-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.leadershipiq.com/blogs/leadershipiq/the-sunk-cost-fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Dec 2025 — The fallacy lies in allowing irrecoverable past investments to influence decisions about future [outcomes](&amp;#123;&amp;#123; &#x27;outcomes/&#x27; | relative_url &amp;#125;&amp;#125;), when rational dec...</p></details>
+   Link:<a href="https://www.leadershipiq.com/blogs/leadershipiq/the-sunk-cost-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.leadershipiq.com/blogs/leadershipiq/the-sunk-cost-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Dec 2025 — The fallacy lies in allowing irrecoverable past investments to influence decisions about future [outcomes](&amp;#123;&amp;#123; &#x27;outcomes/&#x27; | relative_url &amp;#125;&amp;#125;), when rational dec...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: asana.com  
-   Link: <a href="https://asana.com/resources/sunk-cost-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://asana.com/resources/sunk-cost-fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sunk Cost Fallacy: Definition, Examples, How to Avoid [2025]The sunk cost fallacy is our tendency to continue with something we&#x27;ve invest...</p></details>
+   Link:<a href="https://asana.com/resources/sunk-cost-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://asana.com/resources/sunk-cost-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sunk Cost Fallacy: Definition, Examples, How to Avoid [2025]The sunk cost fallacy is our tendency to continue with something we&#x27;ve invest...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Sunk Cost Fallacy: Not Knowing When It’s Time to Stop  
-   Link: <a href="https://www.youtube.com/watch?v=jJajz9n9Oi4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jJajz9n9Oi4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Sunk Cost Bias &amp; Behavior Finance Biases Sabotage Smart Decision Making...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jJajz9n9Oi4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jJajz9n9Oi4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Sunk Cost Bias &amp; Behavior Finance Biases Sabotage Smart Decision Making...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Execution Doesn’t Kill Projects. Early Decisions Do  
-   Link: <a href="https://www.youtube.com/watch?v=TL-XWz3s9pg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TL-XWz3s9pg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opportunity Cost: The Hidden Cost of Everything...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TL-XWz3s9pg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TL-XWz3s9pg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Opportunity Cost: The Hidden Cost of Everything...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: How Big Things Get Done with Prof Bent Flyvbjerg  
-   Link: <a href="https://www.youtube.com/watch?v=yUEycqrCuIY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yUEycqrCuIY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Execution Doesn’t Kill Projects. Early Decisions Do...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yUEycqrCuIY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yUEycqrCuIY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Execution Doesn’t Kill Projects. Early Decisions Do...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Opportunity Cost: The Hidden Cost of Everything  
-   Link: <a href="https://www.youtube.com/watch?v=BQQ1HFobVPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BQQ1HFobVPQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sunk Cost Fallacy: Not Knowing When It’s Time to Stop...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BQQ1HFobVPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BQQ1HFobVPQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sunk Cost Fallacy: Not Knowing When It’s Time to Stop...</p></details>

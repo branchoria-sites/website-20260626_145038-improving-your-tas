@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_re
 
 ## Introduction
 
-When a forecast matters, the most persuasive story is often the least reliable evidence. Teams naturally focus on the distinctive features of their own project, investment or strategy—the *inside view*. Reference classes provide an *[outside view]({{ 'outside-view/' | relative_url }})*: instead of asking only whether *this* plan looks convincing, they ask what actually happened to a sufficiently similar set of completed cases. The resulting base rates do not eliminate judgement, but they make it much harder to ignore recurring patterns of delay, cost escalation, failure or unexpected success. Research by Daniel Kahneman, Amos Tversky and later Bent Flyvbjerg has shown that this approach can substantially reduce optimism bias, particularly in major projects where conventional forecasts repeatedly prove too favourable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmi.org/learning/library/nobel-project-management-reference-class-forecasting-8068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmi.org">[Project Management Institute+2IDEAS/RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmi.org</span><span class="citation-popover-snippet">Project Management InstituteFrom Nobel Prize to project managementReference class forecasting promises more accuracy in forecasts by taki...</span></span></span>
+When a forecast matters, the most persuasive story is often the least reliable evidence. Teams naturally focus on the distinctive features of their own project, investment or strategy—the *inside view*. Reference classes provide an *[outside view]({{ 'outside-view/' | relative_url }})*: instead of asking only whether *this* plan looks convincing, they ask what actually happened to a sufficiently similar set of completed cases. The resulting base rates do not eliminate judgement, but they make it much harder to ignore recurring patterns of delay, cost escalation, failure or unexpected success. Research by Daniel Kahneman, Amos Tversky and later Bent Flyvbjerg has shown that this approach can substantially reduce optimism bias, particularly in major projects where conventional forecasts repeatedly prove too favourable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmi.org/learning/library/nobel-project-management-reference-class-forecasting-8068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmi.org">[Project Management Institute+2IDEAS/RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmi.org</span><span class="citation-popover-snippet">Project Management InstituteFrom Nobel Prize to project managementReference class forecasting promises more accuracy in forecasts by taki...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_reference_class_fore_cd7842-Illustration-1-dark.svg" | relative_url }}" alt="Base Rates illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_reference_class_fore_cd7842-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_reference_class_fore_cd7842-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -297,7 +297,7 @@ The outside view starts elsewhere. It asks:
 
 Rather than treating the present project as unique, the outside view begins with historical distributions and only then considers whether there is convincing evidence that the current case genuinely differs.
 
-Kahneman and Tversky proposed this logic as a way to counter the planning fallacy—the tendency to underestimate costs, completion times and risks even when similar projects have repeatedly overrun. Flyvbjerg later applied the idea systematically to infrastructure forecasting, where decades of evidence showed recurring optimism in cost and schedule estimates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmi.org/learning/library/nobel-project-management-reference-class-forecasting-8068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmi.org">[Project Management Institute+2IDEAS/RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmi.org</span><span class="citation-popover-snippet">Project Management InstituteFrom Nobel Prize to project managementReference class forecasting promises more accuracy in forecasts by taki...</span></span></span>
+Kahneman and Tversky proposed this logic as a way to counter the planning fallacy—the tendency to underestimate costs, completion times and risks even when similar projects have repeatedly overrun. Flyvbjerg later applied the idea systematically to infrastructure forecasting, where decades of evidence showed recurring optimism in cost and schedule estimates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmi.org/learning/library/nobel-project-management-reference-class-forecasting-8068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmi.org">[Project Management Institute+2IDEAS/RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmi.org</span><span class="citation-popover-snippet">Project Management InstituteFrom Nobel Prize to project managementReference class forecasting promises more accuracy in forecasts by taki...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6bvtMRHlJN8" title="Why You Always Think Tasks Will Take Less Time Than They Do (Planning Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6bvtMRHlJN8" target="_blank" rel="noopener noreferrer">Why You Always Think Tasks Will Take Less Time Than They Do (Planning Fallacy)</a></p><p class="youtube-embed-meta">Channel: Ojorka</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6bvtMRHlJN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6bvtMRHlJN8">Open on YouTube</a></p></div></div></div>
@@ -316,7 +316,7 @@ Useful comparison classes usually share several important characteristics:
 
 For example, forecasting the construction time for a new urban rail line should rely primarily on completed urban rail projects with similar procurement arrangements, not on all transport infrastructure or all construction work.
 
-The challenge is that every project belongs to many possible categories. Statisticians call this the *reference class problem*: different comparison groups may produce different base rates, so selecting the most informative class requires careful reasoning rather than mechanical matching. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Reference_class_problem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reference class problem</span><span class="citation-popover-snippet">Reference class problem</span></span></span>
+The challenge is that every project belongs to many possible categories. Statisticians call this the *reference class problem*: different comparison groups may produce different base rates, so selecting the most informative class requires careful reasoning rather than mechanical matching.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Reference_class_problem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reference class problem</span><span class="citation-popover-snippet">Reference class problem</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/feV4OPj2wvQ" title="Reference Class Forecasting: Mastering Project Budgeting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=feV4OPj2wvQ" target="_blank" rel="noopener noreferrer">Reference Class Forecasting: Mastering Project Budgeting</a></p><p class="youtube-embed-meta">Channel: Neurofied</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=feV4OPj2wvQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=feV4OPj2wvQ">Open on YouTube</a></p></div></div></div>
@@ -325,9 +325,9 @@ The challenge is that every project belongs to many possible categories. Statist
 
 The value of reference classes comes from repeated empirical patterns rather than isolated anecdotes.
 
-Large transport infrastructure projects provided some of the earliest practical tests. Flyvbjerg's work found systematic underestimation of costs and schedules across many completed projects, leading to the development of reference class forecasting methods that adjust forecasts using observed historical distributions instead of relying solely on project-specific estimates. These methods have since been incorporated into project governance guidance in several jurisdictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.repec.org/a/taf/eurpls/v16y2006i1p3-21.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS/RePEc+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v16y2006i1p3 21</span><span class="citation-popover-snippet">First, the paper documents that inaccurate...Read more...</span></span></span>
+Large transport infrastructure projects provided some of the earliest practical tests. Flyvbjerg's work found systematic underestimation of costs and schedules across many completed projects, leading to the development of reference class forecasting methods that adjust forecasts using observed historical distributions instead of relying solely on project-specific estimates. These methods have since been incorporated into project governance guidance in several jurisdictions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.repec.org/a/taf/eurpls/v16y2006i1p3-21.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS/RePEc+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v16y2006i1p3 21</span><span class="citation-popover-snippet">First, the paper documents that inaccurate...Read more...</span></span></span>
 
-One notable application occurred in Hong Kong, where researchers developed reference classes for major road projects by comparing local outcomes with hundreds of international projects. Rather than producing a single "best guess", the method estimated [probabilities]({{ 'probabilities/' | relative_url }}) of different cost and schedule outcomes, allowing decision-makers to choose contingency levels that matched their tolerance for risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/1710.09419" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Bent Flyvbjerg, Chi-keung Hon, and Wing Huen Fok, 2016by B Flyvbjerg · 2017 · Cited by 77 — Reference Class Forecasting (RCF) is a m...</span></span></span>
+One notable application occurred in Hong Kong, where researchers developed reference classes for major road projects by comparing local outcomes with hundreds of international projects. Rather than producing a single "best guess", the method estimated [probabilities]({{ 'probabilities/' | relative_url }}) of different cost and schedule outcomes, allowing decision-makers to choose contingency levels that matched their tolerance for risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/1710.09419" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Bent Flyvbjerg, Chi-keung Hon, and Wing Huen Fok, 2016by B Flyvbjerg · 2017 · Cited by 77 — Reference Class Forecasting (RCF) is a m...</span></span></span>
 
 The broader lesson extends beyond construction. Whether evaluating product launches, technology deployments or organisational change programmes, historical outcome distributions often reveal recurring patterns that individual planning teams overlook.
 
@@ -356,7 +356,7 @@ Suppose similar software migrations historically exceeded schedules by around 30
 
 ## Common mistakes when using reference classes
 
-Reference class forecasting(#endnote-2 "Endnote 2") is powerful, but it is not automatic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reference_class_problem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reference class problem</span><span class="citation-popover-snippet">Reference class problem</span></span></span>
+Reference class forecasting(#endnote-2 "Endnote 2") is powerful, but it is not automatic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reference_class_problem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reference class problem</span><span class="citation-popover-snippet">Reference class problem</span></span></span>
 
 Frequent errors include:
 
@@ -366,7 +366,7 @@ Frequent errors include:
 * **Ignoring the spread of outcomes.** Average performance alone hides the probability of unusually good or bad results.
 * **Treating the outside view as deterministic.** Base rates describe probabilities, not certainties.
 
-Recent reviews of the method emphasise that defining similarity remains one of its hardest practical problems. Researchers increasingly argue for more transparent and evidence-based selection of comparison classes rather than relying on intuition alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/09537287.2025.2578708" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineReference class forecasting: promises, problems, and a...by CC Cantarelli · 2025 · Cited by 7 — Kahneman and Tver...</span></span></span>
+Recent reviews of the method emphasise that defining similarity remains one of its hardest practical problems. Researchers increasingly argue for more transparent and evidence-based selection of comparison classes rather than relying on intuition alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/09537287.2025.2578708" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineReference class forecasting: promises, problems, and a...by CC Cantarelli · 2025 · Cited by 7 — Kahneman and Tver...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kyh8Juyl_pQ" title="What is Reference Class Forecasting | Explained in 2 min" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kyh8Juyl_pQ" target="_blank" rel="noopener noreferrer">What is Reference Class Forecasting | Explained in 2 min</a></p><p class="youtube-embed-meta">Channel: Productivity Guy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kyh8Juyl_pQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kyh8Juyl_pQ">Open on YouTube</a></p></div></div></div>
@@ -390,197 +390,197 @@ The strongest decisions combine both perspectives. The inside view explains *why
 
 Reference classes introduce disciplined scepticism into forecasting. They challenge the natural tendency to believe that careful planning, talented teams or exceptional circumstances guarantee exceptional outcomes. By anchoring forecasts in observed experience before adjusting for genuine differences, they reduce the influence of optimism bias and encourage decisions that are calibrated to how comparable situations have actually unfolded.
 
-In [high-stakes decisions]({{ 'decision-routines/' | relative_url }}), that shift from persuasive stories to historical base rates often matters more than making the forecast marginally more sophisticated. It changes the central question from *"Why will our plan succeed?"* to *"What usually happens when people attempt something like this, and what evidence justifies expecting a different result?"* <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmi.org/learning/library/nobel-project-management-reference-class-forecasting-8068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmi.org">[Project Management Institute+2IDEAS/RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmi.org</span><span class="citation-popover-snippet">Project Management InstituteFrom Nobel Prize to project managementReference class forecasting promises more accuracy in forecasts by taki...</span></span></span>
+In [high-stakes decisions]({{ 'decision-routines/' | relative_url }}), that shift from persuasive stories to historical base rates often matters more than making the forecast marginally more sophisticated. It changes the central question from *"Why will our plan succeed?"* to *"What usually happens when people attempt something like this, and what evidence justifies expecting a different result?"*<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmi.org/learning/library/nobel-project-management-reference-class-forecasting-8068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmi.org">[Project Management Institute+2IDEAS/RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmi.org</span><span class="citation-popover-snippet">Project Management InstituteFrom Nobel Prize to project managementReference class forecasting promises more accuracy in forecasts by taki...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What happened when others tried this?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What happened when others tried this?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Directly teaches base rates, outside-view thinking, updating beliefs, and disciplined comparison.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly teaches base rates, outside-view thinking, updating beliefs, and disciplined comparison.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Big Things Get Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kmyTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Big Things Get Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Big Things Get Done">How Big Things Get Done</a>
-        </h4>
-        <p class="fr-book-author">By Bent Flyvbjerg, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Big Things Get Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kmyTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Big Things Get Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Big Things Get Done">How Big Things Get Done</a>
+</h4>
+<p class="fr-book-author">By Bent Flyvbjerg, Dan Gardner</p>
         
-        <p class="fr-book-desc">Centres on reference-class forecasting, planning fallacy, cost overruns, and learning from comparable projects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centres on reference-class forecasting, planning fallacy, cost overruns, and learning from comparable projects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Introduces the inside view, outside view, optimism bias, and judgement errors in forecasting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces the inside view, outside view, optimism bias, and judgement errors in forecasting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d6yMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d6yMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Explores why forecasts fail, how evidence should be weighed, and how uncertainty should be represented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why forecasts fail, how evidence should be weighed, and how uncertainty should be represented.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Big+Things+Get+Done&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Big Things Get Done</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Big+Things+Get+Done&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Big Things Get Done</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adult Joke Dice Decision Maker Stocking Filler Party Bag Birthday Wedding Favour"><img src="https://i.ebayimg.com/images/g/nMQAAOSw7NNUGFVJ/s-l225.jpg" alt="Listing image for Adult Joke Dice Decision Maker Stocking Filler Party Bag Birthday Wedding Favour" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Adult Joke Dice Decision Maker Stocking Filler Party Bag Birthday Wedding Favour</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adult Joke Dice Decision Maker Stocking Filler Party Bag Birthday Wedding Favour"><img src="https://i.ebayimg.com/images/g/nMQAAOSw7NNUGFVJ/s-l225.jpg" alt="Listing image for Adult Joke Dice Decision Maker Stocking Filler Party Bag Birthday Wedding Favour" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Adult Joke Dice Decision Maker Stocking Filler Party Bag Birthday Wedding Favour</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Joke Decision Maker Dice - Pack of 10 - Christmas Birthday Prank Dad Present"><img src="https://i.ebayimg.com/images/g/AqIAAeSwo9hpiJzB/s-l225.jpg" alt="Listing image for Joke Decision Maker Dice - Pack of 10 - Christmas Birthday Prank Dad Present" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Joke Decision Maker Dice - Pack of 10 - Christmas Birthday Prank Dad Present</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Joke Decision Maker Dice - Pack of 10 - Christmas Birthday Prank Dad Present"><img src="https://i.ebayimg.com/images/g/AqIAAeSwo9hpiJzB/s-l225.jpg" alt="Listing image for Joke Decision Maker Dice - Pack of 10 - Christmas Birthday Prank Dad Present" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Joke Decision Maker Dice - Pack of 10 - Christmas Birthday Prank Dad Present</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Date Night Dice Game for Couples - Fun Decision Maker - Includes Bag"><img src="https://i.ebayimg.com/images/g/fWYAAeSwBXRp61Vz/s-l225.jpg" alt="Listing image for Date Night Dice Game for Couples - Fun Decision Maker - Includes Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Date Night Dice Game for Couples - Fun Decision Maker - Includes Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Date Night Dice Game for Couples - Fun Decision Maker - Includes Bag"><img src="https://i.ebayimg.com/images/g/fWYAAeSwBXRp61Vz/s-l225.jpg" alt="Listing image for Date Night Dice Game for Couples - Fun Decision Maker - Includes Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Date Night Dice Game for Couples - Fun Decision Maker - Includes Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fitness Decision Maker Dice Set for Workout Enthusiasts"><img src="https://i.ebayimg.com/images/g/y6wAAeSwz99ocHYw/s-l225.jpg" alt="Listing image for Fitness Decision Maker Dice Set for Workout Enthusiasts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Fitness Decision Maker Dice Set for Workout Enthusiasts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fitness Decision Maker Dice Set for Workout Enthusiasts"><img src="https://i.ebayimg.com/images/g/y6wAAeSwz99ocHYw/s-l225.jpg" alt="Listing image for Fitness Decision Maker Dice Set for Workout Enthusiasts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Fitness Decision Maker Dice Set for Workout Enthusiasts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-when-others-tried-this-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-happened-when-others-tried-this-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -596,7 +596,7 @@ In [high-stakes decisions]({{ 'decision-routines/' | relative_url }}), that shif
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -616,7 +616,7 @@ In [high-stakes decisions]({{ 'decision-routines/' | relative_url }}), that shif
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -648,7 +648,7 @@ In [high-stakes decisions]({{ 'decision-routines/' | relative_url }}), that shif
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -700,7 +700,7 @@ In [high-stakes decisions]({{ 'decision-routines/' | relative_url }}), that shif
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -745,7 +745,7 @@ In [high-stakes decisions]({{ 'decision-routines/' | relative_url }}), that shif
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -786,134 +786,134 @@ In [high-stakes decisions]({{ 'decision-routines/' | relative_url }}), that shif
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ideas.repec.org  
    Title: v16y2006i1p3 21  
-   Link: <a href="https://ideas.repec.org/a/taf/eurpls/v16y2006i1p3-21.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/taf/eurpls/v16y2006i1p3-21.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First, the paper documents that inaccurate...Read more...</p></details>
+   Link:<a href="https://ideas.repec.org/a/taf/eurpls/v16y2006i1p3-21.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/taf/eurpls/v16y2006i1p3-21.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, the paper documents that inaccurate...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Reference class problem  
-   Link: <a href="https://en.wikipedia.org/wiki/Reference_class_problem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reference_class_problem</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Reference_class_problem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reference_class_problem</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/1302.3642" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1302.3642</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Nobel Prize to Project Management: Getting Risks...by B Flyvbjerg · 2013 · Cited by 826 — Reference class forecasting was originall...</p></details>
+   Link:<a href="https://arxiv.org/pdf/1302.3642" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1302.3642</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Nobel Prize to Project Management: Getting Risks...by B Flyvbjerg · 2013 · Cited by 826 — Reference class forecasting was originall...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/1710.09419" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1710.09419</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bent Flyvbjerg, Chi-keung Hon, and Wing Huen Fok, 2016by B Flyvbjerg · 2017 · Cited by 77 — Reference Class Forecasting (RCF) is a m...</p></details>
+   Link:<a href="https://arxiv.org/pdf/1710.09419" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1710.09419</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bent Flyvbjerg, Chi-keung Hon, and Wing Huen Fok, 2016by B Flyvbjerg · 2017 · Cited by 77 — Reference Class Forecasting (RCF) is a m...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Reference Class Forecasting for Hong Kong's Major Roadworks Projects  
-   Link: <a href="https://arxiv.org/abs/1710.09419" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1710.09419</a>  
+   Link:<a href="https://arxiv.org/abs/1710.09419" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1710.09419</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Uniqueness Bias: Why It Matters, How to Curb It  
-   Link: <a href="https://arxiv.org/abs/2408.07710" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.07710</a>  
+   Link:<a href="https://arxiv.org/abs/2408.07710" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.07710</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Reference class forecasting  
-   Link: <a href="https://en.wikipedia.org/wiki/Reference_class_forecasting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reference_class_forecasting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference class forecastingReference class forecasting or comparison class forecasting is a method of predicting the future by looking...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Reference_class_forecasting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reference_class_forecasting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reference class forecastingReference class forecasting or comparison class forecasting is a method of predicting the future by looking...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: What is Reference Class Forecasting  
-   Link: <a href="https://www.youtube.com/watch?v=Kyh8Juyl_pQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kyh8Juyl_pQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Class Forecasting: Mastering Project Budgeting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Kyh8Juyl_pQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kyh8Juyl_pQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Class Forecasting: Mastering Project Budgeting...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Reference Class Forecasting: Mastering Project Budgeting  
-   Link: <a href="https://www.youtube.com/watch?v=feV4OPj2wvQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=feV4OPj2wvQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Planning Fallacy: Why You Always Underestimate How Long Everything Takes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=feV4OPj2wvQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=feV4OPj2wvQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Planning Fallacy: Why You Always Underestimate How Long Everything Takes...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmi.org  
-   Link: <a href="https://www.pmi.org/learning/library/nobel-project-management-reference-class-forecasting-8068" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/learning/library/nobel-project-management-reference-class-forecasting-8068</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Management InstituteFrom Nobel Prize to project managementReference class forecasting promises more accuracy in forecasts by taki...</p></details>
+   Link:<a href="https://www.pmi.org/learning/library/nobel-project-management-reference-class-forecasting-8068" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/learning/library/nobel-project-management-reference-class-forecasting-8068</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Management InstituteFrom Nobel Prize to project managementReference class forecasting promises more accuracy in forecasts by taki...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09537287.2025.2578708" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09537287.2025.2578708</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineReference class forecasting: promises, problems, and a...by CC Cantarelli · 2025 · Cited by 7 — Kahneman and Tver...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/09537287.2025.2578708" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09537287.2025.2578708</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineReference class forecasting: promises, problems, and a...by CC Cantarelli · 2025 · Cited by 7 — Kahneman and Tver...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: projectmanagement.com  
    Title: reference class forecasting depends on how you define similar  
-   Link: <a href="https://www.projectmanagement.com/blog-post/79682/reference-class-forecasting-depends-on-how-you-define--similar-" target="_blank" rel="noopener noreferrer nofollow">https://www.projectmanagement.com/blog-post/79682/reference-class-forecasting-depends-on-how-you-define--similar-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Class Forecasting Depends on How You Define...6 May 2026 — Reference Class Forecasting (RCF), popularized by Bent Flyvbjerg, i...</p></details>
+   Link:<a href="https://www.projectmanagement.com/blog-post/79682/reference-class-forecasting-depends-on-how-you-define--similar-" target="_blank" rel="noopener noreferrer nofollow">https://www.projectmanagement.com/blog-post/79682/reference-class-forecasting-depends-on-how-you-define--similar-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Class Forecasting Depends on How You Define...6 May 2026 — Reference Class Forecasting (RCF), popularized by Bent Flyvbjerg, i...</p></details>
    Published: May 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cenex.au  
    Title: Reference Class Forecasting & Optimism Bias  
-   Link: <a href="https://cenex.au/risk/reference-class-forecasting.html" target="_blank" rel="noopener noreferrer nofollow">https://cenex.au/risk/reference-class-forecasting.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference class forecasting answers optimism bias with the “outside view”: instead of trusting the plan in front of you, you anchor...</p></details>
+   Link:<a href="https://cenex.au/risk/reference-class-forecasting.html" target="_blank" rel="noopener noreferrer nofollow">https://cenex.au/risk/reference-class-forecasting.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reference class forecasting answers optimism bias with the “outside view”: instead of trusting the plan in front of you, you anchor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: apm.org.uk  
    Title: Bent Flyvbjerg, as optimism bias  
-   Link: <a href="https://www.apm.org.uk/news/reference-class-forecasting-useful-method-or-random-number-generator-webinar/" target="_blank" rel="noopener noreferrer nofollow">https://www.apm.org.uk/news/reference-class-forecasting-useful-method-or-random-number-generator-webinar/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Class Forecasting - useful method, or random...11 Oct 2023 — Reference Class Forecasting (RCF) as a method to predict uncertai...</p></details>
+   Link:<a href="https://www.apm.org.uk/news/reference-class-forecasting-useful-method-or-random-number-generator-webinar/" target="_blank" rel="noopener noreferrer nofollow">https://www.apm.org.uk/news/reference-class-forecasting-useful-method-or-random-number-generator-webinar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Class Forecasting - useful method, or random...11 Oct 2023 — Reference Class Forecasting (RCF) as a method to predict uncertai...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: citethisforme.com  
-   Link: <a href="https://www.citethisforme.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.citethisforme.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cite This For Me: Harvard, APA, MLA Reference GeneratorAutomatic works cited and bibliography formatting for MLA, APA and Chicago/Turabia...</p></details>
+   Link:<a href="https://www.citethisforme.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.citethisforme.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cite This For Me: Harvard, APA, MLA Reference GeneratorAutomatic works cited and bibliography formatting for MLA, APA and Chicago/Turabia...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribbr.com  
-   Link: <a href="https://www.scribbr.com/citation/generator/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/citation/generator/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Citation Generator | APA, MLA, ChicagoGenerate citations in APA, MLA, Chicago, and Harvard style with Scribbr&#x27;s free Citation Genera...</p></details>
+   Link:<a href="https://www.scribbr.com/citation/generator/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/citation/generator/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free Citation Generator | APA, MLA, ChicagoGenerate citations in APA, MLA, Chicago, and Harvard style with Scribbr&#x27;s free Citation Genera...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mybib.com  
-   Link: <a href="https://www.mybib.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.mybib.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A New FREE APA, Harvard, &amp; MLA Citation GeneratorMyBib creates accurate citations automatically for books, journals, websites, an...</p></details>
+   Link:<a href="https://www.mybib.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.mybib.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New FREE APA, Harvard, &amp; MLA Citation GeneratorMyBib creates accurate citations automatically for books, journals, websites, an...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/flyvbjerg_reducing-risks-in-megaprojects-the-potential-activity-7132215991085756416-Vepr" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/flyvbjerg_reducing-risks-in-megaprojects-the-potential-activity-7132215991085756416-Vepr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prof. Bent Flyvbjerg&#x27;s PostThe first full literature review of reference class forecasting is now available: &quot;Reducing risks in megaproje...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/flyvbjerg_reducing-risks-in-megaprojects-the-potential-activity-7132215991085756416-Vepr" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/flyvbjerg_reducing-risks-in-megaprojects-the-potential-activity-7132215991085756416-Vepr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prof. Bent Flyvbjerg&#x27;s PostThe first full literature review of reference class forecasting is now available: &quot;Reducing risks in megaproje...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: corporate.jasoncollins.blog  
-   Link: <a href="https://corporate.jasoncollins.blog/outside-view" target="_blank" rel="noopener noreferrer nofollow">https://corporate.jasoncollins.blog/outside-view</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>jasoncollins.blog23 The outside view – Course notes...The planning fallacy is the tendency of people to underestimate the completion tim...</p></details>
+   Link:<a href="https://corporate.jasoncollins.blog/outside-view" target="_blank" rel="noopener noreferrer nofollow">https://corporate.jasoncollins.blog/outside-view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>jasoncollins.blog23 The outside view – Course notes...The planning fallacy is the tendency of people to underestimate the completion tim...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/100937/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/100937/html/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2008. &#x27;Curbing optimism bias and strategic misrepresentation in planning: Reference class forecasting in practice&#x27;, European Planning Stu...</p></details>
+   Link:<a href="https://committees.parliament.uk/writtenevidence/100937/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/100937/html/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2008. &#x27;Curbing optimism bias and strategic misrepresentation in planning: Reference class forecasting in practice&#x27;, European Planning Stu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/233258056_Curbing_Optimism_Bias_and_Strategic_Misrepresentation_in_Planning_Reference_Class_Forecasting_in_Practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233258056_Curbing_Optimism_Bias_and_Strategic_Misrepresentation_in_Planning_Reference_Class_Forecasting_in_Practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lass forecasting in planning practice.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/233258056_Curbing_Optimism_Bias_and_Strategic_Misrepresentation_in_Planning_Reference_Class_Forecasting_in_Practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233258056_Curbing_Optimism_Bias_and_Strategic_Misrepresentation_in_Planning_Reference_Class_Forecasting_in_Practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lass forecasting in planning practice.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: How Big Things Get Done with Prof Bent Flyvbjerg  
-   Link: <a href="https://www.youtube.com/watch?v=yUEycqrCuIY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yUEycqrCuIY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Reference Class Forecasting | Explained in 2 min - YouTube What is Reference Class Forecasting | Explained in 2 min - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yUEycqrCuIY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yUEycqrCuIY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Reference Class Forecasting | Explained in 2 min - YouTube What is Reference Class Forecasting | Explained in 2 min - YouTube...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dspace.lib.cranfield.ac.uk  
-   Link: <a href="https://dspace.lib.cranfield.ac.uk/server/api/core/bitstreams/076d9c29-659d-4bfd-9b1b-e0019ea9ad20/content" target="_blank" rel="noopener noreferrer nofollow">https://dspace.lib.cranfield.ac.uk/server/api/core/bitstreams/076d9c29-659d-4bfd-9b1b-e0019ea9ad20/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>class forecasting: promises, problems, and a...by CC Cantarelli · Cited by 7 — Reference Class Forecasting (RCF) has emerged as a promin...</p></details>
+   Link:<a href="https://dspace.lib.cranfield.ac.uk/server/api/core/bitstreams/076d9c29-659d-4bfd-9b1b-e0019ea9ad20/content" target="_blank" rel="noopener noreferrer nofollow">https://dspace.lib.cranfield.ac.uk/server/api/core/bitstreams/076d9c29-659d-4bfd-9b1b-e0019ea9ad20/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>class forecasting: promises, problems, and a...by CC Cantarelli · Cited by 7 — Reference Class Forecasting (RCF) has emerged as a promin...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: The Planning Fallacy: Why You Always Underestimate How Long Everything Takes  
-   Link: <a href="https://www.youtube.com/watch?v=6bvtMRHlJN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6bvtMRHlJN8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Reasons Your Schedule Always Slips...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6bvtMRHlJN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6bvtMRHlJN8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Reasons Your Schedule Always Slips...</p></details>

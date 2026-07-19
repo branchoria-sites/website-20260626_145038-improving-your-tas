@@ -280,13 +280,13 @@ image: /assets/images/improving_your_think_da4710_lateral_reading_afeebc_search_
 
 ## Introduction
 
-Looking up a doubtful claim on the web is often recommended as a sensible fact-checking habit. However, research now shows that searching is not automatically protective. Under some conditions, searching for evidence can make false claims seem *more* believable because search results may surface many low-quality pages repeating the same rumour, creating the impression of independent confirmation. This matters for [lateral reading]({{ 'lateral-reading/' | relative_url }}) because the goal is not simply to open more tabs, but to find genuinely independent and authoritative evidence rather than counting how many pages appear to agree. Recent studies suggest that search is most reliable when users pay attention to *where* information comes from, not merely whether they can find multiple mentions of the claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 176 — We present consistent evidence that...</span></span></span>
+Looking up a doubtful claim on the web is often recommended as a sensible fact-checking habit. However, research now shows that searching is not automatically protective. Under some conditions, searching for evidence can make false claims seem *more* believable because search results may surface many low-quality pages repeating the same rumour, creating the impression of independent confirmation. This matters for [lateral reading]({{ 'lateral-reading/' | relative_url }}) because the goal is not simply to open more tabs, but to find genuinely independent and authoritative evidence rather than counting how many pages appear to agree. Recent studies suggest that search is most reliable when users pay attention to *where* information comes from, not merely whether they can find multiple mentions of the claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 176 — We present consistent evidence that...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6-Illustration-1-dark.svg" | relative_url }}" alt="Search Backfire illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How data voids create false corroboration
 
-One of the clearest demonstrations of this problem comes from a series of experiments published in *Nature*. Researchers asked participants to judge the truthfulness of news stories, with some participants encouraged to search online before making their judgement. Contrary to expectations, searching increased belief in false stories across multiple experiments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 176 — We present consistent evidence that...</span></span></span>
+One of the clearest demonstrations of this problem comes from a series of experiments published in *Nature*. Researchers asked participants to judge the truthfulness of news stories, with some participants encouraged to search online before making their judgement. Contrary to expectations, searching increased belief in false stories across multiple experiments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 176 — We present consistent evidence that...</span></span></span>
 
 The researchers traced much of this effect to what they called **data voids**. A data void is an area of the web where reliable information is sparse but low-quality content is plentiful. This often happens with:
 
@@ -301,9 +301,9 @@ The researchers traced much of this effect to what they called **data voids**. A
 
 </div>
 
-When people search these topics, search engines may retrieve numerous pages that repeat the same unsupported story. Although these pages are not truly independent, their sheer number can create the illusion that the claim has been widely verified. The result is **false corroboration**—apparent agreement that comes from repetition rather than [independent evidence]({{ 'evidence-routes/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 176 — We present consistent evidence that...</span></span></span>
+When people search these topics, search engines may retrieve numerous pages that repeat the same unsupported story. Although these pages are not truly independent, their sheer number can create the illusion that the claim has been widely verified. The result is **false corroboration**—apparent agreement that comes from repetition rather than [independent evidence]({{ 'evidence-routes/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 176 — We present consistent evidence that...</span></span></span>
 
-Importantly, the research found that the effect was strongest for users whose searches returned lower-quality sources. This suggests that the problem is not searching itself, but searching within an information environment dominated by poor evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 176 — We present consistent evidence that...</span></span></span>
+Importantly, the research found that the effect was strongest for users whose searches returned lower-quality sources. This suggests that the problem is not searching itself, but searching within an information environment dominated by poor evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 176 — We present consistent evidence that...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G6gG3UGes1Y" title="Can We Rebuild Trust in the Information Environment?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G6gG3UGes1Y" target="_blank" rel="noopener noreferrer">Can We Rebuild Trust in the Information Environment?</a></p><p class="youtube-embed-meta">Channel: NYU&#x27;s Center for Social Media and Politics</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G6gG3UGes1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G6gG3UGes1Y">Open on YouTube</a></p></div></div></div>
@@ -312,14 +312,14 @@ Importantly, the research found that the effect was strongest for users whose se
 
 Human judgement is influenced not only by evidence but also by familiarity. Psychologists refer to this as the **illusory truth effect**: repeated statements become easier to process mentally, and that increased fluency can make them feel more credible even when they are false.
 
-Experiments by Gordon Pennycook, David Rand and colleagues found that even a single previous exposure to fake news headlines increased later perceptions of their accuracy. The effect persisted after a week and appeared even when headlines had previously been labelled as disputed or conflicted with participants' political views. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 2009 — We show that even a single exposure in...</span></span></span>
+Experiments by Gordon Pennycook, David Rand and colleagues found that even a single previous exposure to fake news headlines increased later perceptions of their accuracy. The effect persisted after a week and appeared even when headlines had previously been labelled as disputed or conflicted with participants' political views.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 2009 — We show that even a single exposure in...</span></span></span>
 
 Searching online can unintentionally amplify this mechanism in two ways.
 
 * First, a search exposes users to multiple versions of the same claim across different websites.
 * Second, each repeated encounter increases familiarity, making later evaluations feel more intuitive even though the underlying evidence has not improved.
 
-Crucially, ten websites repeating the same rumour do not constitute ten independent pieces of evidence. Many pages copy one another, quote the same original post, or rely on a single unverified source. Counting webpages rather than tracing evidence creates a misleading sense of consensus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 2009 — We show that even a single exposure in...</span></span></span>
+Crucially, ten websites repeating the same rumour do not constitute ten independent pieces of evidence. Many pages copy one another, quote the same original post, or rely on a single unverified source. Counting webpages rather than tracing evidence creates a misleading sense of consensus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 2009 — We show that even a single exposure in...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6-Illustration-2-dark.svg" | relative_url }}" alt="Search Backfire illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -338,7 +338,7 @@ This changes the task from collecting agreement to evaluating evidence quality.
 
 A practical example illustrates the difference. Suppose a search returns twenty blogs repeating a sensational medical claim and one review from a recognised medical authority explaining why the evidence is weak. Simply counting pages suggests broad agreement with the rumour. Source-aware searching instead recognises that the twenty blogs are not independent evidence, whereas the expert review summarises the underlying research.
 
-Professional fact-checkers similarly use lateral reading to investigate publishers, organisations and evidence chains rather than remaining within a cluster of pages discussing the same claim. Studies of lateral reading show that this habit can be taught and substantially improves people's ability to judge online credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review+2SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Lateral reading: College students learn to critically</span><span class="citation-popover-snippet">Misinformation ReviewLateral reading: College students learn to critically...February 23, 2021 — 23 Feb 2021 — A small body of research...</span><span class="citation-popover-meta">Published: February 23, 2021</span></span></span>
+Professional fact-checkers similarly use lateral reading to investigate publishers, organisations and evidence chains rather than remaining within a cluster of pages discussing the same claim. Studies of lateral reading show that this habit can be taught and substantially improves people's ability to judge online credibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review+2SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Lateral reading: College students learn to critically</span><span class="citation-popover-snippet">Misinformation ReviewLateral reading: College students learn to critically...February 23, 2021 — 23 Feb 2021 — A small body of research...</span><span class="citation-popover-meta">Published: February 23, 2021</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jIj_XSBZAFM" title="Ep 82: Josh Tucker on the Complex Truth About Social Media" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jIj_XSBZAFM" target="_blank" rel="noopener noreferrer">Ep 82: Josh Tucker on the Complex Truth About Social Media</a></p><p class="youtube-embed-meta">Channel: Events Artha</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jIj_XSBZAFM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jIj_XSBZAFM">Open on YouTube</a></p></div></div></div>
@@ -350,200 +350,200 @@ Professional fact-checkers similarly use lateral reading to investigate publishe
 
 The recent evidence slightly changes the common advice to "just Google it." Searching can improve understanding when reliable sources dominate the results, but it can also strengthen misinformation when search results are saturated with copied rumours or low-quality pages.
 
-For practical fact-checking, the safest approach is to treat search as a way to locate **better evidence**, not simply **more mentions**. Rather than stopping after seeing apparent agreement across multiple websites, ask whether those sites represent independent reporting, primary evidence, recognised expertise or merely repeated versions of the same unsupported story. That distinction lies at the heart of effective lateral reading and helps prevent online searches from turning repetition into false confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2MPG Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 176 — We present consistent evidence that...</span></span></span>
+For practical fact-checking, the safest approach is to treat search as a way to locate **better evidence**, not simply **more mentions**. Rather than stopping after seeing apparent agreement across multiple websites, ask whether those sites represent independent reporting, primary evidence, recognised expertise or merely repeated versions of the same unsupported story. That distinction lies at the heart of effective lateral reading and helps prevent online searches from turning repetition into false confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2MPG Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 176 — We present consistent evidence that...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6-Illustration-3-dark.svg" | relative_url }}" alt="Search Backfire illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When looking it up makes misinformation stronger. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When looking it up makes misinformation stronger. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Shows how misinformation spreads and how to evaluate evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how misinformation spreads and how to evaluate evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Teaches careful evaluation of repeated claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches careful evaluation of repeated claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Counters misleading impressions from repeated information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Counters misleading impressions from repeated information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Explores how reliable knowledge survives misinformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how reliable knowledge survives misinformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistician - Funny Nutritional Facts - Statistics Expert Mug"><img src="{{ '/assets/images/marketplace-covers/39e3c64527c23f043d24.jpg' | relative_url }}" alt="Listing image for Statistician - Funny Nutritional Facts - Statistics Expert Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Statistician - Funny Nutritional Facts - Statistics Expert Mug</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistician - Funny Nutritional Facts - Statistics Expert Mug"><img src="{{ '/assets/images/marketplace-covers/39e3c64527c23f043d24.jpg' | relative_url }}" alt="Listing image for Statistician - Funny Nutritional Facts - Statistics Expert Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Statistician - Funny Nutritional Facts - Statistics Expert Mug</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee White Ceramic Cup"><img src="{{ '/assets/images/marketplace-covers/65c6cb3bba73772ad832.jpg' | relative_url }}" alt="Listing image for Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee White Ceramic Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee White Ceramic Cup</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee White Ceramic Cup"><img src="{{ '/assets/images/marketplace-covers/65c6cb3bba73772ad832.jpg' | relative_url }}" alt="Listing image for Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee White Ceramic Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee White Ceramic Cup</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistics Humor Mug Normal Distribution Math Science Gift"><img src="{{ '/assets/images/marketplace-covers/e1f90bc297cb8735e7d7.jpg' | relative_url }}" alt="Listing image for Statistics Humor Mug Normal Distribution Math Science Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Statistics Humor Mug Normal Distribution Math Science Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistics Humor Mug Normal Distribution Math Science Gift"><img src="{{ '/assets/images/marketplace-covers/e1f90bc297cb8735e7d7.jpg' | relative_url }}" alt="Listing image for Statistics Humor Mug Normal Distribution Math Science Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Statistics Humor Mug Normal Distribution Math Science Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee Yellow Ceramic Cup"><img src="{{ '/assets/images/marketplace-covers/83458b70f34370d39c24.jpg' | relative_url }}" alt="Listing image for Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee Yellow Ceramic Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee Yellow Ceramic Cup</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee Yellow Ceramic Cup"><img src="{{ '/assets/images/marketplace-covers/83458b70f34370d39c24.jpg' | relative_url }}" alt="Listing image for Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee Yellow Ceramic Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">Data Analyst Mug - Novelty IT Statistics Gift Tea/Coffee Yellow Ceramic Cup</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics mug" data-ebay-reference="search-backfire-when-looking-it-up-makes-misinformation-stronger-improving-your-think-statistics-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ For practical fact-checking, the safest approach is to treat search as a way to 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ For practical fact-checking, the safest approach is to treat search as a way to 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ For practical fact-checking, the safest approach is to treat search as a way to 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ For practical fact-checking, the safest approach is to treat search as a way to 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ For practical fact-checking, the safest approach is to treat search as a way to 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,110 +749,110 @@ For practical fact-checking, the safest approach is to treat search as a way to 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06883-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 176 — We present consistent evidence that...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06883-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 176 — We present consistent evidence that...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: files-mis.mpg.de  
    Title: D4.2 SoMe4Dem  
-   Link: <a href="https://files-www.mis.mpg.de/mpi-typo3/SoMe4Dem/Deliverables/D4.2_SoMe4Dem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files-www.mis.mpg.de/mpi-typo3/SoMe4Dem/Deliverables/D4.2_SoMe4Dem.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MPG FilesBoosting media literacy using lateral reading and online...by L Oswald · 2025 · Cited by 1 — However, recent evidence demonstra...</p></details>
+   Link:<a href="https://files-www.mis.mpg.de/mpi-typo3/SoMe4Dem/Deliverables/D4.2_SoMe4Dem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files-www.mis.mpg.de/mpi-typo3/SoMe4Dem/Deliverables/D4.2_SoMe4Dem.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MPG FilesBoosting media literacy using lateral reading and online...by L Oswald · 2025 · Cited by 1 — However, recent evidence demonstra...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10794132/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10794132/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>searches to evaluate misinformation can increase its...by K Aslett · 2023 · Cited by 176 — We present consistent evidence that online se...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10794132/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10794132/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>searches to evaluate misinformation can increase its...by K Aslett · 2023 · Cited by 176 — We present consistent evidence that online se...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 2009 — We show that even a single exposure in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 2009 — We show that even a single exposure in...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 88 — The Internet has democratized access to informatio...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 88 — The Internet has democratized access to informatio...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2958246" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2958246</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposure Increases Perceived Accuracy of Fake Newsby G Pennycook · 2018 · Cited by 2008 — We show that even a single exposure increases s...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2958246" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2958246</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposure Increases Perceived Accuracy of Fake Newsby G Pennycook · 2018 · Cited by 2008 — We show that even a single exposure increases s...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: Misinformation Review Lateral reading: College students learn to critically  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewLateral reading: College students learn to critically...February 23, 2021 — 23 Feb 2021 — A small body of research...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewLateral reading: College students learn to critically...February 23, 2021 — 23 Feb 2021 — A small body of research...</p></details>
    Published: February 23, 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8224890/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8224890/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of individuals&#x27; belief in fake news: A scoping...by K Bryanov · 2021 · Cited by 304 — In this scoping review, we summarize the results o...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8224890/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8224890/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of individuals&#x27; belief in fake news: A scoping...by K Bryanov · 2021 · Cited by 304 — In this scoping review, we summarize the results o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dadun.unav.edu  
-   Link: <a href="https://dadun.unav.edu/server/api/core/bitstreams/75296a69-6ac4-45b2-8018-8280e7781b66/content" target="_blank" rel="noopener noreferrer nofollow">https://dadun.unav.edu/server/api/core/bitstreams/75296a69-6ac4-45b2-8018-8280e7781b66/content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Lies: The Impact of Fact-Checking on...by I Larraz · 2024 · Cited by 13 — Abstract. The rise of repeated false claims within po...</p></details>
+   Link:<a href="https://dadun.unav.edu/server/api/core/bitstreams/75296a69-6ac4-45b2-8018-8280e7781b66/content" target="_blank" rel="noopener noreferrer nofollow">https://dadun.unav.edu/server/api/core/bitstreams/75296a69-6ac4-45b2-8018-8280e7781b66/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Lies: The Impact of Fact-Checking on...by I Larraz · 2024 · Cited by 13 — Abstract. The rise of repeated false claims within po...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376684904_Online_searches_to_evaluate_misinformation_can_increase_its_perceived_veracity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376684904_Online_searches_to_evaluate_misinformation_can_increase_its_perceived_veracity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Online searches to evaluate misinformation can...20 Dec 2023 — We present consistent evidence that online search to evaluate the t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376684904_Online_searches_to_evaluate_misinformation_can_increase_its_perceived_veracity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376684904_Online_searches_to_evaluate_misinformation_can_increase_its_perceived_veracity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Online searches to evaluate misinformation can...20 Dec 2023 — We present consistent evidence that online search to evaluate the t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: law.stanford.edu  
    Title: online searches to evaluate misinformation can increase its perceived veracity  
-   Link: <a href="https://law.stanford.edu/publications/online-searches-to-evaluate-misinformation-can-increase-its-perceived-veracity/" target="_blank" rel="noopener noreferrer nofollow">https://law.stanford.edu/publications/online-searches-to-evaluate-misinformation-can-increase-its-perceived-veracity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>searches to evaluate misinformation can increase its...20 Dec 2023 — We present consistent evidence that online search to evaluate the t...</p></details>
+   Link:<a href="https://law.stanford.edu/publications/online-searches-to-evaluate-misinformation-can-increase-its-perceived-veracity/" target="_blank" rel="noopener noreferrer nofollow">https://law.stanford.edu/publications/online-searches-to-evaluate-misinformation-can-increase-its-perceived-veracity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>searches to evaluate misinformation can increase its...20 Dec 2023 — We present consistent evidence that online search to evaluate the t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: <a href="https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
+   Link:<a href="https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
    Title: 317069544 Prior Exposure Increases Perceived Accuracy of Fake News  
-   Link: <a href="https://www.researchgate.net/publication/317069544_Prior_Exposure_Increases_Perceived_Accuracy_of_Fake_News" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317069544_Prior_Exposure_Increases_Perceived_Accuracy_of_Fake_News</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prior Exposure Increases Perceived Accuracy of Fake News9 Feb 2026 — Using actual fake news headlines presented as they were seen on Face...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/317069544_Prior_Exposure_Increases_Perceived_Accuracy_of_Fake_News" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317069544_Prior_Exposure_Increases_Perceived_Accuracy_of_Fake_News</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prior Exposure Increases Perceived Accuracy of Fake News9 Feb 2026 — Using actual fake news headlines presented as they were seen on Face...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2227-7080/12/11/222" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7080/12/11/222</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News Detection Revisited: An Extensive Review of...by S Harris · 2024 · Cited by 51 — This review evaluates the available datasets...</p></details>
+   Link:<a href="https://www.mdpi.com/2227-7080/12/11/222" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7080/12/11/222</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News Detection Revisited: An Extensive Review of...by S Harris · 2024 · Cited by 51 — This review evaluates the available datasets...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mit.eduStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
+   Link:<a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mit.eduStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Tech Policy Press  
    Title: new research suggests online search can increase belief in misinformation  
-   Link: <a href="https://techpolicy.press/new-research-suggests-online-search-can-increase-belief-in-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/new-research-suggests-online-search-can-increase-belief-in-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Research Suggests Online Search Can Increase...20 Dec 2023 — Thus, the overarching finding suggests that online searches to evaluate...</p></details>
+   Link:<a href="https://techpolicy.press/new-research-suggests-online-search-can-increase-belief-in-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/new-research-suggests-online-search-can-increase-belief-in-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Research Suggests Online Search Can Increase...20 Dec 2023 — Thus, the overarching finding suggests that online searches to evaluate...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Can We Rebuild Trust in the Information Environment?  
-   Link: <a href="https://www.youtube.com/watch?v=G6gG3UGes1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G6gG3UGes1Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This video discussion features the executive director of NYU&#x27;s Center for Social Media and Politics as they examine the critical intersec...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G6gG3UGes1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G6gG3UGes1Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This video discussion features the executive director of NYU&#x27;s Center for Social Media and Politics as they examine the critical intersec...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Doing your own research can actually make you believe in misinformation further!  
-   Link: <a href="https://www.youtube.com/watch?v=s0OVy8HsX_U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s0OVy8HsX_U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of Search Engines in the Age of AI...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s0OVy8HsX_U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s0OVy8HsX_U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of Search Engines in the Age of AI...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Ep 82: Josh Tucker on the Complex Truth About Social Media  
-   Link: <a href="https://www.youtube.com/watch?v=jIj_XSBZAFM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jIj_XSBZAFM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond Facebook and Twitter: The Impact of New and Niche Platforms...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jIj_XSBZAFM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jIj_XSBZAFM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond Facebook and Twitter: The Impact of New and Niche Platforms...</p></details>

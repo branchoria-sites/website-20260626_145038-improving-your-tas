@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710-expert/
 description: Focused pages that expand on Expert Gut.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: improving_your_think_da4710_expert_intuition_73d438
 parent_title: Expert Gut
@@ -16,7 +16,7 @@ parent_permalink: /expert-gut/
 
 # Explore Topics in Expert Gut
 
-The following pages expand on the main **[Expert Gut]({{ '/expert-gut/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Expert Gut]({{ '/expert-gut/' | relative_url }})** page and cover its key branches in.
 
 - [Stats vs Experts]({{ '/stats-vs-experts/' | relative_url }})
 - [Chess Patterns]({{ '/chess-patterns/' | relative_url }})

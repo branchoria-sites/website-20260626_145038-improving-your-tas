@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_domain_knowledge_96a03e_expert
 
 ## Introduction
 
-One of the clearest differences between experts and novices is not how much they know, but how they organise what they know. Experts tend to classify problems by the underlying principles that determine the solution, whereas novices are more likely to group them by obvious surface features such as familiar objects, settings or vocabulary. This difference matters because good analysis depends on identifying which aspects of a situation are causally important and which are merely incidental. Research from cognitive science shows that expert knowledge is organised around meaningful conceptual structures rather than disconnected facts, allowing experts to recognise when very different-looking problems are actually the same problem in disguise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0502_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryCategorization and Representation of Physics Problems by...The representation of physics problems in relation to the...</span></span></span>
+One of the clearest differences between experts and novices is not how much they know, but how they organise what they know. Experts tend to classify problems by the underlying principles that determine the solution, whereas novices are more likely to group them by obvious surface features such as familiar objects, settings or vocabulary. This difference matters because good analysis depends on identifying which aspects of a situation are causally important and which are merely incidental. Research from cognitive science shows that expert knowledge is organised around meaningful conceptual structures rather than disconnected facts, allowing experts to recognise when very different-looking problems are actually the same problem in disguise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0502_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryCategorization and Representation of Physics Problems by...The representation of physics problems in relation to the...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_expert_problem_sorti_603ec7-Illustration-1-dark.svg" | relative_url }}" alt="Expert Sorting illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_expert_problem_sorti_603ec7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_expert_problem_sorti_603ec7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -311,11 +311,11 @@ Across these examples, expertise involves recognising the variables that genuine
 
 The classic study by Michelene Chi, Paul Feltovich and Robert Glaser remains one of the most influential demonstrations of this phenomenon. Participants were given introductory physics problems and asked to sort them into groups according to similarity.
 
-The results showed a striking contrast. Physics novices tended to create categories based on visible characteristics such as "inclined plane problems" or "pulley problems". Physics experts instead grouped problems according to the physical laws required for solution, such as conservation of momentum or energy conservation, even when the problems looked superficially different. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0502_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryCategorization and Representation of Physics Problems by...The representation of physics problems in relation to the...</span></span></span>
+The results showed a striking contrast. Physics novices tended to create categories based on visible characteristics such as "inclined plane problems" or "pulley problems". Physics experts instead grouped problems according to the physical laws required for solution, such as conservation of momentum or energy conservation, even when the problems looked superficially different.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0502_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryCategorization and Representation of Physics Problems by...The representation of physics problems in relation to the...</span></span></span>
 
 Importantly, the study was not primarily about solving the problems correctly. It examined how participants *represented* the problems before attempting a solution. The findings suggested that experts build an internal representation organised around abstract concepts, allowing them to retrieve appropriate methods efficiently. Novices, lacking this conceptual organisation, are more likely to search for familiar-looking examples instead.
 
-Subsequent research has broadly supported the idea that categorising by deep structure is a hallmark of developing expertise, while also showing that expertise exists on a continuum rather than as a simple expert–novice divide. Studies with larger groups of physics students have found considerable variation among learners, with some advanced students already showing principle-based categorisation well before reaching expert level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1602.08781" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Assessing Expertise in Introductory Physics Using Categorization Task</span><span class="citation-popover-snippet">Assessing Expertise in Introductory Physics Using Categorization TaskFebruary 28, 2016...</span><span class="citation-popover-meta">Published: February 28, 2016</span></span></span>
+Subsequent research has broadly supported the idea that categorising by deep structure is a hallmark of developing expertise, while also showing that expertise exists on a continuum rather than as a simple expert–novice divide. Studies with larger groups of physics students have found considerable variation among learners, with some advanced students already showing principle-based categorisation well before reaching expert level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1602.08781" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Assessing Expertise in Introductory Physics Using Categorization Task</span><span class="citation-popover-snippet">Assessing Expertise in Introductory Physics Using Categorization TaskFebruary 28, 2016...</span><span class="citation-popover-meta">Published: February 28, 2016</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_expert_problem_sorti_603ec7-Illustration-2-dark.svg" | relative_url }}" alt="Expert Sorting illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_expert_problem_sorti_603ec7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_expert_problem_sorti_603ec7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -335,7 +335,7 @@ This shift produces several analytical advantages.
 
 **It guides evidence collection.** Once the relevant principle has been identified, experts know which observations are informative and which measurements are unlikely to change the conclusion.
 
-Research synthesised in *How People Learn* argues that expert knowledge is not merely larger in quantity. It is organised around key concepts and is "conditionalised"—linked to an understanding of when particular principles apply and when they do not. This conditional organisation helps experts avoid applying familiar ideas in inappropriate situations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asu.elsevierpure.com/en/publications/categorization-and-representation-of-physics-problems-by-experts-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asu.elsevierpure.com">[Arizona State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asu.elsevierpure.com</span><span class="citation-popover-title">categorization and representation of physics problems by experts</span><span class="citation-popover-snippet">Arizona State UniversityCategorization and representation of physics problems by...by MTH Chi · 1981 · Cited by 9591 — The representatio...</span></span></span>
+Research synthesised in *How People Learn* argues that expert knowledge is not merely larger in quantity. It is organised around key concepts and is "conditionalised"—linked to an understanding of when particular principles apply and when they do not. This conditional organisation helps experts avoid applying familiar ideas in inappropriate situations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asu.elsevierpure.com/en/publications/categorization-and-representation-of-physics-problems-by-experts-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asu.elsevierpure.com">[Arizona State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asu.elsevierpure.com</span><span class="citation-popover-title">categorization and representation of physics problems by experts</span><span class="citation-popover-snippet">Arizona State UniversityCategorization and representation of physics problems by...by MTH Chi · 1981 · Cited by 9591 — The representatio...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jZ_C6MNryfI" title="Experts vs Novices" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jZ_C6MNryfI" target="_blank" rel="noopener noreferrer">Experts vs Novices</a></p><p class="youtube-embed-meta">Channel: TCU Psychology of Thinking and Learning</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jZ_C6MNryfI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jZ_C6MNryfI">Open on YouTube</a></p></div></div></div>
@@ -368,201 +368,201 @@ Finally, explain why a chosen principle applies. Being able to justify the class
 
 The ability to sort problems by deeper principles is not a specialised trick unique to physics. It reflects a broader characteristic of expert thinking: knowledge becomes organised around explanatory structures instead of isolated examples.
 
-As [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) grows, people become better at identifying which features of a problem are genuinely informative. They stop treating every new case as unique and instead recognise recurring mechanisms beneath changing appearances. This is one reason why experts often seem to "see" a different problem from the one visible to a beginner. They are not noticing more details; they are noticing which details matter.
+As [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) grows, people become better at identifying which features of a problem are genuinely informative. They stop treating every new case as unique and instead recognise recurring mechanisms beneath changing appearances. This is one reason why experts often seem to "see" a different problem from the one visible to a beginner. They are not noticing; they are noticing which details matter.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s5Qb20lBTe0" title="The Architecture of Thought: Mapping the Mental Lexicon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s5Qb20lBTe0" target="_blank" rel="noopener noreferrer">The Architecture of Thought: Mapping the Mental Lexicon</a></p><p class="youtube-embed-meta">Channel: ThoughtLab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s5Qb20lBTe0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s5Qb20lBTe0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Experts See Different Problems. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Experts See Different Problems. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+People+Learn+by+Committee+on+Developments+in+the+Science+of+Learning+with+additional+material+from+the+Committee+on+Learning+Research+and+Educational+Practice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How People Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yYlbW7-Eu1UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How People Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+People+Learn+by+Committee+on+Developments+in+the+Science+of+Learning+with+additional+material+from+the+Committee+on+Learning+Research+and+Educational+Practice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How People Learn">How People Learn</a>
-        </h4>
-        <p class="fr-book-author">By Committee on Developments in the Science of Learning with additional material from the Committee on Learning Research and Educational Practice, Board on Behavioral, Cognitive, and Sensory Sciences et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+People+Learn+by+Committee+on+Developments+in+the+Science+of+Learning+with+additional+material+from+the+Committee+on+Learning+Research+and+Educational+Practice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How People Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yYlbW7-Eu1UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How People Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+People+Learn+by+Committee+on+Developments+in+the+Science+of+Learning+with+additional+material+from+the+Committee+on+Learning+Research+and+Educational+Practice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How People Learn">How People Learn</a>
+</h4>
+<p class="fr-book-author">By Committee on Developments in the Science of Learning with additional material from the Committee on Learning Research and Educational Practice, Board on Behavioral, Cognitive, and Sensory Sciences et al.</p>
         
-        <p class="fr-book-desc">Explains how experts organize knowledge around deep conceptual structures rather than surface features.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+People+Learn+by+Committee+on+Developments+in+the+Science+of+Learning+with+additional+material+from+the+Committee+on+Learning+Research+and+Educational+Practice&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how experts organize knowledge around deep conceptual structures rather than surface features.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+People+Learn+by+Committee+on+Developments+in+the+Science+of+Learning+with+additional+material+from+the+Committee+on+Learning+Research+and+Educational+Practice&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o9AeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
-        </h4>
-        <p class="fr-book-author">By Anders Ericsson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o9AeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
+</h4>
+<p class="fr-book-author">By Anders Ericsson</p>
         
-        <p class="fr-book-desc">Shows how expert performance develops through deliberate practice and richer mental representations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how expert performance develops through deliberate practice and richer mental representations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Connects evidence-based learning methods to building durable conceptual understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects evidence-based learning methods to building durable conceptual understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cambridge+Handbook+of+Expertise+and+Expert+Performance+by+K.+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge Handbook of Expertise and Expert Performance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=12UojgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cambridge Handbook of Expertise and Expert Performance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cambridge+Handbook+of+Expertise+and+Expert+Performance+by+K.+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge Handbook of Expertise and Expert Performance">The Cambridge Handbook of Expertise and Expert Performance</a>
-        </h4>
-        <p class="fr-book-author">By K. Anders Ericsson, Neil Charness et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cambridge+Handbook+of+Expertise+and+Expert+Performance+by+K.+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge Handbook of Expertise and Expert Performance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=12UojgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cambridge Handbook of Expertise and Expert Performance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cambridge+Handbook+of+Expertise+and+Expert+Performance+by+K.+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge Handbook of Expertise and Expert Performance">The Cambridge Handbook of Expertise and Expert Performance</a>
+</h4>
+<p class="fr-book-author">By K. Anders Ericsson, Neil Charness et al.</p>
         
-        <p class="fr-book-desc">Covers how experts categorize, represent, and solve problems across domains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cambridge+Handbook+of+Expertise+and+Expert+Performance+by+K.+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers how experts categorize, represent, and solve problems across domains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cambridge+Handbook+of+Expertise+and+Expert+Performance+by+K.+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+People+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How People Learn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+People+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How People Learn</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electricity Experiment Set Science Lab Physics Circuit Experiment Kit"><img src="{{ '/assets/images/marketplace-covers/25ae1b6b59d0cd4971cd.jpg' | relative_url }}" alt="Listing image for Electricity Experiment Set Science Lab Physics Circuit Experiment Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer">Electricity Experiment Set Science Lab Physics Circuit Experiment Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physics experiment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: physics experiment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electricity Experiment Set Science Lab Physics Circuit Experiment Kit"><img src="{{ '/assets/images/marketplace-covers/25ae1b6b59d0cd4971cd.jpg' | relative_url }}" alt="Listing image for Electricity Experiment Set Science Lab Physics Circuit Experiment Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer">Electricity Experiment Set Science Lab Physics Circuit Experiment Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physics experiment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: physics experiment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electricity Experiment Kit for Physics Electromagnetics Circuit Learning"><img src="{{ '/assets/images/marketplace-covers/50149024bf22f5a04fb9.jpg' | relative_url }}" alt="Listing image for Electricity Experiment Kit for Physics Electromagnetics Circuit Learning" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer">Electricity Experiment Kit for Physics Electromagnetics Circuit Learning</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physics experiment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: physics experiment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electricity Experiment Kit for Physics Electromagnetics Circuit Learning"><img src="{{ '/assets/images/marketplace-covers/50149024bf22f5a04fb9.jpg' | relative_url }}" alt="Listing image for Electricity Experiment Kit for Physics Electromagnetics Circuit Learning" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer">Electricity Experiment Kit for Physics Electromagnetics Circuit Learning</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physics experiment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: physics experiment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Physics Science Lab Learning Circuit Kit Electricity Experiment Set Easy to"><img src="{{ '/assets/images/marketplace-covers/c0d6b7381f7f014834c4.jpg' | relative_url }}" alt="Listing image for Physics Science Lab Learning Circuit Kit Electricity Experiment Set Easy to" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer">Physics Science Lab Learning Circuit Kit Electricity Experiment Set Easy to</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physics experiment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: physics experiment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Physics Science Lab Learning Circuit Kit Electricity Experiment Set Easy to"><img src="{{ '/assets/images/marketplace-covers/c0d6b7381f7f014834c4.jpg' | relative_url }}" alt="Listing image for Physics Science Lab Learning Circuit Kit Electricity Experiment Set Easy to" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer">Physics Science Lab Learning Circuit Kit Electricity Experiment Set Easy to</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physics experiment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: physics experiment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lab Electricity Experiment Kit Junior High School Electromagnetics Physics Kit"><img src="{{ '/assets/images/marketplace-covers/9bde088e8be75e81f372.jpg' | relative_url }}" alt="Listing image for Lab Electricity Experiment Kit Junior High School Electromagnetics Physics Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer">Lab Electricity Experiment Kit Junior High School Electromagnetics Physics Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physics experiment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: physics experiment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lab Electricity Experiment Kit Junior High School Electromagnetics Physics Kit"><img src="{{ '/assets/images/marketplace-covers/9bde088e8be75e81f372.jpg' | relative_url }}" alt="Listing image for Lab Electricity Experiment Kit Junior High School Electromagnetics Physics Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer">Lab Electricity Experiment Kit Junior High School Electromagnetics Physics Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for physics experiment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: physics experiment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=physics+experiment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="physics experiment kit" data-ebay-reference="expert-sorting-why-experts-see-different-problems-improving-your-think-physics-experiment-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ As [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) grows, people be
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ As [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) grows, people be
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ As [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) grows, people be
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ As [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) grows, people be
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ As [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) grows, people be
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,88 +768,88 @@ As [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) grows, people be
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0502_2" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0502_2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCategorization and Representation of Physics Problems by...The representation of physics problems in relation to the...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0502_2" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0502_2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCategorization and Representation of Physics Problems by...The representation of physics problems in relation to the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Assessing Expertise in Introductory Physics Using Categorization Task  
-   Link: <a href="https://arxiv.org/abs/1602.08781" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1602.08781</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing Expertise in Introductory Physics Using Categorization TaskFebruary 28, 2016...</p></details>
+   Link:<a href="https://arxiv.org/abs/1602.08781" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1602.08781</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing Expertise in Introductory Physics Using Categorization TaskFebruary 28, 2016...</p></details>
    Published: February 28, 2016  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1602.08775" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1602.08775</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Categorization of Mechanics Problems by Students in Large Introductory Physics Courses: A Comparison with the Chi, Feltovich, and Gl...</p></details>
+   Link:<a href="https://arxiv.org/abs/1602.08775" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1602.08775</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Categorization of Mechanics Problems by Students in Large Introductory Physics Courses: A Comparison with the Chi, Feltovich, and Gl...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: chi.com  
-   Link: <a href="https://chi.com/?srsltid=AfmBOorEHGRVge1AfiK0lyMShfduHHOGPj3ps1vUQh-4c8Ovn5f-PaWH" target="_blank" rel="noopener noreferrer nofollow">https://chi.com/?srsltid=AfmBOorEHGRVge1AfiK0lyMShfduHHOGPj3ps1vUQh-4c8Ovn5f-PaWH</a>  
+   Link:<a href="https://chi.com/?srsltid=AfmBOorEHGRVge1AfiK0lyMShfduHHOGPj3ps1vUQh-4c8Ovn5f-PaWH" target="_blank" rel="noopener noreferrer nofollow">https://chi.com/?srsltid=AfmBOorEHGRVge1AfiK0lyMShfduHHOGPj3ps1vUQh-4c8Ovn5f-PaWH</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: asu.elsevierpure.com  
    Title: categorization and representation of physics problems by experts  
-   Link: <a href="https://asu.elsevierpure.com/en/publications/categorization-and-representation-of-physics-problems-by-experts-/" target="_blank" rel="noopener noreferrer nofollow">https://asu.elsevierpure.com/en/publications/categorization-and-representation-of-physics-problems-by-experts-/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arizona State UniversityCategorization and representation of physics problems by...by MTH Chi · 1981 · Cited by 9591 — The representatio...</p></details>
+   Link:<a href="https://asu.elsevierpure.com/en/publications/categorization-and-representation-of-physics-problems-by-experts-/" target="_blank" rel="noopener noreferrer nofollow">https://asu.elsevierpure.com/en/publications/categorization-and-representation-of-physics-problems-by-experts-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arizona State UniversityCategorization and representation of physics problems by...by MTH Chi · 1981 · Cited by 9591 — The representatio...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/chi" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/chi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning18 Apr 2026 — The meaning of CHI is the 22nd letter of the Greek alphabet...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/chi" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/chi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning18 Apr 2026 — The meaning of CHI is the 22nd letter of the Greek alphabet...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cosmeticsnow.com.au  
-   Link: <a href="https://www.cosmeticsnow.com.au/items/chi/haircare?srsltid=AfmBOoqYty6cZ2lPnQJghyfEVXnxqGyFmSLAyhtkhSDw_w8wdHZf3FRR" target="_blank" rel="noopener noreferrer nofollow">https://www.cosmeticsnow.com.au/items/chi/haircare?srsltid=AfmBOoqYty6cZ2lPnQJghyfEVXnxqGyFmSLAyhtkhSDw_w8wdHZf3FRR</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CHI (Hair Care) Products | Cosmetics Now AustraliaPurchase CHI products online at Cosmetics Now Australia - CHI stockist, free shipping o...</p></details>
+   Link:<a href="https://www.cosmeticsnow.com.au/items/chi/haircare?srsltid=AfmBOoqYty6cZ2lPnQJghyfEVXnxqGyFmSLAyhtkhSDw_w8wdHZf3FRR" target="_blank" rel="noopener noreferrer nofollow">https://www.cosmeticsnow.com.au/items/chi/haircare?srsltid=AfmBOoqYty6cZ2lPnQJghyfEVXnxqGyFmSLAyhtkhSDw_w8wdHZf3FRR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CHI (Hair Care) Products | Cosmetics Now AustraliaPurchase CHI products online at Cosmetics Now Australia - CHI stockist, free shipping o...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: chihaircare.com.au  
-   Link: <a href="https://chihaircare.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://chihaircare.com.au/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CHI AUSTRALIACHI shampoos, conditioners and treatments are designed to strengthen the hair, while leaving it soft and shiny. CHI will als...</p></details>
+   Link:<a href="https://chihaircare.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://chihaircare.com.au/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CHI AUSTRALIACHI shampoos, conditioners and treatments are designed to strengthen the hair, while leaving it soft and shiny. CHI will als...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/tv/the_chi" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/the_chi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ChiThis coming-of-age series focuses on Kevin, a preteen who embraces the normal rites of childhood, Brandon, who makes a leap of fai...</p></details>
+   Link:<a href="https://www.rottentomatoes.com/tv/the_chi" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/the_chi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ChiThis coming-of-age series focuses on Kevin, a preteen who embraces the normal rites of childhood, Brandon, who makes a leap of fai...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oamonitor.ireland.openaire.eu  
-   Link: <a href="https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.1207%2Fs15516709cog0502_2" target="_blank" rel="noopener noreferrer nofollow">https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.1207%2Fs15516709cog0502_2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Representation of Physics Problems by...The representation of physics problems in relation to the organization of physics knowledge...</p></details>
+   Link:<a href="https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.1207%2Fs15516709cog0502_2" target="_blank" rel="noopener noreferrer nofollow">https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.1207%2Fs15516709cog0502_2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Representation of Physics Problems by...The representation of physics problems in relation to the organization of physics knowledge...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/%40TheChiOnShowtime" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40TheChiOnShowtime</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The ChiVideos · The Chi Tea | Season 8 Episode 5 | The Dead of Winter · The Chi Season 8 Catch-Up: Must-See Moments · The Chi Tea | Seaso...</p></details>
+   Link:<a href="https://www.youtube.com/%40TheChiOnShowtime" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40TheChiOnShowtime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ChiVideos · The Chi Tea | Season 8 Episode 5 | The Dead of Winter · The Chi Season 8 Catch-Up: Must-See Moments · The Chi Tea | Seaso...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/220480253_Categorization_and_Representation_of_Physics_Problems_by_Experts_and_Novices" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220480253_Categorization_and_Representation_of_Physics_Problems_by_Experts_and_Novices</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[1981] showed that physics novices categorize problems by surface features (&quot;inclined plane problems&quot;) while experts categorize by deep s...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/220480253_Categorization_and_Representation_of_Physics_Problems_by_Experts_and_Novices" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220480253_Categorization_and_Representation_of_Physics_Problems_by_Experts_and_Novices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[1981] showed that physics novices categorize problems by surface features (&quot;inclined plane problems&quot;) while experts categorize by deep s...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: philpapers.org  
    Title: Categorization and representation of physics problems by  
-   Link: <a href="https://philpapers.org/rec/CHICAR-2" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/CHICAR-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The representation of physics problems in relation to the organization of physics knowledge is investigated in experts and novices.Read more...</p></details>
+   Link:<a href="https://philpapers.org/rec/CHICAR-2" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/CHICAR-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The representation of physics problems in relation to the organization of physics knowledge is investigated in experts and novices.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: compadre.org  
-   Link: <a href="https://www.compadre.org/portal/items/detail.cfm?ID=2341" target="_blank" rel="noopener noreferrer nofollow">https://www.compadre.org/portal/items/detail.cfm?ID=2341</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s problems relates to the organization of physics knowledge...</p></details>
+   Link:<a href="https://www.compadre.org/portal/items/detail.cfm?ID=2341" target="_blank" rel="noopener noreferrer nofollow">https://www.compadre.org/portal/items/detail.cfm?ID=2341</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s problems relates to the organization of physics knowledge...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: per-central.org  
-   Link: <a href="https://www.per-central.org/items/detail.cfm?ID=2341" target="_blank" rel="noopener noreferrer nofollow">https://www.per-central.org/items/detail.cfm?ID=2341</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s problems relates to the organization of physics knowledge...</p></details>
+   Link:<a href="https://www.per-central.org/items/detail.cfm?ID=2341" target="_blank" rel="noopener noreferrer nofollow">https://www.per-central.org/items/detail.cfm?ID=2341</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s problems relates to the organization of physics knowledge...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scirp.org  
    Title: Chi, M.T., Feltovich, P.J  
-   Link: <a href="https://www.scirp.org/reference/referencespapers?referenceid=2345254" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/reference/referencespapers?referenceid=2345254</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Glaser, R. (1981...Chi, M.T., Feltovich, P.J. and Glaser, R. (1981) Categorization and Representation of Physics Problems by Experts...</p></details>
+   Link:<a href="https://www.scirp.org/reference/referencespapers?referenceid=2345254" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/reference/referencespapers?referenceid=2345254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Glaser, R. (1981...Chi, M.T., Feltovich, P.J. and Glaser, R. (1981) Categorization and Representation of Physics Problems by Experts...</p></details>

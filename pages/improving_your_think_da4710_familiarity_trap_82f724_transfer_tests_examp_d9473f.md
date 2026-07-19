@@ -278,7 +278,7 @@ Knowing an idea only in the setting where you first learned it is not the same a
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_transfer_tests_examp_d9473f-Illustration-1-dark.svg" | relative_url }}" alt="Transfer Tests illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_transfer_tests_examp_d9473f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_transfer_tests_examp_d9473f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on learning consistently treats transfer as one of the strongest indicators of meaningful understanding. Rather than asking, "Can you repeat what you saw?", transfer asks, "Can you recognise the same structure when the surface details are different?" <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[nationalacademies.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Chapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how people develop import...</span></span></span>
+Research on learning consistently treats transfer as one of the strongest indicators of meaningful understanding. Rather than asking, "Can you repeat what you saw?", transfer asks, "Can you recognise the same structure when the surface details are different?"<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[nationalacademies.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Chapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how people develop import...</span></span></span>
 
 ## Why a new example is a better test than the original
 
@@ -296,7 +296,7 @@ For example:
 
 </div>
 
-The National Academies describe transfer as extending what has been learned in one setting to new situations, making it a central goal of effective learning rather than an optional extra. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[nationalacademies.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Chapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how people develop import...</span></span></span>
+The National Academies describe transfer as extending what has been learned in one setting to new situations, making it a central goal of effective learning rather than an optional extra.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[nationalacademies.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Chapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how people develop import...</span></span></span>
 
 ## Near transfer: can the idea survive small changes?
 
@@ -317,7 +317,7 @@ Typical changes include:
 
 Suppose you learn how to calculate percentages using a shop discount. A near-transfer question might instead ask about exam marks or tax rates. The arithmetic principle stays the same even though the story changes.
 
-Near transfer matters because it separates genuine understanding from dependence on one memorised template. Students who can solve only the exact version they practised often struggle once superficial details change, even though the required reasoning is identical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.learningscientists.org/blog/2016/6/2-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-title">The Learning Scientists What&#x27;s Transfer, and Why is it so Hard to Achieve?</span><span class="citation-popover-snippet">Part 1)June 2, 2016 — 2 Jun 2016 — A helpful distinction can be made between near and far transfer. Transfer can be conceptualized as a...</span><span class="citation-popover-meta">Published: June 2, 2016</span></span></span>
+Near transfer matters because it separates genuine understanding from dependence on one memorised template. Students who can solve only the exact version they practised often struggle once superficial details change, even though the required reasoning is identical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.learningscientists.org/blog/2016/6/2-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-title">The Learning Scientists What&#x27;s Transfer, and Why is it so Hard to Achieve?</span><span class="citation-popover-snippet">Part 1)June 2, 2016 — 2 Jun 2016 — A helpful distinction can be made between near and far transfer. Transfer can be conceptualized as a...</span><span class="citation-popover-meta">Published: June 2, 2016</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pKA57lz7tx8" title="Transfer of Training Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pKA57lz7tx8" target="_blank" rel="noopener noreferrer">Transfer of Training Theory</a></p><p class="youtube-embed-meta">Channel: GreggU</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pKA57lz7tx8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pKA57lz7tx8">Open on YouTube</a></p></div></div></div>
@@ -343,9 +343,9 @@ A learner who truly understands the mechanism should recognise it in many differ
 
 The stories have little in common, but the causal structure is similar: outputs influence future inputs.
 
-Researchers often describe transfer as existing on a continuum rather than as a simple near-versus-far distinction. Distance can arise from changes in subject matter, physical setting, time, purpose or the people involved. The farther those dimensions move from the original learning situation, the stronger the evidence that the learner has grasped an underlying principle rather than a single example. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rapunselshair.pbworks.com/f/barnett_2002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rapunselshair.pbworks.com">[rapunselshair.pbworks.com+2The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rapunselshair.pbworks.com</span><span class="citation-popover-title">When and Where Do We Apply What We Learn?</span><span class="citation-popover-snippet">SM Barnett · 2002 · Cited by 3474 — 614 BARNETT AND CECI a school lesson, and the transfer test were to be conducted in a distant...</span></span></span>
+Researchers often describe transfer as existing on a continuum rather than as a simple near-versus-far distinction. Distance can arise from changes in subject matter, physical setting, time, purpose or the people involved. The farther those dimensions move from the original learning situation, the stronger the evidence that the learner has grasped an underlying principle rather than a single example.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rapunselshair.pbworks.com/f/barnett_2002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rapunselshair.pbworks.com">[rapunselshair.pbworks.com+2The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rapunselshair.pbworks.com</span><span class="citation-popover-title">When and Where Do We Apply What We Learn?</span><span class="citation-popover-snippet">SM Barnett · 2002 · Cited by 3474 — 614 BARNETT AND CECI a school lesson, and the transfer test were to be conducted in a distant...</span></span></span>
 
-Importantly, far transfer is substantially harder than near transfer. Many teaching methods produce excellent performance on similar problems but much weaker performance when learners must recognise the same idea in unfamiliar contexts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdr.lib.unc.edu/downloads/np193b25t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdr.lib.unc.edu">[Carolina Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdr.lib.unc.edu</span><span class="citation-popover-title">Carolina Digital Repository Effects of Worked Examples on Far Transfer</span><span class="citation-popover-snippet">Carolina Digital RepositoryEffects of Worked Examples on Far TransferJuly 16, 2013 — by YR Kim · 2013 · Cited by 1 — This study demonstra...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span>
+Importantly, far transfer is substantially harder than near transfer. Many teaching methods produce excellent performance on similar problems but much weaker performance when learners must recognise the same idea in unfamiliar contexts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdr.lib.unc.edu/downloads/np193b25t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdr.lib.unc.edu">[Carolina Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdr.lib.unc.edu</span><span class="citation-popover-title">Carolina Digital Repository Effects of Worked Examples on Far Transfer</span><span class="citation-popover-snippet">Carolina Digital RepositoryEffects of Worked Examples on Far TransferJuly 16, 2013 — by YR Kim · 2013 · Cited by 1 — This study demonstra...</span><span class="citation-popover-meta">Published: July 16, 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_transfer_tests_examp_d9473f-Illustration-2-dark.svg" | relative_url }}" alt="Transfer Tests illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_transfer_tests_examp_d9473f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_transfer_tests_examp_d9473f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -411,7 +411,7 @@ Transfer testing therefore develops two valuable habits:
 * **Abstraction:** identifying what is essential rather than what is merely present.
 * **Generalisation:** applying principles cautiously across different contexts while recognising where important differences remain.
 
-Research also suggests that learning activities encouraging learners to explain ideas to themselves, rather than simply following worked solutions, improve later transfer because they strengthen understanding of underlying relationships rather than isolated procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Self%20explanations/Self%20explanation%20-%20Rittle%20Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mrbartonmaths.com">[mr barton maths]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mrbartonmaths.com</span><span class="citation-popover-snippet">mr barton mathsPromoting Transfer: Effects of Self-Explanation and Direct...February 2, 2006 — by B Rittle-Johnson · 2006 · Cited by 628...</span><span class="citation-popover-meta">Published: February 2, 2006</span></span></span>
+Research also suggests that learning activities encouraging learners to explain ideas to themselves, rather than simply following worked solutions, improve later transfer because they strengthen understanding of underlying relationships rather than isolated procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Self%20explanations/Self%20explanation%20-%20Rittle%20Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mrbartonmaths.com">[mr barton maths]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mrbartonmaths.com</span><span class="citation-popover-snippet">mr barton mathsPromoting Transfer: Effects of Self-Explanation and Direct...February 2, 2006 — by B Rittle-Johnson · 2006 · Cited by 628...</span><span class="citation-popover-meta">Published: February 2, 2006</span></span></span>
 
 ## A practical rule
 
@@ -435,194 +435,194 @@ If the answer to all three is yes, the idea has probably moved beyond familiarit
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the Idea Survive a New Example?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the Idea Survive a New Example?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Emphasises applying knowledge in new contexts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises applying knowledge in new contexts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
-        </h4>
-        <p class="fr-book-author">By Benedict Carey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+</h4>
+<p class="fr-book-author">By Benedict Carey</p>
         
-        <p class="fr-book-desc">Discusses transfer and flexible learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses transfer and flexible learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Range on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1ZyaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Range" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Range">Range</a>
-        </h4>
-        <p class="fr-book-author">By David Epstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Range on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1ZyaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Range" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Range">Range</a>
+</h4>
+<p class="fr-book-author">By David Epstein</p>
         
-        <p class="fr-book-desc">Explores applying knowledge across domains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores applying knowledge across domains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Supports learning beyond memorised examples.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports learning beyond memorised examples.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Range&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Range</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Range&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Range</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Glass Whiteboard 90x60cm - XIODE Wall Mounted Frameless Dry Erase-BLACK"><img src="https://i.ebayimg.com/images/g/iPMAAeSwA0dpb10B/s-l225.jpg" alt="Listing image for Magnetic Glass Whiteboard 90x60cm - XIODE Wall Mounted Frameless Dry Erase-BLACK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Magnetic Glass Whiteboard 90x60cm - XIODE Wall Mounted Frameless Dry Erase-BLACK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Glass Whiteboard 90x60cm - XIODE Wall Mounted Frameless Dry Erase-BLACK"><img src="https://i.ebayimg.com/images/g/iPMAAeSwA0dpb10B/s-l225.jpg" alt="Listing image for Magnetic Glass Whiteboard 90x60cm - XIODE Wall Mounted Frameless Dry Erase-BLACK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Magnetic Glass Whiteboard 90x60cm - XIODE Wall Mounted Frameless Dry Erase-BLACK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 A3 DRY WIPE WHITEBOARD NOTICE MEMO RECORD SCORE BOARD PEN ERASER MOUNTS"><img src="https://i.ebayimg.com/images/g/wg8AAOSwLy1d-fiI/s-l225.jpg" alt="Listing image for A4 A3 DRY WIPE WHITEBOARD NOTICE MEMO RECORD SCORE BOARD PEN ERASER MOUNTS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 A3 DRY WIPE WHITEBOARD NOTICE MEMO RECORD SCORE BOARD PEN ERASER MOUNTS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 A3 DRY WIPE WHITEBOARD NOTICE MEMO RECORD SCORE BOARD PEN ERASER MOUNTS"><img src="https://i.ebayimg.com/images/g/wg8AAOSwLy1d-fiI/s-l225.jpg" alt="Listing image for A4 A3 DRY WIPE WHITEBOARD NOTICE MEMO RECORD SCORE BOARD PEN ERASER MOUNTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 A3 DRY WIPE WHITEBOARD NOTICE MEMO RECORD SCORE BOARD PEN ERASER MOUNTS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="https://i.ebayimg.com/images/g/AJQAAeSwBOdocM-H/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="https://i.ebayimg.com/images/g/AJQAAeSwBOdocM-H/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home"><img src="https://i.ebayimg.com/images/g/1RQAAeSwqvNqF-ry/s-l225.jpg" alt="Listing image for Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home"><img src="https://i.ebayimg.com/images/g/1RQAAeSwqvNqF-ry/s-l225.jpg" alt="Listing image for Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-idea-survive-a-new-example-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="can-the-idea-survive-a-new-example-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -638,7 +638,7 @@ If the answer to all three is yes, the idea has probably moved beyond familiarit
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -658,7 +658,7 @@ If the answer to all three is yes, the idea has probably moved beyond familiarit
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -690,7 +690,7 @@ If the answer to all three is yes, the idea has probably moved beyond familiarit
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -742,7 +742,7 @@ If the answer to all three is yes, the idea has probably moved beyond familiarit
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -787,7 +787,7 @@ If the answer to all three is yes, the idea has probably moved beyond familiarit
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -828,123 +828,123 @@ If the answer to all three is yes, the idea has probably moved beyond familiarit
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/9853/chapter/6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how people develop import...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/9853/chapter/6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how people develop import...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rapunselshair.pbworks.com  
    Title: When and Where Do We Apply What We Learn?  
-   Link: <a href="https://rapunselshair.pbworks.com/f/barnett_2002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rapunselshair.pbworks.com/f/barnett_2002.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SM Barnett · 2002 · Cited by 3474 — 614 BARNETT AND CECI a school lesson, and the transfer test were to be conducted in a distant...</p></details>
+   Link:<a href="https://rapunselshair.pbworks.com/f/barnett_2002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rapunselshair.pbworks.com/f/barnett_2002.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SM Barnett · 2002 · Cited by 3474 — 614 BARNETT AND CECI a school lesson, and the transfer test were to be conducted in a distant...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/9853/chapter/3" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/9853/chapter/3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How People Learn: Brain, Mind, Experience, and SchoolResearch on learning and transfer has uncovered important principles for structuring...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/9853/chapter/3" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/9853/chapter/3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How People Learn: Brain, Mind, Experience, and SchoolResearch on learning and transfer has uncovered important principles for structuring...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/10067/chapter/7" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10067/chapter/7</a>  
+   Link:<a href="https://www.nationalacademies.org/read/10067/chapter/7" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10067/chapter/7</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/24783/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/24783/chapter/2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: There are many reasons to be curious about the way people learn, and the past several decades have seen an explosion of research...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/24783/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/24783/chapter/2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: There are many reasons to be curious about the way people learn, and the past several decades have seen an explosion of research...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalacademies.org  
    Title: The National Academies.Read more  
-   Link: <a href="https://www.nationalacademies.org/projects/DBASSE-BBCSS-13-06/publication/24783" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/DBASSE-BBCSS-13-06/publication/24783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How People Learn II: Learners, Contexts, and Cultures 2018Driving progress for the benefit of society by providing independent, objective...</p></details>
+   Link:<a href="https://www.nationalacademies.org/projects/DBASSE-BBCSS-13-06/publication/24783" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/DBASSE-BBCSS-13-06/publication/24783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How People Learn II: Learners, Contexts, and Cultures 2018Driving progress for the benefit of society by providing independent, objective...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalacademies.org  
    Title: The National  
-   Link: <a href="https://www.nationalacademies.org/publications/9853" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/publications/9853</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How People Learn: Brain, Mind, Experience, and Schoolby National Research Council · 1999 · Cited by 6044 — Driving progress for the benef...</p></details>
+   Link:<a href="https://www.nationalacademies.org/publications/9853" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/publications/9853</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How People Learn: Brain, Mind, Experience, and Schoolby National Research Council · 1999 · Cited by 6044 — Driving progress for the benef...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: learningscientists.org  
    Title: The Learning Scientists What's Transfer, and Why is it so Hard to Achieve?  
-   Link: <a href="https://www.learningscientists.org/blog/2016/6/2-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2016/6/2-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Part 1)June 2, 2016 — 2 Jun 2016 — A helpful distinction can be made between near and far transfer. Transfer can be conceptualized as a...</p></details>
+   Link:<a href="https://www.learningscientists.org/blog/2016/6/2-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2016/6/2-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Part 1)June 2, 2016 — 2 Jun 2016 — A helpful distinction can be made between near and far transfer. Transfer can be conceptualized as a...</p></details>
    Published: June 2, 2016  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdr.lib.unc.edu  
    Title: Carolina Digital Repository Effects of Worked Examples on Far Transfer  
-   Link: <a href="https://cdr.lib.unc.edu/downloads/np193b25t" target="_blank" rel="noopener noreferrer nofollow">https://cdr.lib.unc.edu/downloads/np193b25t</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Carolina Digital RepositoryEffects of Worked Examples on Far TransferJuly 16, 2013 — by YR Kim · 2013 · Cited by 1 — This study demonstra...</p></details>
+   Link:<a href="https://cdr.lib.unc.edu/downloads/np193b25t" target="_blank" rel="noopener noreferrer nofollow">https://cdr.lib.unc.edu/downloads/np193b25t</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carolina Digital RepositoryEffects of Worked Examples on Far TransferJuly 16, 2013 — by YR Kim · 2013 · Cited by 1 — This study demonstra...</p></details>
    Published: July 16, 2013  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mrbartonmaths.com  
-   Link: <a href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Self%20explanations/Self%20explanation%20-%20Rittle%20Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mrbartonmaths.com/resourcesnew/8.%20Research/Self%20explanations/Self%20explanation%20-%20Rittle%20Johnson.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mr barton mathsPromoting Transfer: Effects of Self-Explanation and Direct...February 2, 2006 — by B Rittle-Johnson · 2006 · Cited by 628...</p></details>
+   Link:<a href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Self%20explanations/Self%20explanation%20-%20Rittle%20Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mrbartonmaths.com/resourcesnew/8.%20Research/Self%20explanations/Self%20explanation%20-%20Rittle%20Johnson.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mr barton mathsPromoting Transfer: Effects of Self-Explanation and Direct...February 2, 2006 — by B Rittle-Johnson · 2006 · Cited by 628...</p></details>
    Published: February 2, 2006  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: open.metu.edu.tr  
-   Link: <a href="https://open.metu.edu.tr/bitstream/handle/11511/22891/index.pdf" target="_blank" rel="noopener noreferrer nofollow">https://open.metu.edu.tr/bitstream/handle/11511/22891/index.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AND FAR TRANSFER LEARNING IN...by BG Tüker · 2013 · Cited by 4 — The purpose of the study is to explore the contributions of learning ta...</p></details>
+   Link:<a href="https://open.metu.edu.tr/bitstream/handle/11511/22891/index.pdf" target="_blank" rel="noopener noreferrer nofollow">https://open.metu.edu.tr/bitstream/handle/11511/22891/index.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AND FAR TRANSFER LEARNING IN...by BG Tüker · 2013 · Cited by 4 — The purpose of the study is to explore the contributions of learning ta...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sdcoe.net  
-   Link: <a href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow">https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key Findings from How People LearnA fundamental insight about learning is that new understandings are constructed on a foundation of exis...</p></details>
+   Link:<a href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow">https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key Findings from How People LearnA fundamental insight about learning is that new understandings are constructed on a foundation of exis...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nifdi.org  
-   Link: <a href="https://www.nifdi.org/resources/88-news/kerry-hempenstall/758-near-and-far-transfer-in-cognitive-training.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/resources/88-news/kerry-hempenstall/758-near-and-far-transfer-in-cognitive-training.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Near and far transfer in cognitive trainingNear transfer occurs when skills learned in one context are applied to similar contexts, while...</p></details>
+   Link:<a href="https://www.nifdi.org/resources/88-news/kerry-hempenstall/758-near-and-far-transfer-in-cognitive-training.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/resources/88-news/kerry-hempenstall/758-near-and-far-transfer-in-cognitive-training.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Near and far transfer in cognitive trainingNear transfer occurs when skills learned in one context are applied to similar contexts, while...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: smu.edu  
-   Link: <a href="https://www.smu.edu/provost/cte/resources/-/media/site/provost/cte/teachingresources/how-people-learn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smu.edu/provost/cte/resources/-/media/site/provost/cte/teachingresources/how-people-learn.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>how people learn.pdfCurrent knowledge on learning and transfer (Chapter 3) and develop- ment (Chapter 4) provide important guidelines for...</p></details>
+   Link:<a href="https://www.smu.edu/provost/cte/resources/-/media/site/provost/cte/teachingresources/how-people-learn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smu.edu/provost/cte/resources/-/media/site/provost/cte/teachingresources/how-people-learn.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>how people learn.pdfCurrent knowledge on learning and transfer (Chapter 3) and develop- ment (Chapter 4) provide important guidelines for...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
    Title: 331179824 How People Learn II Learners Contexts and Cultures  
-   Link: <a href="https://www.researchgate.net/publication/331179824_How_People_Learn_II_Learners_Contexts_and_Cultures" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331179824_How_People_Learn_II_Learners_Contexts_and_Cultures</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How People Learn II: Learners, Contexts, and Cultures2 May 2026 — The report summarized insights on the nature of learning in school-aged...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/331179824_How_People_Learn_II_Learners_Contexts_and_Cultures" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331179824_How_People_Learn_II_Learners_Contexts_and_Cultures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How People Learn II: Learners, Contexts, and Cultures2 May 2026 — The report summarized insights on the nature of learning in school-aged...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: m.cradall.org  
-   Link: <a href="https://m.cradall.org/sites/default/files/How%20People%20Learn%20II.pdf" target="_blank" rel="noopener noreferrer nofollow">https://m.cradall.org/sites/default/files/How%20People%20Learn%20II.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>People Learn II: Learners, Contexts, and CulturesLearn more about the National Academies of Sciences, Engineering, and Medicine...</p></details>
+   Link:<a href="https://m.cradall.org/sites/default/files/How%20People%20Learn%20II.pdf" target="_blank" rel="noopener noreferrer nofollow">https://m.cradall.org/sites/default/files/How%20People%20Learn%20II.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People Learn II: Learners, Contexts, and CulturesLearn more about the National Academies of Sciences, Engineering, and Medicine...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nifdi.org  
    Title: 758 near and far transfer in cognitive training  
-   Link: <a href="https://www.nifdi.org/resources/hempenstall-blog/758-near-and-far-transfer-in-cognitive-training.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/resources/hempenstall-blog/758-near-and-far-transfer-in-cognitive-training.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Near and far transfer in cognitive training25 Sept 2019 — Near transfer occurs when skills learned in one context are applied to similar...</p></details>
+   Link:<a href="https://www.nifdi.org/resources/hempenstall-blog/758-near-and-far-transfer-in-cognitive-training.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/resources/hempenstall-blog/758-near-and-far-transfer-in-cognitive-training.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Near and far transfer in cognitive training25 Sept 2019 — Near transfer occurs when skills learned in one context are applied to similar...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
    Title: When and where do we apply what we learn?  
-   Link: <a href="https://www.researchgate.net/publication/299037708_When_and_where_do_we_apply_what_we_learn_A_taxonomy_for_far_transfer" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/299037708_When_and_where_do_we_apply_what_we_learn_A_taxonomy_for_far_transfer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A taxonomy...Barnett and Ceci (2002) provide a comprehensive taxonomy distinguishing near transfer, where knowledge and skills apply acr...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/299037708_When_and_where_do_we_apply_what_we_learn_A_taxonomy_for_far_transfer" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/299037708_When_and_where_do_we_apply_what_we_learn_A_taxonomy_for_far_transfer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A taxonomy...Barnett and Ceci (2002) provide a comprehensive taxonomy distinguishing near transfer, where knowledge and skills apply acr...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: structural-learning.com  
    Title: transfer learning complete guide teachers  
-   Link: <a href="https://www.structural-learning.com/post/transfer-learning-complete-guide-teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/transfer-learning-complete-guide-teachers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transfer of Learning: A Complete Guide6 days ago — Research from Barnett and Ceci (2002) shows near transfer works better than far transf...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/transfer-learning-complete-guide-teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/transfer-learning-complete-guide-teachers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transfer of Learning: A Complete Guide6 days ago — Research from Barnett and Ceci (2002) shows near transfer works better than far transf...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: This metacognitive  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9902256/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9902256/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Erring Improves Far Transfer of Learning More...by SSH Wong · 2023 · Cited by 28 — Barnett and Ceci&#x27;s (2022) taxonomy, transfer can be v...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9902256/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9902256/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Erring Improves Far Transfer of Learning More...by SSH Wong · 2023 · Cited by 28 — Barnett and Ceci&#x27;s (2022) taxonomy, transfer can be v...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: peoplealchemy.com  
    Title: models of learning transfer  
-   Link: <a href="https://peoplealchemy.com/blog/models-of-learning-transfer/" target="_blank" rel="noopener noreferrer nofollow">https://peoplealchemy.com/blog/models-of-learning-transfer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Oct 2023 — Near and far transfer. In effect, the theory predicts that while near transfer takes place often, far transfer is much less...</p></details>
+   Link:<a href="https://peoplealchemy.com/blog/models-of-learning-transfer/" target="_blank" rel="noopener noreferrer nofollow">https://peoplealchemy.com/blog/models-of-learning-transfer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Oct 2023 — Near and far transfer. In effect, the theory predicts that while near transfer takes place often, far transfer is much less...</p></details>

@@ -451,13 +451,13 @@ image: /assets/images/improving_your_think_da4710_steelmanning_argumen_91444a-ov
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_steelmanning_argumen_91444a-overview.webp" | relative_url }}" alt="Overview image for Steelman" loading="eager" decoding="sync" fetchpriority="high">
-Within better thinking and analytical skill, steelmanning is a practical intervention against myside bias, confirmation bias, and premature certainty. Research on [biased assimilation]({{ 'mixed-evidence-accf68/' | relative_url }}) shows that people often scrutinise unwelcome evidence more harshly than evidence that supports their existing beliefs, while work on actively [open-minded thinking]({{ 'open-mind/' | relative_url }}) treats willingness to consider opposing arguments as part of sound reasoning rather than mere politeness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner+2keithstanovich.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span><span class="citation-popover-snippet">ROSS, AND M. LEPPER attitudes and beliefs did change after each new piece of evidence was presented, and from the beginning to the end of...</span></span></span>
+Within better thinking and analytical skill, steelmanning is a practical intervention against myside bias, confirmation bias, and premature certainty. Research on [biased assimilation]({{ 'mixed-evidence-accf68/' | relative_url }}) shows that people often scrutinise unwelcome evidence more harshly than evidence that supports their existing beliefs, while work on actively [open-minded thinking]({{ 'open-mind/' | relative_url }}) treats willingness to consider opposing arguments as part of sound reasoning rather than mere politeness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner+2keithstanovich.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span><span class="citation-popover-snippet">ROSS, AND M. LEPPER attitudes and beliefs did change after each new piece of evidence was presented, and from the beginning to the end of...</span></span></span>
 
 ## Steelman versus strawman
 
-A strawman argument replaces an opponent’s actual claim with a weaker, simpler, or more extreme version, then refutes that substitute. Argumentation scholars describe this as a failure to attack the position the other side actually defends; recent work on the strawman fallacy emphasises misrepresentation as the core problem, whether the distortion is exaggerated, selective, or falsely attributed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Straw Man Fallacy &#124; Springer Nature Linkby J Schumann · 2025 — The straw man fallacy constitutes an infringement on this prin...</span></span></span>
+A strawman argument replaces an opponent’s actual claim with a weaker, simpler, or more extreme version, then refutes that substitute. Argumentation scholars describe this as a failure to attack the position the other side actually defends; recent work on the strawman fallacy emphasises misrepresentation as the core problem, whether the distortion is exaggerated, selective, or falsely attributed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/chapter/10.1007/978-3-031-94094" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Straw Man Fallacy &#124; Springer Nature Linkby J Schumann · 2025 — The straw man fallacy constitutes an infringement on this prin...</span></span></span>
 
-A steelman reverses that habit. Instead of asking, “What is the easiest version of this view to defeat?”, it asks, “What is the most reasonable version of this view that someone informed, honest, and careful might defend?” This is closely related to the principle of charity in philosophy and [critical thinking]({{ 'critical-skills/' | relative_url }}): when reconstructing an argument, avoid adding obviously false premises if a more plausible interpretation is available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-principle-of-charity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oercollective.caul.edu.au">[oercollective.caul.edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oercollective.caul.edu.au</span><span class="citation-popover-snippet">Open source on edu.au.</span></span></span>
+A steelman reverses that habit. Instead of asking, “What is the easiest version of this view to defeat?”, it asks, “What is the most reasonable version of this view that someone informed, honest, and careful might defend?” This is closely related to the principle of charity in philosophy and [critical thinking]({{ 'critical-skills/' | relative_url }}): when reconstructing an argument, avoid adding obviously false premises if a more plausible interpretation is available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-principle-of-charity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oercollective.caul.edu.au">[oercollective.caul.edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oercollective.caul.edu.au</span><span class="citation-popover-snippet">Open source on edu.au.</span></span></span>
 
 The contrast is easiest to see in a policy disagreement:
 
@@ -478,7 +478,7 @@ The steelman version makes the disagreement harder, but also more useful. It shi
 
 A strong restatement is not a longer paraphrase. It is a disciplined reconstruction. The aim is to identify the best argument available to the opposing side while keeping it recognisably connected to what its advocates actually believe.
 
-Daniel Dennett popularised a practical version of this norm through “Rapoport’s rules”, attributed to the social psychologist Anatol Rapoport. The rules ask critics to restate the target’s position clearly and fairly, identify points of agreement, say what they have learned, and only then criticise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.themarginalian.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themarginalian.org">[The Marginalian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themarginalian.org</span><span class="citation-popover-title">The Marginalian How to Criticize with Kindness: Philosopher Daniel Dennett</span><span class="citation-popover-snippet">The Marginalian How to Criticize with Kindness: Philosopher Daniel Dennett</span></span></span>
+Daniel Dennett popularised a practical version of this norm through “Rapoport’s rules”, attributed to the social psychologist Anatol Rapoport. The rules ask critics to restate the target’s position clearly and fairly, identify points of agreement, say what they have learned, and only then criticise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.themarginalian.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themarginalian.org">[The Marginalian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themarginalian.org</span><span class="citation-popover-title">The Marginalian How to Criticize with Kindness: Philosopher Daniel Dennett</span><span class="citation-popover-snippet">The Marginalian How to Criticize with Kindness: Philosopher Daniel Dennett</span></span></span>
 
 A usable steelman has four parts:
 
@@ -492,7 +492,7 @@ A usable steelman has four parts:
 
 </div>
 
-This matters because people are skilled at finding flaws in arguments they dislike. In the classic study by Charles Lord, Lee Ross, and Mark Lepper, people with opposing views on capital punishment evaluated mixed evidence in ways that tended to preserve or strengthen their starting position. The broader lesson is not that all disagreement is irrational, but that [evidence evaluation]({{ 'learning-to-evaluate-evidence/' | relative_url }}) is easily pulled towards prior belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span><span class="citation-popover-snippet">ROSS, AND M. LEPPER attitudes and beliefs did change after each new piece of evidence was presented, and from the beginning to the end of...</span></span></span>
+This matters because people are skilled at finding flaws in arguments they dislike. In the classic study by Charles Lord, Lee Ross, and Mark Lepper, people with opposing views on capital punishment evaluated mixed evidence in ways that tended to preserve or strengthen their starting position. The broader lesson is not that all disagreement is irrational, but that [evidence evaluation]({{ 'learning-to-evaluate-evidence/' | relative_url }}) is easily pulled towards prior belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span><span class="citation-popover-snippet">ROSS, AND M. LEPPER attitudes and beliefs did change after each new piece of evidence was presented, and from the beginning to the end of...</span></span></span>
 
 Steelmanning slows that reflex. It forces the question, “What would this view look like if I were not trying to defeat it yet?” That pause is often enough to reveal that your opponent’s position has a valid concern inside it, even if its final conclusion is still wrong.
 
@@ -507,9 +507,9 @@ A weak objection gives you false confidence. If you rebut only the most foolish 
 
 This is especially useful in areas where feedback is delayed or ambiguous: policy, strategy, hiring, forecasting, investing, organisational decisions, and personal conflicts. In such settings, people can be wrong for months or years before reality corrects them. Steelmanning creates earlier feedback by making your mind confront the evidence it would rather avoid.
 
-The connection with actively open-minded thinking is direct. Researchers describe this disposition as willingness to consider alternative opinions, attend to evidence that contradicts one’s favoured view, and revise beliefs when warranted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sjdm.org/~jbaron/ms/talks/aot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sjdm.org">[Society for Judgment and Decision Making]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sjdm.org</span><span class="citation-popover-title">Society for Judgment and Decision Making Actively open-minded thinking (AOT</span><span class="citation-popover-snippet">Society for Judgment and Decision Making Actively open-minded thinking (AOT</span></span></span> Steelmanning is one concrete way to practise that disposition: instead of merely saying “I am open-minded”, you produce the rival case clearly enough that it can challenge you.
+The connection with actively open-minded thinking is direct. Researchers describe this disposition as willingness to consider alternative opinions, attend to evidence that contradicts one’s favoured view, and revise beliefs when warranted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sjdm.org/~jbaron/ms/talks/aot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sjdm.org">[Society for Judgment and Decision Making]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sjdm.org</span><span class="citation-popover-title">Society for Judgment and Decision Making Actively open-minded thinking (AOT</span><span class="citation-popover-snippet">Society for Judgment and Decision Making Actively open-minded thinking (AOT</span></span></span> Steelmanning is one concrete way to practise that disposition: instead of merely saying “I am open-minded”, you produce the rival case clearly enough that it can challenge you.
 
-It also overlaps with the “consider the opposite” debiasing strategy. Lord, Lepper, and Preston found that prompting people to consider opposite possibilities could reduce bias in social judgement more effectively than simply telling them to be fair and unbiased. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> Steelmanning is a richer version of that move: do not merely imagine that you might be wrong; build the best route by which you might be wrong.
+It also overlaps with the “consider the opposite” debiasing strategy. Lord, Lepper, and Preston found that prompting people to consider opposite possibilities could reduce bias in social judgement more effectively than simply telling them to be fair and unbiased.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> Steelmanning is a richer version of that move: do not merely imagine that you might be wrong; build the best route by which you might be wrong.
 
 ## The opponent’s test
 
@@ -526,7 +526,7 @@ This does not require the opponent to agree with your rebuttal. It requires them
 
 </div>
 
-Passing the test often changes the emotional tone of disagreement. If someone sees that you understand their concern, they are less likely to treat your rebuttal as hostile dismissal. Research on constructive controversy in education and organisations suggests that structured engagement with opposing views can increase [uncertainty]({{ 'uncertainty/' | relative_url }}), information search, perspective-taking, and more integrated conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1298645_code1083890.pdf?abstractid=1298645&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Open source on ssrn.com.</span></span></span>
+Passing the test often changes the emotional tone of disagreement. If someone sees that you understand their concern, they are less likely to treat your rebuttal as hostile dismissal. Research on constructive controversy in education and organisations suggests that structured engagement with opposing views can increase [uncertainty]({{ 'uncertainty/' | relative_url }}), information search, perspective-taking, and more integrated conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1298645_code1083890.pdf?abstractid=1298645&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Open source on ssrn.com.</span></span></span>
 
 The important word is “structured”. Simply throwing opposing opinions into a room does not guarantee better thinking. Steelmanning gives disagreement a sequence: understand first, criticise second, decide third.
 
@@ -549,7 +549,7 @@ That is the practical payoff. Steelmanning does not always flip your view, but i
 
 Steelmanning has limits. The main danger is that you accidentally create a better argument than the one actually being made, then credit the original speaker with more coherence, evidence, or moral seriousness than they have shown.
 
-This is why steelmanning should be tied to fidelity. Charity is not licence to invent. Some critics argue that steelmanning can blur the line between interpreting an argument fairly and replacing it with a more sophisticated argument the original advocate did not mean. Andrew Gelman, for example, warns that bending over backwards to improve one side’s case can unintentionally distort other positions or import assumptions that do not belong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: statmodeling.stat.columbia.edu">[Statistical Modeling]</a><span class="citation-popover" role="note"><span class="citation-popover-source">statmodeling.stat.columbia.edu</span><span class="citation-popover-snippet">Open source on columbia.edu.</span></span></span>
+This is why steelmanning should be tied to fidelity. Charity is not licence to invent. Some critics argue that steelmanning can blur the line between interpreting an argument fairly and replacing it with a more sophisticated argument the original advocate did not mean. Andrew Gelman, for example, warns that bending over backwards to improve one side’s case can unintentionally distort other positions or import assumptions that do not belong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: statmodeling.stat.columbia.edu">[Statistical Modeling]</a><span class="citation-popover" role="note"><span class="citation-popover-source">statmodeling.stat.columbia.edu</span><span class="citation-popover-snippet">Open source on columbia.edu.</span></span></span>
 
 There are also cases where full-strength reconstruction is inappropriate. If a claim depends on dehumanisation, threats, fabricated evidence, or targeted harassment, the better thinking move may be to identify the claim neutrally without helping make it more persuasive. Steelmanning is for testing live arguments, not laundering bad-faith tactics.
 
@@ -591,194 +591,194 @@ The habit also changes how you experience disagreement. Instead of treating an o
 Used well, steelmanning does not make you neutral about everything. It makes you harder to fool, including by yourself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Pass the Opponent&#x27;s Test?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Pass the Opponent&#x27;s Test?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Promotes reconsidering views and engaging opposing arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes reconsidering views and engaging opposing arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Have Impossible Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H62HDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Have Impossible Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Have Impossible Conversations">How to Have Impossible Conversations</a>
-        </h4>
-        <p class="fr-book-author">By Peter Boghossian, James Lindsay</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Have Impossible Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H62HDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Have Impossible Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Have Impossible Conversations">How to Have Impossible Conversations</a>
+</h4>
+<p class="fr-book-author">By Peter Boghossian, James Lindsay</p>
         
-        <p class="fr-book-desc">Focuses on accurately understanding opposing viewpoints.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on accurately understanding opposing viewpoints.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains self-justification and motivated reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains self-justification and motivated reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides bias framework supporting steelmanning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides bias framework supporting steelmanning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Have Impossible Conversations</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Have Impossible Conversations</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for logic quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/98db252dab0a5458c4d2.jpg' | relative_url }}" alt="Listing image for logic quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">logic quotes Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for logic quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/98db252dab0a5458c4d2.jpg' | relative_url }}" alt="Listing image for logic quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">logic quotes Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for logic quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a61f24c599c619f1f9b2.jpg' | relative_url }}" alt="Listing image for logic quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">logic quotes Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for logic quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a61f24c599c619f1f9b2.jpg' | relative_url }}" alt="Listing image for logic quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">logic quotes Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Rapper Vinyl Days Music Album Wall Art Home Decor - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/aaf5f749416a6c173838.jpg' | relative_url }}" alt="Listing image for Logic Rapper Vinyl Days Music Album Wall Art Home Decor - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Logic Rapper Vinyl Days Music Album Wall Art Home Decor - POSTER 20&quot;x30&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Rapper Vinyl Days Music Album Wall Art Home Decor - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/aaf5f749416a6c173838.jpg' | relative_url }}" alt="Listing image for Logic Rapper Vinyl Days Music Album Wall Art Home Decor - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Logic Rapper Vinyl Days Music Album Wall Art Home Decor - POSTER 20&quot;x30&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)"><img src="{{ '/assets/images/marketplace-covers/ef2c9afcd889d27b8161.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)"><img src="{{ '/assets/images/marketplace-covers/ef2c9afcd889d27b8161.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="steelman-can-you-pass-the-opponent-s-test-improving-your-think-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -794,7 +794,7 @@ Used well, steelmanning does not make you neutral about everything. It makes you
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -814,7 +814,7 @@ Used well, steelmanning does not make you neutral about everything. It makes you
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -846,7 +846,7 @@ Used well, steelmanning does not make you neutral about everything. It makes you
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -898,7 +898,7 @@ Used well, steelmanning does not make you neutral about everything. It makes you
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -943,7 +943,7 @@ Used well, steelmanning does not make you neutral about everything. It makes you
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -984,181 +984,181 @@ Used well, steelmanning does not make you neutral about everything. It makes you
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: keithstanovich.com  
    Title: Stanovich CDPS 2013  
-   Link: <a href="https://keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_CDPS_2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_CDPS_2013.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Myside Bias, Rational Thinking, and Intelligenceby KE Stanovich · 2008 · Cited by 678 — Myside bias can be viewed as a subclass of confir...</p></details>
+   Link:<a href="https://keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_CDPS_2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_CDPS_2013.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Myside Bias, Rational Thinking, and Intelligenceby KE Stanovich · 2008 · Cited by 678 — Myside bias can be viewed as a subclass of confir...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Straw Man Fallacy | Springer Nature Linkby J Schumann · 2025 — The straw man fallacy constitutes an infringement on this prin...</p></details>
+   Link:<a href="https://link.springer.com/chapter/10.1007/978-3-031-94094" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-94094</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Straw Man Fallacy | Springer Nature Linkby J Schumann · 2025 — The straw man fallacy constitutes an infringement on this prin...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: oercollective.caul.edu.au  
-   Link: <a href="https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-principle-of-charity/" target="_blank" rel="noopener noreferrer nofollow">https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-principle-of-charity/</a>  
+   Link:<a href="https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-principle-of-charity/" target="_blank" rel="noopener noreferrer nofollow">https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-principle-of-charity/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1298645_code1083890.pdf?abstractid=1298645&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1298645_code1083890.pdf?abstractid=1298645&amp;mirid=1</a>  
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1298645_code1083890.pdf?abstractid=1298645&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1298645_code1083890.pdf?abstractid=1298645&amp;mirid=1</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: keithstanovich.com  
-   Link: <a href="https://keithstanovich.com/Site/Research_on_Reasoning_files/LAID07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://keithstanovich.com/Site/Research_on_Reasoning_files/LAID07.pdf</a>  
+   Link:<a href="https://keithstanovich.com/Site/Research_on_Reasoning_files/LAID07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://keithstanovich.com/Site/Research_on_Reasoning_files/LAID07.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: keithstanovich.com  
    Title: Critical Thinking Across Disciplines, Vol. 1  
-   Link: <a href="https://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_AOT_Myside_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_AOT_Myside_2025.pdf</a>  
+   Link:<a href="https://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_AOT_Myside_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_AOT_Myside_2025.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reason.com  
    Title: "Steelmanning" and Interpretive Charity  
-   Link: <a href="https://reason.com/volokh/2021/05/12/steelmanning-and-interpretive-charity/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/volokh/2021/05/12/steelmanning-and-interpretive-charity/</a>  
+   Link:<a href="https://reason.com/volokh/2021/05/12/steelmanning-and-interpretive-charity/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/volokh/2021/05/12/steelmanning-and-interpretive-charity/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: iphils.uj.edu.pl  
-   Link: <a href="https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf</a>  
+   Link:<a href="https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cipp.ug.edu.pl  
-   Link: <a href="https://cipp.ug.edu.pl/Intellectual-humility-an-old-problem-in-a-new-psychological-perspective%2C136534%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://cipp.ug.edu.pl/Intellectual-humility-an-old-problem-in-a-new-psychological-perspective%2C136534%2C0%2C2.html</a>  
+   Link:<a href="https://cipp.ug.edu.pl/Intellectual-humility-an-old-problem-in-a-new-psychological-perspective%2C136534%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://cipp.ug.edu.pl/Intellectual-humility-an-old-problem-in-a-new-psychological-perspective%2C136534%2C0%2C2.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10503-023-09615-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-023-09615-8</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s10503-023-09615-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-023-09615-8</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10503-024-09648-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-024-09648-7</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s10503-024-09648-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-024-09648-7</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: fbaum.unc.edu  
    Title: Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects  
-   Link: <a href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ROSS, AND M. LEPPER attitudes and beliefs did change after each new piece of evidence was presented, and from the beginning to the end of...</p></details>
+   Link:<a href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ROSS, AND M. LEPPER attitudes and beliefs did change after each new piece of evidence was presented, and from the beginning to the end of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCActively Open-Minded Thinking and Its Measurement  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by KE Stanovich · 2023 · Cited by 133 — Actively open-minded thinking (AOT) is measured by items that tap the willingness to consider...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by KE Stanovich · 2023 · Cited by 133 — Actively open-minded thinking (AOT) is measured by items that tap the willingness to consider...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: themarginalian.org  
    Title: The Marginalian How to Criticize with Kindness: Philosopher Daniel Dennett  
-   Link: <a href="https://www.themarginalian.org/2014/03/28/daniel-dennett-[rapoport-rules" target="_blank" rel="noopener noreferrer nofollow">https://www.themarginalian.org/2014/03/28/daniel-dennett-[rapoport-rules</a>  
+   Link:<a href="https://www.themarginalian.org/2014/03/28/daniel-dennett-[rapoport-rules" target="_blank" rel="noopener noreferrer nofollow">https://www.themarginalian.org/2014/03/28/daniel-dennett-[rapoport-rules</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sjdm.org  
    Title: Society for Judgment and Decision Making Actively open-minded thinking (AOT)  
-   Link: <a href="https://sjdm.org/~jbaron/ms/talks/aot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sjdm.org/~jbaron/ms/talks/aot.pdf</a>  
+   Link:<a href="https://sjdm.org/~jbaron/ms/talks/aot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sjdm.org/~jbaron/ms/talks/aot.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/6527215/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/6527215/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: statmodeling.stat.columbia.edu  
-   Link: <a href="https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/</a>  
+   Link:<a href="https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: steelmananything.com  
-   Link: <a href="https://steelmananything.com/topics/steelmanning/" target="_blank" rel="noopener noreferrer nofollow">https://steelmananything.com/topics/steelmanning/</a>  
+   Link:<a href="https://steelmananything.com/topics/steelmanning/" target="_blank" rel="noopener noreferrer nofollow">https://steelmananything.com/topics/steelmanning/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: opentextbooks.rug.nl  
    Title: principle of charity  
-   Link: <a href="https://opentextbooks.rug.nl/philosophymigration/chapter/principle-of-charity/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbooks.rug.nl/philosophymigration/chapter/principle-of-charity/</a>  
+   Link:<a href="https://opentextbooks.rug.nl/philosophymigration/chapter/principle-of-charity/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbooks.rug.nl/philosophymigration/chapter/principle-of-charity/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: intelligentspeculation.com  
    Title: the principle of charity  
-   Link: <a href="https://www.intelligentspeculation.com/blog/the-principle-of-charity" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligentspeculation.com/blog/the-principle-of-charity</a>  
+   Link:<a href="https://www.intelligentspeculation.com/blog/the-principle-of-charity" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligentspeculation.com/blog/the-principle-of-charity</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/slang/steelman" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/slang/steelman</a>  
+   Link:<a href="https://www.merriam-webster.com/slang/steelman" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/slang/steelman</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Principle of charity  
-   Link: <a href="https://en.wikipedia.org/wiki/Principle_of_charity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Principle_of_charity</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Principle_of_charity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Principle_of_charity</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: karlsmithmn.org  
    Title: Research On Constructive Controversy  
-   Link: <a href="https://karlsmithmn.org/wp-content/uploads/2017/08/Johnson-Constructive_Controversy-2007-Research-Appendix.pdf" target="_blank" rel="noopener noreferrer nofollow">https://karlsmithmn.org/wp-content/uploads/2017/08/Johnson-Constructive_Controversy-2007-Research-Appendix.pdf</a>  
+   Link:<a href="https://karlsmithmn.org/wp-content/uploads/2017/08/Johnson-Constructive_Controversy-2007-Research-Appendix.pdf" target="_blank" rel="noopener noreferrer nofollow">https://karlsmithmn.org/wp-content/uploads/2017/08/Johnson-Constructive_Controversy-2007-Research-Appendix.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Consider the Opposite  
-   Link: <a href="https://www.youtube.com/watch?v=ieVaeYVaOrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ieVaeYVaOrc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ieVaeYVaOrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ieVaeYVaOrc</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: mindtools.com  
    Title: constructive controversy  
-   Link: <a href="https://www.mindtools.com/absml9b/constructive-controversy/" target="_blank" rel="noopener noreferrer nofollow">https://www.mindtools.com/absml9b/constructive-controversy/</a>  
+   Link:<a href="https://www.mindtools.com/absml9b/constructive-controversy/" target="_blank" rel="noopener noreferrer nofollow">https://www.mindtools.com/absml9b/constructive-controversy/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: britannica.com  
    Title: confirmation bias  
-   Link: <a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
+   Link:<a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reachlink.com  
    Title: confirmation bias  
-   Link: <a href="https://www.reachlink.com/advice/general/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.reachlink.com/advice/general/confirmation-bias/</a>  
+   Link:<a href="https://www.reachlink.com/advice/general/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.reachlink.com/advice/general/confirmation-bias/</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Why Winning an Argument Doesn't Mean You're Right  
-   Link: <a href="https://www.youtube.com/watch?v=3q-v4p5W8qU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3q-v4p5W8qU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7-Steps to Make Any Argument Bulletproof | PersonalityHacker.com/Bulletproof...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3q-v4p5W8qU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3q-v4p5W8qU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7-Steps to Make Any Argument Bulletproof | PersonalityHacker.com/Bulletproof...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/55787043/Myside_Bias_Rational_Thinking_and_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/55787043/Myside_Bias_Rational_Thinking_and_Intelligence</a>  
+   Link:<a href="https://www.academia.edu/55787043/Myside_Bias_Rational_Thinking_and_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/55787043/Myside_Bias_Rational_Thinking_and_Intelligence</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers</a>  
+   Link:<a href="https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390843764_The_Puzzle_of_Myside_Bias_and_Actively_Open-Minded_Thinking_in_the_Conceptualization_of_Critical_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390843764_The_Puzzle_of_Myside_Bias_and_Actively_Open-Minded_Thinking_in_the_Conceptualization_of_Critical_Thinking</a>  
+   Link:<a href="https://www.researchgate.net/publication/390843764_The_Puzzle_of_Myside_Bias_and_Actively_Open-Minded_Thinking_in_the_Conceptualization_of_Critical_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390843764_The_Puzzle_of_Myside_Bias_and_Actively_Open-Minded_Thinking_in_the_Conceptualization_of_Critical_Thinking</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/David-Johnson-113/publication/299914215_Constructive_Controversy_Teaching_Students_How_to_Think_Creatively/links/570ec0e908aee76b9dadfe1b/Constructive-Controversy-Teaching-Students-How-to-Think-Creatively?origin=scientificContributions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/David-Johnson-113/publication/299914215_Constructive_Controversy_Teaching_Students_How_to_Think_Creatively/links/570ec0e908aee76b9dadfe1b/Constructive-Controversy-Teaching-Students-How-to-Think-Creatively?origin=scientificContributions</a>  
+   Link:<a href="https://www.researchgate.net/profile/David-Johnson-113/publication/299914215_Constructive_Controversy_Teaching_Students_How_to_Think_Creatively/links/570ec0e908aee76b9dadfe1b/Constructive-Controversy-Teaching-Students-How-to-Think-Creatively?origin=scientificContributions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/David-Johnson-113/publication/299914215_Constructive_Controversy_Teaching_Students_How_to_Think_Creatively/links/570ec0e908aee76b9dadfe1b/Constructive-Controversy-Teaching-Students-How-to-Think-Creatively?origin=scientificContributions</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
+   Link:<a href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/80715337/Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/80715337/Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
+   Link:<a href="https://www.academia.edu/80715337/Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/80715337/Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4</a>  
+   Link:<a href="https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349976242_Charity_for_moral_reasons_-_A_defense_of_the_principle_of_charity_in_argumentation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349976242_Charity_for_moral_reasons_-_A_defense_of_the_principle_of_charity_in_argumentation</a>  
+   Link:<a href="https://www.researchgate.net/publication/349976242_Charity_for_moral_reasons_-_A_defense_of_the_principle_of_charity_in_argumentation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349976242_Charity_for_moral_reasons_-_A_defense_of_the_principle_of_charity_in_argumentation</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/3723863/Considering_the_opposite_A_corrective_strategy_for_social_judgment" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3723863/Considering_the_opposite_A_corrective_strategy_for_social_judgment</a>  
+   Link:<a href="https://www.academia.edu/3723863/Considering_the_opposite_A_corrective_strategy_for_social_judgment" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3723863/Considering_the_opposite_A_corrective_strategy_for_social_judgment</a>  

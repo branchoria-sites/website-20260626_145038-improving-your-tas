@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_practice_testing_35a599_mistak
 
 ## Introduction
 
-Practice testing only improves judgement if it closes the loop between an attempted answer and an accurate correction. Retrieving an answer from memory exposes what you genuinely know, but feedback determines whether that retrieval strengthens correct understanding or reinforces an error. The most effective learning cycle is therefore not simply **test yourself**, but **test, compare, correct, and revisit**. When done well, every wrong answer becomes [diagnostic evidence]({{ 'diagnostic-evidence/' | relative_url }}): it reveals the precise misconception, overconfidence, or missing connection that needs attention. Research on [retrieval practice]({{ 'retrieval/' | relative_url }}) consistently shows that corrective feedback strengthens the long-term benefits of testing while reducing the risk that learners retain false information or misplaced confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Butler-2011_TCS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[PsychNet+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Roediger Butler 2011 TCS</span><span class="citation-popover-snippet">Although retrieval practice promotes superior long-term retention in the absence of feedback (Figure 1), providing the...Read more...</span></span></span>
+Practice testing only improves judgement if it closes the loop between an attempted answer and an accurate correction. Retrieving an answer from memory exposes what you genuinely know, but feedback determines whether that retrieval strengthens correct understanding or reinforces an error. The most effective learning cycle is therefore not simply **test yourself**, but **test, compare, correct, and revisit**. When done well, every wrong answer becomes [diagnostic evidence]({{ 'diagnostic-evidence/' | relative_url }}): it reveals the precise misconception, overconfidence, or missing connection that needs attention. Research on [retrieval practice]({{ 'retrieval/' | relative_url }}) consistently shows that corrective feedback strengthens the long-term benefits of testing while reducing the risk that learners retain false information or misplaced confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Butler-2011_TCS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[PsychNet+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Roediger Butler 2011 TCS</span><span class="citation-popover-snippet">Although retrieval practice promotes superior long-term retention in the absence of feedback (Figure 1), providing the...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_practice_testing_35a599_mistakes_feedback_277a1a-Illustration-1-dark.svg" | relative_url }}" alt="Feedback illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_practice_testing_35a599_mistakes_feedback_277a1a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_practice_testing_35a599_mistakes_feedback_277a1a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ A failed retrieval is informative in several different ways, and each type of fa
 
 The simplest failure is forgetting. You cannot recall a definition, principle, or example that you believed you knew. This indicates that the memory trace is weak or insufficiently practised.
 
-A more valuable failure is the confident mistake. Here, you retrieve an answer quickly and with certainty, yet it is wrong. This exposes a misconception rather than mere forgetting. Because the incorrect idea is already well established, passive rereading may never reveal the problem. Only comparing your answer against reliable feedback exposes the gap between confidence and correctness. Research on retrieval practice shows that feedback is particularly important when learners generate incorrect responses, because it helps replace rather than reinforce those errors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Butler-2011_TCS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[PsychNet+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Roediger Butler 2011 TCS</span><span class="citation-popover-snippet">Although retrieval practice promotes superior long-term retention in the absence of feedback (Figure 1), providing the...Read more...</span></span></span>
+A more valuable failure is the confident mistake. Here, you retrieve an answer quickly and with certainty, yet it is wrong. This exposes a misconception rather than mere forgetting. Because the incorrect idea is already well established, passive rereading may never reveal the problem. Only comparing your answer against reliable feedback exposes the gap between confidence and correctness. Research on retrieval practice shows that feedback is particularly important when learners generate incorrect responses, because it helps replace rather than reinforce those errors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Butler-2011_TCS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[PsychNet+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Roediger Butler 2011 TCS</span><span class="citation-popover-snippet">Although retrieval practice promotes superior long-term retention in the absence of feedback (Figure 1), providing the...Read more...</span></span></span>
 
 A third failure is incomplete reasoning. You may remember isolated facts but fail to connect them into a coherent explanation or apply them to a new situation. For analytical thinking, this is often the most important signal. The issue is not missing information but an incomplete mental model.
 
@@ -317,9 +317,9 @@ Those questions shift attention from simply correcting answers to improving judg
 
 Retrieval itself strengthens learning, but feedback determines whether that strengthening points in the right direction.
 
-Without feedback, repeated self-testing can sometimes preserve incorrect beliefs, especially when an error is recalled repeatedly with high confidence. Corrective feedback interrupts this cycle by replacing inaccurate retrieval with the correct representation before the mistake becomes more deeply embedded. Reviews of the testing effect consistently conclude that retrieval practice remains effective on its own but becomes even more beneficial when accurate feedback is added. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Butler-2011_TCS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[PsychNet+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Roediger Butler 2011 TCS</span><span class="citation-popover-snippet">Although retrieval practice promotes superior long-term retention in the absence of feedback (Figure 1), providing the...Read more...</span></span></span>
+Without feedback, repeated self-testing can sometimes preserve incorrect beliefs, especially when an error is recalled repeatedly with high confidence. Corrective feedback interrupts this cycle by replacing inaccurate retrieval with the correct representation before the mistake becomes more deeply embedded. Reviews of the testing effect consistently conclude that retrieval practice remains effective on its own but becomes even more beneficial when accurate feedback is added.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Butler-2011_TCS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[PsychNet+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Roediger Butler 2011 TCS</span><span class="citation-popover-snippet">Although retrieval practice promotes superior long-term retention in the absence of feedback (Figure 1), providing the...Read more...</span></span></span>
 
-Feedback also improves metacognition—the ability to judge what you actually know. Studies of classroom [practice tests]({{ 'practice-tests/' | relative_url }}) have found that learners receiving corrective feedback not only performed better but also developed more accurate judgements about their own level of understanding. In other words, feedback improves both knowledge and self-awareness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/359335875_Testing_pays_off_twice_Potentials_of_practice_tests_and_feedback_regarding_exam_performance_and_judgment_accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Testing pays off twice: Potentials of practice tests</span><span class="citation-popover-snippet">Two studies investigated the testing effects on performance and on metacognitive judgment accuracy in authentic learning settings.Read more...</span></span></span>
+Feedback also improves metacognition—the ability to judge what you actually know. Studies of classroom [practice tests]({{ 'practice-tests/' | relative_url }}) have found that learners receiving corrective feedback not only performed better but also developed more accurate judgements about their own level of understanding. In other words, feedback improves both knowledge and self-awareness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/359335875_Testing_pays_off_twice_Potentials_of_practice_tests_and_feedback_regarding_exam_performance_and_judgment_accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Testing pays off twice: Potentials of practice tests</span><span class="citation-popover-snippet">Two studies investigated the testing effects on performance and on metacognitive judgment accuracy in authentic learning settings.Read more...</span></span></span>
 
 This distinction matters because analytical mistakes often begin with inaccurate self-[assessment]({{ 'assessment/' | relative_url }}) rather than missing information. People rarely investigate assumptions they believe are already correct.
 
@@ -327,7 +327,7 @@ This distinction matters because analytical mistakes often begin with inaccurate
 
 The best timing depends on the goal, but for most independent learners, feedback should follow soon after the retrieval attempt.
 
-Immediate correction prevents incorrect answers from becoming familiar through repetition and allows the learner to compare their own reasoning with the correct explanation while the original thought process is still accessible. This comparison helps identify *why* the mistake occurred rather than simply replacing one answer with another. Research across laboratory and classroom settings generally finds positive effects from incorporating feedback into retrieval practice, although the exact timing can vary depending on task complexity and learning goals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-024-03983-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Perspectives on Medical Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Timing of feedback and retrieval practice: a laboratory...by S Aljabri · 2024 · Cited by 6 — The majority of previous studies have...</span></span></span>
+Immediate correction prevents incorrect answers from becoming familiar through repetition and allows the learner to compare their own reasoning with the correct explanation while the original thought process is still accessible. This comparison helps identify *why* the mistake occurred rather than simply replacing one answer with another. Research across laboratory and classroom settings generally finds positive effects from incorporating feedback into retrieval practice, although the exact timing can vary depending on task complexity and learning goals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-024-03983-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature+2Perspectives on Medical Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Timing of feedback and retrieval practice: a laboratory...by S Aljabri · 2024 · Cited by 6 — The majority of previous studies have...</span></span></span>
 
 However, "immediate" should not mean interrupting retrieval before genuine effort. Looking up the answer after only a few seconds removes the desirable difficulty that makes retrieval effective. Productive learning requires attempting the answer first, then checking.
 
@@ -368,7 +368,7 @@ A more useful correction asks:
 
 This turns feedback into a change in decision-making rather than a change in memory alone.
 
-Research on explanatory feedback supports this distinction. Feedback that explains *why* an answer is correct often produces better [transfer]({{ 'transfer/' | relative_url }}) to new problems than feedback consisting only of the correct answer, particularly when learners must apply concepts rather than memorise facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pdf.retrievalpractice.org/transfer/Butler_etal_2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdf.retrievalpractice.org">[PDF Retrieval Practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdf.retrievalpractice.org</span><span class="citation-popover-snippet">C., Karpicke, J. D., &amp; Roediger, H. L., III. (2008). Correcting a meta-cognitive error: Feedback enhances retention of low confidence cor...</span></span></span>
+Research on explanatory feedback supports this distinction. Feedback that explains *why* an answer is correct often produces better [transfer]({{ 'transfer/' | relative_url }}) to new problems than feedback consisting only of the correct answer, particularly when learners must apply concepts rather than memorise facts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pdf.retrievalpractice.org/transfer/Butler_etal_2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdf.retrievalpractice.org">[PDF Retrieval Practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdf.retrievalpractice.org</span><span class="citation-popover-snippet">C., Karpicke, J. D., &amp; Roediger, H. L., III. (2008). Correcting a meta-cognitive error: Feedback enhances retention of low confidence cor...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oqae85jbfbE" title="Henry Roediger - Retrieval Practice to Enhance Learning and Retention" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oqae85jbfbE" target="_blank" rel="noopener noreferrer">Henry Roediger - Retrieval Practice to Enhance Learning and Retention</a></p><p class="youtube-embed-meta">Channel: Montana State University</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oqae85jbfbE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oqae85jbfbE">Open on YouTube</a></p></div></div></div>
@@ -403,201 +403,201 @@ These patterns often reveal stable thinking habits that influence many future de
 
 Correct answers confirm what already works. Wrong answers reveal what needs rebuilding.
 
-The benefit does not come from making mistakes alone. Errors become valuable only when they are followed by accurate feedback, reflection on the underlying reasoning, and another opportunity to retrieve the corrected knowledge. This cycle explains why difficult self-testing frequently produces stronger long-term understanding than comfortable review. The temporary discomfort of discovering an error becomes the mechanism through which judgement becomes more accurate, confidence becomes better calibrated, and analytical thinking grows more reliable over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waddesdonschool.com">[waddesdonschool.com+2bjorklab.psych.ucla.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waddesdonschool.com</span><span class="citation-popover-snippet">n general, learners feel they are learning less well when faced with desirable difficulties, how...</span></span></span>
+The benefit does not come from making mistakes alone. Errors become valuable only when they are followed by accurate feedback, reflection on the underlying reasoning, and another opportunity to retrieve the corrected knowledge. This cycle explains why difficult self-testing frequently produces stronger long-term understanding than comfortable review. The temporary discomfort of discovering an error becomes the mechanism through which judgement becomes more accurate, confidence becomes better calibrated, and analytical thinking grows more reliable over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waddesdonschool.com">[waddesdonschool.com+2bjorklab.psych.ucla.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waddesdonschool.com</span><span class="citation-popover-snippet">n general, learners feel they are learning less well when faced with desirable difficulties, how...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eBz7iUJu9UM" title="How to overcome your mistakes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eBz7iUJu9UM" target="_blank" rel="noopener noreferrer">How to overcome your mistakes</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eBz7iUJu9UM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eBz7iUJu9UM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Wrong Answers Make Better Thinkers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Wrong Answers Make Better Thinkers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains retrieval plus corrective feedback.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains retrieval plus corrective feedback.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
-        </h4>
-        <p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
+</h4>
+<p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
         
-        <p class="fr-book-desc">Highlights feedback in deliberate practice.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights feedback in deliberate practice.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
-        </h4>
-        <p class="fr-book-author">By Benedict Carey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+</h4>
+<p class="fr-book-author">By Benedict Carey</p>
         
-        <p class="fr-book-desc">Covers learning from errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers learning from errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Frames mistakes as opportunities for improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Frames mistakes as opportunities for improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Prince Charles &amp; Camilla 2005 Wedding Memorabilia All New Bundle 4 Wrong Date"><img src="https://i.ebayimg.com/images/g/~~MAAeSwv5Nptqcc/s-l225.jpg" alt="Listing image for Prince Charles &amp; Camilla 2005 Wedding Memorabilia All New Bundle 4 Wrong Date" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Prince Charles &amp; Camilla 2005 Wedding Memorabilia All New Bundle 4 Wrong Date</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wrong memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: wrong memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Prince Charles &amp; Camilla 2005 Wedding Memorabilia All New Bundle 4 Wrong Date"><img src="https://i.ebayimg.com/images/g/~~MAAeSwv5Nptqcc/s-l225.jpg" alt="Listing image for Prince Charles &amp; Camilla 2005 Wedding Memorabilia All New Bundle 4 Wrong Date" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Prince Charles &amp; Camilla 2005 Wedding Memorabilia All New Bundle 4 Wrong Date</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wrong memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: wrong memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Any Trouble - Wrong End Of The Race, Rare Memorabilia"><img src="https://i.ebayimg.com/images/g/GM0AAOSw30liPMM3/s-l225.jpg" alt="Listing image for Any Trouble - Wrong End Of The Race, Rare Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Any Trouble - Wrong End Of The Race, Rare Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wrong memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: wrong memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Any Trouble - Wrong End Of The Race, Rare Memorabilia"><img src="https://i.ebayimg.com/images/g/GM0AAOSw30liPMM3/s-l225.jpg" alt="Listing image for Any Trouble - Wrong End Of The Race, Rare Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Any Trouble - Wrong End Of The Race, Rare Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wrong memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: wrong memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wrong Turn Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="https://i.ebayimg.com/images/g/UyAAAeSwpcpolK6K/s-l225.jpg" alt="Listing image for Wrong Turn Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Wrong Turn Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wrong memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: wrong memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wrong Turn Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="https://i.ebayimg.com/images/g/UyAAAeSwpcpolK6K/s-l225.jpg" alt="Listing image for Wrong Turn Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Wrong Turn Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wrong memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: wrong memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All time low &#x27;So Wrong Its Right&#x27; Pin Badges Music Memorabilia"><img src="https://i.ebayimg.com/images/g/JvUAAeSw4G1p5AVT/s-l225.jpg" alt="Listing image for All time low &#x27;So Wrong Its Right&#x27; Pin Badges Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">All time low &#x27;So Wrong Its Right&#x27; Pin Badges Music Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wrong memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: wrong memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All time low &#x27;So Wrong Its Right&#x27; Pin Badges Music Memorabilia"><img src="https://i.ebayimg.com/images/g/JvUAAeSw4G1p5AVT/s-l225.jpg" alt="Listing image for All time low &#x27;So Wrong Its Right&#x27; Pin Badges Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">All time low &#x27;So Wrong Its Right&#x27; Pin Badges Music Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wrong memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: wrong memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=wrong+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wrong memorabilia -book -books -dvd" data-ebay-reference="why-wrong-answers-make-better-thinkers-wrong-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -613,7 +613,7 @@ The benefit does not come from making mistakes alone. Errors become valuable onl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -633,7 +633,7 @@ The benefit does not come from making mistakes alone. Errors become valuable onl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -665,7 +665,7 @@ The benefit does not come from making mistakes alone. Errors become valuable onl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -717,7 +717,7 @@ The benefit does not come from making mistakes alone. Errors become valuable onl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -762,7 +762,7 @@ The benefit does not come from making mistakes alone. Errors become valuable onl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,173 +802,173 @@ The benefit does not come from making mistakes alone. Errors become valuable onl
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9293038/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9293038/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of feedback type on enhancing subsequent memoryby L Wang · 2021 · Cited by 8 — Compared to the condition of no feedback, giving feedback...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9293038/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9293038/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of feedback type on enhancing subsequent memoryby L Wang · 2021 · Cited by 8 — Compared to the condition of no feedback, giving feedback...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/5359941_Feedback_enhances_the_positive_effects_and_reduces_the_negative_effect_of_multiple-choice_testing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5359941_Feedback_enhances_the_positive_effects_and_reduces_the_negative_effect_of_multiple-choice_testing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Feedback enhances the positive effects and reduces...The present research investigated whether feedback could be used to boost the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/5359941_Feedback_enhances_the_positive_effects_and_reduces_the_negative_effect_of_multiple-choice_testing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5359941_Feedback_enhances_the_positive_effects_and_reduces_the_negative_effect_of_multiple-choice_testing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Feedback enhances the positive effects and reduces...The present research investigated whether feedback could be used to boost the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Testing pays off twice: Potentials of practice tests  
-   Link: <a href="https://www.researchgate.net/publication/359335875_Testing_pays_off_twice_Potentials_of_practice_tests_and_feedback_regarding_exam_performance_and_judgment_accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359335875_Testing_pays_off_twice_Potentials_of_practice_tests_and_feedback_regarding_exam_performance_and_judgment_accuracy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two studies investigated the testing effects on performance and on metacognitive judgment accuracy in authentic learning settings.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/359335875_Testing_pays_off_twice_Potentials_of_practice_tests_and_feedback_regarding_exam_performance_and_judgment_accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359335875_Testing_pays_off_twice_Potentials_of_practice_tests_and_feedback_regarding_exam_performance_and_judgment_accuracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two studies investigated the testing effects on performance and on metacognitive judgment accuracy in authentic learning settings.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-024-03983-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-03983-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Timing of feedback and retrieval practice: a laboratory...by S Aljabri · 2024 · Cited by 6 — The majority of previous studies have...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-024-03983-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-03983-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timing of feedback and retrieval practice: a laboratory...by S Aljabri · 2024 · Cited by 6 — The majority of previous studies have...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5183614/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5183614/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing Effect and Far Transfer: The Role of Exposure to...by GG van Eersel · 2016 · Cited by 32 — Butler (2010: Experiment 3) showed th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5183614/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5183614/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testing Effect and Far Transfer: The Role of Exposure to...by GG van Eersel · 2016 · Cited by 32 — Butler (2010: Experiment 3) showed th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: waddesdonschool.com  
-   Link: <a href="https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n general, learners feel they are learning less well when faced with desirable difficulties, how...</p></details>
+   Link:<a href="https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n general, learners feel they are learning less well when faced with desirable difficulties, how...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: EBjork RBjork 2011  
-   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creating Desirable Difficulties to Enhance Learningby EL Bjork · Cited by 2226 — Bjork: My interests in optimizing learning were triggere...</p></details>
+   Link:<a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creating Desirable Difficulties to Enhance Learningby EL Bjork · Cited by 2226 — Bjork: My interests in optimizing learning were triggere...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/284097727_Making_things_hard_on_yourself_but_in_a_good_way_Creating_desirable_difficulties_to_enhance_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284097727_Making_things_hard_on_yourself_but_in_a_good_way_Creating_desirable_difficulties_to_enhance_learning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Making things hard on yourself, but in a good wayBjork and Bjork (2011) argued that some learning conditions that slow immediate pe...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/284097727_Making_things_hard_on_yourself_but_in_a_good_way_Creating_desirable_difficulties_to_enhance_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284097727_Making_things_hard_on_yourself_but_in_a_good_way_Creating_desirable_difficulties_to_enhance_learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Making things hard on yourself, but in a good wayBjork and Bjork (2011) argued that some learning conditions that slow immediate pe...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/5246898_Correcting_a_Metacognitive_Error_Feedback_Increases_Retention_of_Low-Confidence_Correct_Responses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5246898_Correcting_a_Metacognitive_Error_Feedback_Increases_Retention_of_Low-Confidence_Correct_Responses</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ck serves to correct this initial metacognitive error, enhancing retention.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/5246898_Correcting_a_Metacognitive_Error_Feedback_Increases_Retention_of_Low-Confidence_Correct_Responses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5246898_Correcting_a_Metacognitive_Error_Feedback_Increases_Retention_of_Low-Confidence_Correct_Responses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ck serves to correct this initial metacognitive error, enhancing retention.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
    Title: 347931447 Desirable Difficulties in Theory and Practice  
-   Link: <a href="https://www.researchgate.net/publication/347931447_Desirable_Difficulties_in_Theory_and_Practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347931447_Desirable_Difficulties_in_Theory_and_Practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Desirable Difficulties in Theory and Practice3 Jan 2021 — Rationale: Learning is most effective when it involves &quot;desirable difficu...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/347931447_Desirable_Difficulties_in_Theory_and_Practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347931447_Desirable_Difficulties_in_Theory_and_Practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Desirable Difficulties in Theory and Practice3 Jan 2021 — Rationale: Learning is most effective when it involves &quot;desirable difficu...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/5574966_The_Critical_Importance_of_Retrieval_for_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5574966_The_Critical_Importance_of_Retrieval_for_Learning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Critical Importance of Retrieval for LearningClassroombased research has demonstrated that retrieval practice following lecture...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/5574966_The_Critical_Importance_of_Retrieval_for_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5574966_The_Critical_Importance_of_Retrieval_for_Learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Critical Importance of Retrieval for LearningClassroombased research has demonstrated that retrieval practice following lecture...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/47448936_The_critical_role_of_retrieval_practice_in_long-term_retention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/47448936_The_critical_role_of_retrieval_practice_in_long-term_retention</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The critical role of retrieval practice in long-term retentionAccording to Roediger and Butler [51], retrieval practice such as recallin...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/47448936_The_critical_role_of_retrieval_practice_in_long-term_retention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/47448936_The_critical_role_of_retrieval_practice_in_long-term_retention</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The critical role of retrieval practice in long-term retentionAccording to Roediger and Butler [51], retrieval practice such as recallin...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399606964_Why_Desirable_Difficulties_%27Work%27_A_Review_of_the_Evidence_From_Cognitive_and_Educational_Psychology_and_Some_Caveats_for_the_Health_Professions_Education_Field" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399606964_Why_Desirable_Difficulties_%27Work%27_A_Review_of_the_Evidence_From_Cognitive_and_Educational_Psychology_and_Some_Caveats_for_the_Health_Professions_Education_Field</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Desirable Difficulties &#x27;Work&#x27;: A Review of the Evidence...Jan 9, 2026 — Aim In this paper, I review the evidence from the cognitive...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399606964_Why_Desirable_Difficulties_%27Work%27_A_Review_of_the_Evidence_From_Cognitive_and_Educational_Psychology_and_Some_Caveats_for_the_Health_Professions_Education_Field" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399606964_Why_Desirable_Difficulties_%27Work%27_A_Review_of_the_Evidence_From_Cognitive_and_Educational_Psychology_and_Some_Caveats_for_the_Health_Professions_Education_Field</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Desirable Difficulties &#x27;Work&#x27;: A Review of the Evidence...Jan 9, 2026 — Aim In this paper, I review the evidence from the cognitive...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bjorklab.psych.ucla.edu  
-   Link: <a href="https://bjorklab.psych.ucla.edu/research/" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(1994) dubbed these difficult but effective training conditions desirable difficulties. Other examples of desirable difficulties varying...</p></details>
+   Link:<a href="https://bjorklab.psych.ucla.edu/research/" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(1994) dubbed these difficult but effective training conditions desirable difficulties. Other examples of desirable difficulties varying...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Butler 2011 TCS  
-   Link: <a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Butler-2011_TCS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Butler-2011_TCS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although retrieval practice promotes superior long-term retention in the absence of feedback (Figure 1), providing the...Read more...</p></details>
+   Link:<a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Butler-2011_TCS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Butler-2011_TCS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although retrieval practice promotes superior long-term retention in the absence of feedback (Figure 1), providing the...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20951630/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20951630/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>critical role of retrieval practice in long-term retentionby HL Roediger 3rd · 2011 · Cited by 2726 — Retrieval practice is actually a po...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/20951630/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20951630/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>critical role of retrieval practice in long-term retentionby HL Roediger 3rd · 2011 · Cited by 2726 — Retrieval practice is actually a po...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmejournal.org  
-   Link: <a href="https://pmejournal.org/articles/10.1007/S40037-020-00606-Z" target="_blank" rel="noopener noreferrer nofollow">https://pmejournal.org/articles/10.1007/S40037-020-00606-Z</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perspectives on Medical EducationMore effective feedback for formative multiple-choice testsby A Ryan · 2020 · Cited by 35 — This study i...</p></details>
+   Link:<a href="https://pmejournal.org/articles/10.1007/S40037-020-00606-Z" target="_blank" rel="noopener noreferrer nofollow">https://pmejournal.org/articles/10.1007/S40037-020-00606-Z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perspectives on Medical EducationMore effective feedback for formative multiple-choice testsby A Ryan · 2020 · Cited by 35 — This study i...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pdf.retrievalpractice.org  
-   Link: <a href="https://pdf.retrievalpractice.org/transfer/Butler_etal_2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdf.retrievalpractice.org/transfer/Butler_etal_2013.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C., Karpicke, J. D., &amp; Roediger, H. L., III. (2008). Correcting a meta-cognitive error: Feedback enhances retention of low confidence cor...</p></details>
+   Link:<a href="https://pdf.retrievalpractice.org/transfer/Butler_etal_2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdf.retrievalpractice.org/transfer/Butler_etal_2013.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C., Karpicke, J. D., &amp; Roediger, H. L., III. (2008). Correcting a meta-cognitive error: Feedback enhances retention of low confidence cor...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/retrieval" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/retrieval</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarythe process of finding and bringing back something: the storage and retrieval of information. The...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/retrieval" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/retrieval</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarythe process of finding and bringing back something: the storage and retrieval of information. The...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/feedback" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/feedback</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary3 days ago — information about something such as a new product or someone&#x27;s work, that provides a...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/feedback" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/feedback</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary3 days ago — information about something such as a new product or someone&#x27;s work, that provides a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Desirable difficulty  
-   Link: <a href="https://en.wikipedia.org/wiki/Desirable_difficulty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Desirable_difficulty</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Desirable difficultyA desirable difficulty is a learning task that requires a considerable but desirable amount of effort, thereby imp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Desirable_difficulty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Desirable_difficulty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Desirable difficultyA desirable difficulty is a learning task that requires a considerable but desirable amount of effort, thereby imp...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cirl.etoncollege.com  
    Title: desirable difficulties  
-   Link: <a href="https://cirl.etoncollege.com/desirable-difficulties/" target="_blank" rel="noopener noreferrer nofollow">https://cirl.etoncollege.com/desirable-difficulties/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Difficulties - CIRL - Eton College1 Dec 2020 — Spaced practice and interleaving support this process: &#x27;when you let the memory recede a l...</p></details>
+   Link:<a href="https://cirl.etoncollege.com/desirable-difficulties/" target="_blank" rel="noopener noreferrer nofollow">https://cirl.etoncollege.com/desirable-difficulties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Difficulties - CIRL - Eton College1 Dec 2020 — Spaced practice and interleaving support this process: &#x27;when you let the memory recede a l...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: davidsondavie.edu  
-   Link: <a href="https://www.davidsondavie.edu/desirable-difficulty/" target="_blank" rel="noopener noreferrer nofollow">https://www.davidsondavie.edu/desirable-difficulty/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Desirable DifficultyRetrieval Practice – This is the practice of having students recall previously learned content on a regular basis. By...</p></details>
+   Link:<a href="https://www.davidsondavie.edu/desirable-difficulty/" target="_blank" rel="noopener noreferrer nofollow">https://www.davidsondavie.edu/desirable-difficulty/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Desirable DifficultyRetrieval Practice – This is the practice of having students recall previously learned content on a regular basis. By...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/feedback</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FEEDBACK Definition &amp; Meaning6 days ago — The meaning of FEEDBACK is the transmission of evaluative or corrective information about an ac...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/feedback</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FEEDBACK Definition &amp; Meaning6 days ago — The meaning of FEEDBACK is the transmission of evaluative or corrective information about an ac...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/age-of-awareness/a-deep-dive-into-desirable-difficulties-41dbd17e9b9e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/age-of-awareness/a-deep-dive-into-desirable-difficulties-41dbd17e9b9e</a>  
+   Link:<a href="https://medium.com/age-of-awareness/a-deep-dive-into-desirable-difficulties-41dbd17e9b9e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/age-of-awareness/a-deep-dive-into-desirable-difficulties-41dbd17e9b9e</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: kirschnered.nl  
-   Link: <a href="https://www.kirschnered.nl/2025/01/02/desirable-difficulties-and-cognitive-load-three-authors-solve-a-non-existent-problem/" target="_blank" rel="noopener noreferrer nofollow">https://www.kirschnered.nl/2025/01/02/desirable-difficulties-and-cognitive-load-three-authors-solve-a-non-existent-problem/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork[4], suggests that creating certain types of difficulty during learning can enhance long-term memory. It emphasises that tasks...Re...</p></details>
+   Link:<a href="https://www.kirschnered.nl/2025/01/02/desirable-difficulties-and-cognitive-load-three-authors-solve-a-non-existent-problem/" target="_blank" rel="noopener noreferrer nofollow">https://www.kirschnered.nl/2025/01/02/desirable-difficulties-and-cognitive-load-three-authors-solve-a-non-existent-problem/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork[4], suggests that creating certain types of difficulty during learning can enhance long-term memory. It emphasises that tasks...Re...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: mike-taylor.org  
-   Link: <a href="https://mike-taylor.org/2025/12/01/the-testing-effect-why-retrieval-practice-is-your-most-powerful-learning-tool/" target="_blank" rel="noopener noreferrer nofollow">https://mike-taylor.org/2025/12/01/the-testing-effect-why-retrieval-practice-is-your-most-powerful-learning-tool/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It exposes the gap between what you think you know and what you can actually recall. This is a metacognitive...Read more...</p></details>
+   Link:<a href="https://mike-taylor.org/2025/12/01/the-testing-effect-why-retrieval-practice-is-your-most-powerful-learning-tool/" target="_blank" rel="noopener noreferrer nofollow">https://mike-taylor.org/2025/12/01/the-testing-effect-why-retrieval-practice-is-your-most-powerful-learning-tool/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It exposes the gap between what you think you know and what you can actually recall. This is a metacognitive...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ssoar.info  
    Title: ssoar frontpsychol 2021 ruth et al The Effects of Different Feedback  
-   Link: <a href="https://www.ssoar.info/ssoar/bitstream/document/85357/1/ssoar-frontpsychol-2021-ruth_et_al-The_Effects_of_Different_Feedback.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ssoar.info/ssoar/bitstream/document/85357/1/ssoar-frontpsychol-2021-ruth_et_al-The_Effects_of_Different_Feedback.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects of Different Feedback Types on Learning With...31 May 2021 — In two experimental studies, we examined the effects of two fee...</p></details>
+   Link:<a href="https://www.ssoar.info/ssoar/bitstream/document/85357/1/ssoar-frontpsychol-2021-ruth_et_al-The_Effects_of_Different_Feedback.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ssoar.info/ssoar/bitstream/document/85357/1/ssoar-frontpsychol-2021-ruth_et_al-The_Effects_of_Different_Feedback.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects of Different Feedback Types on Learning With...31 May 2021 — In two experimental studies, we examined the effects of two fee...</p></details>
    Published: May 2021  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/ja/document/poole-gakuin-university/psychology/critical-role-of-retrieval-practice-in-retention/33101964" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/ja/document/poole-gakuin-university/psychology/critical-role-of-retrieval-practice-in-retention/33101964</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tter recall than did immediate feedback (given after each question was answered).Read more...</p></details>
+   Link:<a href="https://www.studocu.com/ja/document/poole-gakuin-university/psychology/critical-role-of-retrieval-practice-in-retention/33101964" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/ja/document/poole-gakuin-university/psychology/critical-role-of-retrieval-practice-in-retention/33101964</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tter recall than did immediate feedback (given after each question was answered).Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/83864006/Correcting_a_metacognitive_error_Feedback_increases_retention_of_low_confidence_correct_responses" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/83864006/Correcting_a_metacognitive_error_Feedback_increases_retention_of_low_confidence_correct_responses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>feedback serves to correct this initial metacognitive error, enhancing...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/83864006/Correcting_a_metacognitive_error_Feedback_increases_retention_of_low_confidence_correct_responses" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/83864006/Correcting_a_metacognitive_error_Feedback_increases_retention_of_low_confidence_correct_responses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>feedback serves to correct this initial metacognitive error, enhancing...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: structural-learning.com  
-   Link: <a href="https://www.structural-learning.com/post/desirable-difficulties" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/desirable-difficulties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rieval practice, generation, and elaboration, into one powerful...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/desirable-difficulties" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/desirable-difficulties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rieval practice, generation, and elaboration, into one powerful...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: formative-action.com  
    Title: desirable difficulties no pain no gain  
-   Link: <a href="https://formative-action.com/desirable-difficulties-no-pain-no-gain/" target="_blank" rel="noopener noreferrer nofollow">https://formative-action.com/desirable-difficulties-no-pain-no-gain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No pain, no gain – on desirable difficulties13 May 2024 — Desirable difficulties are learning techniques that are not necessarily comfort...</p></details>
+   Link:<a href="https://formative-action.com/desirable-difficulties-no-pain-no-gain/" target="_blank" rel="noopener noreferrer nofollow">https://formative-action.com/desirable-difficulties-no-pain-no-gain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No pain, no gain – on desirable difficulties13 May 2024 — Desirable difficulties are learning techniques that are not necessarily comfort...</p></details>
    Published: May 2024  

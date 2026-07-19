@@ -451,7 +451,7 @@ Writing down a reasoning chain is a practical way to make thinking clearer becau
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_written_reasoning_ch_b4e5fd-overview.webp" | relative_url }}" alt="Overview image for Reasoning Chain" loading="eager" decoding="sync" fetchpriority="high">
-The method is simple: put the conclusion on paper, then write the route that supposedly supports it. Research on metacognition, self-explanation, argument mapping and debiasing all points in the same direction: people reason better when they are prompted to explain, monitor and revise their own thinking, especially when the task is complex enough for intuition to outrun scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8734377/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Strong metacognitive skills have the power to impact student learning and performance.Read more...</span></span></span>
+The method is simple: put the conclusion on paper, then write the route that supposedly supports it. Research on metacognition, self-explanation, argument mapping and debiasing all points in the same direction: people reason better when they are prompted to explain, monitor and revise their own thinking, especially when the task is complex enough for intuition to outrun scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8734377/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Strong metacognitive skills have the power to impact student learning and performance.Read more...</span></span></span>
 
 ## The question-to-answer chain
 
@@ -470,9 +470,9 @@ A useful chain has five parts:
 
 </div>
 
-This structure matters because ordinary prose can hide the difference between a claim, a reason and evidence. The University of Pittsburgh’s guide to argument describes an argument as claims backed by reasons, with reasons supported by evidence; that distinction is the backbone of visible reasoning. Without it, “I think this project will work because the team is excited” can look like analysis, when it may be only a mood report unless linked to evidence about capacity, demand, cost, risk and alternatives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comm.pitt.edu/argument-claims-reasons-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comm.pitt.edu">[Department of Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comm.pitt.edu</span><span class="citation-popover-title">Argumentation is a social process of two or more people making arguments</span><span class="citation-popover-snippet">Department of CommunicationArgument: Claims, Reasons, Evidence - CommunicationArguments are claims backed by reasons that are supported b...</span></span></span>
+This structure matters because ordinary prose can hide the difference between a claim, a reason and evidence. The University of Pittsburgh’s guide to argument describes an argument as claims backed by reasons, with reasons supported by evidence; that distinction is the backbone of visible reasoning. Without it, “I think this project will work because the team is excited” can look like analysis, when it may be only a mood report unless linked to evidence about capacity, demand, cost, risk and alternatives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comm.pitt.edu/argument-claims-reasons-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comm.pitt.edu">[Department of Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comm.pitt.edu</span><span class="citation-popover-title">Argumentation is a social process of two or more people making arguments</span><span class="citation-popover-snippet">Department of CommunicationArgument: Claims, Reasons, Evidence - CommunicationArguments are claims backed by reasons that are supported b...</span></span></span>
 
-A written chain also gives the mind a stable object to work on. Research on external representations and cognitive offloading shows why this helps: writing things down can reduce the load on working memory, making it easier to compare several pieces of information at once rather than holding everything internally. Cognitive offloading is not laziness when it supports the task; it can free mental capacity for checking relationships, spotting contradictions and improving the next step. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6942100/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Evidence Based Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AB Morrison · 2020 · Cited by 104 — Instead, our findings suggest that cognitive offloading may be a valid compensatory strategy to...</span></span></span>
+A written chain also gives the mind a stable object to work on. Research on external representations and cognitive offloading shows why this helps: writing things down can reduce the load on working memory, making it easier to compare several pieces of information at once rather than holding everything internally. Cognitive offloading is not laziness when it supports the task; it can free mental capacity for checking relationships, spotting contradictions and improving the next step.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6942100/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Evidence Based Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AB Morrison · 2020 · Cited by 104 — Instead, our findings suggest that cognitive offloading may be a valid compensatory strategy to...</span></span></span>
 
 A simple example shows the difference:
 
@@ -488,21 +488,21 @@ The second version is not just longer. It separates conclusion, evidence, assump
 
 Writing makes gaps visible because it slows down the move from confidence to conclusion. The gap may be a missing definition, a hidden assumption, a weak comparison, a neglected alternative or a piece of evidence that is doing more work than it can bear.
 
-One of the most important gaps is the difference between explaining and justifying. People can often explain why they like an answer after they have already chosen it. A written chain is more useful when it forces the reasoning to appear before commitment, while there is still room to change course. This is why metacognitive [prompts]({{ 'prompts/' | relative_url }}) are valuable: they ask the thinker to notice how they arrived at an answer, where they remain unsure and which strategy they are using. Johns Hopkins’ writing guidance makes this point in an educational setting, noting that prompts such as “How did I arrive at this result?” and “Where do I remain confused?” make thinking explicit rather than leaving it implicit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://krieger.jhu.edu/writing-program/writing-in-the-majors/teaching-writing/writing-for-metacognition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krieger.jhu.edu">[krieger.jhu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krieger.jhu.edu</span><span class="citation-popover-title">Writing for Metacognition: Encouraging thinking about thinking</span><span class="citation-popover-snippet">Writing for Metacognition: Encouraging thinking about thinking</span></span></span>
+One of the most important gaps is the difference between explaining and justifying. People can often explain why they like an answer after they have already chosen it. A written chain is more useful when it forces the reasoning to appear before commitment, while there is still room to change course. This is why metacognitive [prompts]({{ 'prompts/' | relative_url }}) are valuable: they ask the thinker to notice how they arrived at an answer, where they remain unsure and which strategy they are using. Johns Hopkins’ writing guidance makes this point in an educational setting, noting that prompts such as “How did I arrive at this result?” and “Where do I remain confused?” make thinking explicit rather than leaving it implicit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://krieger.jhu.edu/writing-program/writing-in-the-majors/teaching-writing/writing-for-metacognition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krieger.jhu.edu">[krieger.jhu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krieger.jhu.edu</span><span class="citation-popover-title">Writing for Metacognition: Encouraging thinking about thinking</span><span class="citation-popover-snippet">Writing for Metacognition: Encouraging thinking about thinking</span></span></span>
 
-Self-explanation research gives a more specific mechanism. When learners explain steps to themselves, they often have to connect new information with prior knowledge, infer missing links and monitor whether the explanation actually makes sense. Reviews of self-explanation find it can support learning, although it is not magic: it works best when prompts are well matched to the material and do not overload the learner or pull attention away from what needs to be learned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-016-1079-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Constraints on when self-explanation aids learningby B Rittle-Johnson · 2017 · Cited by 135 — Generating explanations for oneself...</span></span></span>
+Self-explanation research gives a more specific mechanism. When learners explain steps to themselves, they often have to connect new information with prior knowledge, infer missing links and monitor whether the explanation actually makes sense. Reviews of self-explanation find it can support learning, although it is not magic: it works best when prompts are well matched to the material and do not overload the learner or pull attention away from what needs to be learned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Constraints on when self-explanation aids learningby B Rittle-Johnson · 2017 · Cited by 135 — Generating explanations for oneself...</span></span></span>
 
 The same logic applies outside classrooms. In a hiring decision, a manager may write: “Candidate B is the strongest because they interviewed well.” The chain exposes the gap immediately: interviewed well in what respect? Better evidence would separate communication, relevant experience, work sample quality, references and risk. In a personal finance decision, “This investment feels safe because several friends use it” becomes more testable when rewritten as: “The claim is that this option is low risk; the evidence currently consists of social proof, not independent information about fees, volatility, liquidity or downside cases.”
 
-Written reasoning is especially useful against confirmation bias, the tendency to notice and favour information that fits existing beliefs. A visible chain lets the thinker ask, “Which part of this paragraph would I have written differently if I were trying to prove myself wrong?” That question turns disagreement from an annoyance into an audit tool. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Open source on thedecisionlab.com.</span></span></span>
+Written reasoning is especially useful against confirmation bias, the tendency to notice and favour information that fits existing beliefs. A visible chain lets the thinker ask, “Which part of this paragraph would I have written differently if I were trying to prove myself wrong?” That question turns disagreement from an annoyance into an audit tool.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Open source on thedecisionlab.com.</span></span></span>
 
 ## Why the method works best as a small intervention
 
 The value of written chains is not that they replace judgement. It is that they add a small amount of friction at the moment when friction is useful. In [low-stakes]({{ 'low-stakes/' | relative_url }}) routine choices, writing everything down would be wasteful. In decisions involving money, risk, people, strategy, diagnosis or long-term consequences, a short written chain can prevent the mind from treating a first answer as a finished answer.
 
-This makes written reasoning a policy intervention as much as a personal habit. A team can decide that certain decisions require a one-page reasoning note before approval. A school can ask students to show the reasoning behind an answer, not just the answer. A clinic can use diagnostic [checklists]({{ 'checklists/' | relative_url }}) and cognitive forcing strategies that require clinicians to pause, consider alternatives and guard against known pitfalls in judgement. Pat Croskerry’s work on cognitive forcing strategies in clinical decision-making frames this as a metacognitive approach: clinicians can be taught strategies that interrupt latent reasoning errors before they harden into diagnostic mistakes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12514691/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+This makes written reasoning a policy intervention as much as a personal habit. A team can decide that certain decisions require a one-page reasoning note before approval. A school can ask students to show the reasoning behind an answer, not just the answer. A clinic can use diagnostic [checklists]({{ 'checklists/' | relative_url }}) and cognitive forcing strategies that require clinicians to pause, consider alternatives and guard against known pitfalls in judgement. Pat Croskerry’s work on cognitive forcing strategies in clinical decision-making frames this as a metacognitive approach: clinicians can be taught strategies that interrupt latent reasoning errors before they harden into diagnostic mistakes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12514691/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-The same principle appears in evidence-based management. The Chartered Institute of Personnel and Development describes evidence-based practice as decision-making that uses the best available evidence from multiple sources, including scientific research, organisational data, professional expertise and stakeholder evidence. A written chain is the document-level version of that idea: it records which sources are being used, which are missing and how strongly they support the decision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipd.org">[CIPD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipd.org</span><span class="citation-popover-title">Evidence-based practice for effective decision-making</span><span class="citation-popover-snippet">Evidence-based practice for effective decision-making</span></span></span>
+The same principle appears in evidence-based management. The Chartered Institute of Personnel and Development describes evidence-based practice as decision-making that uses the best available evidence from multiple sources, including scientific research, organisational data, professional expertise and stakeholder evidence. A written chain is the document-level version of that idea: it records which sources are being used, which are missing and how strongly they support the decision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipd.org">[CIPD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipd.org</span><span class="citation-popover-title">Evidence-based practice for effective decision-making</span><span class="citation-popover-snippet">Evidence-based practice for effective decision-making</span></span></span>
 
 The intervention should be light enough to survive contact with real work. A three-hour reasoning ritual will be skipped. A five-minute written chain can become normal. The practical test is whether the format changes behaviour: does it make people define the decision, compare alternatives, name uncertainty and record what would change their mind?
 
@@ -540,11 +540,11 @@ Use this when a conclusion depends on several moving parts.
 
 ClaimEvidenceAssumptionHow to test itThis project can launch in SeptemberCurrent prototype is working; two developers availableNo major integration issues will appearRun a technical review before final approvalCustomers will pay for itPositive interview feedbackInterview enthusiasm will convert into purchaseTest pricing with a small paid pilotIt will not delay higher-priority workTeam says workload is manageableThe team is underestimating support timeAsk each lead for a written estimate and risk list
 
-The table is useful because assumptions stop hiding inside confident sentences. It also encourages “live alternatives”: perhaps the project is promising but too early, or commercially attractive but operationally risky. Argument mapping works on a similar principle at a more formal level: it represents claims, reasons, objections and links so that the structure of an argument can be seen rather than inferred from a block of prose. Research and teaching guides on argument mapping emphasise its use for clarifying complex, multi-layer arguments and improving critical thinking practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://libguides.usask.ca/CriticalThinkingTutorial/ArgumentAnalysis/ArgumentMapping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.usask.ca">[libguides.usask.ca+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.usask.ca</span><span class="citation-popover-title">Critical Thinking Tutorial: Argument Mapping</span><span class="citation-popover-snippet">Critical Thinking Tutorial: Argument Mapping</span></span></span>
+The table is useful because assumptions stop hiding inside confident sentences. It also encourages “live alternatives”: perhaps the project is promising but too early, or commercially attractive but operationally risky. Argument mapping works on a similar principle at a more formal level: it represents claims, reasons, objections and links so that the structure of an argument can be seen rather than inferred from a block of prose. Research and teaching guides on argument mapping emphasise its use for clarifying complex, multi-layer arguments and improving critical thinking practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://libguides.usask.ca/CriticalThinkingTutorial/ArgumentAnalysis/ArgumentMapping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.usask.ca">[libguides.usask.ca+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.usask.ca</span><span class="citation-popover-title">Critical Thinking Tutorial: Argument Mapping</span><span class="citation-popover-snippet">Critical Thinking Tutorial: Argument Mapping</span></span></span>
 
 ### The premortem chain
 
-Use this before a significant plan, especially when enthusiasm is high. A premortem asks people to imagine that the project has failed and then write the most plausible reasons why. Gary Klein introduced the project premortem in Harvard Business Review as a way to make dissent safer during planning: instead of asking vaguely what might go wrong, the team assumes failure has happened and works backwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review Performing a Project Premortem</span><span class="citation-popover-snippet">Harvard Business Review Performing a Project Premortem</span></span></span>
+Use this before a significant plan, especially when enthusiasm is high. A premortem asks people to imagine that the project has failed and then write the most plausible reasons why. Gary Klein introduced the project premortem in Harvard Business Review as a way to make dissent safer during planning: instead of asking vaguely what might go wrong, the team assumes failure has happened and works backwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review Performing a Project Premortem</span><span class="citation-popover-snippet">Harvard Business Review Performing a Project Premortem</span></span></span>
 
 A compact written premortem looks like this:
 
@@ -579,7 +579,7 @@ A useful version has three prompts:
 
 </div>
 
-Research on “consider the opposite” and related alternative-generation strategies suggests that prompting people to formulate alternative hypotheses can reduce some judgement biases. The effect depends on context and execution, but the practical lesson is sound: a reasoning chain that contains no serious alternative may be less an analysis than a defence brief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0032258X211038888" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
+Research on “consider the opposite” and related alternative-generation strategies suggests that prompting people to formulate alternative hypotheses can reduce some judgement biases. The effect depends on context and execution, but the practical lesson is sound: a reasoning chain that contains no serious alternative may be less an analysis than a defence brief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0032258X211038888" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v4HhzvSgUpU" title="Evaluating a source’s reasoning and evidence | Reading | Khan Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v4HhzvSgUpU" target="_blank" rel="noopener noreferrer">Evaluating a source’s reasoning and evidence | Reading | Khan Academy</a></p><p class="youtube-embed-meta">Channel: Khan Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v4HhzvSgUpU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v4HhzvSgUpU">Open on YouTube</a></p></div></div></div>
@@ -592,11 +592,11 @@ There are three common failure modes.
 
 **First, rationalisation.** The chain is written after the answer has already been chosen, and its real job is to make the decision sound reasonable. This is why timing matters. The most valuable chains are written before commitment or during review, not merely after the outcome needs defending.
 
-**Second, false precision.** A neat table can make uncertainty look more controlled than it is. If the evidence is thin, the chain should say so directly. Evidence-based decision-making does not mean every decision has strong evidence; it means the decision-maker is explicit about the quality, source and limits of the evidence being used. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipd.org">[CIPD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipd.org</span><span class="citation-popover-title">Evidence-based practice for effective decision-making</span><span class="citation-popover-snippet">Evidence-based practice for effective decision-making</span></span></span>
+**Second, false precision.** A neat table can make uncertainty look more controlled than it is. If the evidence is thin, the chain should say so directly. Evidence-based decision-making does not mean every decision has strong evidence; it means the decision-maker is explicit about the quality, source and limits of the evidence being used.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipd.org">[CIPD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipd.org</span><span class="citation-popover-title">Evidence-based practice for effective decision-making</span><span class="citation-popover-snippet">Evidence-based practice for effective decision-making</span></span></span>
 
-**Third, overload.** Self-explanation can backfire when prompts are too broad, too frequent or poorly matched to the learner’s level. Reviews of self-explanation warn that it can improve some aspects of learning while reducing others if it diverts attention or imposes too much cognitive demand. For practical reasoning, this means the template should stay lean: the point is to expose the structure, not to produce paperwork for its own sake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-016-1079-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Constraints on when self-explanation aids learningby B Rittle-Johnson · 2017 · Cited by 135 — Generating explanations for oneself...</span></span></span>
+**Third, overload.** Self-explanation can backfire when prompts are too broad, too frequent or poorly matched to the learner’s level. Reviews of self-explanation warn that it can improve some aspects of learning while reducing others if it diverts attention or imposes too much cognitive demand. For practical reasoning, this means the template should stay lean: the point is to expose the structure, not to produce paperwork for its own sake.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Constraints on when self-explanation aids learningby B Rittle-Johnson · 2017 · Cited by 135 — Generating explanations for oneself...</span></span></span>
 
-A modern caution comes from artificial intelligence. “Chain-of-thought” prompting in large language models can improve performance on multi-step reasoning tasks, but visible reasoning traces are not always faithful records of how an answer was formed. Recent work on reasoning traces warns that visible steps can become performative or misaligned with the underlying answer process. For human learners, the lesson is not that written reasoning is useless; it is that a written chain should be treated as an object to test, not as proof that genuine understanding has occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2201.11903" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</span><span class="citation-popover-snippet">arXiv Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</span></span></span>
+A modern caution comes from artificial intelligence. “Chain-of-thought” prompting in large language models can improve performance on multi-step reasoning tasks, but visible reasoning traces are not always faithful records of how an answer was formed. Recent work on reasoning traces warns that visible steps can become performative or misaligned with the underlying answer process. For human learners, the lesson is not that written reasoning is useless; it is that a written chain should be treated as an object to test, not as proof that genuine understanding has occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2201.11903" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</span><span class="citation-popover-snippet">arXiv Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_written_reasoning_ch_b4e5fd-Illustration-3-dark.svg" | relative_url }}" alt="Reasoning Chain illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_written_reasoning_ch_b4e5fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_written_reasoning_ch_b4e5fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -608,199 +608,199 @@ For individuals, the most useful routine is a small decision journal. Record imp
 
 For teams, the habit works best when it is built into decision rights. A manager can require a short reasoning note for irreversible or expensive decisions. A project lead can ask for a premortem before launch. A review group can separate “Do we understand the reasoning?” from “Do we agree with the conclusion?” This distinction reduces defensiveness because people can improve the chain without immediately losing face.
 
-For learners, written chains turn answers into teachable evidence. The Education Endowment Foundation describes metacognition and self-regulation as approaches that help pupils plan, monitor and evaluate their learning more explicitly; written reasoning prompts are one concrete way to do that. The point is not to reward verbosity, but to help learners notice what they know, what they inferred and where the next question lies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Open source on educationendowmentfoundation.org.uk.</span></span></span>
+For learners, written chains turn answers into teachable evidence. The Education Endowment Foundation describes metacognition and self-regulation as approaches that help pupils plan, monitor and evaluate their learning more explicitly; written reasoning prompts are one concrete way to do that. The point is not to reward verbosity, but to help learners notice what they know, what they inferred and where the next question lies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Open source on educationendowmentfoundation.org.uk.</span></span></span>
 
 A good written reasoning habit therefore has a modest standard: the chain should be clear enough that another person can find the claim, inspect the support, question the assumption and suggest a better test. When thinking is visible in that way, improvement becomes possible.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Writing Makes Thinking Clearer. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Writing Makes Thinking Clearer. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pyramid Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpUowkjMX_gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pyramid Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pyramid Principle">The Pyramid Principle</a>
-        </h4>
-        <p class="fr-book-author">By Barbara Minto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pyramid Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpUowkjMX_gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pyramid Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pyramid Principle">The Pyramid Principle</a>
+</h4>
+<p class="fr-book-author">By Barbara Minto</p>
         
-        <p class="fr-book-desc">Directly teaches how to organise reasoning into clear, inspectable written arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly teaches how to organise reasoning into clear, inspectable written arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains common reasoning errors and why deliberate, structured thinking improves decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common reasoning errors and why deliberate, structured thinking improves decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
+</h4>
+<p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
         
-        <p class="fr-book-desc">Provides frameworks that pair naturally with writing out reasoning chains and evaluating assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks that pair naturally with writing out reasoning chains and evaluating assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sense+of+Style+by+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sense of Style on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eCNBAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Sense of Style" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sense+of+Style+by+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sense of Style">The Sense of Style</a>
-        </h4>
-        <p class="fr-book-author">By Steven Pinker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sense+of+Style+by+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sense of Style on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eCNBAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Sense of Style" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sense+of+Style+by+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sense of Style">The Sense of Style</a>
+</h4>
+<p class="fr-book-author">By Steven Pinker</p>
         
-        <p class="fr-book-desc">Shows how clear writing reflects and reinforces clear thinking and logical communication.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sense+of+Style+by+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how clear writing reflects and reinforces clear thinking and logical communication.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sense+of+Style+by+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pyramid+Principle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pyramid Principle</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pyramid+Principle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pyramid Principle</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/H6AAAeSwi0Vp2SXo/s-l225.jpg" alt="Listing image for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/H6AAAeSwi0Vp2SXo/s-l225.jpg" alt="Listing image for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Einstein Education Quote Students Critical Thinking 12x18 Poster"><img src="https://i.ebayimg.com/images/g/zRcAAeSwHnppwXqV/s-l225.jpg" alt="Listing image for Einstein Education Quote Students Critical Thinking 12x18 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Einstein Education Quote Students Critical Thinking 12x18 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Einstein Education Quote Students Critical Thinking 12x18 Poster"><img src="https://i.ebayimg.com/images/g/zRcAAeSwHnppwXqV/s-l225.jpg" alt="Listing image for Einstein Education Quote Students Critical Thinking 12x18 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Einstein Education Quote Students Critical Thinking 12x18 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Is The Other Naci Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2SEAAeSwpbxpy~kv/s-l225.jpg" alt="Listing image for Critical Thinking Is The Other Naci Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Is The Other Naci Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Is The Other Naci Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2SEAAeSwpbxpy~kv/s-l225.jpg" alt="Listing image for Critical Thinking Is The Other Naci Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Is The Other Naci Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Is The Other Naci Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/5f0AAeSwEcFpy~mr/s-l225.jpg" alt="Listing image for Critical Thinking Is The Other Naci Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Is The Other Naci Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Is The Other Naci Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/5f0AAeSwEcFpy~mr/s-l225.jpg" alt="Listing image for Critical Thinking Is The Other Naci Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Is The Other Naci Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-writing-makes-thinking-clearer-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-writing-makes-thinking-clearer-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -816,7 +816,7 @@ A good written reasoning habit therefore has a modest standard: the chain should
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -836,7 +836,7 @@ A good written reasoning habit therefore has a modest standard: the chain should
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -868,7 +868,7 @@ A good written reasoning habit therefore has a modest standard: the chain should
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -920,7 +920,7 @@ A good written reasoning habit therefore has a modest standard: the chain should
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -965,7 +965,7 @@ A good written reasoning habit therefore has a modest standard: the chain should
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1006,221 +1006,221 @@ A good written reasoning habit therefore has a modest standard: the chain should
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8734377/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8734377/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strong metacognitive skills have the power to impact student learning and performance.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8734377/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8734377/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strong metacognitive skills have the power to impact student learning and performance.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13423-016-1079-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-016-1079-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Constraints on when self-explanation aids learningby B Rittle-Johnson · 2017 · Cited by 135 — Generating explanations for oneself...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13423" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Constraints on when self-explanation aids learningby B Rittle-Johnson · 2017 · Cited by 135 — Generating explanations for oneself...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6942100/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6942100/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by AB Morrison · 2020 · Cited by 104 — Instead, our findings suggest that cognitive offloading may be a valid compensatory strategy to...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6942100/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6942100/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by AB Morrison · 2020 · Cited by 104 — Instead, our findings suggest that cognitive offloading may be a valid compensatory strategy to...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wexler.free.fr  
    Title: zhang (0) the nature of external representations in problem solving  
-   Link: <a href="https://wexler.free.fr/library/files/zhang%20%280%29%20the%20nature%20of%20external%20representations%20in%20problem%20solving.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wexler.free.fr/library/files/zhang%20%280%29%20the%20nature%20of%20external%20representations%20in%20problem%20solving.pdf</a>  
+   Link:<a href="https://wexler.free.fr/library/files/zhang%20%280%29%20the%20nature%20of%20external%20representations%20in%20problem%20solving.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wexler.free.fr/library/files/zhang%20%280%29%20the%20nature%20of%20external%20representations%20in%20problem%20solving.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: krieger.jhu.edu  
    Title: Writing for Metacognition: Encouraging thinking about thinking  
-   Link: <a href="https://krieger.jhu.edu/writing-program/writing-in-the-majors/teaching-writing/writing-for-metacognition/" target="_blank" rel="noopener noreferrer nofollow">https://krieger.jhu.edu/writing-program/writing-in-the-majors/teaching-writing/writing-for-metacognition/</a>  
+   Link:<a href="https://krieger.jhu.edu/writing-program/writing-in-the-majors/teaching-writing/writing-for-metacognition/" target="_blank" rel="noopener noreferrer nofollow">https://krieger.jhu.edu/writing-program/writing-in-the-majors/teaching-writing/writing-for-metacognition/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3786644/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3786644/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3786644/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3786644/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cipd.org  
    Title: Evidence-based practice for effective decision-making  
-   Link: <a href="https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/</a>  
+   Link:<a href="https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.cipd.org/uk/knowledge/factsheets/evidence-based-practice-factsheet/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: libguides.usask.ca  
    Title: Critical Thinking Tutorial: Argument Mapping  
-   Link: <a href="https://libguides.usask.ca/CriticalThinkingTutorial/ArgumentAnalysis/ArgumentMapping" target="_blank" rel="noopener noreferrer nofollow">https://libguides.usask.ca/CriticalThinkingTutorial/ArgumentAnalysis/ArgumentMapping</a>  
+   Link:<a href="https://libguides.usask.ca/CriticalThinkingTutorial/ArgumentAnalysis/ArgumentMapping" target="_blank" rel="noopener noreferrer nofollow">https://libguides.usask.ca/CriticalThinkingTutorial/ArgumentAnalysis/ArgumentMapping</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/hequ.70063" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/hequ.70063</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/hequ.70063" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/hequ.70063</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Chain-of-Thought Prompting Elicits Reasoning in Large Language Models  
-   Link: <a href="https://arxiv.org/abs/2201.11903" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2201.11903</a>  
+   Link:<a href="https://arxiv.org/abs/2201.11903" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2201.11903</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.11746" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.11746</a>  
+   Link:<a href="https://arxiv.org/abs/2605.11746" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.11746</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11097-022-09827-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11097-022-09827-5</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s11097-022-09827-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11097-022-09827-5</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reasons.io  
    Title: Critical Thinking with Argument Maps  
-   Link: <a href="https://reasons.io/learn/01" target="_blank" rel="noopener noreferrer nofollow">https://reasons.io/learn/01</a>  
+   Link:<a href="https://reasons.io/learn/01" target="_blank" rel="noopener noreferrer nofollow">https://reasons.io/learn/01</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: my.chartered.college  
    Title: using evidence based practices that support metacognition  
-   Link: <a href="https://my.chartered.college/impact_article/using-evidence-based-practices-that-support-metacognition/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/using-evidence-based-practices-that-support-metacognition/</a>  
+   Link:<a href="https://my.chartered.college/impact_article/using-evidence-based-practices-that-support-metacognition/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/using-evidence-based-practices-that-support-metacognition/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2510.01569v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.01569v3</a>  
+   Link:<a href="https://arxiv.org/html/2510.01569v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.01569v3</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: minerva-access.unimelb.edu.au  
-   Link: <a href="https://minerva-access.unimelb.edu.au/handle/11343/214519" target="_blank" rel="noopener noreferrer nofollow">https://minerva-access.unimelb.edu.au/handle/11343/214519</a>  
+   Link:<a href="https://minerva-access.unimelb.edu.au/handle/11343/214519" target="_blank" rel="noopener noreferrer nofollow">https://minerva-access.unimelb.edu.au/handle/11343/214519</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gse.harvard.edu  
    Title: how argue class  
-   Link: <a href="https://www.gse.harvard.edu/ideas/[usable-knowledge" target="_blank" rel="noopener noreferrer nofollow">https://www.gse.harvard.edu/ideas/[usable-knowledge</a>  
+   Link:<a href="https://www.gse.harvard.edu/ideas/[usable-knowledge" target="_blank" rel="noopener noreferrer nofollow">https://www.gse.harvard.edu/ideas/[usable-knowledge</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: comm.pitt.edu  
    Title: Argumentation is a social process of two or more people making arguments  
-   Link: <a href="https://www.comm.pitt.edu/argument-claims-reasons-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.comm.pitt.edu/argument-claims-reasons-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of CommunicationArgument: Claims, Reasons, Evidence - CommunicationArguments are claims backed by reasons that are supported b...</p></details>
+   Link:<a href="https://www.comm.pitt.edu/argument-claims-reasons-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.comm.pitt.edu/argument-claims-reasons-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of CommunicationArgument: Claims, Reasons, Evidence - CommunicationArguments are claims backed by reasons that are supported b...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: evidencebased.education  
    Title: cognitive offloading what is it and why is it important 2  
-   Link: <a href="https://evidencebased.education/resource/cognitive-offloading-what-is-it-and-why-is-it-important-2/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebased.education/resource/cognitive-offloading-what-is-it-and-why-is-it-important-2/</a>  
+   Link:<a href="https://evidencebased.education/resource/cognitive-offloading-what-is-it-and-why-is-it-important-2/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebased.education/resource/cognitive-offloading-what-is-it-and-why-is-it-important-2/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  
+   Link:<a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0032258X211038888" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0032258X211038888</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0032258X211038888" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0032258X211038888</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12514691/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12514691/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12514691/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12514691/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: hbr.org  
    Title: Harvard Business Review Performing a Project Premortem  
-   Link: <a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2007/09/performing-a-project-premortem</a>  
+   Link:<a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2007/09/performing-a-project-premortem</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dst.defence.gov.au  
    Title: DST Group TR 3335  
-   Link: <a href="https://www.dst.defence.gov.au/sites/default/files/publications/documents/DST-Group-TR-3335.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dst.defence.gov.au/sites/default/files/publications/documents/DST-Group-TR-3335.pdf</a>  
+   Link:<a href="https://www.dst.defence.gov.au/sites/default/files/publications/documents/DST-Group-TR-3335.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dst.defence.gov.au/sites/default/files/publications/documents/DST-Group-TR-3335.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9162080/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9162080/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9162080/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9162080/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11306497/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11306497/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11306497/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11306497/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5165179/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5165179/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5165179/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5165179/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/61702155e90e07197867eb93/20210625-Red_Teaming_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/61702155e90e07197867eb93/20210625-Red_Teaming_Handbook.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/61702155e90e07197867eb93/20210625-Red_Teaming_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/61702155e90e07197867eb93/20210625-Red_Teaming_Handbook.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: meded.dom.pitt.edu  
    Title: Thinking about Thinking Improving Clinical Decision Making in Everyday Practice  
-   Link: <a href="https://meded.dom.pitt.edu/wp-content/uploads/2022/11/Thinking-about-Thinking-Improving-Clinical-Decision-Making-in-Everyday-Practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meded.dom.pitt.edu/wp-content/uploads/2022/11/Thinking-about-Thinking-Improving-Clinical-Decision-Making-in-Everyday-Practice.pdf</a>  
+   Link:<a href="https://meded.dom.pitt.edu/wp-content/uploads/2022/11/Thinking-about-Thinking-Improving-Clinical-Decision-Making-in-Everyday-Practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meded.dom.pitt.edu/wp-content/uploads/2022/11/Thinking-about-Thinking-Improving-Clinical-Decision-Making-in-Everyday-Practice.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ajet.org.au  
-   Link: <a href="https://ajet.org.au/index.php/AJET/article/view/1154/402" target="_blank" rel="noopener noreferrer nofollow">https://ajet.org.au/index.php/AJET/article/view/1154/402</a>  
+   Link:<a href="https://ajet.org.au/index.php/AJET/article/view/1154/402" target="_blank" rel="noopener noreferrer nofollow">https://ajet.org.au/index.php/AJET/article/view/1154/402</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/big-problems/guiding-effective-group-decision-making-strategies" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/big-problems/guiding-effective-group-decision-making-strategies</a>  
+   Link:<a href="https://thedecisionlab.com/big-problems/guiding-effective-group-decision-making-strategies" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/big-problems/guiding-effective-group-decision-making-strategies</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/neuroscience/distributed-cognition" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/neuroscience/distributed-cognition</a>  
+   Link:<a href="https://thedecisionlab.com/reference-guide/neuroscience/distributed-cognition" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/neuroscience/distributed-cognition</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Consider the Opposite  
-   Link: <a href="https://www.youtube.com/watch?v=ieVaeYVaOrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ieVaeYVaOrc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ieVaeYVaOrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ieVaeYVaOrc</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: britannica.com  
    Title: confirmation bias  
-   Link: <a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
+   Link:<a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: thirdspacelearning.com  
    Title: cognitive offloading  
-   Link: <a href="https://thirdspacelearning.com/blog/cognitive-offloading/" target="_blank" rel="noopener noreferrer nofollow">https://thirdspacelearning.com/blog/cognitive-offloading/</a>  
+   Link:<a href="https://thirdspacelearning.com/blog/cognitive-offloading/" target="_blank" rel="noopener noreferrer nofollow">https://thirdspacelearning.com/blog/cognitive-offloading/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: teachingchannel.com  
    Title: argument mapping  
-   Link: <a href="https://www.teachingchannel.com/k12-hub/blog/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingchannel.com/k12-hub/blog/argument-mapping/</a>  
+   Link:<a href="https://www.teachingchannel.com/k12-hub/blog/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingchannel.com/k12-hub/blog/argument-mapping/</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: What is metacognition? (Exploring the Metacognition Cycle)  
-   Link: <a href="http://www.youtube.com/watch?v=HZrUWvfU6VU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HZrUWvfU6VU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument mapping visible thinking reasoning chains Unit 2.2: Argument [Diagrams](&amp;#123;&amp;#123; &#x27;diagrams/&#x27; | relative_url &amp;#125;&amp;#125;) Michael FitzGerald...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=HZrUWvfU6VU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HZrUWvfU6VU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument mapping visible thinking reasoning chains Unit 2.2: Argument [Diagrams](&amp;#123;&amp;#123; &#x27;diagrams/&#x27; | relative_url &amp;#125;&amp;#125;) Michael FitzGerald...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Evaluating a source’s reasoning and evidence | Reading | Khan Academy  
-   Link: <a href="http://www.youtube.com/watch?v=v4HhzvSgUpU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=v4HhzvSgUpU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is metacognition? (Exploring the Metacognition Cycle)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=v4HhzvSgUpU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=v4HhzvSgUpU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is metacognition? (Exploring the Metacognition Cycle)...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/2174559/_Distributed_cognition_as_a_framework_for_understanding_writing" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2174559/_Distributed_cognition_as_a_framework_for_understanding_writing</a>  
+   Link:<a href="https://www.academia.edu/2174559/_Distributed_cognition_as_a_framework_for_understanding_writing" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2174559/_Distributed_cognition_as_a_framework_for_understanding_writing</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/10961642_Cognitive_forcing_strategies_in_clinical_decisionmaking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10961642_Cognitive_forcing_strategies_in_clinical_decisionmaking</a>  
+   Link:<a href="https://www.researchgate.net/publication/10961642_Cognitive_forcing_strategies_in_clinical_decisionmaking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10961642_Cognitive_forcing_strategies_in_clinical_decisionmaking</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/233503192_Distributed_cognition_representation_and_affordance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233503192_Distributed_cognition_representation_and_affordance</a>  
+   Link:<a href="https://www.researchgate.net/publication/233503192_Distributed_cognition_representation_and_affordance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233503192_Distributed_cognition_representation_and_affordance</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
+   Link:<a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/315976805_Making_Students%27_Metacognitive_Knowledge_Visible_Through_Reflective_Writing_in_a_Mathematics-for-Teachers_Course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315976805_Making_Students%27_Metacognitive_Knowledge_Visible_Through_Reflective_Writing_in_a_Mathematics-for-Teachers_Course</a>  
+   Link:<a href="https://www.researchgate.net/publication/315976805_Making_Students%27_Metacognitive_Knowledge_Visible_Through_Reflective_Writing_in_a_Mathematics-for-Teachers_Course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315976805_Making_Students%27_Metacognitive_Knowledge_Visible_Through_Reflective_Writing_in_a_Mathematics-for-Teachers_Course</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf</a>  
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: reasoninglab.com  
-   Link: <a href="https://www.reasoninglab.com/research-on-critical-thinking-argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/research-on-critical-thinking-argument-mapping/</a>  
+   Link:<a href="https://www.reasoninglab.com/research-on-critical-thinking-argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/research-on-critical-thinking-argument-mapping/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227451403_Assumptions_in_Decision_Making_Scholarship_Implications_for_Business_Ethics_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227451403_Assumptions_in_Decision_Making_Scholarship_Implications_for_Business_Ethics_Research</a>  
+   Link:<a href="https://www.researchgate.net/publication/227451403_Assumptions_in_Decision_Making_Scholarship_Implications_for_Business_Ethics_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227451403_Assumptions_in_Decision_Making_Scholarship_Implications_for_Business_Ethics_Research</a>  

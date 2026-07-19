@@ -284,7 +284,7 @@ The words you type into a search box are not a neutral description of what you w
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_biased_query_wording_f68ac5-Illustration-1-dark.svg" | relative_url }}" alt="Query Wording illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_biased_query_wording_f68ac5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_biased_query_wording_f68ac5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one of the simplest ways confirmation bias enters online research. Rather than deliberately ignoring opposing evidence, people often build a conclusion into the query itself. Recent research calls this the **[narrow search effect]({{ 'narrow-search/' | relative_url }})**: prior beliefs influence the wording of search terms, those terms produce narrower search results, and narrower results reduce the chance that people revise their views. This pattern has been observed across conventional search engines and AI-assisted search systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — Directionally narrow search terms are a modern manifestation of the long...</span></span></span>
+This is one of the simplest ways confirmation bias enters online research. Rather than deliberately ignoring opposing evidence, people often build a conclusion into the query itself. Recent research calls this the **[narrow search effect]({{ 'narrow-search/' | relative_url }})**: prior beliefs influence the wording of search terms, those terms produce narrower search results, and narrower results reduce the chance that people revise their views. This pattern has been observed across conventional search engines and AI-assisted search systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — Directionally narrow search terms are a modern manifestation of the long...</span></span></span>
 
 ## Directional words that smuggle in a conclusion
 
@@ -302,7 +302,7 @@ Common examples include:
 
 </div>
 
-Each query embeds a preferred explanation before the search begins. Search systems are designed to satisfy user intent, so they naturally prioritise pages that appear relevant to those words. This does not necessarily mean the search engine is biased; it is responding to the request it was given. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — Directionally narrow search terms are a modern manifestation of the long...</span></span></span>
+Each query embeds a preferred explanation before the search begins. Search systems are designed to satisfy user intent, so they naturally prioritise pages that appear relevant to those words. This does not necessarily mean the search engine is biased; it is responding to the request it was given.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — Directionally narrow search terms are a modern manifestation of the long...</span></span></span>
 
 Directional wording often appears through small linguistic choices:
 
@@ -324,7 +324,7 @@ Directional queryBroader alternativeWhy is nuclear energy dangerous?Evidence on 
 
 Notice that the neutral versions do not pretend every claim has equal support. Instead, they avoid telling the search engine which conclusion to favour before the evidence has been examined.
 
-Research suggests that deliberately broadening search terms helps people encounter a wider range of information and increases belief updating compared with naturally generated directional searches. Experimental interventions encouraging broader search wording reduced the influence of prior beliefs on what people ultimately concluded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — Directionally narrow search terms are a modern manifestation of the long...</span></span></span>
+Research suggests that deliberately broadening search terms helps people encounter a wider range of information and increases belief updating compared with naturally generated directional searches. Experimental interventions encouraging broader search wording reduced the influence of prior beliefs on what people ultimately concluded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — Directionally narrow search terms are a modern manifestation of the long...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7PmX-oHndtY" title="Understand human psychology to get your users to do what you want – with Sarah Pokorná Presch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7PmX-oHndtY" target="_blank" rel="noopener noreferrer">Understand human psychology to get your users to do what you want – with Sarah Pokorná Presch</a></p><p class="youtube-embed-meta">Channel: Majestic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7PmX-oHndtY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7PmX-oHndtY">Open on YouTube</a></p></div></div></div>
@@ -348,7 +348,7 @@ Instead of relying on one search, try three:
 
 Comparing the first page of results often reveals that each search highlights different evidence, organisations and summaries. The contrast reminds you that your query is influencing what you see rather than merely uncovering a fixed set of facts.
 
-The 2025 studies on the narrow search effect demonstrated this experimentally. Participants randomly assigned opposite directional search terms reached measurably different post-search beliefs, even though they were investigating the same underlying issue. Similar effects appeared when participants queried AI systems, despite AI-generated answers acknowledging opposing viewpoints. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — Directionally narrow search terms are a modern manifestation of the long...</span></span></span>
+The 2025 studies on the narrow search effect demonstrated this experimentally. Participants randomly assigned opposite directional search terms reached measurably different post-search beliefs, even though they were investigating the same underlying issue. Similar effects appeared when participants queried AI systems, despite AI-generated answers acknowledging opposing viewpoints.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — Directionally narrow search terms are a modern manifestation of the long...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_biased_query_wording_f68ac5-Illustration-2-dark.svg" | relative_url }}" alt="Query Wording illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_biased_query_wording_f68ac5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_biased_query_wording_f68ac5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -366,9 +366,9 @@ Instead they often think:
 
 Yet their existing opinion influences the verbs, adjectives and assumptions built into the query. The resulting search feels objective because it comes from a familiar search engine, even though the starting instruction was already directional.
 
-Earlier research on web search reached a similar conclusion. When confirming and disconfirming evidence tend to be described using different language, the wording of a query can substantially affect which evidence is retrieved, making confirmation easier even without any conscious intention to ignore opposing information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://core.ac.uk/download/pdf/301367349.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">als&#x27; tendency to seek confirming evidence should have biased their search queries through framing or...</span></span></span>
+Earlier research on web search reached a similar conclusion. When confirming and disconfirming evidence tend to be described using different language, the wording of a query can substantially affect which evidence is retrieved, making confirmation easier even without any conscious intention to ignore opposing information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://core.ac.uk/download/pdf/301367349.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">als&#x27; tendency to seek confirming evidence should have biased their search queries through framing or...</span></span></span>
 
-Research on academic search engines also suggests that biased queries can produce systematically different scholarly results, indicating that this issue is not confined to general web searches. Technology-related topics showed particularly noticeable differences between positively and negatively framed academic queries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2311.09969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Examining bias perpetuation in academic search engines: an algorithm audit of Google and Semantic ScholarNovember 16, 2023...</span><span class="citation-popover-meta">Published: November 16, 2023</span></span></span>
+Research on academic search engines also suggests that biased queries can produce systematically different scholarly results, indicating that this issue is not confined to general web searches. Technology-related topics showed particularly noticeable differences between positively and negatively framed academic queries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2311.09969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Examining bias perpetuation in academic search engines: an algorithm audit of Google and Semantic ScholarNovember 16, 2023...</span><span class="citation-popover-meta">Published: November 16, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SwxT4_IfDKQ" title="Confirmation bias: what people are REALLY searching for - Sarah Pokorná - brightonSEO April 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SwxT4_IfDKQ" target="_blank" rel="noopener noreferrer">Confirmation bias: what people are REALLY searching for - Sarah Pokorná - brightonSEO April 2024</a></p><p class="youtube-embed-meta">Channel: brightonSEO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SwxT4_IfDKQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SwxT4_IfDKQ">Open on YouTube</a></p></div></div></div>
@@ -396,194 +396,194 @@ These habits shift the search from proving a belief towards testing it. That sma
 <img src="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_biased_query_wording_f68ac5-Illustration-3-dark.svg" | relative_url }}" alt="Query Wording illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_biased_query_wording_f68ac5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_biased_query_wording_f68ac5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Your Search Query Already Taking Sides?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Your Search Query Already Taking Sides?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Directly supports rewriting questions to seek evidence instead of confirmation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports rewriting questions to seek evidence instead of confirmation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides the psychological foundations behind biased search wording and confirmation bias.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the psychological foundations behind biased search wording and confirmation bias.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
+</h4>
+<p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
         
-        <p class="fr-book-desc">Helps readers frame questions more objectively and avoid predictable reasoning traps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers frame questions more objectively and avoid predictable reasoning traps.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Includes practical examples of biased thinking relevant to search query formulation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes practical examples of biased thinking relevant to search query formulation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Poster Laminated Educational School With Flags Wall Art Print A5-A1"><img src="https://i.ebayimg.com/images/g/kEQAAeSwXstpusJl/s-l225.jpg" alt="Listing image for World Map Poster Laminated Educational School With Flags Wall Art Print A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">World Map Poster Laminated Educational School With Flags Wall Art Print A5-A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Poster Laminated Educational School With Flags Wall Art Print A5-A1"><img src="https://i.ebayimg.com/images/g/kEQAAeSwXstpusJl/s-l225.jpg" alt="Listing image for World Map Poster Laminated Educational School With Flags Wall Art Print A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">World Map Poster Laminated Educational School With Flags Wall Art Print A5-A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WORLD MAP POSTER LAMINATED EDUCATIONAL SCHOOL WALL ART PRINT A5 A4 A3 A2 A1"><img src="https://i.ebayimg.com/images/g/nucAAOSwM01oNcet/s-l225.jpg" alt="Listing image for WORLD MAP POSTER LAMINATED EDUCATIONAL SCHOOL WALL ART PRINT A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">WORLD MAP POSTER LAMINATED EDUCATIONAL SCHOOL WALL ART PRINT A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WORLD MAP POSTER LAMINATED EDUCATIONAL SCHOOL WALL ART PRINT A5 A4 A3 A2 A1"><img src="https://i.ebayimg.com/images/g/nucAAOSwM01oNcet/s-l225.jpg" alt="Listing image for WORLD MAP POSTER LAMINATED EDUCATIONAL SCHOOL WALL ART PRINT A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">WORLD MAP POSTER LAMINATED EDUCATIONAL SCHOOL WALL ART PRINT A5 A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Educational Wall Art Informative Poster Art"><img src="https://i.ebayimg.com/images/g/v14AAOSwv5VmcE~H/s-l225.jpg" alt="Listing image for Phonetic Alphabet International Educational Wall Art Informative Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Educational Wall Art Informative Poster Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Educational Wall Art Informative Poster Art"><img src="https://i.ebayimg.com/images/g/v14AAOSwv5VmcE~H/s-l225.jpg" alt="Listing image for Phonetic Alphabet International Educational Wall Art Informative Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Educational Wall Art Informative Poster Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters Kids Nursery, PlayRoom, Numbers, Shapes, Learning, Wall Art"><img src="https://i.ebayimg.com/images/g/nQcAAeSwoO5o4PIu/s-l225.jpg" alt="Listing image for Educational Posters Kids Nursery, PlayRoom, Numbers, Shapes, Learning, Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Educational Posters Kids Nursery, PlayRoom, Numbers, Shapes, Learning, Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters Kids Nursery, PlayRoom, Numbers, Shapes, Learning, Wall Art"><img src="https://i.ebayimg.com/images/g/nQcAAeSwoO5o4PIu/s-l225.jpg" alt="Listing image for Educational Posters Kids Nursery, PlayRoom, Numbers, Shapes, Learning, Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Educational Posters Kids Nursery, PlayRoom, Numbers, Shapes, Learning, Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-search-query-already-taking-sides-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="is-your-search-query-already-taking-sides-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -599,7 +599,7 @@ These habits shift the search from proving a belief towards testing it. That sma
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -619,7 +619,7 @@ These habits shift the search from proving a belief towards testing it. That sma
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -651,7 +651,7 @@ These habits shift the search from proving a belief towards testing it. That sma
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -703,7 +703,7 @@ These habits shift the search from proving a belief towards testing it. That sma
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -748,7 +748,7 @@ These habits shift the search from proving a belief towards testing it. That sma
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,77 +788,77 @@ These habits shift the search from proving a belief towards testing it. That sma
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2408175122</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...24 Mar 2025 — Directionally narrow search terms are a modern manifestation of the long...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2408175122</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...24 Mar 2025 — Directionally narrow search terms are a modern manifestation of the long...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: core.ac.uk  
-   Link: <a href="https://core.ac.uk/download/pdf/301367349.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/301367349.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>als&#x27; tendency to seek confirming evidence should have biased their search queries through framing or...</p></details>
+   Link:<a href="https://core.ac.uk/download/pdf/301367349.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/301367349.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>als&#x27; tendency to seek confirming evidence should have biased their search queries through framing or...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2311.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.09969</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining bias perpetuation in academic search engines: an algorithm audit of Google and Semantic ScholarNovember 16, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2311.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.09969</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining bias perpetuation in academic search engines: an algorithm audit of Google and Semantic ScholarNovember 16, 2023...</p></details>
    Published: November 16, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2311.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2311.09969</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>More research is...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2311.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2311.09969</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More research is...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Confirmation-Bias%3A-Roles-of-Search-Engines-and-Kayhan/3fd009f1c0edd137969aa6d3f943f1a4f0ff2e7c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Confirmation-Bias%3A-Roles-of-Search-Engines-and-Kayhan/3fd009f1c0edd137969aa6d3f943f1a4f0ff2e7c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Confirmation Bias: Roles of Search Engines and...Results of two studies show that search engines may exacerbate confirmation bias...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Confirmation-Bias%3A-Roles-of-Search-Engines-and-Kayhan/3fd009f1c0edd137969aa6d3f943f1a4f0ff2e7c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Confirmation-Bias%3A-Roles-of-Search-Engines-and-Kayhan/3fd009f1c0edd137969aa6d3f943f1a4f0ff2e7c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Confirmation Bias: Roles of Search Engines and...Results of two studies show that search engines may exacerbate confirmation bias...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390140594_The_narrow_search_effect_and_how_broadening_search_promotes_belief_updating" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390140594_The_narrow_search_effect_and_how_broadening_search_promotes_belief_updating</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...24 Mar 2025 — Studies 1 to 5 show that users&#x27; prior beliefs influence the direction of the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/390140594_The_narrow_search_effect_and_how_broadening_search_promotes_belief_updating" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390140594_The_narrow_search_effect_and_how_broadening_search_promotes_belief_updating</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...24 Mar 2025 — Studies 1 to 5 show that users&#x27; prior beliefs influence the direction of the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: infodocket.com  
    Title: journal article search engine results and confirmation bias  
-   Link: <a href="https://www.infodocket.com/2025/03/24/journal-article-search-engine-results-and-confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.infodocket.com/2025/03/24/journal-article-search-engine-results-and-confirmation-bias/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal Article: Search Engine Results and Confirmation Bias24 Mar 2025 — Studies 1 to 5 show that users&#x27; prior beliefs influence the dir...</p></details>
+   Link:<a href="https://www.infodocket.com/2025/03/24/journal-article-search-engine-results-and-confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.infodocket.com/2025/03/24/journal-article-search-engine-results-and-confirmation-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal Article: Search Engine Results and Confirmation Bias24 Mar 2025 — Studies 1 to 5 show that users&#x27; prior beliefs influence the dir...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SwxT4_IfDKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SwxT4_IfDKQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understand human psychology to get your users to do what you want – with Sarah Pokorná Presch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SwxT4_IfDKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SwxT4_IfDKQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understand human psychology to get your users to do what you want – with Sarah Pokorná Presch...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7PmX-oHndtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7PmX-oHndtY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Critical Thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;) Is On Decline, And I Figured Out Why...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7PmX-oHndtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7PmX-oHndtY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Critical Thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;) Is On Decline, And I Figured Out Why...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12412720/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12412720/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>artificial intelligence–mediated confirmation bias in...by E Lopez‐Lopez · 2025 · Cited by 35 — Online information ecosystems can amplif...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12412720/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12412720/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>artificial intelligence–mediated confirmation bias in...by E Lopez‐Lopez · 2025 · Cited by 35 — Online information ecosystems can amplif...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Critical Thinking Is On Decline, And I Figured Out Why  
-   Link: <a href="https://www.youtube.com/watch?v=zXxVhcBiJV0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zXxVhcBiJV0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Search Engine Manipulation Effect (SEME) and Its Unparalleled Power...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zXxVhcBiJV0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zXxVhcBiJV0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Search Engine Manipulation Effect (SEME) and Its Unparalleled Power...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3635034" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3635034</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Mitigate Confirmation Bias during Web Search...To alleviate cognitive demand, searchers might tend to adopt biased search behaviors...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/3635034" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3635034</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Mitigate Confirmation Bias during Web Search...To alleviate cognitive demand, searchers might tend to adopt biased search behaviors...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=j91-yrhaGNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j91-yrhaGNY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=j91-yrhaGNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j91-yrhaGNY</a>  

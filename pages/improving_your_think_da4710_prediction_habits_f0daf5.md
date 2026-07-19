@@ -451,7 +451,7 @@ Predicting first and checking second is a simple habit: before you reveal an ans
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5-overview.webp" | relative_url }}" alt="Overview image for Predictions" loading="eager" decoding="sync" fetchpriority="high">
-The evidence is strongest in learning research. Studies on [pretesting]({{ 'pretesting/' | relative_url }}) show that trying to answer before being taught, even when the first attempt is wrong, can improve later memory compared with simply studying the answer from the start. More recent reviews frame prediction as a learning strategy in its own right because it combines [retrieval]({{ 'retrieval/' | relative_url }}), attention, feedback and surprise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionThe Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect sugg...</span></span></span>
+The evidence is strongest in learning research. Studies on [pretesting]({{ 'pretesting/' | relative_url }}) show that trying to answer before being taught, even when the first attempt is wrong, can improve later memory compared with simply studying the answer from the start. More recent reviews frame prediction as a learning strategy in its own right because it combines [retrieval]({{ 'retrieval/' | relative_url }}), attention, feedback and surprise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionThe Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect sugg...</span></span></span>
 
 For analytical skill, the point is broader than exam performance. A prediction habit trains calibration: the ability to notice when your confidence matches your accuracy. It also makes surprises less personal. When reality differs from your forecast, you have a concrete object to inspect: not “I am bad at this”, but “which cue did I overweight, which assumption failed, and what should I notice next time?”
 
@@ -461,9 +461,9 @@ Prediction changes the mental posture of reading. Without a prediction, an answe
 
 This matters because much everyday “learning” is recognition disguised as understanding. Reading an explanation after the fact often produces a feeling of fluency: the words make sense, the answer seems familiar, and the mind concludes that it knew more than it did. Prediction interrupts that illusion. It asks for a commitment before the answer is available, which makes the gap between understanding and hindsight harder to ignore.
 
-Research on the pretesting effect gives this habit a concrete base. In a widely discussed example, learners who first tried to guess a missing word pair before seeing the answer later remembered more than learners who spent the full time simply studying the correct pair. The benefit appeared even though the initial guesses were usually wrong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/the-pluses-of-getting-it-wrong/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American The Pluses of Getting It Wrong</span><span class="citation-popover-snippet">Scientific AmericanThe Pluses of Getting It WrongMarch 1, 2010 — 1 Mar 2010 — In a way, this pretesting effect is counterintuitive: study...</span><span class="citation-popover-meta">Published: March 1, 2010</span></span></span>
+Research on the pretesting effect gives this habit a concrete base. In a widely discussed example, learners who first tried to guess a missing word pair before seeing the answer later remembered more than learners who spent the full time simply studying the correct pair. The benefit appeared even though the initial guesses were usually wrong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/the-pluses-of-getting-it-wrong/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American The Pluses of Getting It Wrong</span><span class="citation-popover-snippet">Scientific AmericanThe Pluses of Getting It WrongMarch 1, 2010 — 1 Mar 2010 — In a way, this pretesting effect is counterintuitive: study...</span><span class="citation-popover-meta">Published: March 1, 2010</span></span></span>
 
-The mechanism is not just “testing is good”. Prediction appears to work partly because it prepares attention. When you make a forecast, you activate relevant prior knowledge, create a question in the mind, and become more alert to the corrective information that follows. Brod’s review of predicting as a learning strategy argues that prediction differs from ordinary retrieval practice because incorrect predictions can produce [surprise]({{ 'surprise/' | relative_url }}), and that surprise can direct attention to the correct answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Predicting involves that learners generate a...</span></span></span>
+The mechanism is not just “testing is good”. Prediction appears to work partly because it prepares attention. When you make a forecast, you activate relevant prior knowledge, create a question in the mind, and become more alert to the corrective information that follows. Brod’s review of predicting as a learning strategy argues that prediction differs from ordinary retrieval practice because incorrect predictions can produce [surprise]({{ 'surprise/' | relative_url }}), and that surprise can direct attention to the correct answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Predicting involves that learners generate a...</span></span></span>
 
 That makes the habit especially useful for improving thinking and analytical skills. Analytical thinking depends on noticing mismatches: between expectation and result, explanation and evidence, confidence and accuracy. Prediction gives those mismatches a clear before-and-after shape.
 
@@ -486,7 +486,7 @@ The prediction has three useful parts:
 
 The reason is crucial. A bare guess only tells you whether you were right. A prediction with a reason tells you whether your mental model worked. If the answer differs from your expectation, you can ask whether the error came from a missing fact, a bad rule, a misleading analogy or an overconfident leap.
 
-Metacognition research supports this emphasis on monitoring. Metacognition means awareness and control of one’s own thinking for learning, and educational research links stronger metacognitive skill with better performance because learners make better decisions about what to study, when to change strategy and how to evaluate understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lifescied.org/doi/10.1187/cbe.20-12-0289" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifescied.org">[lifescied.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifescied.org</span><span class="citation-popover-snippet">Open source on lifescied.org.</span></span></span>
+Metacognition research supports this emphasis on monitoring. Metacognition means awareness and control of one’s own thinking for learning, and educational research links stronger metacognitive skill with better performance because learners make better decisions about what to study, when to change strategy and how to evaluate understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lifescied.org/doi/10.1187/cbe.20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifescied.org">[lifescied.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifescied.org</span><span class="citation-popover-snippet">Open source on lifescied.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5-Illustration-1-dark.svg" | relative_url }}" alt="Predictions illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -514,7 +514,7 @@ This is especially powerful when reading [worked examples]({{ 'worked-examples/'
 
 Students often check answers as a pass-fail ritual. A stronger habit is to predict performance before revealing the score: “I think I got 7 out of 10, with low confidence on questions 3 and 8.” This turns the answer key into calibration data.
 
-Research on judgments of learning suggests that retrieval practice can help people base future predictions on actual recall attempts rather than vague familiarity. In other words, trying to retrieve an answer gives a better cue about whether you really know it than simply rereading and asking whether it feels familiar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00987/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Open source on frontiersin.org.</span></span></span>
+Research on judgments of learning suggests that retrieval practice can help people base future predictions on actual recall attempts rather than vague familiarity. In other words, trying to retrieve an answer gives a better cue about whether you really know it than simply rereading and asking whether it feels familiar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00987/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Open source on frontiersin.org.</span></span></span>
 
 The practical lesson is simple: do not only check whether you were correct. Check whether your confidence was appropriate. A wrong answer with low confidence is less concerning than a wrong answer held with certainty. A correct answer with shaky reasoning still deserves review.
 
@@ -530,11 +530,11 @@ The same routine helps in meetings. Before hearing the final decision, estimate 
 
 A wrong prediction is useful when it is corrected quickly and reviewed well. The learning benefit depends on the feedback loop, not on error for its own sake.
 
-The pretesting literature is important here because it challenges a common fear: that guessing before learning will merely reinforce mistakes. Studies generally find that pretesting can improve later recall when learners receive corrective feedback or subsequent study of the right answer. A 2025 Journal of Cognition paper found that pretesting produced higher recall than a read-only condition, with immediate feedback outperforming delayed feedback, while the benefit still persisted even when feedback or final testing was delayed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionThe Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect sugg...</span></span></span>
+The pretesting literature is important here because it challenges a common fear: that guessing before learning will merely reinforce mistakes. Studies generally find that pretesting can improve later recall when learners receive corrective feedback or subsequent study of the right answer. A 2025 Journal of Cognition paper found that pretesting produced higher recall than a read-only condition, with immediate feedback outperforming delayed feedback, while the benefit still persisted even when feedback or final testing was delayed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionThe Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect sugg...</span></span></span>
 
 That does not mean all errors are good. An unsupported guess without feedback can leave misconceptions intact. A prediction habit needs an answer check, an explanation check and, when possible, a delayed re-check. The value comes from the sequence: commit, compare, correct, revisit.
 
-There are also limits to the “surprise helps learning” story. Some research on prediction error and memory finds that surprise can influence later memory, but the effect depends on task design, age, encoding strategy and whether the learner can resolve the mismatch. A 2024 study on children and adults found little evidence for a robust word-learning boost from prediction error in its setting and suggested that variation in adult findings may partly reflect different encoding strategies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Open source on journalofcognition.org.</span></span></span>
+There are also limits to the “surprise helps learning” story. Some research on prediction error and memory finds that surprise can influence later memory, but the effect depends on task design, age, encoding strategy and whether the learner can resolve the mismatch. A 2024 study on children and adults found little evidence for a robust word-learning boost from prediction error in its setting and suggested that variation in adult findings may partly reflect different encoding strategies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Open source on journalofcognition.org.</span></span></span>
 
 So the best practical rule is modest: use wrong predictions as attention-grabbing feedback, not as proof that confusion is automatically productive. If a surprise cannot be explained, it may remain noise. If it can be explained, it becomes a useful update.
 
@@ -555,7 +555,7 @@ A good review separates three questions:
 
 The tone matters. If every wrong prediction becomes a personal failure, people stop making predictions. If every wrong prediction is brushed aside as bad luck, the habit loses its corrective value. The useful middle is curiosity: “What did this error reveal about my model?”
 
-Prediction research gives a helpful emotional clue. Brod’s review notes that incorrect predictions can evoke surprise, and that surprise may support attention to the correct answer. But surprise is only useful if it leads to processing rather than avoidance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Predicting involves that learners generate a...</span></span></span>
+Prediction research gives a helpful emotional clue. Brod’s review notes that incorrect predictions can evoke surprise, and that surprise may support attention to the correct answer. But surprise is only useful if it leads to processing rather than avoidance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Predicting involves that learners generate a...</span></span></span>
 
 A simple “surprise review” can be done in three lines:
 
@@ -582,7 +582,7 @@ Calibration means that your stated confidence matches your actual accuracy. If y
 
 This is why a quick confidence rating is valuable. It can be as simple as low, medium or high. Over time, patterns emerge. You may discover that your “high confidence” predictions are reliable in familiar technical tasks but poor in social or strategic situations. You may find that you understate confidence in domains where you actually have strong experience. You may also find that fluency, authority or recent exposure makes you feel more certain than the evidence warrants.
 
-Feedback type matters. Research on memory feedback suggests that corrective information can affect both accuracy and confidence, and that confidence in incorrect answers is an important part of what later learning must repair. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9293038/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Feedback type matters. Research on memory feedback suggests that corrective information can affect both accuracy and confidence, and that confidence in incorrect answers is an important part of what later learning must repair.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9293038/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 In practical terms, review confidence separately from correctness:
 
@@ -641,11 +641,11 @@ Ask what the difference reveals about your model.
 
 **7. Re-test later.**
 
-For learning tasks, come back after a delay. The pretesting effect is about later retention, not just momentary recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionThe Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect sugg...</span></span></span>
+For learning tasks, come back after a delay. The pretesting effect is about later retention, not just momentary recognition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionThe Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect sugg...</span></span></span>
 
 A compact version looks like this:
 
-> I predict ___ because ___. <span class="citation-chip-wrap"><a class="citation-chip" href="https://snitchnotes.com/fr/blog/confidence-based-learning-study-method-for-exam-prep" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snitchnotes.com">[&gt; Confidence: ___.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snitchnotes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+> I predict ___ because ___.<span class="citation-chip-wrap"><a class="citation-chip" href="https://snitchnotes.com/fr/blog/confidence-based-learning-study-method-for-exam-prep" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snitchnotes.com">[&gt; Confidence: ___.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snitchnotes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 > Actual result: ___.
 > Update: next time I will notice ___.
 
@@ -667,7 +667,7 @@ The fifth mistake is making prediction too elaborate. A prediction habit should 
 
 ## The takeaway
 
-Predicting before checking answers improves thinking because it creates feedback where passive reading creates only exposure. It makes attention sharper, confidence more measurable and surprise more useful. Research on pretesting, retrieval, metacognition and prediction-based learning supports the core idea: attempting an answer before seeing the correct one can improve later learning, especially when feedback follows and the learner reviews the mismatch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[lifescied.org+3Journal of Cognition+3Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionThe Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect sugg...</span></span></span>
+Predicting before checking answers improves thinking because it creates feedback where passive reading creates only exposure. It makes attention sharper, confidence more measurable and surprise more useful. Research on pretesting, retrieval, metacognition and prediction-based learning supports the core idea: attempting an answer before seeing the correct one can improve later learning, especially when feedback follows and the learner reviews the mismatch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[lifescied.org+3Journal of Cognition+3Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionThe Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect sugg...</span></span></span>
 
 The habit is small, but its effects accumulate. Each prediction records a snapshot of your current model. Each answer tests it. Each surprise shows where the model needs repair. Over time, the practice trains a valuable analytical reflex: do not merely ask, “What is the answer?” Ask, “What did I expect, why did I expect it, and what does the result teach me about how I think?”
 
@@ -676,194 +676,194 @@ The habit is small, but its effects accumulate. Each prediction records a snapsh
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Predict First, Check Second. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Predict First, Check Second. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Directly supports prediction-first habits and calibration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports prediction-first habits and calibration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VcouDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
-        </h4>
-        <p class="fr-book-author">By Annie Duke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VcouDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
+</h4>
+<p class="fr-book-author">By Annie Duke</p>
         
-        <p class="fr-book-desc">Teaches prediction, uncertainty, and learning from feedback.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches prediction, uncertainty, and learning from feedback.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Shows how forecasts improve through evidence and review.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how forecasts improve through evidence and review.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains why prediction before feedback improves learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why prediction before feedback improves learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Prediction Notebook"><img src="https://i.ebayimg.com/images/g/xGsAAOSwzMJmzFjQ/s-l225.jpg" alt="Listing image for Prediction Notebook" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer">Prediction Notebook</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for prediction notebook">Search <span data-ebay-domain-label>eBay.co.uk</span>: prediction notebook</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Prediction Notebook"><img src="https://i.ebayimg.com/images/g/xGsAAOSwzMJmzFjQ/s-l225.jpg" alt="Listing image for Prediction Notebook" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer">Prediction Notebook</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for prediction notebook">Search<span data-ebay-domain-label>eBay.co.uk</span>: prediction notebook</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Grand Prix Fun Season Prediction Notebook"><img src="https://i.ebayimg.com/images/g/jHcAAeSwJwZptbj6/s-l225.jpg" alt="Listing image for 2026 Grand Prix Fun Season Prediction Notebook" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer">2026 Grand Prix Fun Season Prediction Notebook</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for prediction notebook">Search <span data-ebay-domain-label>eBay.co.uk</span>: prediction notebook</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Grand Prix Fun Season Prediction Notebook"><img src="https://i.ebayimg.com/images/g/jHcAAeSwJwZptbj6/s-l225.jpg" alt="Listing image for 2026 Grand Prix Fun Season Prediction Notebook" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer">2026 Grand Prix Fun Season Prediction Notebook</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for prediction notebook">Search<span data-ebay-domain-label>eBay.co.uk</span>: prediction notebook</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Everyday Amenti: A Guided Journal for Cultivating a Feather-Light Heart by Sodi"><img src="https://i.ebayimg.com/images/g/BPAAAOSwC7JhXuX6/s-l225.jpg" alt="Listing image for Everyday Amenti: A Guided Journal for Cultivating a Feather-Light Heart by Sodi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer">Everyday Amenti: A Guided Journal for Cultivating a Feather-Light Heart by Sodi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for prediction notebook">Search <span data-ebay-domain-label>eBay.co.uk</span>: prediction notebook</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Everyday Amenti: A Guided Journal for Cultivating a Feather-Light Heart by Sodi"><img src="https://i.ebayimg.com/images/g/BPAAAOSwC7JhXuX6/s-l225.jpg" alt="Listing image for Everyday Amenti: A Guided Journal for Cultivating a Feather-Light Heart by Sodi" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer">Everyday Amenti: A Guided Journal for Cultivating a Feather-Light Heart by Sodi</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for prediction notebook">Search<span data-ebay-domain-label>eBay.co.uk</span>: prediction notebook</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PP Prediction Notebook (3 Freely Chosen Items Match the Prediction)"><img src="https://i.ebayimg.com/images/g/msQAAeSwXZ5p06j0/s-l225.jpg" alt="Listing image for PP Prediction Notebook (3 Freely Chosen Items Match the Prediction)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer">PP Prediction Notebook (3 Freely Chosen Items Match the Prediction)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for prediction notebook">Search <span data-ebay-domain-label>eBay.co.uk</span>: prediction notebook</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PP Prediction Notebook (3 Freely Chosen Items Match the Prediction)"><img src="https://i.ebayimg.com/images/g/msQAAeSwXZ5p06j0/s-l225.jpg" alt="Listing image for PP Prediction Notebook (3 Freely Chosen Items Match the Prediction)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer">PP Prediction Notebook (3 Freely Chosen Items Match the Prediction)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for prediction notebook">Search<span data-ebay-domain-label>eBay.co.uk</span>: prediction notebook</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=prediction+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=predict-first-check-second-prediction-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prediction notebook" data-ebay-reference="predict-first-check-second-prediction-notebook" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -879,7 +879,7 @@ The habit is small, but its effects accumulate. Each prediction records a snapsh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -899,7 +899,7 @@ The habit is small, but its effects accumulate. Each prediction records a snapsh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -931,7 +931,7 @@ The habit is small, but its effects accumulate. Each prediction records a snapsh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -983,7 +983,7 @@ The habit is small, but its effects accumulate. Each prediction records a snapsh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1028,7 +1028,7 @@ The habit is small, but its effects accumulate. Each prediction records a snapsh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1068,140 +1068,140 @@ The habit is small, but its effects accumulate. Each prediction records a snapsh
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-021-01904-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Predicting involves that learners generate a...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-021-01904-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Predicting involves that learners generate a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPredicting as a learning strategy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boosts surprise about unexpected answers, which leads...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boosts surprise about unexpected answers, which leads...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lifescied.org  
-   Link: <a href="https://www.lifescied.org/doi/10.1187/cbe.20-12-0289" target="_blank" rel="noopener noreferrer nofollow">https://www.lifescied.org/doi/10.1187/cbe.20-12-0289</a>  
+   Link:<a href="https://www.lifescied.org/doi/10.1187/cbe.20" target="_blank" rel="noopener noreferrer nofollow">https://www.lifescied.org/doi/10.1187/cbe.20</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292081/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292081/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9293038/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9293038/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9293038/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9293038/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9839203/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9839203/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9839203/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9839203/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10648-025-10103-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-025-10103-6</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s10648-025-10103-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-025-10103-6</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-012-0274-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-012-0274-5</a>  
+   Link:<a href="https://link.springer.com/article/10.3758/s13421" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10648-023-09814-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-023-09814-5</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s10648-023-09814-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-023-09814-5</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13423-024-02517-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-024-02517-0</a>  
+   Link:<a href="https://link.springer.com/article/10.3758/s13423-024-02517-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-024-02517-0</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journalofcognition.org  
-   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.455</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of CognitionThe Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect sugg...</p></details>
+   Link:<a href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.455</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of CognitionThe Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect sugg...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scientificamerican.com  
    Title: Scientific American The Pluses of Getting It Wrong  
-   Link: <a href="https://www.scientificamerican.com/article/the-pluses-of-getting-it-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/the-pluses-of-getting-it-wrong/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanThe Pluses of Getting It WrongMarch 1, 2010 — 1 Mar 2010 — In a way, this pretesting effect is counterintuitive: study...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/the-pluses-of-getting-it-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/the-pluses-of-getting-it-wrong/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanThe Pluses of Getting It WrongMarch 1, 2010 — 1 Mar 2010 — In a way, this pretesting effect is counterintuitive: study...</p></details>
    Published: March 1, 2010  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00987/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00987/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00987/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00987/full</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journalofcognition.org  
-   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.342" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.342</a>  
+   Link:<a href="https://journalofcognition.org/articles/10.5334/joc.342" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.342</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9170123/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9170123/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9170123/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9170123/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11868466/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11868466/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11868466/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11868466/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8713973/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8713973/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8713973/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8713973/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7618218/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7618218/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7618218/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7618218/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/research-topics/80199/learning-from-surprise-neural-and-behavioral-[mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/research-topics/80199/learning-from-surprise-neural-and-behavioral-[mechanisms</a>  
+   Link:<a href="https://www.frontiersin.org/research-topics/80199/learning-from-surprise-neural-and-behavioral-[mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/research-topics/80199/learning-from-surprise-neural-and-behavioral-[mechanisms</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dyslexicadvantage.org  
-   Link: <a href="https://www.dyslexicadvantage.org/wp-content/uploads/2016/06/Scientific-American-Learning-Mistakes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dyslexicadvantage.org/wp-content/uploads/2016/06/Scientific-American-Learning-Mistakes.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dyslexia | Dyslexic AdvantageGetting It Wrong: Surprising Tips on How to Learnby HL Roediger · Cited by 29 — In a way this pretesting eff...</p></details>
+   Link:<a href="https://www.dyslexicadvantage.org/wp-content/uploads/2016/06/Scientific-American-Learning-Mistakes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dyslexicadvantage.org/wp-content/uploads/2016/06/Scientific-American-Learning-Mistakes.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dyslexia | Dyslexic AdvantageGetting It Wrong: Surprising Tips on How to Learnby HL Roediger · Cited by 29 — In a way this pretesting eff...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Teach Students How to Learn (Saundra Yancy Mc Guire) Summarized  
-   Link: <a href="https://www.youtube.com/watch?v=gdcixmgKr08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gdcixmgKr08</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hindsight Bias: Action The Illusion of Predictability...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gdcixmgKr08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gdcixmgKr08</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hindsight Bias: Action The Illusion of Predictability...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: A surprising study method that will make your dopamine explode  
-   Link: <a href="https://www.youtube.com/watch?v=JGQ-605WBk8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGQ-605WBk8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Become Dangerously Self-Educated (with AI)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JGQ-605WBk8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGQ-605WBk8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Become Dangerously Self-Educated (with AI)...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: How To Become Dangerously Self-Educated (with AI)  
-   Link: <a href="https://www.youtube.com/watch?v=VeU6gScy92s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VeU6gScy92s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teach Students How to Learn (Saundra Yancy McGuire) Summarized...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VeU6gScy92s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VeU6gScy92s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teach Students How to Learn (Saundra Yancy McGuire) Summarized...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: How to STUDY so FAST it feels like CHEATING  
-   Link: <a href="https://www.youtube.com/watch?v=-v3D8wNUUjk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-v3D8wNUUjk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A surprising study method that will make your dopamine explode...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-v3D8wNUUjk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-v3D8wNUUjk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A surprising study method that will make your dopamine explode...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/369450297_Metacognitive_unawareness_of_feedback_influences_future_memory_prediction_but_not_postdiction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369450297_Metacognitive_unawareness_of_feedback_influences_future_memory_prediction_but_not_postdiction</a>  
+   Link:<a href="https://www.researchgate.net/publication/369450297_Metacognitive_unawareness_of_feedback_influences_future_memory_prediction_but_not_postdiction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369450297_Metacognitive_unawareness_of_feedback_influences_future_memory_prediction_but_not_postdiction</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/343927243_A_metacognitive_retrieval_practice_intervention_to_improve_undergraduates%27_monitoring_and_control_processes_and_use_of_performance_feedback_for_classroom_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343927243_A_metacognitive_retrieval_practice_intervention_to_improve_undergraduates%27_monitoring_and_control_processes_and_use_of_performance_feedback_for_classroom_learning</a>  
+   Link:<a href="https://www.researchgate.net/publication/343927243_A_metacognitive_retrieval_practice_intervention_to_improve_undergraduates%27_monitoring_and_control_processes_and_use_of_performance_feedback_for_classroom_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343927243_A_metacognitive_retrieval_practice_intervention_to_improve_undergraduates%27_monitoring_and_control_processes_and_use_of_performance_feedback_for_classroom_learning</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: snitchnotes.com  
-   Link: <a href="https://snitchnotes.com/fr/blog/confidence-based-learning-study-method-for-exam-prep" target="_blank" rel="noopener noreferrer nofollow">https://snitchnotes.com/fr/blog/confidence-based-learning-study-method-for-exam-prep</a>  
+   Link:<a href="https://snitchnotes.com/fr/blog/confidence-based-learning-study-method-for-exam-prep" target="_blank" rel="noopener noreferrer nofollow">https://snitchnotes.com/fr/blog/confidence-based-learning-study-method-for-exam-prep</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/pubs/journals/features/xge-xge0000140.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/features/xge-xge0000140.pdf</a>  
+   Link:<a href="https://www.apa.org/pubs/journals/features/xge-xge0000140.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/features/xge-xge0000140.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nko.nl  
-   Link: <a href="https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf</a>  
+   Link:<a href="https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf</a>  

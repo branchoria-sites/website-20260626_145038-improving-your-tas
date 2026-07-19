@@ -451,13 +451,13 @@ Practice testing is the habit of trying to recall knowledge before you feel comp
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_practice_testing_35a599-overview.webp" | relative_url }}" alt="Overview image for Practice Tests" loading="eager" decoding="sync" fetchpriority="high">
-The strongest evidence for practice testing comes from cognitive psychology’s “testing effect”: taking a test can improve later retention, not merely measure it. In a widely cited experiment, Roediger and Karpicke found that learners who repeatedly retrieved prose material remembered more after a delay than learners who repeatedly reread it, even when rereading felt more fluent at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Authors Henry L Roediger 1</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</span></span></span> For adults trying to improve thinking and analytical skill, the point is not to become a better exam-taker. It is to make useful ideas retrievable under real conditions: during a meeting, while reading a difficult article, when judging evidence, or when explaining a decision.
+The strongest evidence for practice testing comes from cognitive psychology’s “testing effect”: taking a test can improve later retention, not merely measure it. In a widely cited experiment, Roediger and Karpicke found that learners who repeatedly retrieved prose material remembered more after a delay than learners who repeatedly reread it, even when rereading felt more fluent at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Authors Henry L Roediger 1</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</span></span></span> For adults trying to improve thinking and analytical skill, the point is not to become a better exam-taker. It is to make useful ideas retrievable under real conditions: during a meeting, while reading a difficult article, when judging evidence, or when explaining a decision.
 
 ## Why testing yourself beats rereading
 
 Rereading is attractive because it feels productive. The words become familiar, the page looks less intimidating, and your confidence rises. The problem is that familiarity is not the same as usable understanding. You can recognise an explanation when it is in front of you without being able to reconstruct it, apply it, or notice when it is being misused.
 
-Practice testing interrupts that illusion. When you try to answer without looking, you force your mind to search for the idea, organise it, and produce it. That production step is what makes retrieval practice different from passive review. Dunlosky and colleagues’ major review of learning techniques rated practice testing and [distributed practice]({{ 'spacing/' | relative_url }}) as high-utility methods, while rereading and highlighting received lower ratings because their benefits are narrower and less reliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whz.de/fileadmin/lehre/hochschuldidaktik/docs/dunloskiimprovingstudentlearning.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whz.de">[Westsächsische Hochschule Zwickau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whz.de</span><span class="citation-popover-title">Westsächsische Hochschule Zwickau Improving Students&#x27; Learning With Effective</span><span class="citation-popover-snippet">Westsächsische Hochschule ZwickauImproving Students&#x27; Learning With Effective...December 19, 2012 — by J Dunlosky · 2013 · Cited by 5904...</span><span class="citation-popover-meta">Published: December 19, 2012</span></span></span>
+Practice testing interrupts that illusion. When you try to answer without looking, you force your mind to search for the idea, organise it, and produce it. That production step is what makes retrieval practice different from passive review. Dunlosky and colleagues’ major review of learning techniques rated practice testing and [distributed practice]({{ 'spacing/' | relative_url }}) as high-utility methods, while rereading and highlighting received lower ratings because their benefits are narrower and less reliable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whz.de/fileadmin/lehre/hochschuldidaktik/docs/dunloskiimprovingstudentlearning.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whz.de">[Westsächsische Hochschule Zwickau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whz.de</span><span class="citation-popover-title">Westsächsische Hochschule Zwickau Improving Students&#x27; Learning With Effective</span><span class="citation-popover-snippet">Westsächsische Hochschule ZwickauImproving Students&#x27; Learning With Effective...December 19, 2012 — by J Dunlosky · 2013 · Cited by 5904...</span><span class="citation-popover-meta">Published: December 19, 2012</span></span></span>
 
 For thinking skills, this distinction is especially important. Analytical skill depends on having key concepts available when you need them. It is not enough to have once read about [base rates]({{ 'base-rates/' | relative_url }}), opportunity cost, confounding variables, [steelmanning]({{ 'steelmanning/' | relative_url }}), or alternative explanations. You need to be able to retrieve those ideas while looking at a messy problem. A person who has only reread a checklist of thinking tools may recognise them in a book; a person who has practised recalling and using them is more likely to deploy them in the wild.
 
@@ -467,11 +467,11 @@ The most useful self-test is therefore not a miniature school exam. It is a retr
 
 Retrieval practice is often described as a memory technique, but its value for better thinking is broader than memorising facts. It can strengthen connections, improve [transfer]({{ 'transfer/' | relative_url }}) to new questions, and expose weak mental models.
 
-In the classic version, a learner studies material, then either restudies it or tries to retrieve it. On an immediate test, restudying can look good because the material is fresh. After a delay, retrieval often wins because the learner has practised the exact act that later learning depends on: reconstructing knowledge from memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Authors Henry L Roediger 1</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</span></span></span> This is why self-testing can feel harder while producing stronger retention.
+In the classic version, a learner studies material, then either restudies it or tries to retrieve it. On an immediate test, restudying can look good because the material is fresh. After a delay, retrieval often wins because the learner has practised the exact act that later learning depends on: reconstructing knowledge from memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Authors Henry L Roediger 1</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</span></span></span> This is why self-testing can feel harder while producing stronger retention.
 
 Retrieval also helps because it creates feedback. Even before anyone marks your answer, you learn something about your own knowledge. A [blank page]({{ 'blank-page/' | relative_url }}) tells you that your confidence was inflated. A muddled explanation shows that you have fragments rather than a structure. A wrong answer reveals a misconception that rereading might have hidden.
 
-Evidence also suggests that retrieval can support transfer, not just verbatim recall. Butler’s experiments found that repeated testing improved later performance on both retained facts and transfer questions more than repeated studying, indicating that retrieval can help learners apply concepts in altered forms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-snippet">Open source on andymatuschak.org.</span></span></span> Applied reviews of classroom studies similarly report that quizzes can benefit long-term learning, transfer to novel quiz items, and metacognitive awareness when combined with feedback. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pdf.retrievalpractice.org/guide/Agarwal_Bain_Chamberlain_2012_EDPR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdf.retrievalpractice.org">[PDF Retrieval Practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdf.retrievalpractice.org</span><span class="citation-popover-snippet">Open source on retrievalpractice.org.</span></span></span>
+Evidence also suggests that retrieval can support transfer, not just verbatim recall. Butler’s experiments found that repeated testing improved later performance on both retained facts and transfer questions more than repeated studying, indicating that retrieval can help learners apply concepts in altered forms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-snippet">Open source on andymatuschak.org.</span></span></span> Applied reviews of classroom studies similarly report that quizzes can benefit long-term learning, transfer to novel quiz items, and metacognitive awareness when combined with feedback.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pdf.retrievalpractice.org/guide/Agarwal_Bain_Chamberlain_2012_EDPR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdf.retrievalpractice.org">[PDF Retrieval Practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdf.retrievalpractice.org</span><span class="citation-popover-snippet">Open source on retrievalpractice.org.</span></span></span>
 
 That last point matters for analytical skill. Durable understanding is not simply “I remember the definition.” It is closer to: “I can recognise when this idea is relevant, [explain it]({{ 'explain-it/' | relative_url }}) in my own words, apply it to a new case, and tell when my first answer is shaky.” Retrieval practice trains those abilities when the tests ask for more than isolated labels.
 
@@ -481,7 +481,7 @@ That last point matters for analytical skill. Durable understanding is not simpl
 
 For adults, practice testing works best when it is frequent, low-pressure, and closely tied to real uses of knowledge. The goal is not to recreate school anxiety. It is to make recall a normal part of learning.
 
-A useful low-stakes self-test has three qualities. It is short enough to do regularly, hard enough to require effort, and checked soon enough to correct errors. Washington University’s teaching guidance recommends frequent low-stakes quizzes, free-response questions, polling, and feedback, while noting that questions should avoid being too easy or too hard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctl.wustl.edu">[Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctl.wustl.edu</span><span class="citation-popover-snippet">Open source on wustl.edu.</span></span></span> The Education Endowment Foundation likewise cautions that retrieval practice should not be reduced to rigid quiz policies; effective implementation depends on adapting the timing, content, challenge and feedback to the learning aim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-not-another-quiz-refining-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog not another quiz refining retrieval practice</span><span class="citation-popover-snippet">eef blog not another quiz refining retrieval practice</span></span></span>
+A useful low-stakes self-test has three qualities. It is short enough to do regularly, hard enough to require effort, and checked soon enough to correct errors. Washington University’s teaching guidance recommends frequent low-stakes quizzes, free-response questions, polling, and feedback, while noting that questions should avoid being too easy or too hard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctl.wustl.edu">[Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctl.wustl.edu</span><span class="citation-popover-snippet">Open source on wustl.edu.</span></span></span> The Education Endowment Foundation likewise cautions that retrieval practice should not be reduced to rigid quiz policies; effective implementation depends on adapting the timing, content, challenge and feedback to the learning aim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-not-another-quiz-refining-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog not another quiz refining retrieval practice</span><span class="citation-popover-snippet">eef blog not another quiz refining retrieval practice</span></span></span>
 
 For adult learners, the same principle can be translated into everyday habits:
 
@@ -516,11 +516,11 @@ A good practice-testing routine includes four layers:
 
 </div>
 
-This matters because factual recall can be necessary but insufficient. The EEF has warned that retrieval questions can become too narrow when they focus only on easily generated factual prompts, become too easy, or consume time without serving the next learning step. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">does research on retrieval practice translate into classroom practice</span><span class="citation-popover-snippet">does research on retrieval practice translate into classroom practice</span></span></span> For analytical skill, the danger is learning slogans rather than judgement. A person might remember “correlation is not causation” but fail to ask what confounders, mechanisms or comparison groups would actually matter in a particular case.
+This matters because factual recall can be necessary but insufficient. The EEF has warned that retrieval questions can become too narrow when they focus only on easily generated factual prompts, become too easy, or consume time without serving the next learning step.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">does research on retrieval practice translate into classroom practice</span><span class="citation-popover-snippet">does research on retrieval practice translate into classroom practice</span></span></span> For analytical skill, the danger is learning slogans rather than judgement. A person might remember “correlation is not causation” but fail to ask what confounders, mechanisms or comparison groups would actually matter in a particular case.
 
 The answer is not to abandon factual recall. It is to connect facts to use. A self-test on Bayesian thinking might begin with “What is a base rate?” but should quickly move to “How would ignoring the base rate distort this diagnosis, forecast or risk estimate?” A test on argument quality might ask not only “What is a straw man?” but “Rewrite this criticism so it attacks the strongest version of the opposing view.”
 
-Feedback is part of the design, not an afterthought. Reviews in applied settings consistently emphasise that retrieval with feedback improves learning and metacognitive awareness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pdf.retrievalpractice.org/guide/Agarwal_Bain_Chamberlain_2012_EDPR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdf.retrievalpractice.org">[PDF Retrieval Practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdf.retrievalpractice.org</span><span class="citation-popover-snippet">Open source on retrievalpractice.org.</span></span></span> Without checking, you may rehearse an error. With checking, each failed retrieval becomes information.
+Feedback is part of the design, not an afterthought. Reviews in applied settings consistently emphasise that retrieval with feedback improves learning and metacognitive awareness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pdf.retrievalpractice.org/guide/Agarwal_Bain_Chamberlain_2012_EDPR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdf.retrievalpractice.org">[PDF Retrieval Practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdf.retrievalpractice.org</span><span class="citation-popover-snippet">Open source on retrievalpractice.org.</span></span></span> Without checking, you may rehearse an error. With checking, each failed retrieval becomes information.
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_practice_testing_35a599-Illustration-2-dark.svg" | relative_url }}" alt="Practice Tests illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_practice_testing_35a599-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_practice_testing_35a599-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -528,7 +528,7 @@ Feedback is part of the design, not an afterthought. Reviews in applied settings
 
 Practice testing works partly because it makes failure visible at a safe moment. That is why low-stakes conditions are so important. If every test feels like a verdict, people protect themselves by avoiding hard questions, guessing defensively, or studying for short-term performance. If tests are framed as learning events, mistakes become useful data.
 
-Research on error correction suggests that retrieval can help people update mistaken knowledge when corrective feedback is supplied. A 2022 study on false memories found that retrieval facilitated correction, suggesting that the benefits of testing can extend beyond simple retention to repairing errors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9345471/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> The Learning Scientists similarly highlight feedback as a way to amplify retrieval practice and reduce the risk of misinformation being strengthened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.learningscientists.org/blog/2024/8/22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-title">The Learning Scientists Retrieval Practice: How to Encourage Long-Term Retention</span><span class="citation-popover-snippet">The Learning Scientists Retrieval Practice: How to Encourage Long-Term Retention</span></span></span>
+Research on error correction suggests that retrieval can help people update mistaken knowledge when corrective feedback is supplied. A 2022 study on false memories found that retrieval facilitated correction, suggesting that the benefits of testing can extend beyond simple retention to repairing errors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9345471/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> The Learning Scientists similarly highlight feedback as a way to amplify retrieval practice and reduce the risk of misinformation being strengthened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.learningscientists.org/blog/2024/8/22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-title">The Learning Scientists Retrieval Practice: How to Encourage Long-Term Retention</span><span class="citation-popover-snippet">The Learning Scientists Retrieval Practice: How to Encourage Long-Term Retention</span></span></span>
 
 There is a subtle balance here. Feedback should be clear enough to correct the error, but not so immediate and automatic that the learner never tries to retrieve. If the answer appears before any effort, the activity becomes exposure rather than retrieval. If feedback is too delayed or absent, the learner may consolidate the wrong response.
 
@@ -556,11 +556,11 @@ The biggest mistake is treating practice testing as a performance check rather t
 
 Another mistake is relying too much on recognition. Multiple-choice questions can be useful, especially with well-designed distractors and feedback, but they are not the same as producing an explanation from memory. Recognition can create a feeling of knowing because the correct answer looks familiar. Free recall, short explanations, worked problems and “teach it back” prompts usually reveal more about whether an idea is usable.
 
-A third mistake is testing too soon and stopping too soon. Immediate retrieval can help, but durable understanding depends on retrieving after some forgetting has occurred. Applied work reviewed by Agarwal, Bain and Chamberlain notes that delayed quizzes can be particularly potent for retention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pdf.retrievalpractice.org/guide/Agarwal_Bain_Chamberlain_2012_EDPR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdf.retrievalpractice.org">[PDF Retrieval Practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdf.retrievalpractice.org</span><span class="citation-popover-snippet">Open source on retrievalpractice.org.</span></span></span> This is where practice testing overlaps with spacing: the best system asks you to retrieve today, then again later, not ten times in one sitting and never again.
+A third mistake is testing too soon and stopping too soon. Immediate retrieval can help, but durable understanding depends on retrieving after some forgetting has occurred. Applied work reviewed by Agarwal, Bain and Chamberlain notes that delayed quizzes can be particularly potent for retention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pdf.retrievalpractice.org/guide/Agarwal_Bain_Chamberlain_2012_EDPR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdf.retrievalpractice.org">[PDF Retrieval Practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdf.retrievalpractice.org</span><span class="citation-popover-snippet">Open source on retrievalpractice.org.</span></span></span> This is where practice testing overlaps with spacing: the best system asks you to retrieve today, then again later, not ten times in one sitting and never again.
 
 A fourth mistake is using questions that are either trivial or impossibly broad. “What did the chapter say?” is too vague. “List every subpoint exactly” may be too brittle. Better prompts target the core moves of understanding: define, explain, compare, apply, diagnose, and critique.
 
-Finally, practice testing can be misused when it becomes punitive. Low-stakes does not mean careless; it means the consequences are small enough that learners can be honest. The EEF’s recent guidance stresses that retrieval practice should be refined around purpose and feedback rather than converted into prescriptive routines that ignore subject, classroom and learner differences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-not-another-quiz-refining-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog not another quiz refining retrieval practice</span><span class="citation-popover-snippet">eef blog not another quiz refining retrieval practice</span></span></span>
+Finally, practice testing can be misused when it becomes punitive. Low-stakes does not mean careless; it means the consequences are small enough that learners can be honest. The EEF’s recent guidance stresses that retrieval practice should be refined around purpose and feedback rather than converted into prescriptive routines that ignore subject, classroom and learner differences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-not-another-quiz-refining-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog not another quiz refining retrieval practice</span><span class="citation-popover-snippet">eef blog not another quiz refining retrieval practice</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oqae85jbfbE" title="Henry Roediger - Retrieval Practice to Enhance Learning and Retention" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oqae85jbfbE" target="_blank" rel="noopener noreferrer">Henry Roediger - Retrieval Practice to Enhance Learning and Retention</a></p><p class="youtube-embed-meta">Channel: Montana State University</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oqae85jbfbE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oqae85jbfbE">Open on YouTube</a></p></div></div></div>
@@ -588,194 +588,194 @@ For every important idea you want to keep, do at least one retrieval attempt bef
 That rule is modest enough to use with books, courses, professional training, policy papers, technical documentation and personal decision frameworks. It also keeps practice testing in its proper role. Testing yourself is not a replacement for reading, listening, discussing or solving real problems. It is the bridge between exposure and usable understanding: the moment when knowledge stops being something you have seen and becomes something you can bring back when your thinking needs it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Testing Yourself Beats Rereading. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Testing Yourself Beats Rereading. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Centers on testing yourself as a learning strategy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on testing yourself as a learning strategy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
-        </h4>
-        <p class="fr-book-author">By Benedict Carey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+</h4>
+<p class="fr-book-author">By Benedict Carey</p>
         
-        <p class="fr-book-desc">Explains the testing effect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the testing effect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Jv3YCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
-        </h4>
-        <p class="fr-book-author">By Barbara A. Oakley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Jv3YCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
+</h4>
+<p class="fr-book-author">By Barbara A. Oakley</p>
         
-        <p class="fr-book-desc">Provides retrieval practice techniques.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides retrieval practice techniques.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Explains why active recall works.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why active recall works.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Mind+for+Numbers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Mind for Numbers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Mind+for+Numbers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Mind for Numbers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="https://i.ebayimg.com/images/g/Rf0AAeSwpj9pB6GN/s-l225.jpg" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="https://i.ebayimg.com/images/g/Rf0AAeSwpj9pB6GN/s-l225.jpg" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="https://i.ebayimg.com/images/g/Q3IAAeSwu6BppQZ2/s-l225.jpg" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="https://i.ebayimg.com/images/g/Q3IAAeSwu6BppQZ2/s-l225.jpg" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC Table real elements A2 laminated chemistry science educational poster"><img src="https://i.ebayimg.com/images/g/TN4AAMXQoiJRgi3n/s-l225.jpg" alt="Listing image for PERIODIC Table real elements A2 laminated chemistry science educational poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">PERIODIC Table real elements A2 laminated chemistry science educational poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC Table real elements A2 laminated chemistry science educational poster"><img src="https://i.ebayimg.com/images/g/TN4AAMXQoiJRgi3n/s-l225.jpg" alt="Listing image for PERIODIC Table real elements A2 laminated chemistry science educational poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">PERIODIC Table real elements A2 laminated chemistry science educational poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="https://i.ebayimg.com/images/g/rB4AAOSwA8dlI-dX/s-l225.jpg" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="https://i.ebayimg.com/images/g/rB4AAOSwA8dlI-dX/s-l225.jpg" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-testing-yourself-beats-rereading-science-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books -dvd" data-ebay-reference="why-testing-yourself-beats-rereading-science-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -791,7 +791,7 @@ That rule is modest enough to use with books, courses, professional training, po
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -811,7 +811,7 @@ That rule is modest enough to use with books, courses, professional training, po
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -843,7 +843,7 @@ That rule is modest enough to use with books, courses, professional training, po
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -895,7 +895,7 @@ That rule is modest enough to use with books, courses, professional training, po
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -940,7 +940,7 @@ That rule is modest enough to use with books, courses, professional training, po
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -980,226 +980,226 @@ That rule is modest enough to use with books, courses, professional training, po
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: eef blog not another quiz refining retrieval practice  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-not-another-quiz-refining-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-not-another-quiz-refining-retrieval-practice</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/eef-blog-not-another-quiz-refining-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-not-another-quiz-refining-retrieval-practice</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: does research on retrieval practice translate into classroom practice  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9345471/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9345471/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9345471/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9345471/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: voices from the classroom beyond the quiz feedback and retrieval practice  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/voices-from-the-classroom-beyond-the-quiz-feedback-and-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/voices-from-the-classroom-beyond-the-quiz-feedback-and-retrieval-practice</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/voices-from-the-classroom-beyond-the-quiz-feedback-and-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/voices-from-the-classroom-beyond-the-quiz-feedback-and-retrieval-practice</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Authors Henry L Roediger 1  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16507066/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16507066/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Karpicke 2006 PPS  
-   Link: <a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(2006). Test enhanced learning: Taking memory tests improves long-term retention. Psychological. Science, 17, 249–255...</p></details>
+   Link:<a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2006). Test enhanced learning: Taking memory tests improves long-term retention. Psychological. Science, 17, 249–255...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: whz.de  
    Title: Westsächsische Hochschule Zwickau Improving Students' Learning With Effective  
-   Link: <a href="https://www.whz.de/fileadmin/lehre/hochschuldidaktik/docs/dunloskiimprovingstudentlearning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.whz.de/fileadmin/lehre/hochschuldidaktik/docs/dunloskiimprovingstudentlearning.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Westsächsische Hochschule ZwickauImproving Students&#x27; Learning With Effective...December 19, 2012 — by J Dunlosky · 2013 · Cited by 5904...</p></details>
+   Link:<a href="https://www.whz.de/fileadmin/lehre/hochschuldidaktik/docs/dunloskiimprovingstudentlearning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.whz.de/fileadmin/lehre/hochschuldidaktik/docs/dunloskiimprovingstudentlearning.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Westsächsische Hochschule ZwickauImproving Students&#x27; Learning With Effective...December 19, 2012 — by J Dunlosky · 2013 · Cited by 5904...</p></details>
    Published: December 19, 2012  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: andymatuschak.org  
-   Link: <a href="https://andymatuschak.org/files/papers/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andymatuschak.org/files/papers/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf</a>  
+   Link:<a href="https://andymatuschak.org/files/papers/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andymatuschak.org/files/papers/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pdf.retrievalpractice.org  
-   Link: <a href="https://pdf.retrievalpractice.org/guide/Agarwal_Bain_Chamberlain_2012_EDPR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdf.retrievalpractice.org/guide/Agarwal_Bain_Chamberlain_2012_EDPR.pdf</a>  
+   Link:<a href="https://pdf.retrievalpractice.org/guide/Agarwal_Bain_Chamberlain_2012_EDPR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdf.retrievalpractice.org/guide/Agarwal_Bain_Chamberlain_2012_EDPR.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ctl.wustl.edu  
-   Link: <a href="https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/" target="_blank" rel="noopener noreferrer nofollow">https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/</a>  
+   Link:<a href="https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/" target="_blank" rel="noopener noreferrer nofollow">https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: learningscientists.org  
    Title: The Learning Scientists Retrieval Practice: How to Encourage Long-Term Retention  
-   Link: <a href="https://www.learningscientists.org/blog/2024/8/22" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2024/8/22</a>  
+   Link:<a href="https://www.learningscientists.org/blog/2024/8/22" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2024/8/22</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: eef blog cognitive science more than just a quiz  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-cognitive-science-more-than-just-a-quiz" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-cognitive-science-more-than-just-a-quiz</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/eef-blog-cognitive-science-more-than-just-a-quiz" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-cognitive-science-more-than-just-a-quiz</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: eef blog why bother with retrieval  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-why-bother-with-retrieval" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-why-bother-with-retrieval</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/eef-blog-why-bother-with-retrieval" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-why-bother-with-retrieval</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-cognitive-science" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-cognitive-science</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-cognitive-science" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-cognitive-science</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: eef blog putting cognitive science principles into practice  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-putting-cognitive-science-principles-into-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-putting-cognitive-science-principles-into-practice</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/eef-blog-putting-cognitive-science-principles-into-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-putting-cognitive-science-principles-into-practice</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12894256/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12894256/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12894256/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12894256/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11078833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11078833/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11078833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11078833/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9400648/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9400648/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9400648/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9400648/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10607076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10607076/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10607076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10607076/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173288/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173288/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: psychnet.wustl.edu  
    Title: Smith et al 2013 JEPLMC  
-   Link: <a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Smith-et-al-2013_JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Smith-et-al-2013_JEPLMC.pdf</a>  
+   Link:<a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Smith-et-al-2013_JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Smith-et-al-2013_JEPLMC.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: education-ni.gov.uk  
    Title: Retrieval Practice  
-   Link: <a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
+   Link:<a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sheffieldscitt.org.uk  
    Title: retrieval practice  
-   Link: <a href="https://www.sheffieldscitt.org.uk/research/retrieval-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.sheffieldscitt.org.uk/research/retrieval-practice</a>  
+   Link:<a href="https://www.sheffieldscitt.org.uk/research/retrieval-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.sheffieldscitt.org.uk/research/retrieval-practice</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: fatecitapetininga.edu.br  
-   Link: <a href="https://fatecitapetininga.edu.br/sif/nelfi/pdf/estacad.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fatecitapetininga.edu.br/sif/nelfi/pdf/estacad.pdf</a>  
+   Link:<a href="https://fatecitapetininga.edu.br/sif/nelfi/pdf/estacad.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fatecitapetininga.edu.br/sif/nelfi/pdf/estacad.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: notes.andymatuschak.org  
    Title: z R5b3iqx Vz WDbjm Uuhrm Y1X  
-   Link: <a href="https://notes.andymatuschak.org/zR5b3iqxVzWDbjmUuhrmY1X" target="_blank" rel="noopener noreferrer nofollow">https://notes.andymatuschak.org/zR5b3iqxVzWDbjmUuhrmY1X</a>  
+   Link:<a href="https://notes.andymatuschak.org/zR5b3iqxVzWDbjmUuhrmY1X" target="_blank" rel="noopener noreferrer nofollow">https://notes.andymatuschak.org/zR5b3iqxVzWDbjmUuhrmY1X</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: notes.andymatuschak.org  
    Title: zyv KN4Bd Huj BNpez2u Zj Yx  
-   Link: <a href="https://notes.andymatuschak.org/zyvKN4BdHujBNpez2uZjYx" target="_blank" rel="noopener noreferrer nofollow">https://notes.andymatuschak.org/zyvKN4BdHujBNpez2uZjYx</a>  
+   Link:<a href="https://notes.andymatuschak.org/zyvKN4BdHujBNpez2uZjYx" target="_blank" rel="noopener noreferrer nofollow">https://notes.andymatuschak.org/zyvKN4BdHujBNpez2uZjYx</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/retrieval" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/retrieval</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/retrieval" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/retrieval</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/retrieval" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/retrieval</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/retrieval" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/retrieval</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchers.mq.edu.au  
    Title: cognitive science in the classroom evidence and practice review  
-   Link: <a href="https://researchers.mq.edu.au/en/publications/cognitive-science-in-the-classroom-evidence-and-practice-review/" target="_blank" rel="noopener noreferrer nofollow">https://researchers.mq.edu.au/en/publications/cognitive-science-in-the-classroom-evidence-and-practice-review/</a>  
+   Link:<a href="https://researchers.mq.edu.au/en/publications/cognitive-science-in-the-classroom-evidence-and-practice-review/" target="_blank" rel="noopener noreferrer nofollow">https://researchers.mq.edu.au/en/publications/cognitive-science-in-the-classroom-evidence-and-practice-review/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: kognity.com  
    Title: retrieval practice  
-   Link: <a href="https://kognity.com/resources/retrieval-practice/" target="_blank" rel="noopener noreferrer nofollow">https://kognity.com/resources/retrieval-practice/</a>  
+   Link:<a href="https://kognity.com/resources/retrieval-practice/" target="_blank" rel="noopener noreferrer nofollow">https://kognity.com/resources/retrieval-practice/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/dictionary/retrieval" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/retrieval</a>  
+   Link:<a href="https://www.vocabulary.com/dictionary/retrieval" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/retrieval</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cultofpedagogy.com  
    Title: retrieval practice  
-   Link: <a href="https://www.cultofpedagogy.com/retrieval-practice/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofpedagogy.com/retrieval-practice/</a>  
+   Link:<a href="https://www.cultofpedagogy.com/retrieval-practice/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofpedagogy.com/retrieval-practice/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: scholarworks.iu.edu  
-   Link: <a href="https://scholarworks.iu.edu/journals/index.php/josotl/article/view/28650" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.iu.edu/journals/index.php/josotl/article/view/28650</a>  
+   Link:<a href="https://scholarworks.iu.edu/journals/index.php/josotl/article/view/28650" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.iu.edu/journals/index.php/josotl/article/view/28650</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: tabers.com  
-   Link: <a href="https://www.tabers.com/tabersonline/view/Tabers-Dictionary/740432/0/retrieval?q=An" target="_blank" rel="noopener noreferrer nofollow">https://www.tabers.com/tabersonline/view/Tabers-Dictionary/740432/0/retrieval?q=An</a>  
+   Link:<a href="https://www.tabers.com/tabersonline/view/Tabers-Dictionary/740432/0/retrieval?q=An" target="_blank" rel="noopener noreferrer nofollow">https://www.tabers.com/tabersonline/view/Tabers-Dictionary/740432/0/retrieval?q=An</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: learningscientists.org  
-   Link: <a href="https://www.learningscientists.org/blog/2017/2/9-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2017/2/9-1</a>  
+   Link:<a href="https://www.learningscientists.org/blog/2017/2/9-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2017/2/9-1</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xqNmqMHkYyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xqNmqMHkYyY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Henry Roediger - Retrieval Practice to Enhance Learning and Retention...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xqNmqMHkYyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xqNmqMHkYyY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Henry Roediger - Retrieval Practice to Enhance Learning and Retention...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Episode 5 − Learning to Learn: Uncut conversation with John Dunlosky  
-   Link: <a href="https://www.youtube.com/watch?v=q3kU8MyAHhE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q3kU8MyAHhE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About How Adults Learn with Drs John Dunlosky, Regan Gurung &amp; Charles Good | TGLP #268...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q3kU8MyAHhE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q3kU8MyAHhE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About How Adults Learn with Drs John Dunlosky, Regan Gurung &amp; Charles Good | TGLP #268...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Henry Roediger  
-   Link: <a href="https://www.youtube.com/watch?v=oqae85jbfbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oqae85jbfbE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>learning by taking practice tests protects memory against stress...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oqae85jbfbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oqae85jbfbE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>learning by taking practice tests protects memory against stress...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/retrieval-practice-in-educational-psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/retrieval-practice-in-educational-psychology</a>  
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/retrieval-practice-in-educational-psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/retrieval-practice-in-educational-psychology</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: educationalneuroscience.org.uk  
-   Link: <a href="https://educationalneuroscience.org.uk/wordpress/2020/05/13/using-retrieval-practice-to-promote-long-term-retention/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/2020/05/13/using-retrieval-practice-to-promote-long-term-retention/</a>  
+   Link:<a href="https://educationalneuroscience.org.uk/wordpress/2020/05/13/using-retrieval-practice-to-promote-long-term-retention/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/2020/05/13/using-retrieval-practice-to-promote-long-term-retention/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: educationalneuroscience.org.uk  
-   Link: <a href="https://www.educationalneuroscience.org.uk/2020/05/13/using-retrieval-practice-to-promote-long-term-retention/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/2020/05/13/using-retrieval-practice-to-promote-long-term-retention/</a>  
+   Link:<a href="https://www.educationalneuroscience.org.uk/2020/05/13/using-retrieval-practice-to-promote-long-term-retention/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/2020/05/13/using-retrieval-practice-to-promote-long-term-retention/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: Re-Reading Is Useless (The Research Is Clear)  
-   Link: <a href="https://www.youtube.com/watch?v=JATdos-SST4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JATdos-SST4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 5 − Learning to Learn: Uncut conversation with John Dunlosky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JATdos-SST4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JATdos-SST4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 5 − Learning to Learn: Uncut conversation with John Dunlosky...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612453266" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612453266</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsImproving Students&#x27; Learning With Effective Learning...by J Dunlosky · 2013 · Cited by 5904 — In this monograph, we discuss...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612453266" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612453266</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsImproving Students&#x27; Learning With Effective Learning...by J Dunlosky · 2013 · Cited by 5904 — In this monograph, we discuss...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/230709697_The_Value_of_Applied_Research_Retrieval_Practice_Improves_Classroom_Learning_and_Recommendations_from_a_Teacher_a_Principal_and_a_Scientist" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230709697_The_Value_of_Applied_Research_Retrieval_Practice_Improves_Classroom_Learning_and_Recommendations_from_a_Teacher_a_Principal_and_a_Scientist</a>  
+   Link:<a href="https://www.researchgate.net/publication/230709697_The_Value_of_Applied_Research_Retrieval_Practice_Improves_Classroom_Learning_and_Recommendations_from_a_Teacher_a_Principal_and_a_Scientist" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230709697_The_Value_of_Applied_Research_Retrieval_Practice_Improves_Classroom_Learning_and_Recommendations_from_a_Teacher_a_Principal_and_a_Scientist</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/352867336_Low-Stakes_Quizzes_Improve_Learning_and_Reduce_Overconfidence_in_College_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352867336_Low-Stakes_Quizzes_Improve_Learning_and_Reduce_Overconfidence_in_College_Students</a>  
+   Link:<a href="https://www.researchgate.net/publication/352867336_Low-Stakes_Quizzes_Improve_Learning_and_Reduce_Overconfidence_in_College_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352867336_Low-Stakes_Quizzes_Improve_Learning_and_Reduce_Overconfidence_in_College_Students</a>  

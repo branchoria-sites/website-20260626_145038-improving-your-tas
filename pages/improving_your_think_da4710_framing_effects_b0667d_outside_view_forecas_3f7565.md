@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_framing_effects_b0667d_outside
 
 ## Introduction
 
-Project teams often become convinced that *this* project will avoid the delays, budget overruns and technical setbacks that affected similar efforts. This "inside view" feels persuasive because it is built from detailed knowledge of the current plan, talented people and intended solutions. Yet research in behavioural decision-making consistently shows that forecasts improve when teams deliberately adopt an "outside view": instead of asking why their own plan should succeed, they compare it with the actual [outcomes]({{ 'outcomes/' | relative_url }}) of comparable completed projects. This approach, known as **reference class forecasting**, is one of the most practical ways to reduce excessive optimism and make better project decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/1302.3642" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv From Nobel Prize to Project Management: Getting Risks</span><span class="citation-popover-snippet">From Nobel Prize to Project Management: Getting Risks...February 14, 2013 — by B Flyvbjerg · 2013 · Cited by 826 — The first instan...</span><span class="citation-popover-meta">Published: February 14, 2013</span></span></span>
+Project teams often become convinced that *this* project will avoid the delays, budget overruns and technical setbacks that affected similar efforts. This "inside view" feels persuasive because it is built from detailed knowledge of the current plan, talented people and intended solutions. Yet research in behavioural decision-making consistently shows that forecasts improve when teams deliberately adopt an "outside view": instead of asking why their own plan should succeed, they compare it with the actual [outcomes]({{ 'outcomes/' | relative_url }}) of comparable completed projects. This approach, known as **reference class forecasting**, is one of the most practical ways to reduce excessive optimism and make better project decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/1302.3642" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv From Nobel Prize to Project Management: Getting Risks</span><span class="citation-popover-snippet">From Nobel Prize to Project Management: Getting Risks...February 14, 2013 — by B Flyvbjerg · 2013 · Cited by 826 — The first instan...</span><span class="citation-popover-meta">Published: February 14, 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d_outside_view_forecas_3f7565-Illustration-1-dark.svg" | relative_url }}" alt="Outside View illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d_outside_view_forecas_3f7565-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d_outside_view_forecas_3f7565-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -293,7 +293,7 @@ Rather than replacing expert judgement, the outside view acts as a disciplined r
 
 The inside view starts with the specifics of the current project. Teams analyse milestones, staffing plans, technical designs and identified risks, then build a forecast from those details. This process is valuable, but it encourages people to imagine how the plan will unfold if everything broadly works as intended.
 
-Behavioural researchers Daniel Kahneman and Amos Tversky argued that this perspective encourages the **planning fallacy**—the tendency to underestimate the time, cost and difficulty of future work even when similar past projects have exceeded expectations. The problem is not simply optimism. It is that people focus on the uniqueness of the current situation while neglecting statistical information about comparable cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/biases/planning-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabPlanning fallacyPlanning Fallacy is the tendency to be too optimistic about one&#x27;s estimates. As a result, the time needed...</span></span></span>
+Behavioural researchers Daniel Kahneman and Amos Tversky argued that this perspective encourages the **planning fallacy**—the tendency to underestimate the time, cost and difficulty of future work even when similar past projects have exceeded expectations. The problem is not simply optimism. It is that people focus on the uniqueness of the current situation while neglecting statistical information about comparable cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/biases/planning-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabPlanning fallacyPlanning Fallacy is the tendency to be too optimistic about one&#x27;s estimates. As a result, the time needed...</span></span></span>
 
 Several psychological forces reinforce the inside view:
 
@@ -303,7 +303,7 @@ Several psychological forces reinforce the inside view:
 * Teams possess rich information about today's project but only vague memories of previous ones.
 * Success stories are easier to imagine than routine failures and cumulative delays.
 * Commitment to a chosen strategy encourages people to defend rather than test assumptions.
-* Stakeholders often reward ambitious forecasts more than cautious ones, creating pressure to present attractive plans. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/87569728211049046" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsTop Ten Behavioral Biases in Project Managementby B Flyvbjerg · 2021 · Cited by 379 — I developed this into a practical tool...</span></span></span>
+* Stakeholders often reward ambitious forecasts more than cautious ones, creating pressure to present attractive plans.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/87569728211049046" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsTop Ten Behavioral Biases in Project Managementby B Flyvbjerg · 2021 · Cited by 379 — I developed this into a practical tool...</span></span></span>
 
 </div>
 
@@ -323,7 +323,7 @@ Reference class forecasting replaces "How will our plan unfold?" with a differen
 
 > **How have projects genuinely similar to ours actually turned out?**
 
-Instead of constructing a forecast solely from project-specific assumptions, the method begins with a reference class—a collection of comparable completed projects. The team then examines the distribution of actual outcomes, including costs, schedules and realised benefits, before positioning the current project within that distribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/1302.3642" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv From Nobel Prize to Project Management: Getting Risks</span><span class="citation-popover-snippet">From Nobel Prize to Project Management: Getting Risks...February 14, 2013 — by B Flyvbjerg · 2013 · Cited by 826 — The first instan...</span><span class="citation-popover-meta">Published: February 14, 2013</span></span></span>
+Instead of constructing a forecast solely from project-specific assumptions, the method begins with a reference class—a collection of comparable completed projects. The team then examines the distribution of actual outcomes, including costs, schedules and realised benefits, before positioning the current project within that distribution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/1302.3642" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv From Nobel Prize to Project Management: Getting Risks</span><span class="citation-popover-snippet">From Nobel Prize to Project Management: Getting Risks...February 14, 2013 — by B Flyvbjerg · 2013 · Cited by 826 — The first instan...</span><span class="citation-popover-meta">Published: February 14, 2013</span></span></span>
 
 The process generally involves three stages:
 
@@ -405,194 +405,194 @@ The greatest value of the outside view is not that it eliminates uncertainty. In
 Rather than asking teams to justify why their project will succeed, it asks them to explain why their project should perform substantially better than a well-defined group of comparable projects. That subtle change in [framing]({{ 'framing/' | relative_url }}) makes optimism compete with evidence instead of replacing it. Within broader efforts to improve thinking and analytical skills, this is one of the most practical ways to counter persuasive internal stories with measurable experience, leading to forecasts that are typically more realistic, transparent and useful for decision-making.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The question optimistic teams forget to ask. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The question optimistic teams forget to ask. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Big Things Get Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kmyTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Big Things Get Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Big Things Get Done">How Big Things Get Done</a>
-        </h4>
-        <p class="fr-book-author">By Bent Flyvbjerg, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Big Things Get Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kmyTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Big Things Get Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Big Things Get Done">How Big Things Get Done</a>
+</h4>
+<p class="fr-book-author">By Bent Flyvbjerg, Dan Gardner</p>
         
-        <p class="fr-book-desc">Reference class forecasting and the outside view are core practical ideas in the book.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reference class forecasting and the outside view are core practical ideas in the book.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains the planning fallacy, inside view, outside view, and forecasting errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the planning fallacy, inside view, outside view, and forecasting errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Teaches base rates, outside-view thinking, and disciplined forecasting habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches base rates, outside-view thinking, and disciplined forecasting habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Risk Savvy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-UMCDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Risk Savvy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Risk Savvy">Risk Savvy</a>
-        </h4>
-        <p class="fr-book-author">By Gerd Gigerenzer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Risk Savvy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-UMCDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Risk Savvy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Risk Savvy">Risk Savvy</a>
+</h4>
+<p class="fr-book-author">By Gerd Gigerenzer</p>
         
-        <p class="fr-book-desc">Helps readers reason with uncertainty, base rates, and realistic evidence rather than intuitive optimism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers reason with uncertainty, base rates, and realistic evidence rather than intuitive optimism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Risk+Savvy+by+Gerd+Gigerenzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Big+Things+Get+Done&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Big Things Get Done</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Big+Things+Get+Done&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Big Things Get Done</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency"><img src="https://i.ebayimg.com/images/g/B9wAAeSwh5lp~u1t/s-l225.jpg" alt="Listing image for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency"><img src="https://i.ebayimg.com/images/g/B9wAAeSwh5lp~u1t/s-l225.jpg" alt="Listing image for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency"><img src="https://i.ebayimg.com/images/g/JyEAAeSwcSxqGpeH/s-l225.jpg" alt="Listing image for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency"><img src="https://i.ebayimg.com/images/g/JyEAAeSwcSxqGpeH/s-l225.jpg" alt="Listing image for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Visionary I Ching Cards: The Book of Changes for Intuitive Decision Making - 64"><img src="https://i.ebayimg.com/images/g/vkcAAeSwp2Jp8Veb/s-l225.jpg" alt="Listing image for Visionary I Ching Cards: The Book of Changes for Intuitive Decision Making - 64" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Visionary I Ching Cards: The Book of Changes for Intuitive Decision Making - 64</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Visionary I Ching Cards: The Book of Changes for Intuitive Decision Making - 64"><img src="https://i.ebayimg.com/images/g/vkcAAeSwp2Jp8Veb/s-l225.jpg" alt="Listing image for Visionary I Ching Cards: The Book of Changes for Intuitive Decision Making - 64" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Visionary I Ching Cards: The Book of Changes for Intuitive Decision Making - 64</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yes/No Board and Flash Cards for Decision Making"><img src="https://i.ebayimg.com/images/g/rg8AAeSwew1osUb-/s-l225.jpg" alt="Listing image for Yes/No Board and Flash Cards for Decision Making" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Yes/No Board and Flash Cards for Decision Making</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yes/No Board and Flash Cards for Decision Making"><img src="https://i.ebayimg.com/images/g/rg8AAeSwew1osUb-/s-l225.jpg" alt="Listing image for Yes/No Board and Flash Cards for Decision Making" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Yes/No Board and Flash Cards for Decision Making</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-question-optimistic-teams-forget-to-ask-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="the-question-optimistic-teams-forget-to-ask-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -608,7 +608,7 @@ Rather than asking teams to justify why their project will succeed, it asks them
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -628,7 +628,7 @@ Rather than asking teams to justify why their project will succeed, it asks them
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -660,7 +660,7 @@ Rather than asking teams to justify why their project will succeed, it asks them
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -712,7 +712,7 @@ Rather than asking teams to justify why their project will succeed, it asks them
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -757,7 +757,7 @@ Rather than asking teams to justify why their project will succeed, it asks them
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -798,115 +798,115 @@ Rather than asking teams to justify why their project will succeed, it asks them
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv From Nobel Prize to Project Management: Getting Risks  
-   Link: <a href="https://arxiv.org/pdf/1302.3642" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1302.3642</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Nobel Prize to Project Management: Getting Risks...February 14, 2013 — by B Flyvbjerg · 2013 · Cited by 826 — The first instan...</p></details>
+   Link:<a href="https://arxiv.org/pdf/1302.3642" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1302.3642</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Nobel Prize to Project Management: Getting Risks...February 14, 2013 — by B Flyvbjerg · 2013 · Cited by 826 — The first instan...</p></details>
    Published: February 14, 2013  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: apm.org.uk  
-   Link: <a href="https://www.apm.org.uk/news/reference-class-forecasting-useful-method-or-random-number-generator-webinar/" target="_blank" rel="noopener noreferrer nofollow">https://www.apm.org.uk/news/reference-class-forecasting-useful-method-or-random-number-generator-webinar/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Class Forecasting - useful method, or random...11 Oct 2023 — The method is used to make explicit, empirically based adjustm...</p></details>
+   Link:<a href="https://www.apm.org.uk/news/reference-class-forecasting-useful-method-or-random-number-generator-webinar/" target="_blank" rel="noopener noreferrer nofollow">https://www.apm.org.uk/news/reference-class-forecasting-useful-method-or-random-number-generator-webinar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Class Forecasting - useful method, or random...11 Oct 2023 — The method is used to make explicit, empirically based adjustm...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Uniqueness Bias: Why It Matters, How to Curb It  
-   Link: <a href="https://arxiv.org/abs/2408.07710" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.07710</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Uniqueness Bias: Why It Matters, How to Curb ItAugust 13, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2408.07710" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.07710</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uniqueness Bias: Why It Matters, How to Curb ItAugust 13, 2024...</p></details>
    Published: August 13, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09537287.2025.2578708" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09537287.2025.2578708</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference class forecasting: promises, problems, and a...by CC Cantarelli · 2025 · Cited by 7 — Kahneman and Tversky (Citatio...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/09537287.2025.2578708" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09537287.2025.2578708</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reference class forecasting: promises, problems, and a...by CC Cantarelli · 2025 · Cited by 7 — Kahneman and Tversky (Citatio...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/1710.09419" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1710.09419</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bent Flyvbjerg, Chi-keung Hon, and Wing Huen Fok, 2016by B Flyvbjerg · 2017 · Cited by 78 — Reference Class Forecasting (RCF) is a m...</p></details>
+   Link:<a href="https://arxiv.org/pdf/1710.09419" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1710.09419</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bent Flyvbjerg, Chi-keung Hon, and Wing Huen Fok, 2016by B Flyvbjerg · 2017 · Cited by 78 — Reference Class Forecasting (RCF) is a m...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/planning-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/planning-fallacy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabPlanning fallacyPlanning Fallacy is the tendency to be too optimistic about one&#x27;s estimates. As a result, the time needed...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/planning-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/planning-fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabPlanning fallacyPlanning Fallacy is the tendency to be too optimistic about one&#x27;s estimates. As a result, the time needed...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/87569728211049046" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/87569728211049046</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsTop Ten Behavioral Biases in Project Managementby B Flyvbjerg · 2021 · Cited by 379 — I developed this into a practical tool...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/87569728211049046" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/87569728211049046</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsTop Ten Behavioral Biases in Project Managementby B Flyvbjerg · 2021 · Cited by 379 — I developed this into a practical tool...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: projectmanagement.com  
    Title: reference class forecasting depends on how you define similar  
-   Link: <a href="https://www.projectmanagement.com/blog-post/79682/reference-class-forecasting-depends-on-how-you-define--similar-" target="_blank" rel="noopener noreferrer nofollow">https://www.projectmanagement.com/blog-post/79682/reference-class-forecasting-depends-on-how-you-define--similar-</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Class Forecasting Depends on How You Define...6 May 2026 — Reference Class Forecasting (RCF), popularized by Bent Flyvbjerg, i...</p></details>
+   Link:<a href="https://www.projectmanagement.com/blog-post/79682/reference-class-forecasting-depends-on-how-you-define--similar-" target="_blank" rel="noopener noreferrer nofollow">https://www.projectmanagement.com/blog-post/79682/reference-class-forecasting-depends-on-how-you-define--similar-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Class Forecasting Depends on How You Define...6 May 2026 — Reference Class Forecasting (RCF), popularized by Bent Flyvbjerg, i...</p></details>
    Published: May 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: managementplatform.nl  
    Title: Reference Class Forecasting  
-   Link: <a href="https://managementplatform.nl/reference-class-forecasting/08/02/2026" target="_blank" rel="noopener noreferrer nofollow">https://managementplatform.nl/reference-class-forecasting/08/02/2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management Platform8 Feb 2026 — Reference Class Forecasting (RCF) betreft een methode voor het corrigeren van voorspellingen met betrekki...</p></details>
+   Link:<a href="https://managementplatform.nl/reference-class-forecasting/08/02/2026" target="_blank" rel="noopener noreferrer nofollow">https://managementplatform.nl/reference-class-forecasting/08/02/2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management Platform8 Feb 2026 — Reference Class Forecasting (RCF) betreft een methode voor het corrigeren van voorspellingen met betrekki...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Reference class forecasting  
-   Link: <a href="https://en.wikipedia.org/wiki/Reference_class_forecasting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reference_class_forecasting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference class forecastingReference class forecasting or comparison class forecasting is a method of predicting the future by looking...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Reference_class_forecasting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reference_class_forecasting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reference class forecastingReference class forecasting or comparison class forecasting is a method of predicting the future by looking...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/flyvbjerg_reducing-risks-in-megaprojects-the-potential-activity-7132215991085756416-Vepr" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/flyvbjerg_reducing-risks-in-megaprojects-the-potential-activity-7132215991085756416-Vepr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prof. Bent Flyvbjerg&#x27;s PostThe first full literature review of reference class forecasting is now available: &quot;Reducing risks in megaproje...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/flyvbjerg_reducing-risks-in-megaprojects-the-potential-activity-7132215991085756416-Vepr" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/flyvbjerg_reducing-risks-in-megaprojects-the-potential-activity-7132215991085756416-Vepr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prof. Bent Flyvbjerg&#x27;s PostThe first full literature review of reference class forecasting is now available: &quot;Reducing risks in megaproje...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: corporate.jasoncollins.blog  
-   Link: <a href="https://corporate.jasoncollins.blog/outside-view" target="_blank" rel="noopener noreferrer nofollow">https://corporate.jasoncollins.blog/outside-view</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>jasoncollins.blog23 The outside view – Course notes...The planning fallacy is the tendency of people to underestimate the completion tim...</p></details>
+   Link:<a href="https://corporate.jasoncollins.blog/outside-view" target="_blank" rel="noopener noreferrer nofollow">https://corporate.jasoncollins.blog/outside-view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>jasoncollins.blog23 The outside view – Course notes...The planning fallacy is the tendency of people to underestimate the completion tim...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/fallacy-planning-glen-alleman" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/fallacy-planning-glen-alleman</a>  
+   Link:<a href="https://www.linkedin.com/pulse/fallacy-planning-glen-alleman" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/fallacy-planning-glen-alleman</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/100937/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/100937/html/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2008. &#x27;Curbing optimism bias and strategic misrepresentation in planning: Reference class forecasting in practice&#x27;, European Planning Stu...</p></details>
+   Link:<a href="https://committees.parliament.uk/writtenevidence/100937/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/100937/html/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2008. &#x27;Curbing optimism bias and strategic misrepresentation in planning: Reference class forecasting in practice&#x27;, European Planning Stu...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/233258056_Curbing_Optimism_Bias_and_Strategic_Misrepresentation_in_Planning_Reference_Class_Forecasting_in_Practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233258056_Curbing_Optimism_Bias_and_Strategic_Misrepresentation_in_Planning_Reference_Class_Forecasting_in_Practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lass forecasting in planning practice.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/233258056_Curbing_Optimism_Bias_and_Strategic_Misrepresentation_in_Planning_Reference_Class_Forecasting_in_Practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233258056_Curbing_Optimism_Bias_and_Strategic_Misrepresentation_in_Planning_Reference_Class_Forecasting_in_Practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lass forecasting in planning practice.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dspace.lib.cranfield.ac.uk  
-   Link: <a href="https://dspace.lib.cranfield.ac.uk/server/api/core/bitstreams/076d9c29-659d-4bfd-9b1b-e0019ea9ad20/content" target="_blank" rel="noopener noreferrer nofollow">https://dspace.lib.cranfield.ac.uk/server/api/core/bitstreams/076d9c29-659d-4bfd-9b1b-e0019ea9ad20/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>class forecasting: promises, problems, and a...by CC Cantarelli · Cited by 7 — Reference Class Forecasting (RCF) has emerged as a promin...</p></details>
+   Link:<a href="https://dspace.lib.cranfield.ac.uk/server/api/core/bitstreams/076d9c29-659d-4bfd-9b1b-e0019ea9ad20/content" target="_blank" rel="noopener noreferrer nofollow">https://dspace.lib.cranfield.ac.uk/server/api/core/bitstreams/076d9c29-659d-4bfd-9b1b-e0019ea9ad20/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>class forecasting: promises, problems, and a...by CC Cantarelli · Cited by 7 — Reference Class Forecasting (RCF) has emerged as a promin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Planning Fallacy: Why You Always Underestimate How Long Everything Takes  
-   Link: <a href="https://www.youtube.com/watch?v=6bvtMRHlJN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6bvtMRHlJN8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Class Forecasting in 90 Seconds, with Professor Bent Flyvbjerg...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6bvtMRHlJN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6bvtMRHlJN8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Class Forecasting in 90 Seconds, with Professor Bent Flyvbjerg...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: How Big Things Get Done  
-   Link: <a href="https://www.youtube.com/watch?v=20EGz2SxdpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20EGz2SxdpM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Optimism Bias on Investing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=20EGz2SxdpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20EGz2SxdpM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Optimism Bias on Investing...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: 3 Reasons Your Schedule Always Slips  
-   Link: <a href="https://www.youtube.com/watch?v=kAl7vCspNlc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kAl7vCspNlc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Big Things Get Done - The Surprising Factors Behind Every Successful Project (Bent Flyvbjerg)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kAl7vCspNlc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kAl7vCspNlc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Big Things Get Done - The Surprising Factors Behind Every Successful Project (Bent Flyvbjerg)...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ideas.repec.org  
    Title: v16y2006i1p3 21  
-   Link: <a href="https://ideas.repec.org/a/taf/eurpls/v16y2006i1p3-21.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/taf/eurpls/v16y2006i1p3-21.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcCurbing Optimism Bias and Strategic Misrepresentation in...by B Flyvbjerg · 2006 · Cited by 705 — The American Planning Assoc...</p></details>
+   Link:<a href="https://ideas.repec.org/a/taf/eurpls/v16y2006i1p3-21.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/taf/eurpls/v16y2006i1p3-21.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcCurbing Optimism Bias and Strategic Misrepresentation in...by B Flyvbjerg · 2006 · Cited by 705 — The American Planning Assoc...</p></details>

@@ -280,13 +280,13 @@ image: /assets/images/improving_your_think_da4710_expert_intuition_73d438_kind_w
 
 ## Introduction
 
-Experience is not automatically a good teacher. Whether your gut judgement becomes more accurate or more misleading depends on the type of environment in which it was formed. Psychologist Robin Hogarth described this distinction as the difference between **kind** and **wicked** learning environments. In kind environments, the world provides stable patterns and clear, timely feedback, allowing intuition to improve through experience. In wicked environments, feedback is delayed, ambiguous, incomplete, or distorted, so confidence can grow even while accuracy does not. This distinction explains why experienced firefighters, chess players, and skilled mechanics often develop dependable intuition, whereas experienced investors, political commentators, or hiring managers may become increasingly confident without becoming substantially better at prediction. The central lesson is not to distrust intuition, but to ask whether the environment has actually trained it well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4015 — This article reports on an effort t...</span></span></span>
+Experience is not automatically a good teacher. Whether your gut judgement becomes more accurate or more misleading depends on the type of environment in which it was formed. Psychologist Robin Hogarth described this distinction as the difference between **kind** and **wicked** learning environments. In kind environments, the world provides stable patterns and clear, timely feedback, allowing intuition to improve through experience. In wicked environments, feedback is delayed, ambiguous, incomplete, or distorted, so confidence can grow even while accuracy does not. This distinction explains why experienced firefighters, chess players, and skilled mechanics often develop dependable intuition, whereas experienced investors, political commentators, or hiring managers may become increasingly confident without becoming substantially better at prediction. The central lesson is not to distrust intuition, but to ask whether the environment has actually trained it well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4015 — This article reports on an effort t...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_expert_intuition_73d438_kind_wicked_environm_f79e63-Illustration-1-dark.svg" | relative_url }}" alt="Kind vs Wicked illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_expert_intuition_73d438_kind_wicked_environm_f79e63-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_expert_intuition_73d438_kind_wicked_environm_f79e63-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What makes a learning environment kind?
 
-A kind learning environment is one in which repeated experience reliably teaches useful lessons because the information available during learning closely matches the information needed when making future decisions. According to Hogarth, this close match between learning and application is what allows intuition to become calibrated rather than merely familiar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/0963721415591878" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Two Settings of Kind and Wicked Learning Environmentsby RM Hogarth · 2015 · Cited by 255 — Inference involves two settin...</span></span></span>
+A kind learning environment is one in which repeated experience reliably teaches useful lessons because the information available during learning closely matches the information needed when making future decisions. According to Hogarth, this close match between learning and application is what allows intuition to become calibrated rather than merely familiar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/0963721415591878" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Two Settings of Kind and Wicked Learning Environmentsby RM Hogarth · 2015 · Cited by 255 — Inference involves two settin...</span></span></span>
 
 Several characteristics usually appear together:
 
@@ -301,7 +301,7 @@ Several characteristics usually appear together:
 
 </div>
 
-Chess illustrates nearly every one of these conditions. Positions follow fixed rules, every move produces immediate consequences, mistakes can be analysed afterwards, and thousands of comparable situations build pattern recognition. Likewise, experienced electricians, aircraft technicians, or emergency clinicians often receive enough repeated, informative feedback to refine their instincts over many years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/0963721415591878" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Two Settings of Kind and Wicked Learning Environmentsby RM Hogarth · 2015 · Cited by 255 — Inference involves two settin...</span></span></span>
+Chess illustrates nearly every one of these conditions. Positions follow fixed rules, every move produces immediate consequences, mistakes can be analysed afterwards, and thousands of comparable situations build pattern recognition. Likewise, experienced electricians, aircraft technicians, or emergency clinicians often receive enough repeated, informative feedback to refine their instincts over many years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/0963721415591878" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Two Settings of Kind and Wicked Learning Environmentsby RM Hogarth · 2015 · Cited by 255 — Inference involves two settin...</span></span></span>
 
 Importantly, "kind" does not mean easy. Chess is extraordinarily difficult, but it remains kind because the environment consistently rewards learning from mistakes. Difficulty and learnability are different properties.
 
@@ -324,7 +324,7 @@ Several [mechanisms]({{ 'mechanisms/' | relative_url }}) make this happen.
 
 **Selective feedback.** People often learn only from surviving cases. A manager may remember successful hires while never discovering the long-term performance of rejected candidates. A physician may rarely discover diagnoses that patients sought elsewhere. Missing information prevents genuine calibration.
 
-In these settings, intuition can become fluent without becoming accurate. Familiarity produces confidence, but confidence is no guarantee that experience reflects reality. Kahneman and Klein argued that intuitive expertise requires not only repeated exposure but also an environment regular enough to permit genuine learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4015 — This article reports on an effort t...</span></span></span>
+In these settings, intuition can become fluent without becoming accurate. Familiarity produces confidence, but confidence is no guarantee that experience reflects reality. Kahneman and Klein argued that intuitive expertise requires not only repeated exposure but also an environment regular enough to permit genuine learning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4015 — This article reports on an effort t...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_expert_intuition_73d438_kind_wicked_environm_f79e63-Illustration-2-dark.svg" | relative_url }}" alt="Kind vs Wicked illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_expert_intuition_73d438_kind_wicked_environm_f79e63-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_expert_intuition_73d438_kind_wicked_environm_f79e63-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -336,7 +336,7 @@ People naturally build stories linking actions to outcomes. If positive outcomes
 
 This helps explain why experienced professionals sometimes disagree strongly while each sincerely believes their experience has proved them right. In wicked environments, different individuals encounter different samples of events, receive incomplete feedback, and construct different mental models that all feel well supported by experience.
 
-Hogarth argued that many intuitions are therefore products not simply of repetition but of the quality of the learning environment itself. Experience teaches something in every environment; the question is whether it teaches the correct lesson. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/0963721415591878" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Two Settings of Kind and Wicked Learning Environmentsby RM Hogarth · 2015 · Cited by 255 — Inference involves two settin...</span></span></span>
+Hogarth argued that many intuitions are therefore products not simply of repetition but of the quality of the learning environment itself. Experience teaches something in every environment; the question is whether it teaches the correct lesson.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/0963721415591878" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Two Settings of Kind and Wicked Learning Environmentsby RM Hogarth · 2015 · Cited by 255 — Inference involves two settin...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jLOuMXnM5wk" title="The best way to become good at something might surprise you - David Epstein" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jLOuMXnM5wk" target="_blank" rel="noopener noreferrer">The best way to become good at something might surprise you - David Epstein</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jLOuMXnM5wk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jLOuMXnM5wk">Open on YouTube</a></p></div></div></div>
@@ -372,185 +372,185 @@ In relatively kind environments, intuition often provides rapid recognition of m
 
 One practical response is to make wicked environments more kind wherever possible. [Decision journals]({{ 'decision-journal/' | relative_url }}), systematic outcome tracking, regular post-mortems, deliberate practice with immediate feedback, and objective performance metrics all improve the quality of learning. By creating clearer [feedback loops]({{ 'feedback-loops/' | relative_url }}), they help distinguish genuine expertise from accumulated confidence.
 
-Research has increasingly reinforced this perspective. Recent work suggests that flexible movement between intuitive and analytical thinking performs better in difficult, "wicked" environments than relying rigidly on either style alone. Rather than asking whether intuition is good or bad, the more useful question is whether the environment has earned your trust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12467" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[bpspsychub.onlinelibrary.wiley.com+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Challenging the doctrine of “non‐discerning” decision‐making...20 Sept 2023 — When making decisions in stable or “kind” learning environ...</span></span></span>
+Research has increasingly reinforced this perspective. Recent work suggests that flexible movement between intuitive and analytical thinking performs better in difficult, "wicked" environments than relying rigidly on either style alone. Rather than asking whether intuition is good or bad, the more useful question is whether the environment has earned your trust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12467" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[bpspsychub.onlinelibrary.wiley.com+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Challenging the doctrine of “non‐discerning” decision‐making...20 Sept 2023 — When making decisions in stable or “kind” learning environ...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xq7ZLTGsaqQ" title="Kind vs Wicked Learning - An Experiment in Problem Solving" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xq7ZLTGsaqQ" target="_blank" rel="noopener noreferrer">Kind vs Wicked Learning - An Experiment in Problem Solving</a></p><p class="youtube-embed-meta">Channel: Draftsmen</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xq7ZLTGsaqQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xq7ZLTGsaqQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Experience Teaches the Wrong Lesson. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Experience Teaches the Wrong Lesson. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Educating+Intuition+by+Robin+M.+Hogarth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Educating Intuition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fsffJGkpwVIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Educating Intuition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Educating+Intuition+by+Robin+M.+Hogarth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Educating Intuition">Educating Intuition</a>
-        </h4>
-        <p class="fr-book-author">By Robin M. Hogarth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Educating+Intuition+by+Robin+M.+Hogarth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Educating Intuition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fsffJGkpwVIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Educating Intuition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Educating+Intuition+by+Robin+M.+Hogarth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Educating Intuition">Educating Intuition</a>
+</h4>
+<p class="fr-book-author">By Robin M. Hogarth</p>
         
-        <p class="fr-book-desc">Direct source for understanding when experience teaches accurate or misleading lessons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Educating+Intuition+by+Robin+M.+Hogarth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Direct source for understanding when experience teaches accurate or misleading lessons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Educating+Intuition+by+Robin+M.+Hogarth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides the broader framework for intuition, bias, and judgment under uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the broader framework for intuition, bias, and judgment under uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
         
-        <p class="fr-book-desc">Explains how unreliable environments undermine accurate learning and judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unreliable environments undermine accurate learning and judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Demonstrates how structured feedback improves prediction in difficult environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how structured feedback improves prediction in difficult environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Educating+Intuition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Educating Intuition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Educating+Intuition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Educating Intuition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Firefighter Definition Print, Wall Art Prints, Firefighter Gifts, Birthday"><img src="https://i.ebayimg.com/images/g/FK4AAOSwduBiO0jm/s-l225.jpg" alt="Listing image for Firefighter Definition Print, Wall Art Prints, Firefighter Gifts, Birthday" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer">Firefighter Definition Print, Wall Art Prints, Firefighter Gifts, Birthday</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Firefighter Definition Print, Wall Art Prints, Firefighter Gifts, Birthday"><img src="https://i.ebayimg.com/images/g/FK4AAOSwduBiO0jm/s-l225.jpg" alt="Listing image for Firefighter Definition Print, Wall Art Prints, Firefighter Gifts, Birthday" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer">Firefighter Definition Print, Wall Art Prints, Firefighter Gifts, Birthday</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: firefighter wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Firefighter Fire Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/o4IAAeSwiuFpwYBQ/s-l225.jpg" alt="Listing image for Firefighter Fire Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer">Firefighter Fire Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Firefighter Fire Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/o4IAAeSwiuFpwYBQ/s-l225.jpg" alt="Listing image for Firefighter Fire Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer">Firefighter Fire Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: firefighter wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Firefighter Fire Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/pSMAAeSwDz9pwX~X/s-l225.jpg" alt="Listing image for Firefighter Fire Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer">Firefighter Fire Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Firefighter Fire Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/pSMAAeSwDz9pwX~X/s-l225.jpg" alt="Listing image for Firefighter Fire Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer">Firefighter Fire Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: firefighter wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-experience-teaches-the-wrong-lesson-firefighter-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter wall art" data-ebay-reference="when-experience-teaches-the-wrong-lesson-firefighter-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ Research has increasingly reinforced this perspective. Recent work suggests that
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ Research has increasingly reinforced this perspective. Recent work suggests that
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ Research has increasingly reinforced this perspective. Recent work suggests that
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ Research has increasingly reinforced this perspective. Recent work suggests that
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ Research has increasingly reinforced this perspective. Recent work suggests that
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,87 +755,87 @@ Research has increasingly reinforced this perspective. Recent work suggests that
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19739881/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4015 — This article reports on an effort t...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19739881/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4015 — This article reports on an effort t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0963721415591878" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0963721415591878</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Two Settings of Kind and Wicked Learning Environmentsby RM Hogarth · 2015 · Cited by 255 — Inference involves two settin...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/0963721415591878" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0963721415591878</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Two Settings of Kind and Wicked Learning Environmentsby RM Hogarth · 2015 · Cited by 255 — Inference involves two settin...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12467" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12467</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Challenging the doctrine of “non‐discerning” decision‐making...20 Sept 2023 — When making decisions in stable or “kind” learning environ...</p></details>
+   Link:<a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12467" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12467</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Challenging the doctrine of “non‐discerning” decision‐making...20 Sept 2023 — When making decisions in stable or “kind” learning environ...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/kind" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.orgKIND中文(繁體)翻譯：劍橋詞典KIND翻譯：寬容的;有益的;體貼的, 溫和的；無害的, 種類。了解更多。...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/kind" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.orgKIND中文(繁體)翻譯：劍橋詞典KIND翻譯：寬容的;有益的;體貼的, 溫和的；無害的, 種類。了解更多。...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dictionary.cambridge.org  
    Title: in kind  
-   Link: <a href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/in-kind" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/in-kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KIND中文(繁體)翻譯：劍橋詞典in kind的翻譯... 以实物支付，以货代款, 以服务偿付, 以同样方法（或手段）…... 需要一個翻譯器嗎？ 獲得快速、免費的翻譯！... in kind的發音是什麼？Read more...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/in-kind" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/in-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KIND中文(繁體)翻譯：劍橋詞典in kind的翻譯... 以实物支付，以货代款, 以服务偿付, 以同样方法（或手段）…... 需要一個翻譯器嗎？ 獲得快速、免費的翻譯！... in kind的發音是什麼？Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/44318900" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/44318900</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kind learning environments are a necessary condition for accurate intuitive judgments, whereas intuitions...</p></details>
+   Link:<a href="https://www.jstor.org/stable/44318900" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/44318900</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kind learning environments are a necessary condition for accurate intuitive judgments, whereas intuitions...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ehanlin.com.tw  
-   Link: <a href="https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E8%8B%B1%E8%AA%9E/kind.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E8%8B%B1%E8%AA%9E/kind.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>國中英語kind(adj) · 音標: [kaɪnd] · 解釋: 親切的 · 例句: The boss is always kind to the customers. 翻譯: 這位老闆對顧客總是很親切。 · 變化: 原形: kind [kaɪnd]. 比較級:...R...</p></details>
+   Link:<a href="https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E8%8B%B1%E8%AA%9E/kind.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E8%8B%B1%E8%AA%9E/kind.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>國中英語kind(adj) · 音標: [kaɪnd] · 解釋: 親切的 · 例句: The boss is always kind to the customers. 翻譯: 這位老闆對顧客總是很親切。 · 變化: 原形: kind [kaɪnd]. 比較級:...R...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/yuliia-drobot_pdf-conditions-for-intuitive-expertise-activity-7137409442857259008-4_mX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/yuliia-drobot_pdf-conditions-for-intuitive-expertise-activity-7137409442857259008-4_mX</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Conditions for Intuitive Expertise A Failure to DisagreeGary Klein and Daniel Kahneman defined conditions for situations where intu...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/yuliia-drobot_pdf-conditions-for-intuitive-expertise-activity-7137409442857259008-4_mX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/yuliia-drobot_pdf-conditions-for-intuitive-expertise-activity-7137409442857259008-4_mX</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Conditions for Intuitive Expertise A Failure to DisagreeGary Klein and Daniel Kahneman defined conditions for situations where intu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/kind-wicked-learning-software-channing-walton-mthre" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/kind-wicked-learning-software-channing-walton-mthre</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kind and Wicked Learning in SoftwareKind learning environments are those where the rules are clear and feedback is immediate and accurate...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/kind-wicked-learning-software-channing-walton-mthre" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/kind-wicked-learning-software-channing-walton-mthre</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kind and Wicked Learning in SoftwareKind learning environments are those where the rules are clear and feedback is immediate and accurate...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/283828207_The_Two_Settings_of_Kind_and_Wicked_Learning_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283828207_The_Two_Settings_of_Kind_and_Wicked_Learning_Environments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Two Settings of Kind and Wicked Learning EnvironmentsThese wicked environments simulate realworld scenarios, requiring athletes to in...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/283828207_The_Two_Settings_of_Kind_and_Wicked_Learning_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283828207_The_Two_Settings_of_Kind_and_Wicked_Learning_Environments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Two Settings of Kind and Wicked Learning EnvironmentsThese wicked environments simulate realworld scenarios, requiring athletes to in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
+   Link:<a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: connectedpapers.com  
-   Link: <a href="https://www.connectedpapers.com/main/f1a5fb0c4b9703b3213bc3bd2dfe1f79ee35d511/Conditions-for-intuitive-expertise%3A-a-failure-to-disagree./graph" target="_blank" rel="noopener noreferrer nofollow">https://www.connectedpapers.com/main/f1a5fb0c4b9703b3213bc3bd2dfe1f79ee35d511/Conditions-for-intuitive-expertise%3A-a-failure-to-disagree./graph</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>D. Kahneman, Gary Klein. 2009, American Psychologist. PDF · S2 logo Semantic Scholar · doi logo...Read more...</p></details>
+   Link:<a href="https://www.connectedpapers.com/main/f1a5fb0c4b9703b3213bc3bd2dfe1f79ee35d511/Conditions-for-intuitive-expertise%3A-a-failure-to-disagree./graph" target="_blank" rel="noopener noreferrer nofollow">https://www.connectedpapers.com/main/f1a5fb0c4b9703b3213bc3bd2dfe1f79ee35d511/Conditions-for-intuitive-expertise%3A-a-failure-to-disagree./graph</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>D. Kahneman, Gary Klein. 2009, American Psychologist. PDF · S2 logo Semantic Scholar · doi logo...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: driverlesscrocodile.com  
-   Link: <a href="https://driverlesscrocodile.com/books-and-recommendations/learning-environments-kind-wicked-and-fiendish/" target="_blank" rel="noopener noreferrer nofollow">https://driverlesscrocodile.com/books-and-recommendations/learning-environments-kind-wicked-and-fiendish/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fiendish?31 Jan 2021 — These games are kind learning environments in that they share high levels of constraint, unambiguous success crite...</p></details>
+   Link:<a href="https://driverlesscrocodile.com/books-and-recommendations/learning-environments-kind-wicked-and-fiendish/" target="_blank" rel="noopener noreferrer nofollow">https://driverlesscrocodile.com/books-and-recommendations/learning-environments-kind-wicked-and-fiendish/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fiendish?31 Jan 2021 — These games are kind learning environments in that they share high levels of constraint, unambiguous success crite...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: davidepstein.substack.com  
    Title: kind and wicked learning environments  
-   Link: <a href="https://davidepstein.substack.com/p/kind-and-wicked-learning-environments" target="_blank" rel="noopener noreferrer nofollow">https://davidepstein.substack.com/p/kind-and-wicked-learning-environments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>substack.com&quot;Kind&quot; and &quot;Wicked&quot; Learning EnvironmentsIn what Hogarth called “kind” learning environments, experience led to predictable i...</p></details>
+   Link:<a href="https://davidepstein.substack.com/p/kind-and-wicked-learning-environments" target="_blank" rel="noopener noreferrer nofollow">https://davidepstein.substack.com/p/kind-and-wicked-learning-environments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>substack.com&quot;Kind&quot; and &quot;Wicked&quot; Learning EnvironmentsIn what Hogarth called “kind” learning environments, experience led to predictable i...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: commoncog.com  
    Title: ill structured domains not wicked  
-   Link: <a href="https://commoncog.com/ill-structured-domains-not-wicked/" target="_blank" rel="noopener noreferrer nofollow">https://commoncog.com/ill-structured-domains-not-wicked/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ill-Structured Domains Aren&#x27;t Necessarily Wicked23 Feb 2022 — In his 2001 book Educating Intuition, psychologist Robin Hogarth introduced...</p></details>
+   Link:<a href="https://commoncog.com/ill-structured-domains-not-wicked/" target="_blank" rel="noopener noreferrer nofollow">https://commoncog.com/ill-structured-domains-not-wicked/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ill-Structured Domains Aren&#x27;t Necessarily Wicked23 Feb 2022 — In his 2001 book Educating Intuition, psychologist Robin Hogarth introduced...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: commoncog.com  
    Title: putting mental models to practice  
-   Link: <a href="https://commoncog.com/putting-mental-models-to-practice/" target="_blank" rel="noopener noreferrer nofollow">https://commoncog.com/putting-mental-models-to-practice/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental Models: Expert Decision MakingJan 6, 2019 — In 2009, Kahneman wrote a paper with Klein on this topic, titled Conditions for Intuit...</p></details>
+   Link:<a href="https://commoncog.com/putting-mental-models-to-practice/" target="_blank" rel="noopener noreferrer nofollow">https://commoncog.com/putting-mental-models-to-practice/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mental Models: Expert Decision MakingJan 6, 2019 — In 2009, Kahneman wrote a paper with Klein on this topic, titled Conditions for Intuit...</p></details>

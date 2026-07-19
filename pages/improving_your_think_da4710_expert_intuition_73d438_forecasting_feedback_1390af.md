@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_expert_intuition_73d438_foreca
 
 ## Introduction
 
-Forecasting tournaments are one of the clearest ways to test whether [expert intuition]({{ 'expert-gut/' | relative_url }}) deserves trust. Instead of asking who sounds persuasive, they ask participants to assign [probabilities]({{ 'probabilities/' | relative_url }}) to specific future events, wait for the outcomes, and then score the quality of those forecasts. Over time, this turns confidence into a measurable track record rather than a matter of reputation. The result is a practical learning system: participants discover whether they are consistently overconfident, underconfident, or well calibrated, while organisations gain evidence about which forecasting habits genuinely improve judgement. This approach is especially valuable in domains such as geopolitics, public policy, and strategic planning, where intuition often operates in noisy environments with delayed and ambiguous feedback. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe impact of training and practice on judgmental accuracy...by W Chang · 2016 · Cited by 152 — T...</span></span></span>
+Forecasting tournaments are one of the clearest ways to test whether [expert intuition]({{ 'expert-gut/' | relative_url }}) deserves trust. Instead of asking who sounds persuasive, they ask participants to assign [probabilities]({{ 'probabilities/' | relative_url }}) to specific future events, wait for the outcomes, and then score the quality of those forecasts. Over time, this turns confidence into a measurable track record rather than a matter of reputation. The result is a practical learning system: participants discover whether they are consistently overconfident, underconfident, or well calibrated, while organisations gain evidence about which forecasting habits genuinely improve judgement. This approach is especially valuable in domains such as geopolitics, public policy, and strategic planning, where intuition often operates in noisy environments with delayed and ambiguous feedback.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe impact of training and practice on judgmental accuracy...by W Chang · 2016 · Cited by 152 — T...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_expert_intuition_73d438_forecasting_feedback_1390af-Illustration-1-dark.svg" | relative_url }}" alt="Forecast Feedback illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_expert_intuition_73d438_forecasting_feedback_1390af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_expert_intuition_73d438_forecasting_feedback_1390af-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,9 +290,9 @@ Research on expert judgement has repeatedly shown that experience alone does not
 
 Forecasting [tournaments]({{ 'tournaments/' | relative_url }}) address this problem by replacing broad opinions with clearly defined questions such as whether an election will occur by a given date, whether a peace agreement will be signed, or whether a country's GDP growth will exceed a specified threshold. Each prediction is recorded before the outcome is known, making hindsight much harder.
 
-This design emerged most prominently through forecasting competitions sponsored by the US intelligence research agency IARPA (Intelligence Advanced Research Projects Activity). One participant, the [Good Judgment]({{ 'good-judgment/' | relative_url }}) Project, demonstrated that structured forecasting methods, training, teamwork and continuous feedback substantially improved forecasting accuracy over several years of geopolitical prediction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe impact of training and practice on judgmental accuracy...by W Chang · 2016 · Cited by 152 — T...</span></span></span>
+This design emerged most prominently through forecasting competitions sponsored by the US intelligence research agency IARPA (Intelligence Advanced Research Projects Activity). One participant, the [Good Judgment]({{ 'good-judgment/' | relative_url }}) Project, demonstrated that structured forecasting methods, training, teamwork and continuous feedback substantially improved forecasting accuracy over several years of geopolitical prediction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe impact of training and practice on judgmental accuracy...by W Chang · 2016 · Cited by 152 — T...</span></span></span>
 
-The broader lesson is not that experts are useless. Rather, expertise without reliable feedback can produce unwarranted certainty. Forecasting tournaments provide precisely the kind of repeated correction that Kahneman and Klein argued is necessary for genuine intuitive expertise to develop. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4056 — This article reports on an effort t...</span></span></span>
+The broader lesson is not that experts are useless. Rather, expertise without reliable feedback can produce unwarranted certainty. Forecasting tournaments provide precisely the kind of repeated correction that Kahneman and Klein argued is necessary for genuine intuitive expertise to develop.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4056 — This article reports on an effort t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pedNak4S9IE" title="Superforecasting | Philip Tetlock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pedNak4S9IE" target="_blank" rel="noopener noreferrer">Superforecasting | Philip Tetlock</a></p><p class="youtube-embed-meta">Channel: The Long Now Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pedNak4S9IE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pedNak4S9IE">Open on YouTube</a></p></div></div></div>
@@ -303,7 +303,7 @@ The distinctive feature of forecasting tournaments is that they reward calibrate
 
 Rather than predicting that an event "will happen", participants estimate, for example, a 70% or 30% chance. When hundreds of similar forecasts accumulate, calibration becomes visible. A forecaster who repeatedly assigns 70% confidence should see roughly seven out of ten such events occur. If only four occur, their confidence is systematically too high.
 
-Proper scoring rules, especially the Brier score, provide an objective way to measure this. A Brier score compares predicted probabilities with actual [outcomes]({{ 'outcomes/' | relative_url }}), rewarding forecasts that are both accurate and honestly expressed. Because the scoring rule penalises unjustified certainty, it encourages forecasters to report what they genuinely believe instead of making dramatic [predictions]({{ 'predictions/' | relative_url }}) for attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/weighted-brier-score-decompositions-for-topically-heterogenous-forecasting-tournaments/8172E04F2DBC601DA5D953D4685CA346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentWeighted Brier score decompositions for topically...by EC Merkle · 2018 · Cited by 13 — Brier sco...</span></span></span>
+Proper scoring rules, especially the Brier score, provide an objective way to measure this. A Brier score compares predicted probabilities with actual [outcomes]({{ 'outcomes/' | relative_url }}), rewarding forecasts that are both accurate and honestly expressed. Because the scoring rule penalises unjustified certainty, it encourages forecasters to report what they genuinely believe instead of making dramatic [predictions]({{ 'predictions/' | relative_url }}) for attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/weighted-brier-score-decompositions-for-topically-heterogenous-forecasting-tournaments/8172E04F2DBC601DA5D953D4685CA346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentWeighted Brier score decompositions for topically...by EC Merkle · 2018 · Cited by 13 — Brier sco...</span></span></span>
 
 This creates a learning cycle that ordinary professional judgement rarely provides:
 
@@ -326,7 +326,7 @@ The important feedback concerns not only whether someone was correct but whether
 
 Forecasting tournaments separate forecasting skill from status, seniority and rhetorical confidence.
 
-The Good Judgment Project found that a relatively small group of consistently high-performing forecasters—later called "superforecasters"—substantially outperformed both average participants and competing forecasting teams across thousands of geopolitical questions. Their advantage came not from secret information but from disciplined updating, careful probability estimation and willingness to revise beliefs as evidence changed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe impact of training and practice on judgmental accuracy...by W Chang · 2016 · Cited by 152 — T...</span></span></span>
+The Good Judgment Project found that a relatively small group of consistently high-performing forecasters—later called "superforecasters"—substantially outperformed both average participants and competing forecasting teams across thousands of geopolitical questions. Their advantage came not from secret information but from disciplined updating, careful probability estimation and willingness to revise beliefs as evidence changed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe impact of training and practice on judgmental accuracy...by W Chang · 2016 · Cited by 152 — T...</span></span></span>
 
 An important implication is that forecasting ability can differ from subject-matter expertise. A leading academic or policy specialist may possess deep knowledge while still being poorly calibrated about uncertain future events. Conversely, skilled forecasters often combine broad knowledge with strong judgement about [uncertainty]({{ 'uncertainty/' | relative_url }}), base rates and evidence integration.
 
@@ -364,185 +364,185 @@ Most tournament questions concern events that resolve within months or a few yea
 
 Another limitation is that tournament success does not automatically [transfer]({{ 'transfer/' | relative_url }}) to every decision domain. Forecasting well is only one component of effective policy or organisational leadership. Decision-makers must still weigh values, costs, legal constraints and political feasibility.
 
-Nevertheless, forecasting tournaments solve one problem that affects many expert communities: they replace impressive-sounding certainty with an empirical record of predictive performance. For improving analytical thinking, this is their greatest contribution. Instead of asking whether someone feels confident, they ask whether previous confidence levels matched reality often enough to justify future trust. Cambridge University Press &amp; Assessment+2pmc.ncbi.nlm.nih.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe impact of training and practice on judgmental accuracy...by W Chang · 2016 · Cited by 152 — T...</span></span></span>
+Nevertheless, forecasting tournaments solve one problem that affects many expert communities: they replace impressive-sounding certainty with an empirical record of predictive performance. For improving analytical thinking, this is their greatest contribution. Instead of asking whether someone feels confident, they ask whether previous confidence levels matched reality often enough to justify future trust. Cambridge University Press &amp; Assessment+2pmc.ncbi.nlm.nih.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe impact of training and practice on judgmental accuracy...by W Chang · 2016 · Cited by 152 — T...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mEFWad6S6iY" title="Know Your Own Future (at least 10% better)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mEFWad6S6iY" target="_blank" rel="noopener noreferrer">Know Your Own Future (at least 10% better)</a></p><p class="youtube-embed-meta">Channel: Michael Noetel 🔸</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mEFWad6S6iY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mEFWad6S6iY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Forecasting Makes Confidence Accountable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Forecasting Makes Confidence Accountable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Directly explains probabilistic forecasting, calibration, feedback, and improving expert judgement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains probabilistic forecasting, calibration, feedback, and improving expert judgement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides the cognitive psychology behind overconfidence, judgement errors, and better decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the cognitive psychology behind overconfidence, judgement errors, and better decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
         
-        <p class="fr-book-desc">Explains variability and error in judgement, complementing forecasting and calibration practices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains variability and error in judgement, complementing forecasting and calibration practices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Broadly covers prediction, probabilistic thinking, and learning from uncertain outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broadly covers prediction, probabilistic thinking, and learning from uncertain outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Strong Winds Are Forecast: A solo, 1850 m..., Ray, Nick"><img src="{{ '/assets/images/marketplace-covers/006d311ec382f95c22de.jpg' | relative_url }}" alt="Listing image for Strong Winds Are Forecast: A solo, 1850 m..., Ray, Nick" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer">Strong Winds Are Forecast: A solo, 1850 m..., Ray, Nick</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for forecasting game">Search <span data-ebay-domain-label>eBay.co.uk</span>: forecasting game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Strong Winds Are Forecast: A solo, 1850 m..., Ray, Nick"><img src="{{ '/assets/images/marketplace-covers/006d311ec382f95c22de.jpg' | relative_url }}" alt="Listing image for Strong Winds Are Forecast: A solo, 1850 m..., Ray, Nick" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer">Strong Winds Are Forecast: A solo, 1850 m..., Ray, Nick</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for forecasting game">Search<span data-ebay-domain-label>eBay.co.uk</span>: forecasting game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Times Gate Give Gaming Digital Clock Diy Screen Control Support Weather Forecast"><img src="{{ '/assets/images/marketplace-covers/e8d329ca3e764750a2c5.jpg' | relative_url }}" alt="Listing image for Times Gate Give Gaming Digital Clock Diy Screen Control Support Weather Forecast" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer">Times Gate Give Gaming Digital Clock Diy Screen Control Support Weather Forecast</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for forecasting game">Search <span data-ebay-domain-label>eBay.co.uk</span>: forecasting game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Times Gate Give Gaming Digital Clock Diy Screen Control Support Weather Forecast"><img src="{{ '/assets/images/marketplace-covers/e8d329ca3e764750a2c5.jpg' | relative_url }}" alt="Listing image for Times Gate Give Gaming Digital Clock Diy Screen Control Support Weather Forecast" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer">Times Gate Give Gaming Digital Clock Diy Screen Control Support Weather Forecast</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for forecasting game">Search<span data-ebay-domain-label>eBay.co.uk</span>: forecasting game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nebraska 9 Game Forecast White Graphic T Shirt"><img src="{{ '/assets/images/marketplace-covers/80cb2f0afbaca7e4ee0d.jpg' | relative_url }}" alt="Listing image for Nebraska 9 Game Forecast White Graphic T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer">Nebraska 9 Game Forecast White Graphic T Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for forecasting game">Search <span data-ebay-domain-label>eBay.co.uk</span>: forecasting game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nebraska 9 Game Forecast White Graphic T Shirt"><img src="{{ '/assets/images/marketplace-covers/80cb2f0afbaca7e4ee0d.jpg' | relative_url }}" alt="Listing image for Nebraska 9 Game Forecast White Graphic T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer">Nebraska 9 Game Forecast White Graphic T Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for forecasting game">Search<span data-ebay-domain-label>eBay.co.uk</span>: forecasting game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=forecasting+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forecasting game" data-ebay-reference="forecast-feedback-how-forecasting-makes-confidence-accountable-improving-your-think-forecasting-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ Nevertheless, forecasting tournaments solve one problem that affects many expert
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ Nevertheless, forecasting tournaments solve one problem that affects many expert
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ Nevertheless, forecasting tournaments solve one problem that affects many expert
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ Nevertheless, forecasting tournaments solve one problem that affects many expert
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ Nevertheless, forecasting tournaments solve one problem that affects many expert
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,144 +748,144 @@ Nevertheless, forecasting tournaments solve one problem that affects many expert
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe impact of training and practice on judgmental accuracy...by W Chang · 2016 · Cited by 152 — T...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe impact of training and practice on judgmental accuracy...by W Chang · 2016 · Cited by 152 — T...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19739881/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4056 — This article reports on an effort t...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19739881/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4056 — This article reports on an effort t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/weighted-brier-score-decompositions-for-topically-heterogenous-forecasting-tournaments/8172E04F2DBC601DA5D953D4685CA346" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/weighted-brier-score-decompositions-for-topically-heterogenous-forecasting-tournaments/8172E04F2DBC601DA5D953D4685CA346</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentWeighted Brier score decompositions for topically...by EC Merkle · 2018 · Cited by 13 — Brier sco...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/weighted-brier-score-decompositions-for-topically-heterogenous-forecasting-tournaments/8172E04F2DBC601DA5D953D4685CA346" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/weighted-brier-score-decompositions-for-topically-heterogenous-forecasting-tournaments/8172E04F2DBC601DA5D953D4685CA346</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentWeighted Brier score decompositions for topically...by EC Merkle · 2018 · Cited by 13 — Brier sco...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Calibration Scoring Rules for Practical Prediction Training  
-   Link: <a href="https://arxiv.org/abs/1808.07501" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.07501</a>  
+   Link:<a href="https://arxiv.org/abs/1808.07501" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.07501</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: The superforecasting hypothesis is challenged under real-life scarcity  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Superforecasting reality check: Evidence from a small pool of...by I Katsagounos · 2020 · Cited by 23 — The study contributes to the str...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Superforecasting reality check: Evidence from a small pool of...by I Katsagounos · 2020 · Cited by 23 — The study contributes to the str...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>improves forecasting - PMC - NIHby DN Ferreiro · 2023 · Cited by 4 — Because higher Brier scores indicate lower prediction accuracy we re...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>improves forecasting - PMC - NIHby DN Ferreiro · 2023 · Cited by 4 — Because higher Brier scores indicate lower prediction accuracy we re...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2602.19520" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2602.19520</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Domain-Specific Calibration Dynamics in Prediction Marketsby NA Le · 2026 · Cited by 2 — Tetlock and Gardner [65] demonstrated that struc...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2602.19520" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2602.19520</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Domain-Specific Calibration Dynamics in Prediction Marketsby NA Le · 2026 · Cited by 2 — Tetlock and Gardner [65] demonstrated that struc...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2507.04562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2507.04562</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating LLMs on Real-World Forecasting Against...by J Lu · 2025 · Cited by 1 — This paper attempts to measure and quantify how good t...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2507.04562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2507.04562</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating LLMs on Real-World Forecasting Against...by J Lu · 2025 · Cited by 1 — This paper attempts to measure and quantify how good t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: goodjudgment.com  
-   Link: <a href="https://goodjudgment.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/about/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About Superforecasting | Unprecedented Accurate &amp;...Good Judgment&#x27;s professional Superforecasters deliver unparalleled accuracy on forec...</p></details>
+   Link:<a href="https://goodjudgment.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Superforecasting | Unprecedented Accurate &amp;...Good Judgment&#x27;s professional Superforecasters deliver unparalleled accuracy on forec...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: goodjudgment.com  
-   Link: <a href="https://goodjudgment.com/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Good JudgmentGood Judgment: See the future sooner with SuperforecastingReports that Superforecasters were 30% more accurate than intellig...</p></details>
+   Link:<a href="https://goodjudgment.com/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Good JudgmentGood Judgment: See the future sooner with SuperforecastingReports that Superforecasters were 30% more accurate than intellig...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: goodjudgment.com  
-   Link: <a href="https://goodjudgment.com/superforecasters-still-creme-de-la-creme-six-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/superforecasters-still-creme-de-la-creme-six-years-on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Superforecasters: Still Crème de la Crème Six Years OnDuring the IARPA tournament, Superforecasters routinely placed in the top 2% of acc...</p></details>
+   Link:<a href="https://goodjudgment.com/superforecasters-still-creme-de-la-creme-six-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/superforecasters-still-creme-de-la-creme-six-years-on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Superforecasters: Still Crème de la Crème Six Years OnDuring the IARPA tournament, Superforecasters routinely placed in the top 2% of acc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: goodjudgment.com  
-   Link: <a href="https://goodjudgment.com/about/the-science-of-superforecasting/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/about/the-science-of-superforecasting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Of SuperforecastingGood Judgment research discovered four keys to accurate forecasting: talent-spotting, training, teaming, a...</p></details>
+   Link:<a href="https://goodjudgment.com/about/the-science-of-superforecasting/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/about/the-science-of-superforecasting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Of SuperforecastingGood Judgment research discovered four keys to accurate forecasting: talent-spotting, training, teaming, a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: goodjudgment.com  
-   Link: <a href="https://goodjudgment.com/wp-content/uploads/2022/10/Superforecaster-Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/wp-content/uploads/2022/10/Superforecaster-Accuracy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Judgment measures accuracy using the Brier score, a score that shows how far a forecast fell from the truth (the closer the better). On a...</p></details>
+   Link:<a href="https://goodjudgment.com/wp-content/uploads/2022/10/Superforecaster-Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/wp-content/uploads/2022/10/Superforecaster-Accuracy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Judgment measures accuracy using the Brier score, a score that shows how far a forecast fell from the truth (the closer the better). On a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: The Good Judgment Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Good_Judgment_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Good_Judgment_Project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Good Judgment ProjectPredictions are scored using Brier scores.... The top forecasters in GJP are &quot;reportedly 30% better than int...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Good_Judgment_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Good_Judgment_Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Good Judgment ProjectPredictions are scored using Brier scores.... The top forecasters in GJP are &quot;reportedly 30% better than int...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gjopen.com  
-   Link: <a href="https://www.gjopen.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.gjopen.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Good Judgment® OpenA forecasting services firm that equips corporate, government, and non-governmental decision-makers with the benefit o...</p></details>
+   Link:<a href="https://www.gjopen.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.gjopen.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Good Judgment® OpenA forecasting services firm that equips corporate, government, and non-governmental decision-makers with the benefit o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: emergentmind.com  
-   Link: <a href="https://www.emergentmind.com/topics/superforecasters" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/superforecasters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metrics and Methods20 Feb 2026 — Superforecasters are experts whose calibrated, low Brier scores and advanced probabilistic methods outpe...</p></details>
+   Link:<a href="https://www.emergentmind.com/topics/superforecasters" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/superforecasters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metrics and Methods20 Feb 2026 — Superforecasters are experts whose calibrated, low Brier scores and advanced probabilistic methods outpe...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: alice.id.tue.nl  
-   Link: <a href="https://www.alice.id.tue.nl/references/kahnemann-2003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.alice.id.tue.nl/references/kahnemann-2003.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kahneman - Nobel Lectureby D KAHNEMAN · Cited by 2283 — Together, we explored the psychology of intuitive beliefs and choices and ex- ami...</p></details>
+   Link:<a href="https://www.alice.id.tue.nl/references/kahnemann-2003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.alice.id.tue.nl/references/kahnemann-2003.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kahneman - Nobel Lectureby D KAHNEMAN · Cited by 2283 — Together, we explored the psychology of intuitive beliefs and choices and ex- ami...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Identifying and Cultivating Superforecasters as a...25 May 2015 — Mean standardized Brier scores for superforecasters (Supers) and...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Identifying and Cultivating Superforecasters as a...25 May 2015 — Mean standardized Brier scores for superforecasters (Supers) and...</p></details>
    Published: May 2015  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lukemuehlhauser.com  
-   Link: <a href="https://www.lukemuehlhauser.com/wp-content/uploads/Tetlock-et-al-Forecasting-tournaments-tools-for-increasing-transparency-and-improving-the-quality-of-debate.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lukemuehlhauser.com/wp-content/uploads/Tetlock-et-al-Forecasting-tournaments-tools-for-increasing-transparency-and-improving-the-quality-of-debate.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting TournamentsThis article describes a massive geopolitical tournament that tested clashing views on the feasibility of improvin...</p></details>
+   Link:<a href="https://www.lukemuehlhauser.com/wp-content/uploads/Tetlock-et-al-Forecasting-tournaments-tools-for-increasing-transparency-and-improving-the-quality-of-debate.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lukemuehlhauser.com/wp-content/uploads/Tetlock-et-al-Forecasting-tournaments-tools-for-increasing-transparency-and-improving-the-quality-of-debate.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting TournamentsThis article describes a massive geopolitical tournament that tested clashing views on the feasibility of improvin...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: corporate.jasoncollins.blog  
-   Link: <a href="https://corporate.jasoncollins.blog/better-forecasting" target="_blank" rel="noopener noreferrer nofollow">https://corporate.jasoncollins.blog/better-forecasting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>jasoncollins.blog25 Better forecastingIn this page, I examine techniques to improve forecasting accuracy, primarily through evidence from...</p></details>
+   Link:<a href="https://corporate.jasoncollins.blog/better-forecasting" target="_blank" rel="noopener noreferrer nofollow">https://corporate.jasoncollins.blog/better-forecasting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>jasoncollins.blog25 Better forecastingIn this page, I examine techniques to improve forecasting accuracy, primarily through evidence from...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aiimpacts.org  
-   Link: <a href="https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project-an-accompanying-blog-post/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project-an-accompanying-blog-post/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence on good forecasting practices from the...2 Jul 2019 — Tetlock used something very much like a Brier score in this tournament, b...</p></details>
+   Link:<a href="https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project-an-accompanying-blog-post/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project-an-accompanying-blog-post/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence on good forecasting practices from the...2 Jul 2019 — Tetlock used something very much like a Brier score in this tournament, b...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
+   Link:<a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/220535084_Probability_Elicitation_Scoring_Rules_and_Competition_Among_Forecasters" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220535084_Probability_Elicitation_Scoring_Rules_and_Competition_Among_Forecasters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Probability Elicitation, Scoring Rules, and Competition...4 May 2026 — Probability forecasters who are rewarded via a proper scoring rul...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/220535084_Probability_Elicitation_Scoring_Rules_and_Competition_Among_Forecasters" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220535084_Probability_Elicitation_Scoring_Rules_and_Competition_Among_Forecasters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Probability Elicitation, Scoring Rules, and Competition...4 May 2026 — Probability forecasters who are rewarded via a proper scoring rul...</p></details>
    Published: May 2026  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: edge.org  
-   Link: <a href="https://www.edge.org/conversation/philip_tetlock-edge-master-class-2015-a-short-course-in-superforecasting-class-ii" target="_blank" rel="noopener noreferrer nofollow">https://www.edge.org/conversation/philip_tetlock-edge-master-class-2015-a-short-course-in-superforecasting-class-ii</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Short Course in Superforecasting, Class IIAug 24, 2015 — There are different types of proper scoring rules, and some proper scoring rul...</p></details>
+   Link:<a href="https://www.edge.org/conversation/philip_tetlock-edge-master-class-2015-a-short-course-in-superforecasting-class-ii" target="_blank" rel="noopener noreferrer nofollow">https://www.edge.org/conversation/philip_tetlock-edge-master-class-2015-a-short-course-in-superforecasting-class-ii</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Short Course in Superforecasting, Class IIAug 24, 2015 — There are different types of proper scoring rules, and some proper scoring rul...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: casact.org  
-   Link: <a href="https://www.casact.org/sites/default/files/presentation/annual_2016_presentations_c-27.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.casact.org/sites/default/files/presentation/annual_2016_presentations_c-27.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>• Hold intelligence community accountable for overall forecasting accuracy. • Don&#x27;t blame when something bad...Read more...</p></details>
+   Link:<a href="https://www.casact.org/sites/default/files/presentation/annual_2016_presentations_c-27.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.casact.org/sites/default/files/presentation/annual_2016_presentations_c-27.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• Hold intelligence community accountable for overall forecasting accuracy. • Don&#x27;t blame when something bad...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: github.com  
    Title: Superforecasting and GJP. Good Judment Open. The Good Judgment  
-   Link: <a href="https://github.com/jmoral4/superforecastinghelper" target="_blank" rel="noopener noreferrer nofollow">https://github.com/jmoral4/superforecastinghelper</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tool for recording predictions and calculating Brier Scores ·...The Brier score ranges from 0 to 1, with lower values indicating more ac...</p></details>
+   Link:<a href="https://github.com/jmoral4/superforecastinghelper" target="_blank" rel="noopener noreferrer nofollow">https://github.com/jmoral4/superforecastinghelper</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tool for recording predictions and calculating Brier Scores ·...The Brier score ranges from 0 to 1, with lower values indicating more ac...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: coefficientgiving.org  
    Title: efforts to improve the accuracy of our judgments and forecasts  
-   Link: <a href="https://coefficientgiving.org/research/efforts-to-improve-the-accuracy-of-our-judgments-and-forecasts/" target="_blank" rel="noopener noreferrer nofollow">https://coefficientgiving.org/research/efforts-to-improve-the-accuracy-of-our-judgments-and-forecasts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Efforts to Improve the Accuracy of Our Judgments and...Oct 25, 2016 — If we combine calibration and resolution, we arrive at a measure o...</p></details>
+   Link:<a href="https://coefficientgiving.org/research/efforts-to-improve-the-accuracy-of-our-judgments-and-forecasts/" target="_blank" rel="noopener noreferrer nofollow">https://coefficientgiving.org/research/efforts-to-improve-the-accuracy-of-our-judgments-and-forecasts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Efforts to Improve the Accuracy of Our Judgments and...Oct 25, 2016 — If we combine calibration and resolution, we arrive at a measure o...</p></details>

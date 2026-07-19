@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_tr
 
 ## Introduction
 
-Gut feelings are not automatically wise, nor are they automatically irrational. The most reliable form of intuition is usually a learned skill: a rapid judgement built through repeated exposure to meaningful patterns and corrected by accurate feedback over time. Research comparing expert decision-making with studies of cognitive bias reaches a surprisingly consistent conclusion. Fast judgements deserve more trust when they develop in environments where important cues are genuinely informative and where people repeatedly discover when they are right and wrong. In contrast, intuition formed in noisy environments with delayed, ambiguous or misleading feedback can become confidently inaccurate rather than genuinely skilled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conditions for Intuitive ExpertiseThis article reports on an effort to explore the differences between two approaches t...</span></span></span>
+Gut feelings are not automatically wise, nor are they automatically irrational. The most reliable form of intuition is usually a learned skill: a rapid judgement built through repeated exposure to meaningful patterns and corrected by accurate feedback over time. Research comparing expert decision-making with studies of cognitive bias reaches a surprisingly consistent conclusion. Fast judgements deserve more trust when they develop in environments where important cues are genuinely informative and where people repeatedly discover when they are right and wrong. In contrast, intuition formed in noisy environments with delayed, ambiguous or misleading feedback can become confidently inaccurate rather than genuinely skilled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conditions for Intuitive ExpertiseThis article reports on an effort to explore the differences between two approaches t...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_trained_gut_feelings_061d3c-Illustration-1-dark.svg" | relative_url }}" alt="Trained Gut illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_trained_gut_feelings_061d3c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_trained_gut_feelings_061d3c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,20 +282,20 @@ For improving thinking and analytical skills, this distinction matters more than
 
 ## What turns instinct into expertise?
 
-The feeling that "I just know" is not itself evidence of expertise. [Expert intuition]({{ 'expert-gut/' | relative_url }}) develops when experience compresses thousands of previous observations into rapid pattern recognition. Instead of consciously comparing alternatives, experienced people often recognise familiar situations and immediately notice which response fits best. This is the foundation of Gary Klein's [recognition-primed]({{ 'pressure-calls/' | relative_url }}) decision model, developed from observations of firefighters and other professionals working under pressure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conditions for Intuitive ExpertiseThis article reports on an effort to explore the differences between two approaches t...</span></span></span>
+The feeling that "I just know" is not itself evidence of expertise. [Expert intuition]({{ 'expert-gut/' | relative_url }}) develops when experience compresses thousands of previous observations into rapid pattern recognition. Instead of consciously comparing alternatives, experienced people often recognise familiar situations and immediately notice which response fits best. This is the foundation of Gary Klein's [recognition-primed]({{ 'pressure-calls/' | relative_url }}) decision model, developed from observations of firefighters and other professionals working under pressure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conditions for Intuitive ExpertiseThis article reports on an effort to explore the differences between two approaches t...</span></span></span>
 
 Two conditions repeatedly emerge from the research:
 
 * **The environment contains reliable patterns.** The world must reward attention to cues that genuinely predict what will happen.
 * **Experience includes corrective feedback.** People repeatedly learn whether their judgements were accurate, allowing mistaken patterns to be discarded and useful ones reinforced.
 
-If either condition is missing, confidence can grow without corresponding accuracy. Kahneman and Klein argued that subjective certainty is not a dependable guide to whether intuition is actually correct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conditions for Intuitive ExpertiseThis article reports on an effort to explore the differences between two approaches t...</span></span></span>
+If either condition is missing, confidence can grow without corresponding accuracy. Kahneman and Klein argued that subjective certainty is not a dependable guide to whether intuition is actually correct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conditions for Intuitive ExpertiseThis article reports on an effort to explore the differences between two approaches t...</span></span></span>
 
 ## Learnable environments and valid cues
 
 Not every environment teaches useful intuition.
 
-Robin Hogarth described the difference between **"kind" learning environments**, where experience steadily improves judgement, and **"wicked" learning environments**, where experience can reinforce the wrong lessons because feedback is delayed, incomplete or distorted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.weber.edu/eamsel/research%20groups/dual%20process%20research/new%20papers/hogarth%20%282005%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-title">hogarth (2005</span><span class="citation-popover-snippet">pdfby RM Hogarth — In Hogarth (2001), I noted that tacit learning can take place in environments that are kind or wicked. Kind and wicked...</span></span></span>
+Robin Hogarth described the difference between **"kind" learning environments**, where experience steadily improves judgement, and **"wicked" learning environments**, where experience can reinforce the wrong lessons because feedback is delayed, incomplete or distorted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.weber.edu/eamsel/research%20groups/dual%20process%20research/new%20papers/hogarth%20%282005%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-title">hogarth (2005</span><span class="citation-popover-snippet">pdfby RM Hogarth — In Hogarth (2001), I noted that tacit learning can take place in environments that are kind or wicked. Kind and wicked...</span></span></span>
 
 Kind environments typically have several characteristics:
 
@@ -312,7 +312,7 @@ Kind environments typically have several characteristics:
 
 Examples include learning to cook, diagnosing common mechanical faults, reading musical notation, recognising normal driving hazards or playing chess. Mistakes become obvious relatively quickly, making experience genuinely educational.
 
-Wicked environments look very different. [Outcomes]({{ 'outcomes/' | relative_url }}) may depend heavily on chance, important information may be hidden, and feedback often arrives months or years later—or never arrives at all. In these settings, people frequently remember successes while explaining away failures, producing unwarranted confidence instead of expertise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.weber.edu/eamsel/research%20groups/dual%20process%20research/new%20papers/hogarth%20%282005%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-title">hogarth (2005</span><span class="citation-popover-snippet">pdfby RM Hogarth — In Hogarth (2001), I noted that tacit learning can take place in environments that are kind or wicked. Kind and wicked...</span></span></span>
+Wicked environments look very different. [Outcomes]({{ 'outcomes/' | relative_url }}) may depend heavily on chance, important information may be hidden, and feedback often arrives months or years later—or never arrives at all. In these settings, people frequently remember successes while explaining away failures, producing unwarranted confidence instead of expertise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.weber.edu/eamsel/research%20groups/dual%20process%20research/new%20papers/hogarth%20%282005%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-title">hogarth (2005</span><span class="citation-popover-snippet">pdfby RM Hogarth — In Hogarth (2001), I noted that tacit learning can take place in environments that are kind or wicked. Kind and wicked...</span></span></span>
 
 The crucial point is that intuition is not universally trustworthy or untrustworthy. Its reliability depends heavily on the learning environment that created it.
 
@@ -329,7 +329,7 @@ First, it strengthens associations between genuine predictive cues and successfu
 
 Second, feedback removes misleading patterns. People naturally notice memorable coincidences, but repeated correction teaches which apparent relationships are unreliable.
 
-Third, rapid feedback improves calibration. Skilled decision-makers not only become more accurate but also learn when they should feel uncertain. Their confidence becomes better matched to reality rather than simply becoming stronger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conditions for Intuitive ExpertiseThis article reports on an effort to explore the differences between two approaches t...</span></span></span>
+Third, rapid feedback improves calibration. Skilled decision-makers not only become more accurate but also learn when they should feel uncertain. Their confidence becomes better matched to reality rather than simply becoming stronger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conditions for Intuitive ExpertiseThis article reports on an effort to explore the differences between two approaches t...</span></span></span>
 
 Poor feedback creates the opposite effect. Delayed outcomes, selective memory and inconsistent consequences allow incorrect intuitions to survive for years.
 
@@ -337,7 +337,7 @@ Poor feedback creates the opposite effect. Delayed outcomes, selective memory an
 <img src="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_trained_gut_feelings_061d3c-Illustration-2-dark.svg" | relative_url }}" alt="Trained Gut illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_trained_gut_feelings_061d3c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_trained_gut_feelings_061d3c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Everyday situations where intuition earns trust
 
-Most people develop pockets of genuine intuitive expertise in ordinary life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/689600086/Conditions-for-Intuitive-Expertise-A-Failure-to-Disagree" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Conditions for Intuitive Expertise &#124; PDF &#124; Decision MakingThis article aims to compare and reconcile two perspectives on intuition and ex...</span></span></span>
+Most people develop pockets of genuine intuitive expertise in ordinary life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/689600086/Conditions-for-Intuitive-Expertise-A-Failure-to-Disagree" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Conditions for Intuitive Expertise &#124; PDF &#124; Decision MakingThis article aims to compare and reconcile two perspectives on intuition and ex...</span></span></span>
 
 Intuition is more likely to be dependable when you have:
 
@@ -357,7 +357,7 @@ Common examples include:
 
 **Cooking.** Experienced cooks often detect problems through smell, colour or texture long before recipes would explicitly recommend acting.
 
-**Healthcare within familiar routines.** Experienced clinicians sometimes recognise a patient who "doesn't look right" before identifying the precise diagnosis. However, responsible clinical practice still combines this recognition with systematic testing rather than relying on intuition alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conditions for Intuitive ExpertiseThis article reports on an effort to explore the differences between two approaches t...</span></span></span>
+**Healthcare within familiar routines.** Experienced clinicians sometimes recognise a patient who "doesn't look right" before identifying the precise diagnosis. However, responsible clinical practice still combines this recognition with systematic testing rather than relying on intuition alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conditions for Intuitive ExpertiseThis article reports on an effort to explore the differences between two approaches t...</span></span></span>
 
 **Skilled trades.** Electricians, plumbers and mechanics often identify likely causes rapidly because countless previous repairs have created strong associations between symptoms and faults.
 
@@ -368,11 +368,11 @@ In these domains, intuition usually serves as rapid recognition, while deliberat
 
 ## When confidence is not evidence of trained skill
 
-Some domains feel intuitive while offering poor conditions for learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/689600086/Conditions-for-Intuitive-Expertise-A-Failure-to-Disagree" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Conditions for Intuitive Expertise &#124; PDF &#124; Decision MakingThis article aims to compare and reconcile two perspectives on intuition and ex...</span></span></span>
+Some domains feel intuitive while offering poor conditions for learning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/689600086/Conditions-for-Intuitive-Expertise-A-Failure-to-Disagree" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Conditions for Intuitive Expertise &#124; PDF &#124; Decision MakingThis article aims to compare and reconcile two perspectives on intuition and ex...</span></span></span>
 
 Hiring decisions often seem to produce strong first impressions, yet later job performance depends on many hidden factors and feedback is slow and noisy.
 
-Financial investing presents another challenge. A successful trade may result from luck rather than skill, while a sound decision may lose money because of unpredictable market movements. This makes it difficult for experience alone to teach accurate intuition. Kahneman and Klein specifically identified such environments as poor candidates for dependable intuitive expertise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conditions for Intuitive ExpertiseThis article reports on an effort to explore the differences between two approaches t...</span></span></span>
+Financial investing presents another challenge. A successful trade may result from luck rather than skill, while a sound decision may lose money because of unpredictable market movements. This makes it difficult for experience alone to teach accurate intuition. Kahneman and Klein specifically identified such environments as poor candidates for dependable intuitive expertise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conditions for Intuitive ExpertiseThis article reports on an effort to explore the differences between two approaches t...</span></span></span>
 
 Similarly, judging personalities after brief encounters, predicting long-term relationship outcomes or forecasting major economic events rarely provides the immediate, unambiguous feedback needed to train reliable gut feelings.
 
@@ -406,178 +406,178 @@ If several answers are no, the gut feeling may still be worth noticing, but it s
 <img src="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_trained_gut_feelings_061d3c-Illustration-3-dark.svg" | relative_url }}" alt="Trained Gut illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_trained_gut_feelings_061d3c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_trained_gut_feelings_061d3c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When should you trust your gut?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When should you trust your gut?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains when intuitive judgments deserve trust and when they do not.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains when intuitive judgments deserve trust and when they do not.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sources of Power on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KZ7uDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sources of Power" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sources of Power">Sources of Power</a>
-        </h4>
-        <p class="fr-book-author">By Gary A. Klein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sources of Power on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KZ7uDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sources of Power" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sources of Power">Sources of Power</a>
+</h4>
+<p class="fr-book-author">By Gary A. Klein</p>
         
-        <p class="fr-book-desc">Demonstrates how trained intuition develops in real-world practice.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how trained intuition develops in real-world practice.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Intuition+by+Gary+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Intuition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QaRAoNp_h7gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Intuition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Intuition+by+Gary+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Intuition">The Power of Intuition</a>
-        </h4>
-        <p class="fr-book-author">By Gary Klein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Intuition+by+Gary+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Intuition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QaRAoNp_h7gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Intuition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Intuition+by+Gary+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Intuition">The Power of Intuition</a>
+</h4>
+<p class="fr-book-author">By Gary Klein</p>
         
-        <p class="fr-book-desc">Shows how experience and feedback create reliable gut feelings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Intuition+by+Gary+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how experience and feedback create reliable gut feelings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Intuition+by+Gary+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
-        </h4>
-        <p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
+</h4>
+<p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
         
-        <p class="fr-book-desc">Explains how deliberate practice and feedback build expert performance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how deliberate practice and feedback build expert performance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sources+of+Power&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sources of Power</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Intuition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Intuition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sources+of+Power&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sources of Power</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Intuition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Intuition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Chrome Executive Desk Toy&#x27;s Kinetic Balance - Retro bundle"><img src="{{ '/assets/images/marketplace-covers/5aaa1ae71071cf42dea9.jpg' | relative_url }}" alt="Listing image for Vintage Chrome Executive Desk Toy&#x27;s Kinetic Balance - Retro bundle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">Vintage Chrome Executive Desk Toy&#x27;s Kinetic Balance - Retro bundle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for executive desk toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: executive desk toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Chrome Executive Desk Toy&#x27;s Kinetic Balance - Retro bundle"><img src="{{ '/assets/images/marketplace-covers/5aaa1ae71071cf42dea9.jpg' | relative_url }}" alt="Listing image for Vintage Chrome Executive Desk Toy&#x27;s Kinetic Balance - Retro bundle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">Vintage Chrome Executive Desk Toy&#x27;s Kinetic Balance - Retro bundle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for executive desk toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: executive desk toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Globe Magic Executive Revolving Rotating Desk Children Office Toy Bed"><img src="{{ '/assets/images/marketplace-covers/70e2353ba501fcc41755.jpg' | relative_url }}" alt="Listing image for World Map Globe Magic Executive Revolving Rotating Desk Children Office Toy Bed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">World Map Globe Magic Executive Revolving Rotating Desk Children Office Toy Bed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for executive desk toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: executive desk toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Globe Magic Executive Revolving Rotating Desk Children Office Toy Bed"><img src="{{ '/assets/images/marketplace-covers/70e2353ba501fcc41755.jpg' | relative_url }}" alt="Listing image for World Map Globe Magic Executive Revolving Rotating Desk Children Office Toy Bed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">World Map Globe Magic Executive Revolving Rotating Desk Children Office Toy Bed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for executive desk toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: executive desk toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic 3D Metal Pin Art Classic Impression Picture Maker Desk Toy Frame Gadget"><img src="{{ '/assets/images/marketplace-covers/156be08d937c8415deb9.jpg' | relative_url }}" alt="Listing image for Classic 3D Metal Pin Art Classic Impression Picture Maker Desk Toy Frame Gadget" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">Classic 3D Metal Pin Art Classic Impression Picture Maker Desk Toy Frame Gadget</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for executive desk toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: executive desk toy</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic 3D Metal Pin Art Classic Impression Picture Maker Desk Toy Frame Gadget"><img src="{{ '/assets/images/marketplace-covers/156be08d937c8415deb9.jpg' | relative_url }}" alt="Listing image for Classic 3D Metal Pin Art Classic Impression Picture Maker Desk Toy Frame Gadget" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">Classic 3D Metal Pin Art Classic Impression Picture Maker Desk Toy Frame Gadget</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for executive desk toy">Search<span data-ebay-domain-label>eBay.co.uk</span>: executive desk toy</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=executive+desk+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="executive desk toy" data-ebay-reference="trained-gut-when-should-you-trust-your-gut-improving-your-think-executive-desk-toy" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ If several answers are no, the gut feeling may still be worth noticing, but it s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ If several answers are no, the gut feeling may still be worth noticing, but it s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ If several answers are no, the gut feeling may still be worth noticing, but it s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ If several answers are no, the gut feeling may still be worth noticing, but it s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ If several answers are no, the gut feeling may still be worth noticing, but it s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,89 +783,89 @@ If several answers are no, the gut feeling may still be worth noticing, but it s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Conditions for Intuitive ExpertiseThis article reports on an effort to explore the differences between two approaches t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Conditions for Intuitive ExpertiseThis article reports on an effort to explore the differences between two approaches t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faculty.weber.edu  
    Title: hogarth (2005)  
-   Link: <a href="https://faculty.weber.edu/eamsel/research%20groups/dual%20process%20research/new%20papers/hogarth%20%282005%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.weber.edu/eamsel/research%20groups/dual%20process%20research/new%20papers/hogarth%20%282005%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pdfby RM Hogarth — In Hogarth (2001), I noted that tacit learning can take place in environments that are kind or wicked. Kind and wicked...</p></details>
+   Link:<a href="https://faculty.weber.edu/eamsel/research%20groups/dual%20process%20research/new%20papers/hogarth%20%282005%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.weber.edu/eamsel/research%20groups/dual%20process%20research/new%20papers/hogarth%20%282005%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pdfby RM Hogarth — In Hogarth (2001), I noted that tacit learning can take place in environments that are kind or wicked. Kind and wicked...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: Seeing What Others Don't by Gary Klein | Complete Book  
-   Link: <a href="https://www.youtube.com/watch?v=v0_Txlg0atY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v0_Txlg0atY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recognition-Primed Decision Model - Gary Klein on Fresh perspectives...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=v0_Txlg0atY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v0_Txlg0atY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recognition-Primed Decision Model - Gary Klein on Fresh perspectives...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Recognition-Primed Decision Model  
-   Link: <a href="https://www.youtube.com/watch?v=_BIMU8zPcrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_BIMU8zPcrM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_BIMU8zPcrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_BIMU8zPcrM</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/689600086/Conditions-for-Intuitive-Expertise-A-Failure-to-Disagree" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/689600086/Conditions-for-Intuitive-Expertise-A-Failure-to-Disagree</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conditions for Intuitive Expertise | PDF | Decision MakingThis article aims to compare and reconcile two perspectives on intuition and ex...</p></details>
+   Link:<a href="https://www.scribd.com/document/689600086/Conditions-for-Intuitive-Expertise-A-Failure-to-Disagree" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/689600086/Conditions-for-Intuitive-Expertise-A-Failure-to-Disagree</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conditions for Intuitive Expertise | PDF | Decision MakingThis article aims to compare and reconcile two perspectives on intuition and ex...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: driverlesscrocodile.com  
-   Link: <a href="https://www.driverlesscrocodile.com/books-and-recommendations/learning-environments-kind-wicked-and-fiendish/" target="_blank" rel="noopener noreferrer nofollow">https://www.driverlesscrocodile.com/books-and-recommendations/learning-environments-kind-wicked-and-fiendish/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fiendish?31 Jan 2021 — These games are kind learning environments in that they share high levels of constraint, unambiguous success crite...</p></details>
+   Link:<a href="https://www.driverlesscrocodile.com/books-and-recommendations/learning-environments-kind-wicked-and-fiendish/" target="_blank" rel="noopener noreferrer nofollow">https://www.driverlesscrocodile.com/books-and-recommendations/learning-environments-kind-wicked-and-fiendish/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fiendish?31 Jan 2021 — These games are kind learning environments in that they share high levels of constraint, unambiguous success crite...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: davidepstein.substack.com  
    Title: kind and wicked learning environments  
-   Link: <a href="https://davidepstein.substack.com/p/kind-and-wicked-learning-environments" target="_blank" rel="noopener noreferrer nofollow">https://davidepstein.substack.com/p/kind-and-wicked-learning-environments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>substack.com&quot;Kind&quot; and &quot;Wicked&quot; Learning EnvironmentsIn what Hogarth called “kind” learning environments, experience led to predictable i...</p></details>
+   Link:<a href="https://davidepstein.substack.com/p/kind-and-wicked-learning-environments" target="_blank" rel="noopener noreferrer nofollow">https://davidepstein.substack.com/p/kind-and-wicked-learning-environments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>substack.com&quot;Kind&quot; and &quot;Wicked&quot; Learning EnvironmentsIn what Hogarth called “kind” learning environments, experience led to predictable i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: commoncog.com  
    Title: ill structured domains not wicked  
-   Link: <a href="https://commoncog.com/ill-structured-domains-not-wicked/" target="_blank" rel="noopener noreferrer nofollow">https://commoncog.com/ill-structured-domains-not-wicked/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ill-Structured Domains Aren&#x27;t Necessarily Wicked23 Feb 2022 — In his 2001 book Educating Intuition, psychologist Robin Hogarth introduced...</p></details>
+   Link:<a href="https://commoncog.com/ill-structured-domains-not-wicked/" target="_blank" rel="noopener noreferrer nofollow">https://commoncog.com/ill-structured-domains-not-wicked/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ill-Structured Domains Aren&#x27;t Necessarily Wicked23 Feb 2022 — In his 2001 book Educating Intuition, psychologist Robin Hogarth introduced...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scottbarrykaufman.com  
    Title: Kaufman 2008 Commentary intuition and creative cognition  
-   Link: <a href="https://scottbarrykaufman.com/wp-content/uploads/2011/06/Kaufman-2008-Commentary-intuition-and-creative-cognition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scottbarrykaufman.com/wp-content/uploads/2011/06/Kaufman-2008-Commentary-intuition-and-creative-cognition.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We learn the right lessons only in kind environments. Misleadingly, confidence in our...Read more...</p></details>
+   Link:<a href="https://scottbarrykaufman.com/wp-content/uploads/2011/06/Kaufman-2008-Commentary-intuition-and-creative-cognition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scottbarrykaufman.com/wp-content/uploads/2011/06/Kaufman-2008-Commentary-intuition-and-creative-cognition.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We learn the right lessons only in kind environments. Misleadingly, confidence in our...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Recognition Primed Decision Making with Dr. Gary Klein  
-   Link: <a href="https://www.youtube.com/watch?v=ASE5tMlKcrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ASE5tMlKcrU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seeing What Others Don&#x27;t by Gary Klein | Complete Book Summary &amp; Analysis (The Science of Insight)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ASE5tMlKcrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ASE5tMlKcrU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seeing What Others Don&#x27;t by Gary Klein | Complete Book Summary &amp; Analysis (The Science of Insight)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: davidepstein.substack.com  
-   Link: <a href="https://davidepstein.substack.com/p/kind-and-wicked-learning-environments/comments" target="_blank" rel="noopener noreferrer nofollow">https://davidepstein.substack.com/p/kind-and-wicked-learning-environments/comments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Kind&quot; and &quot;Wicked&quot; Learning Environments16 May 2024 — People struggle to navigate wicked environments not just because of heuristics and...</p></details>
+   Link:<a href="https://davidepstein.substack.com/p/kind-and-wicked-learning-environments/comments" target="_blank" rel="noopener noreferrer nofollow">https://davidepstein.substack.com/p/kind-and-wicked-learning-environments/comments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Kind&quot; and &quot;Wicked&quot; Learning Environments16 May 2024 — People struggle to navigate wicked environments not just because of heuristics and...</p></details>
    Published: May 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Intuition Is Experience Speaking — with Gary Klein  
-   Link: <a href="https://www.youtube.com/watch?v=BR3kfG6STZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BR3kfG6STZI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recognition Primed Decision Making with Dr. Gary Klein...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BR3kfG6STZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BR3kfG6STZI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recognition Primed Decision Making with Dr. Gary Klein...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Gut instinct: How to actually master your intuition  
-   Link: <a href="https://www.youtube.com/watch?v=ELI5zOrxq74" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ELI5zOrxq74</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intuition Is Experience Speaking — with Gary Klein...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ELI5zOrxq74" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ELI5zOrxq74</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intuition Is Experience Speaking — with Gary Klein...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Kind vs. Wicked  
-   Link: <a href="https://www.youtube.com/watch?v=uFbxL2JTa6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uFbxL2JTa6c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Myth of Experience #1In The Myth of Experience, behavioral scientists Emre Soyer and Robin Hogarth take a transformative look at expe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uFbxL2JTa6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uFbxL2JTa6c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Myth of Experience #1In The Myth of Experience, behavioral scientists Emre Soyer and Robin Hogarth take a transformative look at expe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Gary A. Klein  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_A._Klein" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_A._Klein</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_A._Klein" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_A._Klein</a>  

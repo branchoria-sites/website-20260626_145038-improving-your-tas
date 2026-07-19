@@ -278,7 +278,7 @@ Changing your mind is not always just an intellectual act. Sometimes it feels li
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5_identity_threat_corr_c8f0fd-Illustration-1-dark.svg" | relative_url }}" alt="Identity Threat illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5_identity_threat_corr_c8f0fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5_identity_threat_corr_c8f0fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This mechanism helps explain why myside bias is often most powerful around politics, religion, moral values, professional expertise and lifestyle choices. The central problem is not that people are incapable of understanding evidence. It is that accepting it may carry personal or social costs. Understanding this distinction is essential for improving analytical thinking because it shifts attention from simply presenting better facts to recognising when correction has become psychologically threatening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2978536_code45442.pdf?abstractid=2973067&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN+2University of Houston Law Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">SSRN ID2978536 code45442</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span>
+This mechanism helps explain why myside bias is often most powerful around politics, religion, moral values, professional expertise and lifestyle choices. The central problem is not that people are incapable of understanding evidence. It is that accepting it may carry personal or social costs. Understanding this distinction is essential for improving analytical thinking because it shifts attention from simply presenting better facts to recognising when correction has become psychologically threatening.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2978536_code45442.pdf?abstractid=2973067&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN+2University of Houston Law Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">SSRN ID2978536 code45442</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span>
 
 ## Beliefs that become part of who you are
 
@@ -297,16 +297,16 @@ This often happens when a belief is associated with:
 
 </div>
 
-Once a belief performs one of these social functions, changing it may feel less like updating knowledge and more like admitting disloyalty or incompetence. Researchers studying identity-protective cognition argue that people often evaluate evidence in ways that preserve acceptance within groups whose approval matters to them. Under those conditions, reasoning serves both truth-seeking and social survival, and the two goals can conflict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2978536_code45442.pdf?abstractid=2973067&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN+2Network Dynamics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">SSRN ID2978536 code45442</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span>
+Once a belief performs one of these social functions, changing it may feel less like updating knowledge and more like admitting disloyalty or incompetence. Researchers studying identity-protective cognition argue that people often evaluate evidence in ways that preserve acceptance within groups whose approval matters to them. Under those conditions, reasoning serves both truth-seeking and social survival, and the two goals can conflict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2978536_code45442.pdf?abstractid=2973067&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN+2Network Dynamics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">SSRN ID2978536 code45442</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span>
 
-Historical [comparisons]({{ 'comparisons/' | relative_url }}) illustrate the pattern. Resistance to changing views about smoking, climate risks, vaccination, economic policy or criminal justice has often reflected more than disagreement about evidence. In many cases, particular factual positions became markers of broader political or cultural identity. Accepting contrary evidence risked signalling membership in an opposing camp rather than merely revising a factual judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2978536_code45442.pdf?abstractid=2973067&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">SSRN ID2978536 code45442</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span>
+Historical [comparisons]({{ 'comparisons/' | relative_url }}) illustrate the pattern. Resistance to changing views about smoking, climate risks, vaccination, economic policy or criminal justice has often reflected more than disagreement about evidence. In many cases, particular factual positions became markers of broader political or cultural identity. Accepting contrary evidence risked signalling membership in an opposing camp rather than merely revising a factual judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2978536_code45442.pdf?abstractid=2973067&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">SSRN ID2978536 code45442</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6sXKyq6YxqE" title="Facts Do Not Enter Neutral Rooms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6sXKyq6YxqE" target="_blank" rel="noopener noreferrer">Facts Do Not Enter Neutral Rooms</a></p><p class="youtube-embed-meta">Channel: Lenora Billings-Harris, Critical Voices Initiative</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6sXKyq6YxqE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6sXKyq6YxqE">Open on YouTube</a></p></div></div></div>
 
 ## Why corrections sometimes fail without producing a factual backfire
 
-Popular discussions often claim that correcting misinformation makes people believe it even more strongly. Research has found this dramatic "backfire effect" to be much rarer than originally feared. Large experimental studies have generally failed to find widespread factual backfire, even on politically contentious issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/does-counterattitudinal-information-cause-backlash-results-from-three-large-survey-experiments/526B71F3BB76A39C1101384D576208D4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">by A Guess · 2020 · Cited by 396 — Kahan (Reference Kahan2012) has applied the Theory of Cultural Cognition to public instead to document...</span></span></span>
+Popular discussions often claim that correcting misinformation makes people believe it even more strongly. Research has found this dramatic "backfire effect" to be much rarer than originally feared. Large experimental studies have generally failed to find widespread factual backfire, even on politically contentious issues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/does-counterattitudinal-information-cause-backlash-results-from-three-large-survey-experiments/526B71F3BB76A39C1101384D576208D4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">by A Guess · 2020 · Cited by 396 — Kahan (Reference Kahan2012) has applied the Theory of Cultural Cognition to public instead to document...</span></span></span>
 
 This does not mean corrections always succeed. Instead, identity changes the conditions under which evidence is accepted.
 
@@ -317,7 +317,7 @@ Several [mechanisms]({{ 'mechanisms/' | relative_url }}) can operate together:
 * **Reputation management.** Publicly acknowledging error may appear more costly than privately recognising [uncertainty]({{ 'uncertainty/' | relative_url }}).
 * **Emotional self-protection.** Feelings of shame, embarrassment or anticipated rejection compete with curiosity.
 
-The result is often partial updating rather than outright rejection. Someone may accept a specific factual correction while leaving the broader identity-linked narrative untouched. For example, they might concede one statistic while preserving the larger worldview that originally made the statistic important. This helps explain why factual agreement and attitude change do not always move together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/does-counterattitudinal-information-cause-backlash-results-from-three-large-survey-experiments/526B71F3BB76A39C1101384D576208D4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">by A Guess · 2020 · Cited by 396 — Kahan (Reference Kahan2012) has applied the Theory of Cultural Cognition to public instead to document...</span></span></span>
+The result is often partial updating rather than outright rejection. Someone may accept a specific factual correction while leaving the broader identity-linked narrative untouched. For example, they might concede one statistic while preserving the larger worldview that originally made the statistic important. This helps explain why factual agreement and attitude change do not always move together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/does-counterattitudinal-information-cause-backlash-results-from-three-large-survey-experiments/526B71F3BB76A39C1101384D576208D4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">by A Guess · 2020 · Cited by 396 — Kahan (Reference Kahan2012) has applied the Theory of Cultural Cognition to public instead to document...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nbi6eQCdbWE" title="The Invisible Tax Of Refusing To Fail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nbi6eQCdbWE" target="_blank" rel="noopener noreferrer">The Invisible Tax Of Refusing To Fail</a></p><p class="youtube-embed-meta">Channel: NCI University</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nbi6eQCdbWE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nbi6eQCdbWE">Open on YouTube</a></p></div></div></div>
@@ -353,7 +353,7 @@ Research suggests several characteristic features:
 
 </div>
 
-Studies of social identity threat also show that people rapidly detect information implying negative evaluations of groups they value. This heightened sensitivity means identity-relevant criticism attracts attention quickly and can trigger defensive processing before deliberate reflection begins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8757953/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNon-strategic detection of identity-threatening information</span><span class="citation-popover-snippet">by J Abendroth · 2022 · Cited by 14 — The present study expands this research by exploring whether people also non-strategically detec...</span></span></span>
+Studies of social identity threat also show that people rapidly detect information implying negative evaluations of groups they value. This heightened sensitivity means identity-relevant criticism attracts attention quickly and can trigger defensive processing before deliberate reflection begins.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8757953/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNon-strategic detection of identity-threatening information</span><span class="citation-popover-snippet">by J Abendroth · 2022 · Cited by 14 — The present study expands this research by exploring whether people also non-strategically detec...</span></span></span>
 
 Importantly, these reactions are not confined to any particular ideology or community. They reflect general features of human social cognition.
 
@@ -371,7 +371,7 @@ Several approaches have empirical support or theoretical grounding.
 
 **Critique claims without attacking character.** People are more receptive when evidence challenges a proposition rather than implying stupidity, bad motives or moral failure.
 
-**Use self-affirmation.** Research on self-affirmation suggests that reminding people of important values or strengths unrelated to the disputed issue can reduce defensiveness. Protecting a broader sense of self-worth can make threatening information easier to evaluate objectively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-536" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oxfordre.com">[OUP Academic+2UCSB Psychology Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oxfordre.com</span><span class="citation-popover-snippet">OUP AcademicSelf-Affirmation - Oxford Research EncyclopediasThus, when the self is threatened by a health message, the perceived threat c...</span></span></span>
+**Use self-affirmation.** Research on self-affirmation suggests that reminding people of important values or strengths unrelated to the disputed issue can reduce defensiveness. Protecting a broader sense of self-worth can make threatening information easier to evaluate objectively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-536" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oxfordre.com">[OUP Academic+2UCSB Psychology Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oxfordre.com</span><span class="citation-popover-snippet">OUP AcademicSelf-Affirmation - Oxford Research EncyclopediasThus, when the self is threatened by a health message, the perceived threat c...</span></span></span>
 
 **Create opportunities for private revision.** Individuals often reconsider evidence more readily when they are not forced to admit error in front of an audience whose judgement they fear.
 
@@ -387,194 +387,194 @@ Analytical skill is often imagined as a matter of logic alone. Yet reasoning tak
 Recognising this mechanism makes myside bias easier to understand. The obstacle is frequently not ignorance but the hidden cost attached to being correct. The more thinking can be organised so that changing one's mind signals intellectual integrity rather than personal defeat, the easier it becomes to let evidence perform its intended role: improving understanding rather than deciding social status.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Being Correct Feels Like Losing Face. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Being Correct Feels Like Losing Face. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Directly addresses updating beliefs, identity, and overcoming resistance to being wrong.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses updating beliefs, identity, and overcoming resistance to being wrong.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains why people defend beliefs when corrections threaten identity or reputation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people defend beliefs when corrections threaten identity or reputation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Focuses on cultivating accuracy over ego and reducing identity-driven reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on cultivating accuracy over ego and reducing identity-driven reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">Explores how morality, group identity, and social belonging shape belief formation and disagreement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how morality, group identity, and social belonging shape belief formation and disagreement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for When Life Gets You Down Punch Back Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/75EAAeSw~o5p2SLc/s-l225.jpg" alt="Listing image for When Life Gets You Down Punch Back Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">When Life Gets You Down Punch Back Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for When Life Gets You Down Punch Back Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/75EAAeSw~o5p2SLc/s-l225.jpg" alt="Listing image for When Life Gets You Down Punch Back Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">When Life Gets You Down Punch Back Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Billie Eilish, When We All Fall, Album Art Poster, Print, Music, Tracklist"><img src="https://i.ebayimg.com/images/g/xPAAAeSwShxo8SpF/s-l225.jpg" alt="Listing image for Billie Eilish, When We All Fall, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Billie Eilish, When We All Fall, Album Art Poster, Print, Music, Tracklist</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Billie Eilish, When We All Fall, Album Art Poster, Print, Music, Tracklist"><img src="https://i.ebayimg.com/images/g/xPAAAeSwShxo8SpF/s-l225.jpg" alt="Listing image for Billie Eilish, When We All Fall, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Billie Eilish, When We All Fall, Album Art Poster, Print, Music, Tracklist</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/YEYAAeSwIy5pFf1O/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/YEYAAeSwIy5pFf1O/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for When Life hits you hard Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/LeMAAeSwH~dpwAty/s-l225.jpg" alt="Listing image for When Life hits you hard Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">When Life hits you hard Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for When Life hits you hard Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/LeMAAeSwH~dpwAty/s-l225.jpg" alt="Listing image for When Life hits you hard Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">When Life hits you hard Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-being-correct-feels-like-losing-face-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="when-being-correct-feels-like-losing-face-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ Recognising this mechanism makes myside bias easier to understand. The obstacle 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ Recognising this mechanism makes myside bias easier to understand. The obstacle 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ Recognising this mechanism makes myside bias easier to understand. The obstacle 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ Recognising this mechanism makes myside bias easier to understand. The obstacle 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ Recognising this mechanism makes myside bias easier to understand. The obstacle 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,82 +779,82 @@ Recognising this mechanism makes myside bias easier to understand. The obstacle 
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: papers.ssrn.com  
    Title: SSRN ID2978536 code45442  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2978536_code45442.pdf?abstractid=2973067&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2978536_code45442.pdf?abstractid=2973067&amp;mirid=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2978536_code45442.pdf?abstractid=2973067&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2978536_code45442.pdf?abstractid=2973067&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNon-strategic detection of identity-threatening information  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8757953/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8757953/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Abendroth · 2022 · Cited by 14 — The present study expands this research by exploring whether people also non-strategically detec...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8757953/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8757953/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by J Abendroth · 2022 · Cited by 14 — The present study expands this research by exploring whether people also non-strategically detec...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/does-counterattitudinal-information-cause-backlash-results-from-three-large-survey-experiments/526B71F3BB76A39C1101384D576208D4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/british-journal-of-political-science/article/does-counterattitudinal-information-cause-backlash-results-from-three-large-survey-experiments/526B71F3BB76A39C1101384D576208D4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Guess · 2020 · Cited by 396 — Kahan (Reference Kahan2012) has applied the Theory of Cultural Cognition to public instead to document...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/does-counterattitudinal-information-cause-backlash-results-from-three-large-survey-experiments/526B71F3BB76A39C1101384D576208D4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/british-journal-of-political-science/article/does-counterattitudinal-information-cause-backlash-results-from-three-large-survey-experiments/526B71F3BB76A39C1101384D576208D4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Guess · 2020 · Cited by 396 — Kahan (Reference Kahan2012) has applied the Theory of Cultural Cognition to public instead to document...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: labs.psych.ucsb.edu  
    Title: Psychology Labs6  
-   Link: <a href="https://labs.psych.ucsb.edu/sherman/david/sites/labs.psych.ucsb.edu.sherman.david/files/pubs/sherman.gibbs_.binning.inpress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://labs.psych.ucsb.edu/sherman/david/sites/labs.psych.ucsb.edu.sherman.david/files/pubs/sherman.gibbs_.binning.inpress.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Affirmation and Intergroup Biases: Changing the...by DK Sherman · Cited by 5 — When people experience or perceive a threat to their...</p></details>
+   Link:<a href="https://labs.psych.ucsb.edu/sherman/david/sites/labs.psych.ucsb.edu.sherman.david/files/pubs/sherman.gibbs_.binning.inpress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://labs.psych.ucsb.edu/sherman/david/sites/labs.psych.ucsb.edu.sherman.david/files/pubs/sherman.gibbs_.binning.inpress.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Affirmation and Intergroup Biases: Changing the...by DK Sherman · Cited by 5 — When people experience or perceive a threat to their...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: law.uh.edu  
    Title: Cultural Cognition of Scientific Consensus by Kahan final  
-   Link: <a href="https://law.uh.edu/faculty/thester/courses/Climate-Change-2017/Cultural%20Cognition%20of%20Scientific%20Consensus%20by%20Kahan%20final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law.uh.edu/faculty/thester/courses/Climate-Change-2017/Cultural%20Cognition%20of%20Scientific%20Consensus%20by%20Kahan%20final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Houston Law CenterCultural Cognition of Scientific Consensus by Kahan...by D Kahan · Cited by 2622 — Cultural cognition re...</p></details>
+   Link:<a href="https://law.uh.edu/faculty/thester/courses/Climate-Change-2017/Cultural%20Cognition%20of%20Scientific%20Consensus%20by%20Kahan%20final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law.uh.edu/faculty/thester/courses/Climate-Change-2017/Cultural%20Cognition%20of%20Scientific%20Consensus%20by%20Kahan%20final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Houston Law CenterCultural Cognition of Scientific Consensus by Kahan...by D Kahan · Cited by 2622 — Cultural cognition re...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ndg.asc.upenn.edu  
    Title: Ideology motivated reasoning  
-   Link: <a href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kahan ・ might treat identity-protective motivated reasoning ・ identity-protective cognition, ideologically or culturally defined affinity...</p></details>
+   Link:<a href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kahan ・ might treat identity-protective motivated reasoning ・ identity-protective cognition, ideologically or culturally defined affinity...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: oxfordre.com  
-   Link: <a href="https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-536" target="_blank" rel="noopener noreferrer nofollow">https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-536</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicSelf-Affirmation - Oxford Research EncyclopediasThus, when the self is threatened by a health message, the perceived threat c...</p></details>
+   Link:<a href="https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-536" target="_blank" rel="noopener noreferrer nofollow">https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-536</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicSelf-Affirmation - Oxford Research EncyclopediasThus, when the self is threatened by a health message, the perceived threat c...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/259650286_The_Psychology_of_Change_Self-Affirmation_and_Social_Psychological_Intervention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259650286_The_Psychology_of_Change_Self-Affirmation_and_Social_Psychological_Intervention</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Psychology of Change: Self-Affirmation and...People can import into a threatened domain the sense of personal inte...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/259650286_The_Psychology_of_Change_Self-Affirmation_and_Social_Psychological_Intervention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259650286_The_Psychology_of_Change_Self-Affirmation_and_Social_Psychological_Intervention</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Psychology of Change: Self-Affirmation and...People can import into a threatened domain the sense of personal inte...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: research.ou.nl  
-   Link: <a href="https://research.ou.nl/en/publications/processing-of-social-identity-threats-a-defense-motivation-perspe/" target="_blank" rel="noopener noreferrer nofollow">https://research.ou.nl/en/publications/processing-of-social-identity-threats-a-defense-motivation-perspe/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Universiteit research portalProcessing of social identity threats: A defense motivation...by N De Hoog · 2013 · Cited by 101 — Dive...</p></details>
+   Link:<a href="https://research.ou.nl/en/publications/processing-of-social-identity-threats-a-defense-motivation-perspe/" target="_blank" rel="noopener noreferrer nofollow">https://research.ou.nl/en/publications/processing-of-social-identity-threats-a-defense-motivation-perspe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Universiteit research portalProcessing of social identity threats: A defense motivation...by N De Hoog · 2013 · Cited by 101 — Dive...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Facts Do Not Enter Neutral Rooms  
-   Link: <a href="https://www.youtube.com/watch?v=6sXKyq6YxqE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6sXKyq6YxqE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Loyal Idiots — What Hannah Arendt Called the Most Terrifying Evil of All...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6sXKyq6YxqE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6sXKyq6YxqE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Loyal Idiots — What Hannah Arendt Called the Most Terrifying Evil of All...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UNqVbevl7s8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UNqVbevl7s8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Interpretation Becomes Defense...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UNqVbevl7s8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UNqVbevl7s8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Interpretation Becomes Defense...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Identity-Protective Cognition: Why We Ignore Facts That Threaten Our Identity  
-   Link: <a href="https://www.youtube.com/watch?v=7t9L8mpo2NM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7t9L8mpo2NM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facts Do Not Enter Neutral Rooms...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7t9L8mpo2NM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7t9L8mpo2NM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facts Do Not Enter Neutral Rooms...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: When Interpretation Becomes Defense  
-   Link: <a href="https://www.youtube.com/watch?v=xiFIhoJd0zM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xiFIhoJd0zM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Invisible Tax Of Refusing To Fail...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xiFIhoJd0zM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xiFIhoJd0zM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Invisible Tax Of Refusing To Fail...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Invisible Tax Of Refusing To Fail  
-   Link: <a href="https://www.youtube.com/watch?v=Nbi6eQCdbWE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nbi6eQCdbWE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Nbi6eQCdbWE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nbi6eQCdbWE</a>  

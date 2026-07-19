@@ -284,7 +284,7 @@ One of the most useful metacognitive habits is learning to separate **what you o
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_observation_interpre_81a70e-Illustration-1-dark.svg" | relative_url }}" alt="Fact vs Story illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_observation_interpre_81a70e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_observation_interpre_81a70e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Slowing down at this point creates a small but powerful gap between noticing and explaining. That gap makes it easier to test assumptions, consider alternatives and seek evidence that genuinely distinguishes between competing explanations rather than simply confirming the first story that came to mind. Research on metacognition, cognitive bias and organisational decision-making consistently shows that this deliberate separation improves judgement, particularly in complex or uncertain situations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 306 — The author reviewed the research on...</span></span></span>
+Slowing down at this point creates a small but powerful gap between noticing and explaining. That gap makes it easier to test assumptions, consider alternatives and seek evidence that genuinely distinguishes between competing explanations rather than simply confirming the first story that came to mind. Research on metacognition, cognitive bias and organisational decision-making consistently shows that this deliberate separation improves judgement, particularly in complex or uncertain situations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 306 — The author reviewed the research on...</span></span></span>
 
 ## Why interpretations often disguise themselves as facts
 
@@ -298,14 +298,14 @@ A common description of this process is the **Ladder of Inference**, developed b
 1. Observe only part of the available information.
 2. Select the details that seem important.
 3. Attach meaning to those details.
-4. Make assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.tcea.org/ladder-of-inference/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.tcea.org">[blog.tcea.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.tcea.org</span><span class="citation-popover-title">ladder of inference</span><span class="citation-popover-snippet">Cognitive Bias with the Ladder of Inference26 Mar 2024 — The Ladder of Inference, developed by organizational psychologist Chris Argyris...</span></span></span>
+4. Make assumptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.tcea.org/ladder-of-inference/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.tcea.org">[blog.tcea.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.tcea.org</span><span class="citation-popover-title">ladder of inference</span><span class="citation-popover-snippet">Cognitive Bias with the Ladder of Inference26 Mar 2024 — The Ladder of Inference, developed by organizational psychologist Chris Argyris...</span></span></span>
 5. Draw conclusions.
-6. Form beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sourcesofinsight.com/ladder-of-inference/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcesofinsight.com">[sourcesofinsight.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcesofinsight.com</span><span class="citation-popover-snippet">heir beliefs based on their observations and experiences.Read more...</span></span></span>
+6. Form beliefs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sourcesofinsight.com/ladder-of-inference/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcesofinsight.com">[sourcesofinsight.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcesofinsight.com</span><span class="citation-popover-snippet">heir beliefs based on their observations and experiences.Read more...</span></span></span>
 7. Act on those beliefs.
 
 </div>
 
-The critical point is that most of these steps happen automatically. By the time someone reaches a conclusion, they may no longer remember which parts were directly observed and which parts were inferred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gould.usc.edu/news/understanding-the-ladder-of-inference-navigating-cognitive-pitfalls/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gould.usc.edu">[USC Gould School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gould.usc.edu</span><span class="citation-popover-snippet">USC Gould School of LawUnderstanding the Ladder of Inference: Navigating...28 Nov 2023 — The ladder of inference illustrates the mental...</span></span></span>
+The critical point is that most of these steps happen automatically. By the time someone reaches a conclusion, they may no longer remember which parts were directly observed and which parts were inferred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gould.usc.edu/news/understanding-the-ladder-of-inference-navigating-cognitive-pitfalls/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gould.usc.edu">[USC Gould School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gould.usc.edu</span><span class="citation-popover-snippet">USC Gould School of LawUnderstanding the Ladder of Inference: Navigating...28 Nov 2023 — The ladder of inference illustrates the mental...</span></span></span>
 
 This explains why disagreements often persist even when people believe they are arguing about "the facts". Frequently they are working from the same observations but different interpretations.
 
@@ -338,7 +338,7 @@ By contrast, these are interpretations:
 
 Those interpretations may eventually prove correct, but they are hypotheses rather than observations. Treating them as established facts reduces the chance of testing alternative explanations.
 
-This distinction resembles good scientific reasoning, where observations are separated from hypotheses so that explanations can be challenged rather than assumed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+This distinction resembles good scientific reasoning, where observations are separated from hypotheses so that explanations can be challenged rather than assumed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cJt5Hzas1wc" title="&quot;An Introduction to Critical Thinking&quot; (Chapter 3): Focus on Conditionals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cJt5Hzas1wc" target="_blank" rel="noopener noreferrer">&quot;An Introduction to Critical Thinking&quot; (Chapter 3): Focus on Conditionals</a></p><p class="youtube-embed-meta">Channel: Symbolic Logic and Argumentation Skills (Critical Thinking)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cJt5Hzas1wc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cJt5Hzas1wc">Open on YouTube</a></p></div></div></div>
@@ -359,11 +359,11 @@ Once observations are stated clearly, multiple explanations become easier to com
 
 Separating observations from interpretations interrupts several well-known cognitive biases.
 
-**Confirmation bias.** Once an interpretation forms, people naturally notice evidence that supports it while overlooking contradictory information. Keeping observations separate makes it easier to ask, "What evidence would change my mind?" <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ODI: Think change]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 306 — The author reviewed the research on...</span></span></span>
+**Confirmation bias.** Once an interpretation forms, people naturally notice evidence that supports it while overlooking contradictory information. Keeping observations separate makes it easier to ask, "What evidence would change my mind?"<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ODI: Think change]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 306 — The author reviewed the research on...</span></span></span>
 
-**Premature closure.** Decision-makers often stop searching once an explanation appears plausible. Explicitly distinguishing facts from interpretations keeps alternative explanations alive for longer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+**Premature closure.** Decision-makers often stop searching once an explanation appears plausible. Explicitly distinguishing facts from interpretations keeps alternative explanations alive for longer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-**Overconfidence.** People frequently become more certain than the evidence justifies because they mistake coherent stories for established facts. Separating the two naturally reduces unwarranted confidence and improves calibration between confidence and evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 306 — The author reviewed the research on...</span></span></span>
+**Overconfidence.** People frequently become more certain than the evidence justifies because they mistake coherent stories for established facts. Separating the two naturally reduces unwarranted confidence and improves calibration between confidence and evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 306 — The author reviewed the research on...</span></span></span>
 
 These improvements do not require abandoning intuition altogether. Instead, they encourage treating intuition as a source of hypotheses that still need testing.
 
@@ -473,178 +473,178 @@ This format does not eliminate [uncertainty]({{ 'uncertainty/' | relative_url }}
 Within metacognitive practice, this habit is valuable because it exposes assumptions before they become invisible. The goal is not to suppress interpretation—interpretation is essential for understanding—but to ensure that explanations remain open to revision as new evidence appears. That small distinction between "this happened" and "this is what I think it means" is often where analytical thinking becomes noticeably more accurate.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is That a Fact or a Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is That a Fact or a Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Focuses on separating evidence from belief and updating conclusions based on facts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on separating evidence from belief and updating conclusions based on facts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why people confuse observations with interpretations and how cognitive biases shape conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people confuse observations with interpretations and how cognitive biases shape conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fifth Discipline on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6D-NEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fifth Discipline" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fifth Discipline">The Fifth Discipline</a>
-        </h4>
-        <p class="fr-book-author">By Peter M. Senge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fifth Discipline on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6D-NEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fifth Discipline" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fifth Discipline">The Fifth Discipline</a>
+</h4>
+<p class="fr-book-author">By Peter M. Senge</p>
         
-        <p class="fr-book-desc">Introduces the Ladder of Inference and practical methods for distinguishing observable data from assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces the Ladder of Inference and practical methods for distinguishing observable data from assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fifth+Discipline+by+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Shows how people justify interpretations and defend beliefs despite contrary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how people justify interpretations and defend beliefs despite contrary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fifth+Discipline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fifth Discipline</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fifth+Discipline&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fifth Discipline</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE ALL TRUE FACT CRIME CASES COVER A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/MO8AAeSwL75pQBRZ/s-l225.jpg" alt="Listing image for VINTAGE ALL TRUE FACT CRIME CASES COVER A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">VINTAGE ALL TRUE FACT CRIME CASES COVER A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE ALL TRUE FACT CRIME CASES COVER A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/MO8AAeSwL75pQBRZ/s-l225.jpg" alt="Listing image for VINTAGE ALL TRUE FACT CRIME CASES COVER A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">VINTAGE ALL TRUE FACT CRIME CASES COVER A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ELECTRONIC - Fact 290 Factory Records - Magazine Poster Size Press Advert 1991"><img src="https://i.ebayimg.com/images/g/~6oAAeSwiPtpd3pb/s-l225.jpg" alt="Listing image for ELECTRONIC - Fact 290 Factory Records - Magazine Poster Size Press Advert 1991" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">ELECTRONIC - Fact 290 Factory Records - Magazine Poster Size Press Advert 1991</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ELECTRONIC - Fact 290 Factory Records - Magazine Poster Size Press Advert 1991"><img src="https://i.ebayimg.com/images/g/~6oAAeSwiPtpd3pb/s-l225.jpg" alt="Listing image for ELECTRONIC - Fact 290 Factory Records - Magazine Poster Size Press Advert 1991" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">ELECTRONIC - Fact 290 Factory Records - Magazine Poster Size Press Advert 1991</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fact Advertising Works Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/GuAAAeSwur5p2SS5/s-l225.jpg" alt="Listing image for Fact Advertising Works Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Fact Advertising Works Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fact Advertising Works Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/GuAAAeSwur5p2SS5/s-l225.jpg" alt="Listing image for Fact Advertising Works Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Fact Advertising Works Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: fact poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-that-a-fact-or-a-story-fact-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact poster -book -books -dvd" data-ebay-reference="is-that-a-fact-or-a-story-fact-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -660,7 +660,7 @@ Within metacognitive practice, this habit is valuable because it exposes assumpt
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -680,7 +680,7 @@ Within metacognitive practice, this habit is valuable because it exposes assumpt
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -712,7 +712,7 @@ Within metacognitive practice, this habit is valuable because it exposes assumpt
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -764,7 +764,7 @@ Within metacognitive practice, this habit is valuable because it exposes assumpt
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -809,7 +809,7 @@ Within metacognitive practice, this habit is valuable because it exposes assumpt
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -849,90 +849,90 @@ Within metacognitive practice, this habit is valuable because it exposes assumpt
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 306 — The author reviewed the research on...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 306 — The author reviewed the research on...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Metacognition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Metacognition</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Metacognition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Metacognition</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gould.usc.edu  
-   Link: <a href="https://gould.usc.edu/news/understanding-the-ladder-of-inference-navigating-cognitive-pitfalls/" target="_blank" rel="noopener noreferrer nofollow">https://gould.usc.edu/news/understanding-the-ladder-of-inference-navigating-cognitive-pitfalls/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USC Gould School of LawUnderstanding the Ladder of Inference: Navigating...28 Nov 2023 — The ladder of inference illustrates the mental...</p></details>
+   Link:<a href="https://gould.usc.edu/news/understanding-the-ladder-of-inference-navigating-cognitive-pitfalls/" target="_blank" rel="noopener noreferrer nofollow">https://gould.usc.edu/news/understanding-the-ladder-of-inference-navigating-cognitive-pitfalls/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USC Gould School of LawUnderstanding the Ladder of Inference: Navigating...28 Nov 2023 — The ladder of inference illustrates the mental...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Observation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Observation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Observation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Observation</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: odi.org  
-   Link: <a href="https://odi.org/en/insights/how-cognitive-biases-affect-monitoring-evaluation-and-learning-and-what-can-be-done-about-it/" target="_blank" rel="noopener noreferrer nofollow">https://odi.org/en/insights/how-cognitive-biases-affect-monitoring-evaluation-and-learning-and-what-can-be-done-about-it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How cognitive biases affect monitoring, evaluation and...4 Mar 2020 — Cognitive biases affect everyone. Putting structures in place can...</p></details>
+   Link:<a href="https://odi.org/en/insights/how-cognitive-biases-affect-monitoring-evaluation-and-learning-and-what-can-be-done-about-it/" target="_blank" rel="noopener noreferrer nofollow">https://odi.org/en/insights/how-cognitive-biases-affect-monitoring-evaluation-and-learning-and-what-can-be-done-about-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How cognitive biases affect monitoring, evaluation and...4 Mar 2020 — Cognitive biases affect everyone. Putting structures in place can...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Decision-making</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Decision-making</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: asana.com  
    Title: ladder of inference  
-   Link: <a href="https://asana.com/resources/ladder-of-inference" target="_blank" rel="noopener noreferrer nofollow">https://asana.com/resources/ladder-of-inference</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to use the ladder of inference for better decisions14 Mar 2026 — The ladder of inference is a mental model developed by Chris Argyris...</p></details>
+   Link:<a href="https://asana.com/resources/ladder-of-inference" target="_blank" rel="noopener noreferrer nofollow">https://asana.com/resources/ladder-of-inference</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to use the ladder of inference for better decisions14 Mar 2026 — The ladder of inference is a mental model developed by Chris Argyris...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blog.tcea.org  
    Title: ladder of inference  
-   Link: <a href="https://blog.tcea.org/ladder-of-inference/" target="_blank" rel="noopener noreferrer nofollow">https://blog.tcea.org/ladder-of-inference/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Bias with the Ladder of Inference26 Mar 2024 — The Ladder of Inference, developed by organizational psychologist Chris Argyris...</p></details>
+   Link:<a href="https://blog.tcea.org/ladder-of-inference/" target="_blank" rel="noopener noreferrer nofollow">https://blog.tcea.org/ladder-of-inference/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Bias with the Ladder of Inference26 Mar 2024 — The Ladder of Inference, developed by organizational psychologist Chris Argyris...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tempo.io  
-   Link: <a href="https://www.tempo.io/blog/ladder-of-inference" target="_blank" rel="noopener noreferrer nofollow">https://www.tempo.io/blog/ladder-of-inference</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ladder of inference: How thoughts shape decisionsIt&#x27;s called the ladder of inference, a concept that explains how people turn a simpl...</p></details>
+   Link:<a href="https://www.tempo.io/blog/ladder-of-inference" target="_blank" rel="noopener noreferrer nofollow">https://www.tempo.io/blog/ladder-of-inference</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ladder of inference: How thoughts shape decisionsIt&#x27;s called the ladder of inference, a concept that explains how people turn a simpl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: manchesterdigital.com  
-   Link: <a href="https://www.manchesterdigital.com/post/bridcon-business-and-management-consulting/the-ladder-of-inference-a-useful-model-used-in-the-decision-making-process" target="_blank" rel="noopener noreferrer nofollow">https://www.manchesterdigital.com/post/bridcon-business-and-management-consulting/the-ladder-of-inference-a-useful-model-used-in-the-decision-making-process</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ble insights into the way our minds work and how we make decisions.Read more...</p></details>
+   Link:<a href="https://www.manchesterdigital.com/post/bridcon-business-and-management-consulting/the-ladder-of-inference-a-useful-model-used-in-the-decision-making-process" target="_blank" rel="noopener noreferrer nofollow">https://www.manchesterdigital.com/post/bridcon-business-and-management-consulting/the-ladder-of-inference-a-useful-model-used-in-the-decision-making-process</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ble insights into the way our minds work and how we make decisions.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sourcesofinsight.com  
-   Link: <a href="https://sourcesofinsight.com/ladder-of-inference/" target="_blank" rel="noopener noreferrer nofollow">https://sourcesofinsight.com/ladder-of-inference/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>heir beliefs based on their observations and experiences.Read more...</p></details>
+   Link:<a href="https://sourcesofinsight.com/ladder-of-inference/" target="_blank" rel="noopener noreferrer nofollow">https://sourcesofinsight.com/ladder-of-inference/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>heir beliefs based on their observations and experiences.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jmla.pitt.edu  
-   Link: <a href="https://jmla.pitt.edu/ojs/jmla/article/view/2209" target="_blank" rel="noopener noreferrer nofollow">https://jmla.pitt.edu/ojs/jmla/article/view/2209</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>biases as interrupters in evidence based practice...by JD Eldredge · 2025 — Discussion: This study identified commonly observed cognitiv...</p></details>
+   Link:<a href="https://jmla.pitt.edu/ojs/jmla/article/view/2209" target="_blank" rel="noopener noreferrer nofollow">https://jmla.pitt.edu/ojs/jmla/article/view/2209</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>biases as interrupters in evidence based practice...by JD Eldredge · 2025 — Discussion: This study identified commonly observed cognitiv...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cJt5Hzas1wc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cJt5Hzas1wc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PHILOSOPHY - Language: Conditionals #1 [HD]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cJt5Hzas1wc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cJt5Hzas1wc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PHILOSOPHY - Language: Conditionals #1 [HD]...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: conditional reasoning  
-   Link: <a href="https://www.youtube.com/watch?v=q2Ur9cDet8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q2Ur9cDet8E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Think About Thinking — The Metacognition Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q2Ur9cDet8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q2Ur9cDet8E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Think About Thinking — The Metacognition Explained...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: How to Think About Thinking — The Metacognition Explained  
-   Link: <a href="https://www.youtube.com/watch?v=tn2jyKgwHMg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tn2jyKgwHMg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analytical Skills Everyone Should Know...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tn2jyKgwHMg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tn2jyKgwHMg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analytical Skills Everyone Should Know...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4Zxp2-_pLCE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Zxp2-_pLCE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>conditional reasoning...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4Zxp2-_pLCE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Zxp2-_pLCE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>conditional reasoning...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Analytical Skills Everyone Should Know  
-   Link: <a href="https://www.youtube.com/watch?v=mRsiPFJG2u4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mRsiPFJG2u4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=mRsiPFJG2u4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mRsiPFJG2u4</a>  

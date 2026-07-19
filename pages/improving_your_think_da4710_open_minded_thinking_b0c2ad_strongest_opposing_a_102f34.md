@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_st
 
 ## Introduction
 
-A disagreement is only a useful test of your thinking if it challenges your best reasoning rather than your weakest assumptions. That is the idea behind *steelmanning*: deliberately reconstructing the strongest defensible version of an opposing position before deciding whether it succeeds or fails. Instead of defeating an easy target, you ask whether your own view could withstand the most persuasive case available on the other side. This approach is a practical form of actively [open-minded thinking]({{ 'open-mind/' | relative_url }}) because it reduces the risk of mistaking rhetorical victory for intellectual accuracy. Research on confirmation bias and attitude polarisation suggests that people naturally discount opposing evidence while accepting supporting evidence too readily, making this kind of deliberate correction especially valuable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Biased assimilation and attitude polarization: The effects of...November 1, 1979 — People who hold strong opinions on comple...</span><span class="citation-popover-meta">Published: November 1, 1979</span></span></span>
+A disagreement is only a useful test of your thinking if it challenges your best reasoning rather than your weakest assumptions. That is the idea behind *steelmanning*: deliberately reconstructing the strongest defensible version of an opposing position before deciding whether it succeeds or fails. Instead of defeating an easy target, you ask whether your own view could withstand the most persuasive case available on the other side. This approach is a practical form of actively [open-minded thinking]({{ 'open-mind/' | relative_url }}) because it reduces the risk of mistaking rhetorical victory for intellectual accuracy. Research on confirmation bias and attitude polarisation suggests that people naturally discount opposing evidence while accepting supporting evidence too readily, making this kind of deliberate correction especially valuable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Biased assimilation and attitude polarization: The effects of...November 1, 1979 — People who hold strong opinions on comple...</span><span class="citation-popover-meta">Published: November 1, 1979</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_strongest_opposing_a_102f34-Illustration-1-dark.svg" | relative_url }}" alt="Steelmanning illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_strongest_opposing_a_102f34-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_strongest_opposing_a_102f34-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ A disagreement is only a useful test of your thinking if it challenges your best
 
 Most disagreements do not fail because one side has no arguments. They fail because participants answer a simplified or distorted version of the other position.
 
-A weak objection creates the comforting illusion that a conclusion has been tested when, in reality, only a caricature has been defeated. This is the classic *straw man* problem: replacing a difficult argument with an easier one. The opposite discipline is to interpret another person's reasoning in its strongest coherent form, an idea closely related to the philosophical principle of charity. Rather than assuming confusion or irrationality wherever possible, charitable interpretation asks whether the argument can be understood in a more rational and internally consistent way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Principle_of_charity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Principle of charity</span><span class="citation-popover-snippet">Principle of charity</span></span></span>
+A weak objection creates the comforting illusion that a conclusion has been tested when, in reality, only a caricature has been defeated. This is the classic *straw man* problem: replacing a difficult argument with an easier one. The opposite discipline is to interpret another person's reasoning in its strongest coherent form, an idea closely related to the philosophical principle of charity. Rather than assuming confusion or irrationality wherever possible, charitable interpretation asks whether the argument can be understood in a more rational and internally consistent way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Principle_of_charity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Principle of charity</span><span class="citation-popover-snippet">Principle of charity</span></span></span>
 
-This matters because people rarely judge evidence symmetrically. The influential study by Lord, Ross and Lepper found that supporters and opponents of capital punishment both became more confident after reviewing the same mixed evidence. Participants accepted evidence favouring their existing beliefs more readily while scrutinising contrary evidence much more critically. In other words, both sides believed they had "won" because they evaluated the evidence through different standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Biased assimilation and attitude polarization: The effects of...November 1, 1979 — People who hold strong opinions on comple...</span><span class="citation-popover-meta">Published: November 1, 1979</span></span></span>
+This matters because people rarely judge evidence symmetrically. The influential study by Lord, Ross and Lepper found that supporters and opponents of capital punishment both became more confident after reviewing the same mixed evidence. Participants accepted evidence favouring their existing beliefs more readily while scrutinising contrary evidence much more critically. In other words, both sides believed they had "won" because they evaluated the evidence through different standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Biased assimilation and attitude polarization: The effects of...November 1, 1979 — People who hold strong opinions on comple...</span><span class="citation-popover-meta">Published: November 1, 1979</span></span></span>
 
 Testing only weak objections therefore creates two dangers:
 
@@ -320,7 +320,7 @@ A practical sequence is:
 
 </div>
 
-This resembles philosopher Daniel Dennett's adaptation of Anatol Rapoport's discussion rules. Before offering criticism, you should first restate your opponent's position so accurately that they would agree with your summary, acknowledge genuine points of agreement and identify anything valuable you learned from their argument. Only then should criticism begin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rogerian_argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rogerian argument</span><span class="citation-popover-snippet">Rogerian argument</span></span></span>
+This resembles philosopher Daniel Dennett's adaptation of Anatol Rapoport's discussion rules. Before offering criticism, you should first restate your opponent's position so accurately that they would agree with your summary, acknowledge genuine points of agreement and identify anything valuable you learned from their argument. Only then should criticism begin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rogerian_argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rogerian argument</span><span class="citation-popover-snippet">Rogerian argument</span></span></span>
 
 The goal is not politeness for its own sake. It is improving the quality of the disagreement by ensuring that criticism is directed at the real argument.
 
@@ -347,7 +347,7 @@ Sometimes the outcome is not that your position changes completely. Instead, the
 
 The purpose of steelmanning is calibration rather than automatic belief revision.
 
-If your position survives the strongest available counterargument with its central evidence addressed and its main assumptions defended, increased confidence is justified because it reflects a more demanding test. By contrast, if the strongest opposing case exposes an unsupported assumption, unresolved contradiction or overlooked evidence, confidence should decrease—even if your overall conclusion remains unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Biased assimilation and attitude polarization: The effects of...November 1, 1979 — People who hold strong opinions on comple...</span><span class="citation-popover-meta">Published: November 1, 1979</span></span></span>
+If your position survives the strongest available counterargument with its central evidence addressed and its main assumptions defended, increased confidence is justified because it reflects a more demanding test. By contrast, if the strongest opposing case exposes an unsupported assumption, unresolved contradiction or overlooked evidence, confidence should decrease—even if your overall conclusion remains unchanged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Biased assimilation and attitude polarization: The effects of...November 1, 1979 — People who hold strong opinions on comple...</span><span class="citation-popover-meta">Published: November 1, 1979</span></span></span>
 
 Importantly, confidence should move gradually rather than absolutely. Few important questions end with complete certainty. Instead, the disagreement provides information about how robust your reasoning really is.
 
@@ -377,194 +377,194 @@ The value of steelmanning lies not in making disagreement disappear but in makin
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Your View Survive the Strongest Objection?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Your View Survive the Strongest Objection?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Directly addresses revising opinions, questioning assumptions, and actively engaging with opposing views.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses revising opinions, questioning assumptions, and actively engaging with opposing views.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains self-justification and confirmation bias that make strong objections difficult to accept.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains self-justification and confirmation bias that make strong objections difficult to accept.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Shows how updating beliefs, weighing competing evidence, and probabilistic reasoning improve decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how updating beliefs, weighing competing evidence, and probabilistic reasoning improve decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Wrong+by+Kathryn+Schulz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Wrong on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J4h31e_i01IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Wrong" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Wrong+by+Kathryn+Schulz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Wrong">Being Wrong</a>
-        </h4>
-        <p class="fr-book-author">By Kathryn Schulz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Wrong+by+Kathryn+Schulz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Wrong on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J4h31e_i01IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Wrong" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Wrong+by+Kathryn+Schulz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Wrong">Being Wrong</a>
+</h4>
+<p class="fr-book-author">By Kathryn Schulz</p>
         
-        <p class="fr-book-desc">Explores why people resist recognizing errors and how embracing uncertainty improves judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Wrong+by+Kathryn+Schulz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why people resist recognizing errors and how embracing uncertainty improves judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Wrong+by+Kathryn+Schulz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Debate Cards for Family Fun &amp; Skill Building - 52 Question Game"><img src="https://i.ebayimg.com/images/g/MiwAAeSwY8FqHkzz/s-l225.jpg" alt="Listing image for Educational Debate Cards for Family Fun &amp; Skill Building - 52 Question Game" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Educational Debate Cards for Family Fun &amp; Skill Building - 52 Question Game</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Debate Cards for Family Fun &amp; Skill Building - 52 Question Game"><img src="https://i.ebayimg.com/images/g/MiwAAeSwY8FqHkzz/s-l225.jpg" alt="Listing image for Educational Debate Cards for Family Fun &amp; Skill Building - 52 Question Game" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Educational Debate Cards for Family Fun &amp; Skill Building - 52 Question Game</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Great Debate Multiplayer Card Game"><img src="https://i.ebayimg.com/images/g/g0wAAeSwziRqIefT/s-l225.jpg" alt="Listing image for The Great Debate Multiplayer Card Game" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">The Great Debate Multiplayer Card Game</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Great Debate Multiplayer Card Game"><img src="https://i.ebayimg.com/images/g/g0wAAeSwziRqIefT/s-l225.jpg" alt="Listing image for The Great Debate Multiplayer Card Game" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">The Great Debate Multiplayer Card Game</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UP FOR DEBATE Wacky Debates CARD GAME"><img src="https://i.ebayimg.com/images/g/8DAAAeSwFK5ppcGT/s-l225.jpg" alt="Listing image for UP FOR DEBATE Wacky Debates CARD GAME" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">UP FOR DEBATE Wacky Debates CARD GAME</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UP FOR DEBATE Wacky Debates CARD GAME"><img src="https://i.ebayimg.com/images/g/8DAAAeSwFK5ppcGT/s-l225.jpg" alt="Listing image for UP FOR DEBATE Wacky Debates CARD GAME" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">UP FOR DEBATE Wacky Debates CARD GAME</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meta Game - The Video Game Debate Card Game - Complete / VGC"><img src="https://i.ebayimg.com/images/g/Ct4AAOSwo6BmH-vr/s-l225.jpg" alt="Listing image for Meta Game - The Video Game Debate Card Game - Complete / VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Meta Game - The Video Game Debate Card Game - Complete / VGC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meta Game - The Video Game Debate Card Game - Complete / VGC"><img src="https://i.ebayimg.com/images/g/Ct4AAOSwo6BmH-vr/s-l225.jpg" alt="Listing image for Meta Game - The Video Game Debate Card Game - Complete / VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Meta Game - The Video Game Debate Card Game - Complete / VGC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-view-survive-the-strongest-objection-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="can-your-view-survive-the-strongest-objection-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ The value of steelmanning lies not in making disagreement disappear but in makin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ The value of steelmanning lies not in making disagreement disappear but in makin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ The value of steelmanning lies not in making disagreement disappear but in makin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ The value of steelmanning lies not in making disagreement disappear but in makin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ The value of steelmanning lies not in making disagreement disappear but in makin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,60 +769,60 @@ The value of steelmanning lies not in making disagreement disappear but in makin
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Biased assimilation and attitude polarization: The effects of...November 1, 1979 — People who hold strong opinions on comple...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biased assimilation and attitude polarization: The effects of...November 1, 1979 — People who hold strong opinions on comple...</p></details>
    Published: November 1, 1979  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Principle of charity  
-   Link: <a href="https://en.wikipedia.org/wiki/Principle_of_charity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Principle_of_charity</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Principle_of_charity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Principle_of_charity</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Rogerian argument  
-   Link: <a href="https://en.wikipedia.org/wiki/Rogerian_argument" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rogerian_argument</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rogerian_argument" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rogerian_argument</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: The Principle of Charity: The Cure for the Straw Man Fallacy  
-   Link: <a href="https://www.youtube.com/watch?v=mJdqTInAEQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mJdqTInAEQs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Principle of Charity | Giving Reasons Ch 6...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mJdqTInAEQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mJdqTInAEQs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Principle of Charity | Giving Reasons Ch 6...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Principle of Charity | Giving Reasons Ch 6  
-   Link: <a href="https://www.youtube.com/watch?v=AOBEOsUuFBQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AOBEOsUuFBQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Steelman Argument?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AOBEOsUuFBQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AOBEOsUuFBQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Steelman Argument?...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/our-tribal-future-how-to-channel-our-foundational-human-instincts-into-a-force-for-good-9781250272256-9781250272249-1250272254.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/our-tribal-future-how-to-channel-our-foundational-human-instincts-into-a-force-for-good-9781250272256-9781250272249-1250272254.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Tribal FutureAt their core, moral compunctions relate to how people interact with others, especially those who are not kin and for wh...</p></details>
+   Link:<a href="https://dokumen.pub/download/our-tribal-future-how-to-channel-our-foundational-human-instincts-into-a-force-for-good-9781250272256-9781250272249-1250272254.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/our-tribal-future-how-to-channel-our-foundational-human-instincts-into-a-force-for-good-9781250272256-9781250272249-1250272254.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our Tribal FutureAt their core, moral compunctions relate to how people interact with others, especially those who are not kin and for wh...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thinkandsavetheworld.com  
    Title: Tolerance for [uncertainty](&#123;&#123; 'uncertainty/' | relative_url &#125;&#125;). Steelmanning  
-   Link: <a href="https://www.thinkandsavetheworld.com/law/law-2/steelmanning-making-the-best-version-of-an-opposing-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkandsavetheworld.com/law/law-2/steelmanning-making-the-best-version-of-an-opposing-argument</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steelmanning — making the best version of an opposing...Steelmanning requires developing a different relationship to disagreement—where...</p></details>
+   Link:<a href="https://www.thinkandsavetheworld.com/law/law-2/steelmanning-making-the-best-version-of-an-opposing-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkandsavetheworld.com/law/law-2/steelmanning-making-the-best-version-of-an-opposing-argument</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steelmanning — making the best version of an opposing...Steelmanning requires developing a different relationship to disagreement—where...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Steel Man Arguments: How to Debate with Respect and Build Better Ideas  
-   Link: <a href="https://www.youtube.com/watch?v=2ElaykG0dUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ElaykG0dUg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Steel Man An Opposing Argument (feat. Sam Harris and Jordan Peterson)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2ElaykG0dUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ElaykG0dUg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Steel Man An Opposing Argument (feat. Sam Harris and Jordan Peterson)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: What is a Steelman Argument?  
-   Link: <a href="https://www.youtube.com/watch?v=9T68ntT7eTM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9T68ntT7eTM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steel Man Arguments: How to Debate with Respect and Build Better Ideas...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9T68ntT7eTM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9T68ntT7eTM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steel Man Arguments: How to Debate with Respect and Build Better Ideas...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: How To Steel Man An Opposing Argument (feat. Sam Harris and Jordan Peterson)  
-   Link: <a href="https://www.youtube.com/watch?v=Uh-DKbKlfag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Uh-DKbKlfag</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Uh-DKbKlfag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Uh-DKbKlfag</a>  

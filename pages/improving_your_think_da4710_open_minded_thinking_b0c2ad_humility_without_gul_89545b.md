@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_hu
 
 ## Introduction
 
-Intellectual humility is the ability to recognise that your beliefs could be mistaken without treating every alternative as equally plausible. In real disagreements, this balance matters because two opposite failures are common. One is arrogance: refusing to revise a view regardless of the evidence. The other is gullibility: lowering your standards so far that rumours, confident assertions and well-supported evidence all receive similar respect. The strongest form of [open-minded thinking]({{ 'open-mind/' | relative_url }}) avoids both errors. It keeps beliefs proportionate to the quality of the evidence, remains willing to change when justified, and resists changing merely because someone disagrees. Research increasingly suggests that intellectual humility supports better judgement, greater scrutiny of misinformation and more constructive disagreement, provided it is paired with disciplined standards rather than indiscriminate doubt. Greater Good Science Center+2BPS Psych Hub <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ggsc.berkeley.edu/what_we_do/major_initiatives/intellectual_humility/introduction_intellectual_humility_research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ggsc.berkeley.edu">[ggsc.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ggsc.berkeley.edu</span><span class="citation-popover-snippet">· Education/Learning · Political Dialogue and Polarization · Religion · Susceptibility to Misinformation.Read more...</span></span></span>
+Intellectual humility is the ability to recognise that your beliefs could be mistaken without treating every alternative as equally plausible. In real disagreements, this balance matters because two opposite failures are common. One is arrogance: refusing to revise a view regardless of the evidence. The other is gullibility: lowering your standards so far that rumours, confident assertions and well-supported evidence all receive similar respect. The strongest form of [open-minded thinking]({{ 'open-mind/' | relative_url }}) avoids both errors. It keeps beliefs proportionate to the quality of the evidence, remains willing to change when justified, and resists changing merely because someone disagrees. Research increasingly suggests that intellectual humility supports better judgement, greater scrutiny of misinformation and more constructive disagreement, provided it is paired with disciplined standards rather than indiscriminate doubt. Greater Good Science Center+2BPS Psych Hub<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ggsc.berkeley.edu/what_we_do/major_initiatives/intellectual_humility/introduction_intellectual_humility_research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ggsc.berkeley.edu">[ggsc.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ggsc.berkeley.edu</span><span class="citation-popover-snippet">· Education/Learning · Political Dialogue and Polarization · Religion · Susceptibility to Misinformation.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_humility_without_gul_89545b-Illustration-1-dark.svg" | relative_url }}" alt="Humble Standards illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_humility_without_gul_89545b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_humility_without_gul_89545b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Intellectual humility is the ability to recognise that your beliefs could be mis
 
 People sometimes misunderstand intellectual humility as thinking, "I might be wrong, therefore I should not trust my own judgement." That is not what researchers describe.
 
-Instead, intellectual humility is a form of metacognitive awareness: recognising the limits of your knowledge while continuing to evaluate evidence carefully. It involves distinguishing confidence from certainty. You may hold a belief confidently because the evidence is strong while still recognising that future evidence could justify revision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.templeton.org/discoveries/intellectual-humility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: templeton.org">[John Templeton Foundation+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">templeton.org</span><span class="citation-popover-snippet">John Templeton FoundationIntellectual HumilityIntellectual humility is a mindset that guides our intellectual conduct. In particular, it...</span></span></span>
+Instead, intellectual humility is a form of metacognitive awareness: recognising the limits of your knowledge while continuing to evaluate evidence carefully. It involves distinguishing confidence from certainty. You may hold a belief confidently because the evidence is strong while still recognising that future evidence could justify revision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.templeton.org/discoveries/intellectual-humility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: templeton.org">[John Templeton Foundation+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">templeton.org</span><span class="citation-popover-snippet">John Templeton FoundationIntellectual HumilityIntellectual humility is a mindset that guides our intellectual conduct. In particular, it...</span></span></span>
 
 This distinction matters because confidence and humility are not opposites. Someone can confidently explain why they believe a medicine works, a bridge is safe, or a scientific theory is well supported while also acknowledging what evidence would make them reconsider. By contrast, someone who refuses to specify what could change their mind is displaying rigidity rather than confidence.
 
@@ -300,7 +300,7 @@ A genuine disagreement is not a contest that always ends with one side changing 
 
 **You revise your belief.** New evidence, stronger reasoning or overlooked facts reveal weaknesses in your previous position. This is the ideal outcome when revision is warranted.
 
-**You strengthen your existing belief.** After seriously examining objections, you conclude that your original view still best explains the available evidence. Importantly, this is not stubbornness if the opposing arguments were considered fairly rather than dismissed automatically. Philosophical work on disagreement argues that intellectual humility is compatible with remaining unconvinced after honest reflection when your evidence genuinely remains stronger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11229-018-02024-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Intellectual humility and the epistemology of disagreementby D Pritchard · 2021 · Cited by 45 — In being willing to reflect on on...</span></span></span>
+**You strengthen your existing belief.** After seriously examining objections, you conclude that your original view still best explains the available evidence. Importantly, this is not stubbornness if the opposing arguments were considered fairly rather than dismissed automatically. Philosophical work on disagreement argues that intellectual humility is compatible with remaining unconvinced after honest reflection when your evidence genuinely remains stronger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11229-018-02024-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Intellectual humility and the epistemology of disagreementby D Pritchard · 2021 · Cited by 45 — In being willing to reflect on on...</span></span></span>
 
 **You suspend judgement.** Sometimes neither side has sufficient evidence. Admitting "I don't yet know" is often the most intellectually responsible conclusion. Delaying commitment avoids both premature certainty and premature concession.
 
@@ -334,7 +334,7 @@ These standards function as governance rules for reasoning. Rather than deciding
 
 A common fear is that admitting [uncertainty]({{ 'uncertainty/' | relative_url }}) makes people easier to deceive. Recent research generally points in the opposite direction.
 
-People scoring higher on measures of intellectual humility tend to examine questionable claims more carefully, seek corroborating information and show lower susceptibility to fake news, conspiracy theories and some forms of misinformation. Importantly, these effects appear to reflect improved discrimination between reliable and unreliable claims rather than a blanket tendency to reject everything. In other words, intellectually humble individuals become better at telling true information from false information instead of simply becoming more sceptical overall. Open Encyclopedia of Cognitive Science+3Advances.in+3Greater Good Science Center <span class="citation-link-wrap"><a class="citation-inline-link" href="https://advances.in/psychology/10.56296/aip00025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">However, a key aspect of...Read more...</span></span></span>
+People scoring higher on measures of intellectual humility tend to examine questionable claims more carefully, seek corroborating information and show lower susceptibility to fake news, conspiracy theories and some forms of misinformation. Importantly, these effects appear to reflect improved discrimination between reliable and unreliable claims rather than a blanket tendency to reject everything. In other words, intellectually humble individuals become better at telling true information from false information instead of simply becoming more sceptical overall. Open Encyclopedia of Cognitive Science+3Advances.in+3Greater Good Science Center<span class="citation-link-wrap"><a class="citation-inline-link" href="https://advances.in/psychology/10.56296/aip00025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">However, a key aspect of...Read more...</span></span></span>
 
 One proposed explanation is straightforward. Recognising that you may be mistaken creates a reason to verify claims before accepting them. Instead of assuming either "I'm obviously right" or "everyone's opinion is equally valid", intellectually humble people are more likely to ask whether the evidence actually supports the claim.
 
@@ -342,7 +342,7 @@ One proposed explanation is straightforward. Recognising that you may be mistake
 
 Although humility is generally beneficial, recent philosophical work highlights an important qualification: too much humility can become counterproductive.
 
-If people systematically reduce confidence even in beliefs supported by overwhelming evidence, they may become vulnerable to manufactured doubt. Someone who repeatedly treats expert consensus and unsupported speculation as equally deserving of reconsideration can end up less accurate rather than more open-minded. Experimental evidence suggests that inducing excessive humility may sometimes lower confidence in justified beliefs more than warranted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10541816/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCToo humble for words</span><span class="citation-popover-snippet">by N Levy · 2023 · Cited by 18 — In this paper, I argue that an excess of humility also plays a role in allowing for the spread of mis...</span></span></span>
+If people systematically reduce confidence even in beliefs supported by overwhelming evidence, they may become vulnerable to manufactured doubt. Someone who repeatedly treats expert consensus and unsupported speculation as equally deserving of reconsideration can end up less accurate rather than more open-minded. Experimental evidence suggests that inducing excessive humility may sometimes lower confidence in justified beliefs more than warranted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10541816/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCToo humble for words</span><span class="citation-popover-snippet">by N Levy · 2023 · Cited by 18 — In this paper, I argue that an excess of humility also plays a role in allowing for the spread of mis...</span></span></span>
 
 This is particularly relevant in environments saturated with misinformation. Endless demands to "keep an open mind" can function rhetorically to blur distinctions between evidence-based conclusions and unsupported alternatives.
 
@@ -382,7 +382,7 @@ Useful habits include asking:
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
-* "What evidence convinced you?" <span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/knowledge-hub/psychology-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">In both academic and public discourse, several terms are used to describe false content, and their...</span></span></span>
+* "What evidence convinced you?"<span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/knowledge-hub/psychology-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">In both academic and public discourse, several terms are used to describe false content, and their...</span></span></span>
 * "What would change your mind?"
 * "Am I evaluating both sides by the same criteria?"
 * "Is there a difference between uncertainty and lack of evidence?"
@@ -398,194 +398,194 @@ The goal is not perpetual doubt. It is calibrated belief: confidence that rises 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Stay Open Without Becoming Gullible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Stay Open Without Becoming Gullible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains common reasoning errors and how to evaluate evidence without becoming overconfident or credulous.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common reasoning errors and how to evaluate evidence without becoming overconfident or credulous.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Minds+Change+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Minds Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QTDkDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Minds Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Minds+Change+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Minds Change">How Minds Change</a>
-        </h4>
-        <p class="fr-book-author">By David McRaney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Minds+Change+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Minds Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QTDkDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Minds Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Minds+Change+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Minds Change">How Minds Change</a>
+</h4>
+<p class="fr-book-author">By David McRaney</p>
         
-        <p class="fr-book-desc">Explores how people change deeply held beliefs while emphasizing curiosity, humility, and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Minds+Change+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how people change deeply held beliefs while emphasizing curiosity, humility, and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Minds+Change+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Shows why people resist changing beliefs and how intellectual humility can overcome self-justification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why people resist changing beliefs and how intellectual humility can overcome self-justification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes open inquiry while maintaining rigorous standards of evidence to avoid gullibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes open inquiry while maintaining rigorous standards of evidence to avoid gullibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Minds+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Minds Change</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Minds+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Minds Change</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x NEW POSTER BANNERS Shop Sign Window Banner Poster Reusable FOR SHOP WAREHOUS"><img src="https://i.ebayimg.com/images/g/4OUAAOSw5FlhvKeO/s-l225.jpg" alt="Listing image for 3 x NEW POSTER BANNERS Shop Sign Window Banner Poster Reusable FOR SHOP WAREHOUS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">3 x NEW POSTER BANNERS Shop Sign Window Banner Poster Reusable FOR SHOP WAREHOUS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for open poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: open poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x NEW POSTER BANNERS Shop Sign Window Banner Poster Reusable FOR SHOP WAREHOUS"><img src="https://i.ebayimg.com/images/g/4OUAAOSw5FlhvKeO/s-l225.jpg" alt="Listing image for 3 x NEW POSTER BANNERS Shop Sign Window Banner Poster Reusable FOR SHOP WAREHOUS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">3 x NEW POSTER BANNERS Shop Sign Window Banner Poster Reusable FOR SHOP WAREHOUS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for open poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: open poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 X NOW OPEN WINDOW POSTER BANNERS FOR SHOP STORE. SIZE 75CM X 25CM"><img src="https://i.ebayimg.com/images/g/GjkAAOSwUj5hyLcr/s-l225.jpg" alt="Listing image for 3 X NOW OPEN WINDOW POSTER BANNERS FOR SHOP STORE. SIZE 75CM X 25CM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">3 X NOW OPEN WINDOW POSTER BANNERS FOR SHOP STORE. SIZE 75CM X 25CM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for open poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: open poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 X NOW OPEN WINDOW POSTER BANNERS FOR SHOP STORE. SIZE 75CM X 25CM"><img src="https://i.ebayimg.com/images/g/GjkAAOSwUj5hyLcr/s-l225.jpg" alt="Listing image for 3 X NOW OPEN WINDOW POSTER BANNERS FOR SHOP STORE. SIZE 75CM X 25CM" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">3 X NOW OPEN WINDOW POSTER BANNERS FOR SHOP STORE. SIZE 75CM X 25CM</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for open poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: open poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Time Greatest Western Movie Posters Cowboy Film Cinema Wall Art Poster Print"><img src="https://i.ebayimg.com/images/g/H9gAAeSwcVJo-lAy/s-l225.jpg" alt="Listing image for All Time Greatest Western Movie Posters Cowboy Film Cinema Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">All Time Greatest Western Movie Posters Cowboy Film Cinema Wall Art Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for open poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: open poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Time Greatest Western Movie Posters Cowboy Film Cinema Wall Art Poster Print"><img src="https://i.ebayimg.com/images/g/H9gAAeSwcVJo-lAy/s-l225.jpg" alt="Listing image for All Time Greatest Western Movie Posters Cowboy Film Cinema Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">All Time Greatest Western Movie Posters Cowboy Film Cinema Wall Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for open poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: open poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CAR SEAT HEADREST BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/RE4AAOSweSVoM1tq/s-l225.jpg" alt="Listing image for CAR SEAT HEADREST BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">CAR SEAT HEADREST BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for open poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: open poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CAR SEAT HEADREST BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/RE4AAOSweSVoM1tq/s-l225.jpg" alt="Listing image for CAR SEAT HEADREST BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">CAR SEAT HEADREST BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for open poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: open poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=open+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="open poster -book -books -dvd" data-ebay-reference="how-to-stay-open-without-becoming-gullible-open-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -601,7 +601,7 @@ The goal is not perpetual doubt. It is calibrated belief: confidence that rises 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,7 +621,7 @@ The goal is not perpetual doubt. It is calibrated belief: confidence that rises 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -653,7 +653,7 @@ The goal is not perpetual doubt. It is calibrated belief: confidence that rises 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ The goal is not perpetual doubt. It is calibrated belief: confidence that rises 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -750,7 +750,7 @@ The goal is not perpetual doubt. It is calibrated belief: confidence that rises 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -790,118 +790,118 @@ The goal is not perpetual doubt. It is calibrated belief: confidence that rises 
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPredictors and consequences of intellectual humility  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Soc. Psychol. Personal. Sci. 2021 doi: 10.1177/1948550620988242. [DOI] [Google Scholar]...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soc. Psychol. Personal. Sci. 2021 doi: 10.1177/1948550620988242. [DOI] [Google Scholar]...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: templeton.org  
-   Link: <a href="https://www.templeton.org/discoveries/intellectual-humility" target="_blank" rel="noopener noreferrer nofollow">https://www.templeton.org/discoveries/intellectual-humility</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Templeton FoundationIntellectual HumilityIntellectual humility is a mindset that guides our intellectual conduct. In particular, it...</p></details>
+   Link:<a href="https://www.templeton.org/discoveries/intellectual-humility" target="_blank" rel="noopener noreferrer nofollow">https://www.templeton.org/discoveries/intellectual-humility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Templeton FoundationIntellectual HumilityIntellectual humility is a mindset that guides our intellectual conduct. In particular, it...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: eric.ed.gov  
    Title: ERICOpen-Mindedness and Intellectual Humility  
-   Link: <a href="https://eric.ed.gov/?id=EJ959729" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ959729</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I explain why both of these traits are intellectual virtues and how they properly build off...Read more...</p></details>
+   Link:<a href="https://eric.ed.gov/?id=EJ959729" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ959729</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I explain why both of these traits are intellectual virtues and how they properly build off...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11229-018-02024-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11229-018-02024-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intellectual humility and the epistemology of disagreementby D Pritchard · 2021 · Cited by 45 — In being willing to reflect on on...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11229-018-02024-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11229-018-02024-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intellectual humility and the epistemology of disagreementby D Pritchard · 2021 · Cited by 45 — In being willing to reflect on on...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: advances.in  
-   Link: <a href="https://advances.in/psychology/10.56296/aip00025/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00025/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, a key aspect of...Read more...</p></details>
+   Link:<a href="https://advances.in/psychology/10.56296/aip00025/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, a key aspect of...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCToo humble for words  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10541816/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10541816/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by N Levy · 2023 · Cited by 18 — In this paper, I argue that an excess of humility also plays a role in allowing for the spread of mis...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10541816/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10541816/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by N Levy · 2023 · Cited by 18 — In this paper, I argue that an excess of humility also plays a role in allowing for the spread of mis...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: advances.in  
-   Link: <a href="https://advances.in/psychology/10.56296/knowledge-hub/psychology-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/knowledge-hub/psychology-of-misinformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In both academic and public discourse, several terms are used to describe false content, and their...</p></details>
+   Link:<a href="https://advances.in/psychology/10.56296/knowledge-hub/psychology-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/knowledge-hub/psychology-of-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In both academic and public discourse, several terms are used to describe false content, and their...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ggsc.berkeley.edu  
-   Link: <a href="https://ggsc.berkeley.edu/what_we_do/major_initiatives/intellectual_humility/introduction_intellectual_humility_research" target="_blank" rel="noopener noreferrer nofollow">https://ggsc.berkeley.edu/what_we_do/major_initiatives/intellectual_humility/introduction_intellectual_humility_research</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· Education/Learning · Political Dialogue and Polarization · Religion · Susceptibility to Misinformation.Read more...</p></details>
+   Link:<a href="https://ggsc.berkeley.edu/what_we_do/major_initiatives/intellectual_humility/introduction_intellectual_humility_research" target="_blank" rel="noopener noreferrer nofollow">https://ggsc.berkeley.edu/what_we_do/major_initiatives/intellectual_humility/introduction_intellectual_humility_research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Education/Learning · Political Dialogue and Polarization · Religion · Susceptibility to Misinformation.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12732" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12732</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BPS Psych HubIntellectual humility as a tool to combat false beliefs: An...Feb 29, 2024 — In an effort to combat such misinformation and...</p></details>
+   Link:<a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12732" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12732</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BPS Psych HubIntellectual humility as a tool to combat false beliefs: An...Feb 29, 2024 — In an effort to combat such misinformation and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oecs.mit.edu  
    Title: Open Encyclopedia of Cognitive Science Intellectual Humility  
-   Link: <a href="https://oecs.mit.edu/pub/tstdnja3" target="_blank" rel="noopener noreferrer nofollow">https://oecs.mit.edu/pub/tstdnja3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Encyclopedia of Cognitive ScienceIntellectual Humility - Open Encyclopedia of Cognitive ScienceJan 24, 2025 — Further, IH is associa...</p></details>
+   Link:<a href="https://oecs.mit.edu/pub/tstdnja3" target="_blank" rel="noopener noreferrer nofollow">https://oecs.mit.edu/pub/tstdnja3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Encyclopedia of Cognitive ScienceIntellectual Humility - Open Encyclopedia of Cognitive ScienceJan 24, 2025 — Further, IH is associa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: drcharlesmrusso.substack.com  
    Title: intellectual humility  
-   Link: <a href="https://drcharlesmrusso.substack.com/p/intellectual-humility" target="_blank" rel="noopener noreferrer nofollow">https://drcharlesmrusso.substack.com/p/intellectual-humility</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Humility - by Dr. Charles M. Russo, PhDMisinformation &amp; disinformation contexts: As analysts are increasingly asked to evaluate contested...</p></details>
+   Link:<a href="https://drcharlesmrusso.substack.com/p/intellectual-humility" target="_blank" rel="noopener noreferrer nofollow">https://drcharlesmrusso.substack.com/p/intellectual-humility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Humility - by Dr. Charles M. Russo, PhDMisinformation &amp; disinformation contexts: As analysts are increasingly asked to evaluate contested...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/episteme/article/intellectual-humility-without-openmindedness-how-to-respond-to-extremist-views/2FB33B15521127B2EB763FE24D73B394" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/episteme/article/intellectual-humility-without-openmindedness-how-to-respond-to-extremist-views/2FB33B15521127B2EB763FE24D73B394</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation to third-parties, and increase the availability of... (3) We argued that responding open-mindedly to extremist views can...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/episteme/article/intellectual-humility-without-openmindedness-how-to-respond-to-extremist-views/2FB33B15521127B2EB763FE24D73B394" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/episteme/article/intellectual-humility-without-openmindedness-how-to-respond-to-extremist-views/2FB33B15521127B2EB763FE24D73B394</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation to third-parties, and increase the availability of... (3) We argued that responding open-mindedly to extremist views can...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2020/09/intellectual-humility-a-guiding-principle-for-the-skeptical-movement/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/09/intellectual-humility-a-guiding-principle-for-the-skeptical-movement/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>approach to evidence that the skeptical movement may wish to embrace as a guiding credo...Read more...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2020/09/intellectual-humility-a-guiding-principle-for-the-skeptical-movement/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/09/intellectual-humility-a-guiding-principle-for-the-skeptical-movement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>approach to evidence that the skeptical movement may wish to embrace as a guiding credo...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/philosophy/comments/514lxn/open_mindedness_is_not_a_theoretical_position_but/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/514lxn/open_mindedness_is_not_a_theoretical_position_but/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>terized by epistemic humility and adherence to a general ideal of intellectual...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/philosophy/comments/514lxn/open_mindedness_is_not_a_theoretical_position_but/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/514lxn/open_mindedness_is_not_a_theoretical_position_but/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>terized by epistemic humility and adherence to a general ideal of intellectual...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/359133100_Clarifying_the_Relations_between_Intellectual_Humility_and_Pseudoscience_Beliefs_Conspiratorial_Ideation_and_Susceptibility_to_Fake_News" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359133100_Clarifying_the_Relations_between_Intellectual_Humility_and_Pseudoscience_Beliefs_Conspiratorial_Ideation_and_Susceptibility_to_Fake_News</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd conspiratorial beliefs (Bowes and Tasimi, 2022) and more factchecking behavior...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/359133100_Clarifying_the_Relations_between_Intellectual_Humility_and_Pseudoscience_Beliefs_Conspiratorial_Ideation_and_Susceptibility_to_Fake_News" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359133100_Clarifying_the_Relations_between_Intellectual_Humility_and_Pseudoscience_Beliefs_Conspiratorial_Ideation_and_Susceptibility_to_Fake_News</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd conspiratorial beliefs (Bowes and Tasimi, 2022) and more factchecking behavior...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: powerofusnewsletter.com  
    Title: think youre open minded test yourself  
-   Link: <a href="https://www.powerofusnewsletter.com/p/think-youre-open-minded-test-yourself" target="_blank" rel="noopener noreferrer nofollow">https://www.powerofusnewsletter.com/p/think-youre-open-minded-test-yourself</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Knowing What You Don&#x27;t KnowDec 11, 2025 — People who score high on these measures are less likely to spread conspiracy the...</p></details>
+   Link:<a href="https://www.powerofusnewsletter.com/p/think-youre-open-minded-test-yourself" target="_blank" rel="noopener noreferrer nofollow">https://www.powerofusnewsletter.com/p/think-youre-open-minded-test-yourself</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Knowing What You Don&#x27;t KnowDec 11, 2025 — People who score high on these measures are less likely to spread conspiracy the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Why People Believe Misinformation: The Psychology of Fear | Beyond the Books  
-   Link: <a href="https://www.youtube.com/watch?v=_7otmig_7Co" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_7otmig_7Co</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>False: How Mistrust, Disinformation, and Motivated Reasoning Make Us Believe Things That Aren&#x27;t True...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_7otmig_7Co" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_7otmig_7Co</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False: How Mistrust, Disinformation, and Motivated Reasoning Make Us Believe Things That Aren&#x27;t True...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=c6OTuVoPRHA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c6OTuVoPRHA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is intellectual humility? | John Lennox &amp; George Church...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=c6OTuVoPRHA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c6OTuVoPRHA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is intellectual humility? | John Lennox &amp; George Church...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Intellectual humility: the rewards of being willing to change your mind  
-   Link: <a href="https://www.youtube.com/watch?v=GUnIWyUwi6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GUnIWyUwi6g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why People Believe Misinformation: The Psychology of Fear | Beyond the Books...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GUnIWyUwi6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GUnIWyUwi6g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why People Believe Misinformation: The Psychology of Fear | Beyond the Books...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Intellectual humility is a key skill for tomorrow's leaders  
-   Link: <a href="https://www.youtube.com/watch?v=AeZoN4o1qxU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AeZoN4o1qxU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intellectual humility: the rewards of being willing to change your mind...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AeZoN4o1qxU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AeZoN4o1qxU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intellectual humility: the rewards of being willing to change your mind...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/01461672251328800" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672251328800</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tyler J. Hubeny...by TJ Hubeny · Cited by 19 — Actively open-minded thinking is key to combating fake news: A multimethod study. Informa...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/01461672251328800" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672251328800</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tyler J. Hubeny...by TJ Hubeny · Cited by 19 — Actively open-minded thinking is key to combating fake news: A multimethod study. Informa...</p></details>

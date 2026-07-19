@@ -280,13 +280,13 @@ image: /assets/images/improving_your_think_da4710_domain_knowledge_96a03e_usable
 
 ## Introduction
 
-Improving analytical thinking requires more than accumulating facts. Facts matter because they provide the raw material for reasoning, but facts become genuinely useful only when they are organised into knowledge that helps people interpret unfamiliar situations. This distinction lies at the heart of expertise. Someone who has memorised a long list of historical dates, scientific definitions or legal rules may perform well on a recall test, yet still struggle to explain a new case or predict what will happen next. By contrast, someone with usable knowledge recognises underlying patterns, knows which ideas are relevant, and understands the conditions under which a principle applies. Research on learning consistently shows that the highest-quality education combines accurate factual memory with knowledge that transfers to new problems rather than treating memorisation and thinking as competing alternatives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</span></span></span>
+Improving analytical thinking requires more than accumulating facts. Facts matter because they provide the raw material for reasoning, but facts become genuinely useful only when they are organised into knowledge that helps people interpret unfamiliar situations. This distinction lies at the heart of expertise. Someone who has memorised a long list of historical dates, scientific definitions or legal rules may perform well on a recall test, yet still struggle to explain a new case or predict what will happen next. By contrast, someone with usable knowledge recognises underlying patterns, knows which ideas are relevant, and understands the conditions under which a principle applies. Research on learning consistently shows that the highest-quality education combines accurate factual memory with knowledge that transfers to new problems rather than treating memorisation and thinking as competing alternatives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_usable_knowledge_20bfad-Illustration-1-dark.svg" | relative_url }}" alt="Usable Knowledge illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_usable_knowledge_20bfad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_usable_knowledge_20bfad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Rote recall versus usable knowledge
 
-The debate between memorisation and understanding is often presented as a choice, but cognitive research suggests this is a false contrast. Facts stored in memory are essential because reasoning depends on information that can be retrieved quickly. However, isolated facts are only the starting point. They become usable knowledge when they are connected into meaningful structures that support explanation, comparison and prediction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</span></span></span>
+The debate between memorisation and understanding is often presented as a choice, but cognitive research suggests this is a false contrast. Facts stored in memory are essential because reasoning depends on information that can be retrieved quickly. However, isolated facts are only the starting point. They become usable knowledge when they are connected into meaningful structures that support explanation, comparison and prediction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</span></span></span>
 
 The difference can be illustrated by considering two history students:
 
@@ -300,7 +300,7 @@ The difference can be illustrated by considering two history students:
 
 Both possess factual knowledge, but only the second can analyse an unfamiliar revolution by asking whether similar causal conditions exist. The memorised facts have become interpretive tools rather than isolated pieces of information.
 
-Educational research has long found that different teaching approaches may produce similar short-term recall while leading to very different levels of [transfer]({{ 'transfer/' | relative_url }}). Learners who only remember facts often struggle when questions are presented in unfamiliar forms, whereas learners who understand relationships can adapt their knowledge to new situations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</span></span></span>
+Educational research has long found that different teaching approaches may produce similar short-term recall while leading to very different levels of [transfer]({{ 'transfer/' | relative_url }}). Learners who only remember facts often struggle when questions are presented in unfamiliar forms, whereas learners who understand relationships can adapt their knowledge to new situations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</span></span></span>
 
 This helps explain why experts appear to "see" more than novices. Their advantage is not simply larger memory stores but better organised memory. Information is structured around concepts, principles and recurring patterns instead of remaining as disconnected items.
 
@@ -327,9 +327,9 @@ Consider a scientific law. Memorising its wording allows someone to reproduce it
 
 This conditional understanding is central to analytical thinking because real-world problems seldom announce which concept should be used. Analysts must decide which knowledge is relevant before they can reason effectively.
 
-The National Research Council's synthesis *How People Learn* argues that expert knowledge is organised around important concepts and is "conditionalised"—linked to the circumstances in which it can be applied. This organisation makes transfer possible because experts retrieve knowledge according to meaning rather than superficial similarity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</span></span></span>
+The National Research Council's synthesis *How People Learn* argues that expert knowledge is organised around important concepts and is "conditionalised"—linked to the circumstances in which it can be applied. This organisation makes transfer possible because experts retrieve knowledge according to meaning rather than superficial similarity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</span></span></span>
 
-Prior knowledge also influences how new information is interpreted. Studies across higher education have found that learners with well-developed conceptual and procedural knowledge are better able to integrate new material and solve unfamiliar problems than those whose knowledge remains largely declarative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2630138/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by T Hailikari · 2008 · Cited by 538 — Prior knowledge from previous courses significantly influenced student achievement. Procedural...</span></span></span>
+Prior knowledge also influences how new information is interpreted. Studies across higher education have found that learners with well-developed conceptual and procedural knowledge are better able to integrate new material and solve unfamiliar problems than those whose knowledge remains largely declarative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2630138/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by T Hailikari · 2008 · Cited by 538 — Prior knowledge from previous courses significantly influenced student achievement. Procedural...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/blAvP001oWc" title="Rote-Memorisation: Why The Top 0.1% Students DON’T Use It to Study (And What To Do Instead)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=blAvP001oWc" target="_blank" rel="noopener noreferrer">Rote-Memorisation: Why The Top 0.1% Students DON’T Use It to Study (And What To Do Instead)</a></p><p class="youtube-embed-meta">Channel: iCanStudy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=blAvP001oWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=blAvP001oWc">Open on YouTube</a></p></div></div></div>
@@ -363,19 +363,19 @@ The same process appears in medicine, engineering, law and business. Professiona
 
 Rejecting rote learning altogether would be a mistake. Analytical thinking cannot operate without information that is readily available in memory.
 
-Working memory—the mental system used for active reasoning—has limited capacity. If every basic fact must be looked up, there is little cognitive space left for analysing relationships or evaluating alternatives. Automatic recall of important facts therefore supports higher-level thinking rather than competing with it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theeducationhub.org.nz/the-role-of-memory-knowledge-and-understanding-in-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theeducationhub.org.nz">[THE EDUCATION HUB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theeducationhub.org.nz</span><span class="citation-popover-title">the role of memory knowledge and understanding in learning</span><span class="citation-popover-snippet">THE EDUCATION HUBThe role of memory, knowledge, and understanding in...2 Mar 2021 — Research shows that information is much better recal...</span></span></span>
+Working memory—the mental system used for active reasoning—has limited capacity. If every basic fact must be looked up, there is little cognitive space left for analysing relationships or evaluating alternatives. Automatic recall of important facts therefore supports higher-level thinking rather than competing with it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theeducationhub.org.nz/the-role-of-memory-knowledge-and-understanding-in-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theeducationhub.org.nz">[THE EDUCATION HUB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theeducationhub.org.nz</span><span class="citation-popover-title">the role of memory knowledge and understanding in learning</span><span class="citation-popover-snippet">THE EDUCATION HUBThe role of memory, knowledge, and understanding in...2 Mar 2021 — Research shows that information is much better recal...</span></span></span>
 
 The key distinction is between **memorisation as an endpoint** and **memorisation as a foundation**.
 
 When memorisation is treated as the final goal, learners often produce accurate answers only in familiar contexts. When it serves as the foundation for explanation, comparison and application, the same factual knowledge becomes part of a flexible reasoning system.
 
-Recent discussions in science education continue to emphasise this relationship. Recall supports understanding, but understanding enables learners to explain, connect and apply knowledge in situations that differ from those originally studied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ejmste.com/article/the-interplay-between-recall-and-understanding-in-physics-a-case-of-newtons-laws-17502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejmste.com">[Eurasia Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejmste.com</span><span class="citation-popover-snippet">Eurasia JournalThe interplay between recall and understanding in physicsby A Motlhabane · 2025 — This conceptual paper explores the inter...</span></span></span>
+Recent discussions in science education continue to emphasise this relationship. Recall supports understanding, but understanding enables learners to explain, connect and apply knowledge in situations that differ from those originally studied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ejmste.com/article/the-interplay-between-recall-and-understanding-in-physics-a-case-of-newtons-laws-17502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejmste.com">[Eurasia Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejmste.com</span><span class="citation-popover-snippet">Eurasia JournalThe interplay between recall and understanding in physicsby A Motlhabane · 2025 — This conceptual paper explores the inter...</span></span></span>
 
 ## A historical shift in educational thinking
 
 Educational debates have repeatedly swung between prioritising factual knowledge and prioritising generic thinking skills. Modern cognitive science increasingly argues that this opposition is misleading.
 
-Early educational reforms sometimes assumed that teaching broad thinking strategies would automatically transfer across subjects. Research on transfer challenged this assumption by showing that reasoning depends heavily on domain-specific knowledge. At the same time, critics of purely fact-based instruction demonstrated that memorised information often fails to transfer unless learners understand the underlying concepts and relationships. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</span></span></span>
+Early educational reforms sometimes assumed that teaching broad thinking strategies would automatically transfer across subjects. Research on transfer challenged this assumption by showing that reasoning depends heavily on domain-specific knowledge. At the same time, critics of purely fact-based instruction demonstrated that memorised information often fails to transfer unless learners understand the underlying concepts and relationships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</span></span></span>
 
 The emerging consensus is therefore more balanced:
 
@@ -428,194 +428,194 @@ Those questions move beyond recall into analysis. They require facts, but they a
 <img src="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_usable_knowledge_20bfad-Illustration-3-dark.svg" | relative_url }}" alt="Usable Knowledge illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_usable_knowledge_20bfad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_usable_knowledge_20bfad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Facts Are Not Enough By Themselves. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Facts Are Not Enough By Themselves. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Directly addresses turning factual knowledge into durable, transferable understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses turning factual knowledge into durable, transferable understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
-        </h4>
-        <p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
+</h4>
+<p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
         
-        <p class="fr-book-desc">Shows how experts organise knowledge for flexible reasoning rather than simple recall.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how experts organise knowledge for flexible reasoning rather than simple recall.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
-        </h4>
-        <p class="fr-book-author">By Benedict Carey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+</h4>
+<p class="fr-book-author">By Benedict Carey</p>
         
-        <p class="fr-book-desc">Explains how knowledge is retained, connected, and applied beyond rote memorisation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how knowledge is retained, connected, and applied beyond rote memorisation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides broader context on how knowledge influences judgment, interpretation, and decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context on how knowledge influences judgment, interpretation, and decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEL Chemistry Kits Science for Kids 4 PACK Age 10 plus Factory Sealed Learning"><img src="{{ '/assets/images/marketplace-covers/62a30a0187ceeaa307c4.jpg' | relative_url }}" alt="Listing image for MEL Chemistry Kits Science for Kids 4 PACK Age 10 plus Factory Sealed Learning" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer">MEL Chemistry Kits Science for Kids 4 PACK Age 10 plus Factory Sealed Learning</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: science kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEL Chemistry Kits Science for Kids 4 PACK Age 10 plus Factory Sealed Learning"><img src="{{ '/assets/images/marketplace-covers/62a30a0187ceeaa307c4.jpg' | relative_url }}" alt="Listing image for MEL Chemistry Kits Science for Kids 4 PACK Age 10 plus Factory Sealed Learning" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer">MEL Chemistry Kits Science for Kids 4 PACK Age 10 plus Factory Sealed Learning</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: science kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brainy Beaker Educational Science Kit for Kids - 21 Various Experiments+Name Tag"><img src="{{ '/assets/images/marketplace-covers/1dd439094028496545db.jpg' | relative_url }}" alt="Listing image for Brainy Beaker Educational Science Kit for Kids - 21 Various Experiments+Name Tag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer">Brainy Beaker Educational Science Kit for Kids - 21 Various Experiments+Name Tag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: science kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brainy Beaker Educational Science Kit for Kids - 21 Various Experiments+Name Tag"><img src="{{ '/assets/images/marketplace-covers/1dd439094028496545db.jpg' | relative_url }}" alt="Listing image for Brainy Beaker Educational Science Kit for Kids - 21 Various Experiments+Name Tag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer">Brainy Beaker Educational Science Kit for Kids - 21 Various Experiments+Name Tag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: science kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 27pc and 73pc Experiments Science Kit for Kids Science Project Learning UK"><img src="{{ '/assets/images/marketplace-covers/e6a1aab48589d5e40949.jpg' | relative_url }}" alt="Listing image for 27pc and 73pc Experiments Science Kit for Kids Science Project Learning UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer">27pc and 73pc Experiments Science Kit for Kids Science Project Learning UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: science kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 27pc and 73pc Experiments Science Kit for Kids Science Project Learning UK"><img src="{{ '/assets/images/marketplace-covers/e6a1aab48589d5e40949.jpg' | relative_url }}" alt="Listing image for 27pc and 73pc Experiments Science Kit for Kids Science Project Learning UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer">27pc and 73pc Experiments Science Kit for Kids Science Project Learning UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: science kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Tech Greenhouse Interactive Plant Science Kit 8 Years Plus"><img src="{{ '/assets/images/marketplace-covers/f86042148c914c4e4a9d.jpg' | relative_url }}" alt="Listing image for Smart Tech Greenhouse Interactive Plant Science Kit 8 Years Plus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer">Smart Tech Greenhouse Interactive Plant Science Kit 8 Years Plus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: science kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Tech Greenhouse Interactive Plant Science Kit 8 Years Plus"><img src="{{ '/assets/images/marketplace-covers/f86042148c914c4e4a9d.jpg' | relative_url }}" alt="Listing image for Smart Tech Greenhouse Interactive Plant Science Kit 8 Years Plus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer">Smart Tech Greenhouse Interactive Plant Science Kit 8 Years Plus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: science kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science kit" data-ebay-reference="usable-knowledge-facts-are-not-enough-by-themselves-improving-your-think-science-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -631,7 +631,7 @@ Those questions move beyond recall into analysis. They require facts, but they a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -651,7 +651,7 @@ Those questions move beyond recall into analysis. They require facts, but they a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -683,7 +683,7 @@ Those questions move beyond recall into analysis. They require facts, but they a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -735,7 +735,7 @@ Those questions move beyond recall into analysis. They require facts, but they a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -780,7 +780,7 @@ Those questions move beyond recall into analysis. They require facts, but they a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -821,78 +821,78 @@ Those questions move beyond recall into analysis. They require facts, but they a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2630138/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2630138/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by T Hailikari · 2008 · Cited by 538 — Prior knowledge from previous courses significantly influenced student achievement. Procedural...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2630138/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2630138/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by T Hailikari · 2008 · Cited by 538 — Prior knowledge from previous courses significantly influenced student achievement. Procedural...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: theeducationhub.org.nz  
    Title: the role of memory knowledge and understanding in learning  
-   Link: <a href="https://theeducationhub.org.nz/the-role-of-memory-knowledge-and-understanding-in-learning/" target="_blank" rel="noopener noreferrer nofollow">https://theeducationhub.org.nz/the-role-of-memory-knowledge-and-understanding-in-learning/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE EDUCATION HUBThe role of memory, knowledge, and understanding in...2 Mar 2021 — Research shows that information is much better recal...</p></details>
+   Link:<a href="https://theeducationhub.org.nz/the-role-of-memory-knowledge-and-understanding-in-learning/" target="_blank" rel="noopener noreferrer nofollow">https://theeducationhub.org.nz/the-role-of-memory-knowledge-and-understanding-in-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE EDUCATION HUBThe role of memory, knowledge, and understanding in...2 Mar 2021 — Research shows that information is much better recal...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/9853/chapter/6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/9853/chapter/6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ejmste.com  
-   Link: <a href="https://www.ejmste.com/article/the-interplay-between-recall-and-understanding-in-physics-a-case-of-newtons-laws-17502" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/article/the-interplay-between-recall-and-understanding-in-physics-a-case-of-newtons-laws-17502</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eurasia JournalThe interplay between recall and understanding in physicsby A Motlhabane · 2025 — This conceptual paper explores the inter...</p></details>
+   Link:<a href="https://www.ejmste.com/article/the-interplay-between-recall-and-understanding-in-physics-a-case-of-newtons-laws-17502" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/article/the-interplay-between-recall-and-understanding-in-physics-a-case-of-newtons-laws-17502</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eurasia JournalThe interplay between recall and understanding in physicsby A Motlhabane · 2025 — This conceptual paper explores the inter...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/post/If_AI_can_already_recall_and_apply_knowledge_instantly_why_are_we_still_relying_on_rote_memorization_in_education" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/If_AI_can_already_recall_and_apply_knowledge_instantly_why_are_we_still_relying_on_rote_memorization_in_education</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If AI can already recall and apply knowledge instantly, why...2 Sept 2025 — With the rapid rise of AI tools capable of solving problems...</p></details>
+   Link:<a href="https://www.researchgate.net/post/If_AI_can_already_recall_and_apply_knowledge_instantly_why_are_we_still_relying_on_rote_memorization_in_education" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/If_AI_can_already_recall_and_apply_knowledge_instantly_why_are_we_still_relying_on_rote_memorization_in_education</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If AI can already recall and apply knowledge instantly, why...2 Sept 2025 — With the rapid rise of AI tools capable of solving problems...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KS1tI5fBtCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KS1tI5fBtCg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Understanding in Science: Moving Beyond Rote to Meaningful Learning...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KS1tI5fBtCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KS1tI5fBtCg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Understanding in Science: Moving Beyond Rote to Meaningful Learning...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/educreation/the-untold-story-of-learning-in-the-age-of-ai-5666b904b282" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/educreation/the-untold-story-of-learning-in-the-age-of-ai-5666b904b282</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ming mere information into usable knowledge...</p></details>
+   Link:<a href="https://medium.com/educreation/the-untold-story-of-learning-in-the-age-of-ai-5666b904b282" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/educreation/the-untold-story-of-learning-in-the-age-of-ai-5666b904b282</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ming mere information into usable knowledge...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: educationfutures.com  
    Title: we cannot manage knowledge  
-   Link: <a href="https://educationfutures.com/post/we-cannot-manage-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://educationfutures.com/post/we-cannot-manage-knowledge/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2025 — However, memorization is not the same as knowledge. Learning is a process of transformation, not just accumulation. To make...</p></details>
+   Link:<a href="https://educationfutures.com/post/we-cannot-manage-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://educationfutures.com/post/we-cannot-manage-knowledge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2025 — However, memorization is not the same as knowledge. Learning is a process of transformation, not just accumulation. To make...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=blAvP001oWc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=blAvP001oWc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ng, understanding how information connects and applying it...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=blAvP001oWc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=blAvP001oWc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ng, understanding how information connects and applying it...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EXhfzqYbePY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EXhfzqYbePY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2 Types of Knowledge You Need to Learn Anything...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EXhfzqYbePY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EXhfzqYbePY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 2 Types of Knowledge You Need to Learn Anything...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2507.21914" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2507.21914</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Generalizing over Memorized Data in LLMsby Q Wu · 2025 · Cited by 5 — Many researchers argue that rote learning hinders generalization be...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2507.21914" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2507.21914</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Generalizing over Memorized Data in LLMsby Q Wu · 2025 · Cited by 5 — Many researchers argue that rote learning hinders generalization be...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Why Deep Thinkers Learn Differently Than Everyone Else  
-   Link: <a href="https://www.youtube.com/watch?v=9UTPErZaK_0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9UTPErZaK_0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is the Difference Between Deep and Surface Learning Strategies? | Learn As An Adult...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9UTPErZaK_0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9UTPErZaK_0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is the Difference Between Deep and Surface Learning Strategies? | Learn As An Adult...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The 2 Types of Knowledge You Need to Learn Anything  
-   Link: <a href="https://www.youtube.com/watch?v=TuGITbfFmLI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuGITbfFmLI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Deep Thinkers Learn Differently Than Everyone Else...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TuGITbfFmLI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuGITbfFmLI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Deep Thinkers Learn Differently Than Everyone Else...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Conceptual Understanding in Science: Moving Beyond Rote to Meaningful Learning  
-   Link: <a href="https://www.youtube.com/watch?v=k4civCCnGGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k4civCCnGGs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=k4civCCnGGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k4civCCnGGs</a>  

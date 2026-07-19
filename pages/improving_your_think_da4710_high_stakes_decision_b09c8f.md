@@ -451,7 +451,7 @@ A decision routine is a short, repeatable process used before committing to a hi
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f-overview.webp" | relative_url }}" alt="Overview image for Decision Routines" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many poor decisions are not dramatic failures of intelligence. They are ordinary process failures: a narrow frame, hidden optimism, weak comparison, group silence, or a vague plan that nobody turns into action. Research and practice from surgery, public appraisal, intelligence analysis, healthcare priority-setting and behavioural science all point in the same direction: simple structures can make judgement safer when stakes, [uncertainty]({{ 'uncertainty/' | relative_url }}) and consequences rise. Cancer Control+3New England Journal of Medicine+3GOV.UK <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0810119" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[nejm.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7765 — Introduction...</span></span></span>
+This matters because many poor decisions are not dramatic failures of intelligence. They are ordinary process failures: a narrow frame, hidden optimism, weak comparison, group silence, or a vague plan that nobody turns into action. Research and practice from surgery, public appraisal, intelligence analysis, healthcare priority-setting and behavioural science all point in the same direction: simple structures can make judgement safer when stakes, [uncertainty]({{ 'uncertainty/' | relative_url }}) and consequences rise. Cancer Control+3New England Journal of Medicine+3GOV.UK<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0810119" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[nejm.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7765 — Introduction...</span></span></span>
 
 ## When a routine is worth using
 
@@ -470,9 +470,9 @@ A routine is most useful when at least one of these conditions is present:
 
 </div>
 
-Research on high-risk events describes decision-making under crisis conditions as difficult because time pressure, uncertainty and dynamic environments interact: the decision-maker must act while the situation is still changing. That is why the routine should be scaled to the decision. In an emergency, it may be a 90-second pause: name the goal, name the biggest risk, name the next reversible step. For a board-level or policy decision, it may be a written appraisal, independent challenge and scheduled review point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">PMCDecision-Making During High-Risk Events</span></span></span>
+Research on high-risk events describes decision-making under crisis conditions as difficult because time pressure, uncertainty and dynamic environments interact: the decision-maker must act while the situation is still changing. That is why the routine should be scaled to the decision. In an emergency, it may be a 90-second pause: name the goal, name the biggest risk, name the next reversible step. For a board-level or policy decision, it may be a written appraisal, independent challenge and scheduled review point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">PMCDecision-Making During High-Risk Events</span></span></span>
 
-The clearest public example of a simple routine improving high-stakes [outcomes]({{ 'outcomes/' | relative_url }}) is the World Health Organization surgical safety checklist. In a major study across eight hospitals, introducing a 19-item checklist was associated with reductions in surgical complications and deaths; the WHO later summarised the results as showing surgery-related deaths and complications lowered by about one third during the trial. The checklist worked not because surgeons lacked expertise, but because complex, consequential work is vulnerable to omissions, communication failures and assumptions that nobody says aloud. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0810119" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7765 — Introduction...</span></span></span>
+The clearest public example of a simple routine improving high-stakes [outcomes]({{ 'outcomes/' | relative_url }}) is the World Health Organization surgical safety checklist. In a major study across eight hospitals, introducing a 19-item checklist was associated with reductions in surgical complications and deaths; the WHO later summarised the results as showing surgery-related deaths and complications lowered by about one third during the trial. The checklist worked not because surgeons lacked expertise, but because complex, consequential work is vulnerable to omissions, communication failures and assumptions that nobody says aloud.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0810119" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7765 — Introduction...</span></span></span>
 
 That lesson transfers cautiously to thinking skills. A decision routine is not magic, and it cannot guarantee a good outcome. Its practical purpose is narrower: reduce preventable errors before commitment. It makes the decision visible enough that a person or team can challenge the frame, check the evidence, compare alternatives and decide what to monitor afterwards.
 
@@ -484,7 +484,7 @@ A useful high-stakes routine does not need dozens of steps. It needs three check
 
 The cost check asks for the full price of the decision, not just the most visible expense. In personal decisions, that may include time, stress, lost options and relationship strain. In organisations, it includes implementation time, coordination cost, opportunity cost, reputation risk, maintenance and the cost of reversing course.
 
-Public-sector appraisal guidance makes this explicit. The UK Treasury Green Book describes appraisal as the process of assessing the costs, benefits and risks of different options for achieving objectives, and it frames the work as structured advice for decision-makers rather than a substitute for judgement. Its importance is not the bureaucracy of the document, but the discipline it represents: before choosing, define the objective, generate options, assess costs and benefits, account for risk and uncertainty, and make the trade-offs visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/698dbcd17da91680ad7f4308/The_Green_Book_2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK The Green Book – UK government guidance on appraisal</span><span class="citation-popover-snippet">UK The Green Book – UK government guidance on appraisal</span></span></span>
+Public-sector appraisal guidance makes this explicit. The UK Treasury Green Book describes appraisal as the process of assessing the costs, benefits and risks of different options for achieving objectives, and it frames the work as structured advice for decision-makers rather than a substitute for judgement. Its importance is not the bureaucracy of the document, but the discipline it represents: before choosing, define the objective, generate options, assess costs and benefits, account for risk and uncertainty, and make the trade-offs visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/698dbcd17da91680ad7f4308/The_Green_Book_2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK The Green Book – UK government guidance on appraisal</span><span class="citation-popover-snippet">UK The Green Book – UK government guidance on appraisal</span></span></span>
 
 A practical cost check should ask:
 
@@ -507,7 +507,7 @@ This prevents a common analytical mistake: treating the decision as if it ends a
 
 Bad decisions often begin with a narrow frame. The choice is presented as “do this or do nothing”, “approve or reject”, “stay or quit”, “buy now or miss out”. A decision routine should force at least two live alternatives before commitment. “Do nothing” can be one option, but it should not be the only comparison.
 
-Multiple Criteria Decision Analysis, or MCDA, is one formal version of this idea. It is used when decisions involve several criteria that cannot easily be reduced to one number, such as health benefits, cost, fairness, feasibility and stakeholder priorities. Health-care decision research describes MCDA as a structured, explicit way to confront trade-offs between multiple, often conflicting objectives. UK government analytical guidance similarly presents MCDA as a way to compare options where there are conflicting objectives, mixed criteria and multiple stakeholder perspectives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ispor.org/heor-resources/good-practices/article/multiple-criteria-decision-analysis-for-health-care-decision-making---emerging-good-practices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ispor.org">[ISPOR.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ispor.org</span><span class="citation-popover-title">Multiple Criteria Decision Analysis for Health Care</span><span class="citation-popover-snippet">Multiple Criteria Decision Analysis for Health Care</span></span></span>
+Multiple Criteria Decision Analysis, or MCDA, is one formal version of this idea. It is used when decisions involve several criteria that cannot easily be reduced to one number, such as health benefits, cost, fairness, feasibility and stakeholder priorities. Health-care decision research describes MCDA as a structured, explicit way to confront trade-offs between multiple, often conflicting objectives. UK government analytical guidance similarly presents MCDA as a way to compare options where there are conflicting objectives, mixed criteria and multiple stakeholder perspectives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ispor.org/heor-resources/good-practices/article/multiple-criteria-decision-analysis-for-health-care-decision-making---emerging-good-practices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ispor.org">[ISPOR.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ispor.org</span><span class="citation-popover-title">Multiple Criteria Decision Analysis for Health Care</span><span class="citation-popover-snippet">Multiple Criteria Decision Analysis for Health Care</span></span></span>
 
 For most personal or workplace decisions, the routine can be simpler than formal MCDA:
 
@@ -542,7 +542,7 @@ A good uncertainty check separates four questions:
 
 This is different from asking for “more research” in general. More information can become a delay tactic. The useful question is whether specific information would change the decision. If it would not, decide. If it would, gather that information before locking in.
 
-Reference class forecasting is one way to discipline uncertainty in project decisions. Instead of relying only on an inside view of the current plan, it asks how similar projects actually performed. Bent Flyvbjerg’s work on project forecasting argues that inaccurate projections of costs, demand and impacts are a major source of risk, and that reference class forecasting improves accuracy by grounding forecasts in comparable past cases rather than the project team’s unique story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233258056_Curbing_Optimism_Bias_and_Strategic_Misrepresentation_in_Planning_Reference_Class_Forecasting_in_Practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Project Management Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+Reference class forecasting is one way to discipline uncertainty in project decisions. Instead of relying only on an inside view of the current plan, it asks how similar projects actually performed. Bent Flyvbjerg’s work on project forecasting argues that inaccurate projections of costs, demand and impacts are a major source of risk, and that reference class forecasting improves accuracy by grounding forecasts in comparable past cases rather than the project team’s unique story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233258056_Curbing_Optimism_Bias_and_Strategic_Misrepresentation_in_Planning_Reference_Class_Forecasting_in_Practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Project Management Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 The deeper lesson is useful beyond infrastructure or project management: when a decision feels unique, ask what class of situation it belongs to. A house renovation, career change, software rollout, product launch or legal dispute may feel personal, but other people have made structurally similar choices. Their outcomes give a base rate. The base rate does not decide for you, but it stops your preferred narrative from being the only evidence in the room.
 
@@ -575,7 +575,7 @@ For a one-way-door decision, the minimum routine should include:
 
 </div>
 
-The pre-mortem deserves special attention because it changes the social psychology of challenge. Instead of asking “Does anyone think this will fail?”, which can make dissent feel disloyal, it asks the group to imagine that the decision has failed and explain why. The technique is associated with Gary Klein and builds on “prospective hindsight”: imagining a future event as if it has already happened. The underlying research by Deborah Mitchell, Jay Russo and Nancy Pennington found that this temporal shift can improve people’s ability to identify reasons for future outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theuncertaintyproject.org/tools/pre-mortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theuncertaintyproject.org">[The Uncertainty Project+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theuncertaintyproject.org</span><span class="citation-popover-snippet">Open source on theuncertaintyproject.org.</span></span></span>
+The pre-mortem deserves special attention because it changes the social psychology of challenge. Instead of asking “Does anyone think this will fail?”, which can make dissent feel disloyal, it asks the group to imagine that the decision has failed and explain why. The technique is associated with Gary Klein and builds on “prospective hindsight”: imagining a future event as if it has already happened. The underlying research by Deborah Mitchell, Jay Russo and Nancy Pennington found that this temporal shift can improve people’s ability to identify reasons for future outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theuncertaintyproject.org/tools/pre-mortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theuncertaintyproject.org">[The Uncertainty Project+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theuncertaintyproject.org</span><span class="citation-popover-snippet">Open source on theuncertaintyproject.org.</span></span></span>
 
 The pre-mortem is especially useful when the room is already leaning one way. It legitimises doubt before commitment. A good version is quiet before it is conversational: each participant writes failure reasons independently, then the group combines them. This reduces the chance that the most senior or confident person sets the boundaries of acceptable concern.
 
@@ -662,7 +662,7 @@ A pre-mortem that does not affect action becomes theatre. Its value is in conver
 
 Before searching for more information, write: “We would change our decision if…” This protects against two opposite errors: cherry-picking evidence to support the favourite, and delaying forever because uncertainty remains.
 
-In intelligence analysis, structured techniques such as Analysis of Competing Hypotheses were developed to help analysts evaluate evidence against multiple possible explanations, with special attention to evidence that could disconfirm rather than merely confirm a preferred view. Later reviews have debated how well such techniques work in practice, but the central discipline is valuable for ordinary high-stakes thinking: do not ask only “What supports my view?” Ask “Which evidence would be awkward for my view if it were true?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Open source on berkeley.edu.</span></span></span>
+In intelligence analysis, structured techniques such as Analysis of Competing Hypotheses were developed to help analysts evaluate evidence against multiple possible explanations, with special attention to evidence that could disconfirm rather than merely confirm a preferred view. Later reviews have debated how well such techniques work in practice, but the central discipline is valuable for ordinary high-stakes thinking: do not ask only “What supports my view?” Ask “Which evidence would be awkward for my view if it were true?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Open source on berkeley.edu.</span></span></span>
 
 This step is especially important when people are under social pressure. A team can always find reasons to continue a project once reputations are attached. Predefined change conditions make revision less humiliating because they turn adaptation into part of the plan.
 
@@ -670,7 +670,7 @@ This step is especially important when people are under social pressure. A team 
 
 A decision is unfinished until it changes behaviour. “We should be more careful”, “We need to monitor this” and “Let us keep an eye on it” are not action plans. They are intentions waiting to dissolve.
 
-Behavioural research on implementation intentions shows why specificity matters. If-then plans link a future cue to a planned response: “If X happens, then I will do Y.” Evidence reviewed by the US National Cancer Institute and behavioural research literature indicates that forming such plans can help people translate intentions into action by making the relevant situation and response easier to recognise and execute. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Open source on cancer.gov.</span></span></span>
+Behavioural research on implementation intentions shows why specificity matters. If-then plans link a future cue to a planned response: “If X happens, then I will do Y.” Evidence reviewed by the US National Cancer Institute and behavioural research literature indicates that forming such plans can help people translate intentions into action by making the relevant situation and response easier to recognise and execute.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Open source on cancer.gov.</span></span></span>
 
 For high-stakes decisions, this means ending with concrete triggers:
 
@@ -704,7 +704,7 @@ The most common failure modes are predictable:
 
 **No one owns the next action.** A decision without named responsibility and timing is only a preference.
 
-Research on judgement “noise” adds another warning: even when people are trying to be fair and professional, judgements can vary more than organisations expect. Kahneman, Sibony and Sunstein popularised the term “decision hygiene” for practices that reduce unwanted variability, such as structuring assessments, separating independent judgements before discussion, and using consistent criteria. The useful lesson for high-stakes routines is that process should protect against both bias and inconsistency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://behavioralscientist.org/a-conversation-with-daniel-kahneman-about-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioralscientist.org">[Behavioral Scientist+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioralscientist.org</span><span class="citation-popover-title">a conversation with daniel kahneman about noise</span><span class="citation-popover-snippet">a conversation with daniel kahneman about noise</span></span></span>
+Research on judgement “noise” adds another warning: even when people are trying to be fair and professional, judgements can vary more than organisations expect. Kahneman, Sibony and Sunstein popularised the term “decision hygiene” for practices that reduce unwanted variability, such as structuring assessments, separating independent judgements before discussion, and using consistent criteria. The useful lesson for high-stakes routines is that process should protect against both bias and inconsistency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://behavioralscientist.org/a-conversation-with-daniel-kahneman-about-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioralscientist.org">[Behavioral Scientist+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioralscientist.org</span><span class="citation-popover-title">a conversation with daniel kahneman about noise</span><span class="citation-popover-snippet">a conversation with daniel kahneman about noise</span></span></span>
 
 One practical way to reduce noise is to collect independent estimates before group discussion. For example, ask each participant to write their estimate of cost, risk or probability privately before hearing others. Then compare the spread. A wide spread is not embarrassing; it is information. It shows where the group is pretending to agree.
 
@@ -716,7 +716,7 @@ For an individual, implementation may mean keeping a one-page decision note for 
 
 For a team, implementation should make dissent routine rather than personal. Assign someone to test the favourite option, but rotate the role so the same person is not always treated as negative. Ask for independent written concerns before discussion. Keep a visible list of assumptions. Decide in advance which signals will prompt review.
 
-For an organisation, implementation means matching routine depth to decision class. A procurement decision, safety change, product launch, policy intervention or restructuring should not all use the same process, but each should have a clear threshold for when formal appraisal, independent challenge or staged approval is required. The UK Green Book is one example of a mature public framework that separates structured evidence and advice from the final act of political or managerial judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">the green book appraisal and evaluation in central government</span><span class="citation-popover-snippet">the green book appraisal and evaluation in central government</span></span></span>
+For an organisation, implementation means matching routine depth to decision class. A procurement decision, safety change, product launch, policy intervention or restructuring should not all use the same process, but each should have a clear threshold for when formal appraisal, independent challenge or staged approval is required. The UK Green Book is one example of a mature public framework that separates structured evidence and advice from the final act of political or managerial judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">the green book appraisal and evaluation in central government</span><span class="citation-popover-snippet">the green book appraisal and evaluation in central government</span></span></span>
 
 The strongest routines also include a feedback loop. After the decision has had time to play out, compare the outcome with the original reasoning. Were the costs wrong? Did the pre-mortem catch the real failure mode? Which evidence was overweighted? Which uncertainty mattered? This is how a routine improves thinking over time: not by making every decision perfect, but by making mistakes easier to inspect.
 
@@ -735,194 +735,194 @@ A full routine is useful for major decisions, but many situations need something
 This is not a guarantee of wisdom. It is a small policy intervention for the mind: a repeatable pause inserted before commitment. Used selectively, it helps analytical thinking do its most important job in high-stakes choices — not producing endless analysis, but making the next commitment safer, clearer and easier to correct.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to A Safer Way to Make Big Decisions. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to A Safer Way to Make Big Decisions. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Directly covers widening options, reality-testing assumptions, managing uncertainty, and creating decision routines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers widening options, reality-testing assumptions, managing uncertainty, and creating decision routines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains the cognitive biases and process failures that make high-stakes decisions unsafe without safeguards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the cognitive biases and process failures that make high-stakes decisions unsafe without safeguards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_AP2EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
-        </h4>
-        <p class="fr-book-author">By Atul Gawande</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_AP2EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
+</h4>
+<p class="fr-book-author">By Atul Gawande</p>
         
-        <p class="fr-book-desc">Shows how simple routines and checklists reduce preventable errors in medicine, aviation, and complex organisations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how simple routines and checklists reduce preventable errors in medicine, aviation, and complex organisations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Teaches forecasting habits, uncertainty handling, evidence updates, and outside-view thinking useful before major commitments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches forecasting habits, uncertainty handling, evidence updates, and outside-view thinking useful before major commitments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 14 Food Allergens Sign Safer Food Better Business SFBB Poster Laminated x 1"><img src="{{ '/assets/images/marketplace-covers/77e4db726dd2a2b989db.jpg' | relative_url }}" alt="Listing image for 14 Food Allergens Sign Safer Food Better Business SFBB Poster Laminated x 1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">14 Food Allergens Sign Safer Food Better Business SFBB Poster Laminated x 1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: safer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 14 Food Allergens Sign Safer Food Better Business SFBB Poster Laminated x 1"><img src="{{ '/assets/images/marketplace-covers/77e4db726dd2a2b989db.jpg' | relative_url }}" alt="Listing image for 14 Food Allergens Sign Safer Food Better Business SFBB Poster Laminated x 1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">14 Food Allergens Sign Safer Food Better Business SFBB Poster Laminated x 1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: safer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spick and span? Good housekeeping a tidy place is a safer place Safety poster"><img src="{{ '/assets/images/marketplace-covers/87c8cfb66ca14c57dc0d.jpg' | relative_url }}" alt="Listing image for Spick and span? Good housekeeping a tidy place is a safer place Safety poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Spick and span? Good housekeeping a tidy place is a safer place Safety poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: safer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spick and span? Good housekeeping a tidy place is a safer place Safety poster"><img src="{{ '/assets/images/marketplace-covers/87c8cfb66ca14c57dc0d.jpg' | relative_url }}" alt="Listing image for Spick and span? Good housekeeping a tidy place is a safer place Safety poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Spick and span? Good housekeeping a tidy place is a safer place Safety poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: safer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Safer Food Better Business SFBB 1Y Diary, Genuine binding - 2 A4 allergy poster"><img src="{{ '/assets/images/marketplace-covers/5d7fb560bf33931a9c39.jpg' | relative_url }}" alt="Listing image for Safer Food Better Business SFBB 1Y Diary, Genuine binding - 2 A4 allergy poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Safer Food Better Business SFBB 1Y Diary, Genuine binding - 2 A4 allergy poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: safer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Safer Food Better Business SFBB 1Y Diary, Genuine binding - 2 A4 allergy poster"><img src="{{ '/assets/images/marketplace-covers/5d7fb560bf33931a9c39.jpg' | relative_url }}" alt="Listing image for Safer Food Better Business SFBB 1Y Diary, Genuine binding - 2 A4 allergy poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Safer Food Better Business SFBB 1Y Diary, Genuine binding - 2 A4 allergy poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: safer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Food Allergies Intolerance Sign Poster X 2 Laminated Safer Food Better Business"><img src="{{ '/assets/images/marketplace-covers/4fb29a6f398500a56029.jpg' | relative_url }}" alt="Listing image for Food Allergies Intolerance Sign Poster X 2 Laminated Safer Food Better Business" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Food Allergies Intolerance Sign Poster X 2 Laminated Safer Food Better Business</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: safer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Food Allergies Intolerance Sign Poster X 2 Laminated Safer Food Better Business"><img src="{{ '/assets/images/marketplace-covers/4fb29a6f398500a56029.jpg' | relative_url }}" alt="Listing image for Food Allergies Intolerance Sign Poster X 2 Laminated Safer Food Better Business" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Food Allergies Intolerance Sign Poster X 2 Laminated Safer Food Better Business</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for safer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: safer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=safer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="safer poster -book -books -dvd" data-ebay-reference="decision-routines-a-safer-way-to-make-big-decisions-improving-your-think-safer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -938,7 +938,7 @@ This is not a guarantee of wisdom. It is a small policy intervention for the min
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -958,7 +958,7 @@ This is not a guarantee of wisdom. It is a small policy intervention for the min
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -990,7 +990,7 @@ This is not a guarantee of wisdom. It is a small policy intervention for the min
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1042,7 +1042,7 @@ This is not a guarantee of wisdom. It is a small policy intervention for the min
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1087,7 +1087,7 @@ This is not a guarantee of wisdom. It is a small policy intervention for the min
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1128,223 +1128,223 @@ This is not a guarantee of wisdom. It is a small policy intervention for the min
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: the green book appraisal and evaluation in central government  
-   Link: <a href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government</a>  
+   Link:<a href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ispor.org  
    Title: Multiple Criteria Decision Analysis for Health Care  
-   Link: <a href="https://www.ispor.org/heor-resources/good-practices/article/multiple-criteria-decision-analysis-for-health-care-decision-making---emerging-good-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.ispor.org/heor-resources/good-practices/article/multiple-criteria-decision-analysis-for-health-care-decision-making---emerging-good-practices</a>  
+   Link:<a href="https://www.ispor.org/heor-resources/good-practices/article/multiple-criteria-decision-analysis-for-health-care-decision-making---emerging-good-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.ispor.org/heor-resources/good-practices/article/multiple-criteria-decision-analysis-for-health-care-decision-making---emerging-good-practices</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cancercontrol.cancer.gov  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDecision-Making During High-Risk Events  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: who.int  
    Title: 11 12 2010 checklist helps reduce surgical complications deaths  
-   Link: <a href="https://www.who.int/news/item/11-12-2010-checklist-helps-reduce-surgical-complications-deaths" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/11-12-2010-checklist-helps-reduce-surgical-complications-deaths</a>  
+   Link:<a href="https://www.who.int/news/item/11-12-2010-checklist-helps-reduce-surgical-complications-deaths" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/11-12-2010-checklist-helps-reduce-surgical-complications-deaths</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK The Green Book – UK government guidance on appraisal  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/698dbcd17da91680ad7f4308/The_Green_Book_2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/698dbcd17da91680ad7f4308/The_Green_Book_2026.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/698dbcd17da91680ad7f4308/The_Green_Book_2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/698dbcd17da91680ad7f4308/The_Green_Book_2026.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: analysisfunction.civilservice.gov.uk  
    Title: an introductory guide to mcda  
-   Link: <a href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/</a>  
+   Link:<a href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/233258056_Curbing_Optimism_Bias_and_Strategic_Misrepresentation_in_Planning_Reference_Class_Forecasting_in_Practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233258056_Curbing_Optimism_Bias_and_Strategic_Misrepresentation_in_Planning_Reference_Class_Forecasting_in_Practice</a>  
+   Link:<a href="https://www.researchgate.net/publication/233258056_Curbing_Optimism_Bias_and_Strategic_Misrepresentation_in_Planning_Reference_Class_Forecasting_in_Practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233258056_Curbing_Optimism_Bias_and_Strategic_Misrepresentation_in_Planning_Reference_Class_Forecasting_in_Practice</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227768493_Back_to_the_future_Temporal_perspective_in_the_explanation_of_events" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227768493_Back_to_the_future_Temporal_perspective_in_the_explanation_of_events</a>  
+   Link:<a href="https://www.researchgate.net/publication/227768493_Back_to_the_future_Temporal_perspective_in_the_explanation_of_events" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227768493_Back_to_the_future_Temporal_perspective_in_the_explanation_of_events</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
    Title: Research Gate Temporal Perspective in the Explanation of Events  
-   Link: <a href="https://www.researchgate.net/profile/J-Russo/publication/227768493_Back_to_the_future_Temporal_perspective_in_the_explanation_of_events/links/59b83a44458515bb9c43e1fe/Back-to-the-future-Temporal-perspective-in-the-explanation-of-events.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/J-Russo/publication/227768493_Back_to_the_future_Temporal_perspective_in_the_explanation_of_events/links/59b83a44458515bb9c43e1fe/Back-to-the-future-Temporal-perspective-in-the-explanation-of-events.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/J-Russo/publication/227768493_Back_to_the_future_Temporal_perspective_in_the_explanation_of_events/links/59b83a44458515bb9c43e1fe/Back-to-the-future-Temporal-perspective-in-the-explanation-of-events.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/J-Russo/publication/227768493_Back_to_the_future_Temporal_perspective_in_the_explanation_of_events/links/59b83a44458515bb9c43e1fe/Back-to-the-future-Temporal-perspective-in-the-explanation-of-events.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11643215/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11643215/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11643215/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11643215/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: data.london.gov.uk  
    Title: the green book 2026 updates following the 2025 review  
-   Link: <a href="https://data.london.gov.uk/blog/the-green-book-2026-updates-following-the-2025-review/" target="_blank" rel="noopener noreferrer nofollow">https://data.london.gov.uk/blog/the-green-book-2026-updates-following-the-2025-review/</a>  
+   Link:<a href="https://data.london.gov.uk/blog/the-green-book-2026-updates-following-the-2025-review/" target="_blank" rel="noopener noreferrer nofollow">https://data.london.gov.uk/blog/the-green-book-2026-updates-following-the-2025-review/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/355070855_Project_Pre-mortem_using_Prospective_Hindsight_An_Unexplored_Tool_to_address_Healthcare_Projects_Implementation_barriers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355070855_Project_Pre-mortem_using_Prospective_Hindsight_An_Unexplored_Tool_to_address_Healthcare_Projects_Implementation_barriers</a>  
+   Link:<a href="https://www.researchgate.net/publication/355070855_Project_Pre-mortem_using_Prospective_Hindsight_An_Unexplored_Tool_to_address_Healthcare_Projects_Implementation_barriers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355070855_Project_Pre-mortem_using_Prospective_Hindsight_An_Unexplored_Tool_to_address_Healthcare_Projects_Implementation_barriers</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
    Title: 3229642 Performing a Project Premortem  
-   Link: <a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
+   Link:<a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394886141_The_Impact_of_Cognitive_Biases_on_Decision-Making_in_High-Stakes_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394886141_The_Impact_of_Cognitive_Biases_on_Decision-Making_in_High-Stakes_Environments</a>  
+   Link:<a href="https://www.researchgate.net/publication/394886141_The_Impact_of_Cognitive_Biases_on_Decision-Making_in_High-Stakes_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394886141_The_Impact_of_Cognitive_Biases_on_Decision-Making_in_High-Stakes_Environments</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis</a>  
+   Link:<a href="https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/23789023_A_Surgical_Safety_Checklist_to_Reduce_Morbidity_and_Mortality_in_a_Global_Population" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23789023_A_Surgical_Safety_Checklist_to_Reduce_Morbidity_and_Mortality_in_a_Global_Population</a>  
+   Link:<a href="https://www.researchgate.net/publication/23789023_A_Surgical_Safety_Checklist_to_Reduce_Morbidity_and_Mortality_in_a_Global_Population" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23789023_A_Surgical_Safety_Checklist_to_Reduce_Morbidity_and_Mortality_in_a_Global_Population</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/286901473_Decision-making_with_uncertainty_The_value_of_information" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286901473_Decision-making_with_uncertainty_The_value_of_information</a>  
+   Link:<a href="https://www.researchgate.net/publication/286901473_Decision-making_with_uncertainty_The_value_of_information" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286901473_Decision-making_with_uncertainty_The_value_of_information</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Mohamed_Mourad_Lafifi/post/How-to-present-or-deal-with-MCDA-output-of-Aggregating-individual-Judgements-and-Aggregate-Individual-Priorities/attachment/5d4dfc55cfe4a7968dbec5df/AS%3A790125290201088%401565391957399/download/Multiple%2BCriteria%2BDecision%2BAnalysis%2Bfor%2BHealth%2BCare%2BDecisionMaking-%2BAn%2BIntroduction%2B_%2BReport%2B1%2Bof%2Bthe%2BISPOR%2BMCDAEmerging%2BGood%2BPractices%2BTask%2BForce.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Mohamed_Mourad_Lafifi/post/How-to-present-or-deal-with-MCDA-output-of-Aggregating-individual-Judgements-and-Aggregate-Individual-Priorities/attachment/5d4dfc55cfe4a7968dbec5df/AS%3A790125290201088%401565391957399/download/Multiple%2BCriteria%2BDecision%2BAnalysis%2Bfor%2BHealth%2BCare%2BDecisionMaking-%2BAn%2BIntroduction%2B_%2BReport%2B1%2Bof%2Bthe%2BISPOR%2BMCDAEmerging%2BGood%2BPractices%2BTask%2BForce.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Mohamed_Mourad_Lafifi/post/How-to-present-or-deal-with-MCDA-output-of-Aggregating-individual-Judgements-and-Aggregate-Individual-Priorities/attachment/5d4dfc55cfe4a7968dbec5df/AS%3A790125290201088%401565391957399/download/Multiple%2BCriteria%2BDecision%2BAnalysis%2Bfor%2BHealth%2BCare%2BDecisionMaking-%2BAn%2BIntroduction%2B_%2BReport%2B1%2Bof%2Bthe%2BISPOR%2BMCDAEmerging%2BGood%2BPractices%2BTask%2BForce.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Mohamed_Mourad_Lafifi/post/How-to-present-or-deal-with-MCDA-output-of-Aggregating-individual-Judgements-and-Aggregate-Individual-Priorities/attachment/5d4dfc55cfe4a7968dbec5df/AS%3A790125290201088%401565391957399/download/Multiple%2BCriteria%2BDecision%2BAnalysis%2Bfor%2BHealth%2BCare%2BDecisionMaking-%2BAn%2BIntroduction%2B_%2BReport%2B1%2Bof%2Bthe%2BISPOR%2BMCDAEmerging%2BGood%2BPractices%2BTask%2BForce.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40Thinkbeyondlab/the-high-stakes-decision-protocol-a-framework-for-cognitive-efficiency-b92fbf45db2c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Thinkbeyondlab/the-high-stakes-decision-protocol-a-framework-for-cognitive-efficiency-b92fbf45db2c</a>  
+   Link:<a href="https://medium.com/%40Thinkbeyondlab/the-high-stakes-decision-protocol-a-framework-for-cognitive-efficiency-b92fbf45db2c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Thinkbeyondlab/the-high-stakes-decision-protocol-a-framework-for-cognitive-efficiency-b92fbf45db2c</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40sean.j.moran/everyday-decisions-are-noisier-than-you-think-heres-how-to-fix-that-3a99dfaa8f59" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40sean.j.moran/everyday-decisions-are-noisier-than-you-think-heres-how-to-fix-that-3a99dfaa8f59</a>  
+   Link:<a href="https://medium.com/%40sean.j.moran/everyday-decisions-are-noisier-than-you-think-heres-how-to-fix-that-3a99dfaa8f59" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40sean.j.moran/everyday-decisions-are-noisier-than-you-think-heres-how-to-fix-that-3a99dfaa8f59</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12135" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12135</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12135" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12135</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nejm.org  
-   Link: <a href="https://www.nejm.org/doi/full/10.1056/NEJMsa0810119" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMsa0810119</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineA Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7765 — Introduction...</p></details>
+   Link:<a href="https://www.nejm.org/doi/full/10.1056/NEJMsa0810119" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMsa0810119</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineA Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7765 — Introduction...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pmi.org  
-   Link: <a href="https://www.pmi.org/learning/library/nobel-project-management-reference-class-forecasting-8068" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/learning/library/nobel-project-management-reference-class-forecasting-8068</a>  
+   Link:<a href="https://www.pmi.org/learning/library/nobel-project-management-reference-class-forecasting-8068" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/learning/library/nobel-project-management-reference-class-forecasting-8068</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theuncertaintyproject.org  
-   Link: <a href="https://www.theuncertaintyproject.org/tools/pre-mortem" target="_blank" rel="noopener noreferrer nofollow">https://www.theuncertaintyproject.org/tools/pre-mortem</a>  
+   Link:<a href="https://www.theuncertaintyproject.org/tools/pre-mortem" target="_blank" rel="noopener noreferrer nofollow">https://www.theuncertaintyproject.org/tools/pre-mortem</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: stat.berkeley.edu  
-   Link: <a href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf</a>  
+   Link:<a href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: behavioralscientist.org  
    Title: a conversation with daniel kahneman about noise  
-   Link: <a href="https://behavioralscientist.org/a-conversation-with-daniel-kahneman-about-noise/" target="_blank" rel="noopener noreferrer nofollow">https://behavioralscientist.org/a-conversation-with-daniel-kahneman-about-noise/</a>  
+   Link:<a href="https://behavioralscientist.org/a-conversation-with-daniel-kahneman-about-noise/" target="_blank" rel="noopener noreferrer nofollow">https://behavioralscientist.org/a-conversation-with-daniel-kahneman-about-noise/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/00018392221119294" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00018392221119294</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/00018392221119294" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00018392221119294</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12330140/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12330140/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12330140/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12330140/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19144931/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19144931/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/19144931/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19144931/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6652169/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6652169/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6652169/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6652169/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Analysis of competing hypotheses  
-   Link: <a href="https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
+   Link:<a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ueaeprints.uea.ac.uk  
-   Link: <a href="https://ueaeprints.uea.ac.uk/id/document/175715" target="_blank" rel="noopener noreferrer nofollow">https://ueaeprints.uea.ac.uk/id/document/175715</a>  
+   Link:<a href="https://ueaeprints.uea.ac.uk/id/document/175715" target="_blank" rel="noopener noreferrer nofollow">https://ueaeprints.uea.ac.uk/id/document/175715</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: theuncertaintyproject.org  
    Title: applying decision hygiene to yield better judgment  
-   Link: <a href="https://www.theuncertaintyproject.org/threads/applying-decision-hygiene-to-yield-better-judgment" target="_blank" rel="noopener noreferrer nofollow">https://www.theuncertaintyproject.org/threads/applying-decision-hygiene-to-yield-better-judgment</a>  
+   Link:<a href="https://www.theuncertaintyproject.org/threads/applying-decision-hygiene-to-yield-better-judgment" target="_blank" rel="noopener noreferrer nofollow">https://www.theuncertaintyproject.org/threads/applying-decision-hygiene-to-yield-better-judgment</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: enterpriseriskmag.com  
    Title: imagining a future  
-   Link: <a href="https://enterpriseriskmag.com/2019/02/imagining-a-future/" target="_blank" rel="noopener noreferrer nofollow">https://enterpriseriskmag.com/2019/02/imagining-a-future/</a>  
+   Link:<a href="https://enterpriseriskmag.com/2019/02/imagining-a-future/" target="_blank" rel="noopener noreferrer nofollow">https://enterpriseriskmag.com/2019/02/imagining-a-future/</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: How Leaders Make Decisions Under Pressure Without Freezing or Failing  
-   Link: <a href="https://www.youtube.com/watch?v=a6772MhZNUo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a6772MhZNUo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Decision routines&quot; high stakes choices thinking skills 5 tips to improve your [critical thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;) - Samantha Agoos TED-Ed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a6772MhZNUo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a6772MhZNUo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Decision routines&quot; high stakes choices thinking skills 5 tips to improve your [critical thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;) - Samantha Agoos TED-Ed...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: How Experienced SREs Make High-Stakes Decisions in Uncertain Situations  
-   Link: <a href="https://www.youtube.com/watch?v=VsMc3Ak52Gw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VsMc3Ak52Gw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Good Decisions | A Framework for Leaders Under Pressure...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VsMc3Ak52Gw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VsMc3Ak52Gw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Good Decisions | A Framework for Leaders Under Pressure...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: 5 tips to improve your critical thinking  
-   Link: <a href="https://www.youtube.com/watch?v=dItUGF8GdTw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dItUGF8GdTw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Experienced SREs Make High-Stakes Decisions in Uncertain Situations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dItUGF8GdTw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dItUGF8GdTw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Experienced SREs Make High-Stakes Decisions in Uncertain Situations...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: How to Make Good Decisions | A Framework for Leaders Under Pressure  
-   Link: <a href="https://www.youtube.com/watch?v=7pzB0IvQOjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7pzB0IvQOjw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking &amp; the Decision-Making Process...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7pzB0IvQOjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7pzB0IvQOjw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking &amp; the Decision-Making Process...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Critical Thinking & the Decision-Making Process  
-   Link: <a href="https://www.youtube.com/watch?v=2OWPEtC_dPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2OWPEtC_dPU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Leaders Make Decisions Under Pressure Without Freezing or Failing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2OWPEtC_dPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2OWPEtC_dPU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Leaders Make Decisions Under Pressure Without Freezing or Failing...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: arxiv.org  
    Title: arXiv From Nobel Prize to Project Management: Getting Risks Right  
-   Link: <a href="https://arxiv.org/abs/1302.3642" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1302.3642</a>  
+   Link:<a href="https://arxiv.org/abs/1302.3642" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1302.3642</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: 1000minds.com  
-   Link: <a href="https://www.1000minds.com/articles/noisy-expert-judgments" target="_blank" rel="noopener noreferrer nofollow">https://www.1000minds.com/articles/noisy-expert-judgments</a>  
+   Link:<a href="https://www.1000minds.com/articles/noisy-expert-judgments" target="_blank" rel="noopener noreferrer nofollow">https://www.1000minds.com/articles/noisy-expert-judgments</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/26452229/A_Surgical_Safety_Checklist_to_Reduce_Morbidity_and_Mortality_in_a_Global_Population" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/26452229/A_Surgical_Safety_Checklist_to_Reduce_Morbidity_and_Mortality_in_a_Global_Population</a>  
+   Link:<a href="https://www.academia.edu/26452229/A_Surgical_Safety_Checklist_to_Reduce_Morbidity_and_Mortality_in_a_Global_Population" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/26452229/A_Surgical_Safety_Checklist_to_Reduce_Morbidity_and_Mortality_in_a_Global_Population</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: futuribles.com  
-   Link: <a href="https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706" target="_blank" rel="noopener noreferrer nofollow">https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706</a>  
+   Link:<a href="https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706" target="_blank" rel="noopener noreferrer nofollow">https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: regulatoryreform.com  
-   Link: <a href="https://regulatoryreform.com/wp-content/uploads/2015/02/UK-Appraisal-and-Evaluation-in-Central-Governmentgreen_book_complete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://regulatoryreform.com/wp-content/uploads/2015/02/UK-Appraisal-and-Evaluation-in-Central-Governmentgreen_book_complete.pdf</a>  
+   Link:<a href="https://regulatoryreform.com/wp-content/uploads/2015/02/UK-Appraisal-and-Evaluation-in-Central-Governmentgreen_book_complete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://regulatoryreform.com/wp-content/uploads/2015/02/UK-Appraisal-and-Evaluation-in-Central-Governmentgreen_book_complete.pdf</a>  

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-28T12:37:06",
+  "generated_at": "2026-06-26T10:33:48",
   "passed": true,
   "baseline": {
     "article_pages": 242,
     "amazon_specific_pages": 211,
     "amazon_fallback_pages": 0,
-    "ebay_specific_pages": 211,
-    "ebay_fallback_pages": 0,
+    "ebay_specific_pages": 177,
+    "ebay_fallback_pages": 29,
     "pages": {
       "improving_your_think_da4710": {
         "amazon_specific": true,
@@ -14,49 +14,241 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_cause_correlation_008ee5": {
+      "improving_your_think_da4710_active_learning_a8cca9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_active_learning_a8cca9_close_book_recall_30ecb8": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_cause_correlation_008ee5_anscombes_quartet_a6a1df": {
+      "improving_your_think_da4710_active_learning_a8cca9_fresh_examples_trans_24dcb7": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_cause_correlation_008ee5_confounders_hidden_d_239664": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_cause_correlation_008ee5_fair_comparisons_475244": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_cause_correlation_008ee5_index": {
+      "improving_your_think_da4710_active_learning_a8cca9_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_cause_correlation_008ee5_randomised_trials_cbfee3": {
+      "improving_your_think_da4710_active_learning_a8cca9_practice_testing_lea_2d19c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_active_learning_a8cca9_prediction_before_ch_456999": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_cause_correlation_008ee5_simpsons_paradox_36ef7a": {
+      "improving_your_think_da4710_active_learning_a8cca9_self_explanation_ste_bf22b0": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_cause_correlation_008ee5_testable_mechanisms_4d51f6": {
+      "improving_your_think_da4710_active_learning_a8cca9_workplace_decision_r_880dce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0_accident_cause_chain_057479": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0_compatible_vs_select_81dd51": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0_competing_hypotheses_d99925": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0_delayed_reply_rivals_2bf045": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0_sales_drop_tracking_aa364e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0_training_control_gro_ccf6e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963_argument_mapping_pra_e55b61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963_argument_maps_vs_min_9d37e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963_conclusion_first_map_3084d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963_evidence_gaps_decisi_53b7e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963_hidden_assumptions_a_766e13": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963_objections_in_argume_36c49a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e_decision_review_trig_693dc9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e_disconfirming_eviden_de1884": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e_partial_confidence_u_5f1f5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e_premortem_change_sig_6c6f43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e_revision_conditions_0a1d53": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e_wason_246_experiment_80b6ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1_anecdotes_as_evidenc_303f30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1_late_replies_assumpt_d445ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1_policy_timing_causat_8ce948": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1_supplement_causal_cl_657e6b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1_toulmin_warrants_eve_0bf227": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1_work_complaints_evid_124a00": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -68,17 +260,17 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_feedbac_6aa270": {
+      "improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_persona_4eff62": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_confidence_calibrati_3ec11e_forecasting_tourname_5ba5fb": {
+      "improving_your_think_da4710_confidence_calibrati_3ec11e_good_judgment_lesson_ea91a6": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
       "improving_your_think_da4710_confidence_calibrati_3ec11e_index": {
         "amazon_specific": false,
@@ -86,509 +278,413 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_confidence_calibrati_3ec11e_narrow_confidence_in_fb59fd": {
+      "improving_your_think_da4710_confidence_calibrati_3ec11e_missed_prediction_re_740db4": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_confidence_calibrati_3ec11e_probability_words_66fb37": {
+      "improving_your_think_da4710_confidence_calibrati_3ec11e_probabilities_not_wo_bcc6f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_confidence_calibrati_3ec11e_scorable_forecast_qu_0298c2": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_confidence_calibrati_3ec11e_resolution_rules_4d6bea": {
+      "improving_your_think_da4710_confidence_calibrati_3ec11e_useful_prediction_ta_59e4ac": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_confidence_calibrati_3ec11e_update_triggers_6870d4": {
+      "improving_your_think_da4710_confirmation_bias_dee5c3": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d": {
+      "improving_your_think_da4710_confirmation_bias_dee5c3_health_symptom_confi_aa1ed0": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d_confidence_uncertain_b9424a": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d_correlation_causatio_db7bf3": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d_evidence_evaluation_ed7801": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d_explicit_reasoning_i_e07fe1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d_index": {
+      "improving_your_think_da4710_confirmation_bias_dee5c3_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d_metacognition_routin_64adf6": {
+      "improving_your_think_da4710_confirmation_bias_dee5c3_job_regret_question_f0d2d2": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d_transfer_limits_know_991d7b": {
+      "improving_your_think_da4710_confirmation_bias_dee5c3_protected_first_answ_379961": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9": {
+      "improving_your_think_da4710_confirmation_bias_dee5c3_relationship_red_fla_f948a9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9_decision_journal_tem_c492f8": {
+      "improving_your_think_da4710_confirmation_bias_dee5c3_rival_explanation_te_79df6c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_confirmation_bias_dee5c3_selective_search_tra_e8d79a": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9_hindsight_bias_revie_cca255": {
+      "improving_your_think_da4710_correlation_causatio_a505f2": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9_index": {
+      "improving_your_think_da4710_correlation_causatio_a505f2_berkeley_simpsons_pa_d6f352": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_correlation_causatio_a505f2_ice_cream_confoundin_2e30b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_correlation_causatio_a505f2_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9_outcome_bias_decisio_3bef10": {
+      "improving_your_think_da4710_correlation_causatio_a505f2_onboarding_selection_b550aa": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9_prediction_probabili_0b0809": {
+      "improving_your_think_da4710_correlation_causatio_a505f2_randomised_trials_fa_ab34e7": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9_promotion_decision_c_9e2b71": {
+      "improving_your_think_da4710_correlation_causatio_a505f2_revision_app_motivat_cacded": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9_rejected_alternative_fdfc3d": {
+      "improving_your_think_da4710_correlation_causatio_a505f2_sleep_mortality_mech_c2c0dc": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_distributed_practice_4a249b": {
+      "improving_your_think_da4710_decision_stakes_7c2e2a": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_distributed_practice_4a249b_cepeda_spacing_sweet_d86498": {
+      "improving_your_think_da4710_decision_stakes_7c2e2a_analysis_paralysis_l_6cea77": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_distributed_practice_4a249b_choosing_spacing_gap_bc08d9": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_distributed_practice_4a249b_cramming_fluency_tra_740155": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_distributed_practice_4a249b_forgetting_weak_link_ba522e": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_distributed_practice_4a249b_index": {
+      "improving_your_think_da4710_decision_stakes_7c2e2a_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_distributed_practice_4a249b_retrieval_before_rev_9afacd": {
+      "improving_your_think_da4710_decision_stakes_7c2e2a_one_way_door_decisio_8d398a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_decision_stakes_7c2e2a_premortem_failure_mo_94c7ce": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_distributed_practice_4a249b_spaced_varied_exampl_614b16": {
+      "improving_your_think_da4710_decision_stakes_7c2e2a_shared_risk_decision_6ce5c9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e": {
+      "improving_your_think_da4710_decision_stakes_7c2e2a_two_way_door_tests_688c6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_decision_stakes_7c2e2a_written_decision_not_4a72d2": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e_chess_expert_memory_97626c": {
+      "improving_your_think_da4710_deliberate_practice_ac56e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_deliberate_practice_ac56e9_alternative_explanat_fb89b7": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e_expert_problem_sorti_603ec7": {
+      "improving_your_think_da4710_deliberate_practice_ac56e9_argument_maps_weak_p_139107": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e_field_map_analysis_bf0afd": {
+      "improving_your_think_da4710_deliberate_practice_ac56e9_calibration_overconf_48d1c6": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e_generic_thinking_lim_0f398a": {
+      "improving_your_think_da4710_deliberate_practice_ac56e9_error_logs_reasoning_69ee61": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e_index": {
+      "improving_your_think_da4710_deliberate_practice_ac56e9_faded_prompts_indepe_e1ab5e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_deliberate_practice_ac56e9_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e_usable_knowledge_20bfad": {
+      "improving_your_think_da4710_deliberate_practice_ac56e9_prediction_logs_scor_8d2137": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e_wrong_problem_parts_ca3345": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61_affect_heuristic_sho_7dd38f": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69_confidence_not_actio_95da80": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61_anger_blame_certaint_2ec68f": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69_health_claim_standar_92b60f": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61_identity_protective_b82e9e": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69_index": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69_low_stakes_threshold_0a0b96": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61_misinformation_urgen_eba9d7": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69_mixed_evidence_bias_039c9f": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61_status_threat_revisi_a98310": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69_precommitment_tests_e63956": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61_stress_flexible_thin_10039d": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69_strong_signals_8e9089": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_expert_intuition_73d438": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7_after_action_reviews_3ee5df": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_expert_intuition_73d438_actuarial_vs_expert_da2dd6": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7_decision_journals_44d9d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_expert_intuition_73d438_chess_pattern_recogn_fa725f": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7_forecast_probabiliti_487fb6": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_expert_intuition_73d438_clinical_intuition_c_7607a6": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7_high_confidence_erro_a0b3bf": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_expert_intuition_73d438_fireground_rpd_7a1ddf": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_expert_intuition_73d438_forecasting_feedback_1390af": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_expert_intuition_73d438_index": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_expert_intuition_73d438_kind_wicked_environm_f79e63": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7_outcome_bias_9d7f23": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7_weak_feedback_enviro_511868": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724_close_source_recall_a4dec3": {
+      "improving_your_think_da4710_first_answer_traps_70dd40": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724_error_diagnosis_boun_9a990b": {
+      "improving_your_think_da4710_first_answer_traps_70dd40_backwards_answer_tes_89568e": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724_index": {
+      "improving_your_think_da4710_first_answer_traps_70dd40_bat_ball_constraint_ffac9c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_first_answer_traps_70dd40_crt_numeracy_limits_bb9c15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_first_answer_traps_70dd40_crt_prior_exposure_9e59b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_first_answer_traps_70dd40_fluency_false_confid_d29b93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_first_answer_traps_70dd40_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724_prediction_before_fe_59d667": {
+      "improving_your_think_da4710_first_answer_traps_70dd40_lily_pad_growth_erro_4cba98": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724_rereading_fluency_tr_bb372f": {
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724_self_explanation_mec_95a0aa": {
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d_absolute_risk_987114": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d_diet_causation_89eaa2": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724_transfer_tests_examp_d9473f": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_feedback_calibration_8a35f0": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_feedback_calibration_8a35f0_brier_scores_limits_363784": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_feedback_calibration_8a35f0_decision_records_hin_fcf162": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_feedback_calibration_8a35f0_fast_feedback_confid_0193a4": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_feedback_calibration_8a35f0_good_judgment_lesson_ea91a6": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_feedback_calibration_8a35f0_index": {
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_feedback_calibration_8a35f0_outcome_bias_decisio_3bef10": {
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d_screening_tradeoffs_c257de": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_feedback_calibration_8a35f0_probabilistic_foreca_98ad52": {
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d_supplement_claims_a2f58b": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_framing_effects_b0667d": {
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d_surrogate_markers_a98517": {
         "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_framing_effects_b0667d_career_experiment_fr_b070f6": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_framing_effects_b0667d_default_options_inac_310d30": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_framing_effects_b0667d_delivery_framing_tra_c60bea": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_framing_effects_b0667d_gain_loss_wording_7d9853": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_framing_effects_b0667d_index": {
-        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
-        "ebay_fallback": false
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_framing_effects_b0667d_outside_view_forecas_3f7565": {
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d_testimonials_placebo_98a2fa": {
         "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_framing_effects_b0667d_sunk_cost_commitment_31e4c5": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f_emergency_decision_r_3237e1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f_hidden_decision_cost_bb81f0": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f_index": {
-        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f_live_alternatives_e775b1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f_reference_class_fore_cd7842": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f_surgical_checklist_l_3f76cd": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f_uncertainty_checks_7da529": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_fallback": true
       },
       "improving_your_think_da4710_index": {
         "amazon_specific": false,
@@ -596,865 +692,769 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00": {
+      "improving_your_think_da4710_intellectual_humilit_ff42ae": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00_complex_choices_unco_edd5d5": {
+      "improving_your_think_da4710_intellectual_humilit_ff42ae_changing_mind_status_35736d": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00_false_fluency_9ed854": {
+      "improving_your_think_da4710_intellectual_humilit_ff42ae_confidence_evidence_e17e1a": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00_fast_frugal_rules_abc8bb": {
+      "improving_your_think_da4710_intellectual_humilit_ff42ae_core_beliefs_resist_890cd9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00_high_stakes_pause_c90402": {
+      "improving_your_think_da4710_intellectual_humilit_ff42ae_cynicism_humble_skep_cd056f": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00_index": {
+      "improving_your_think_da4710_intellectual_humilit_ff42ae_disconfirming_eviden_de1884": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_intellectual_humilit_ff42ae_humility_misinformat_9867ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_intellectual_humilit_ff42ae_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00_recognition_primed_d_0202fc": {
+      "improving_your_think_da4710_intuition_second_pas_ed3df6": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00_trained_gut_feelings_061d3c": {
+      "improving_your_think_da4710_intuition_second_pas_ed3df6_decision_hygiene_gro_72a896": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc": {
+      "improving_your_think_da4710_intuition_second_pas_ed3df6_emotional_activation_c715ae": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc_click_restraint_sear_2617c0": {
+      "improving_your_think_da4710_intuition_second_pas_ed3df6_expert_intuition_fee_94296d": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc_emotional_viral_clai_18915a": {
+      "improving_your_think_da4710_intuition_second_pas_ed3df6_false_familiarity_de_2ef2ee": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc_index": {
+      "improving_your_think_da4710_intuition_second_pas_ed3df6_fluent_wrong_answers_d4bff7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_intuition_second_pas_ed3df6_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc_polished_websites_mi_dd957d": {
+      "improving_your_think_da4710_intuition_second_pas_ed3df6_premature_closure_di_4ae153": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc_teaching_lateral_rea_6dc982": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53_career_growth_eviden_c08ff8": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc_who_is_behind_site_cf152b": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_live_alternatives_e775b1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_live_alternatives_e775b1_ach_everyday_matrix_68f92e": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_live_alternatives_e775b1_index": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_live_alternatives_e775b1_positive_test_strate_b8d5ce": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53_job_offer_downside_r_1ec8df": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_live_alternatives_e775b1_prediction_tests_riv_be4001": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53_job_offer_scorecard_d5ad7d": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_live_alternatives_e775b1_shared_evidence_trap_4a9729": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53_manager_quality_offe_bfac6b": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_live_alternatives_e775b1_testable_rival_expla_3d4ae2": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53_testing_job_fit_22419f": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_live_alternatives_e775b1_workplace_live_alter_683acb": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53_total_compensation_v_d1f34b": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334": {
+      "improving_your_think_da4710_metacognition_74edbc": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334_calibration_self_ass_0ec91a": {
+      "improving_your_think_da4710_metacognition_74edbc_after_action_metacog_b300b9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334_confidence_premature_65dc34": {
+      "improving_your_think_da4710_metacognition_74edbc_before_task_strategy_c94f72": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334_consider_opposite_bi_a65a23": {
+      "improving_your_think_da4710_metacognition_74edbc_confidence_evidence_ef0c00": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334_if_statement_assumpt_3977f7": {
+      "improving_your_think_da4710_metacognition_74edbc_during_task_strategy_28fd59": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334_index": {
+      "improving_your_think_da4710_metacognition_74edbc_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334_observation_interpre_81a70e": {
+      "improving_your_think_da4710_metacognition_74edbc_metacognition_real_t_0a978f": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334_same_standard_decisi_fecc47": {
+      "improving_your_think_da4710_metacognition_74edbc_reading_understandin_8995de": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5": {
+      "improving_your_think_da4710_online_claims_3bbb25": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5_identity_threat_corr_c8f0fd": {
+      "improving_your_think_da4710_online_claims_3bbb25_claim_size_evidence_c51d6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_online_claims_3bbb25_correction_policy_si_04505c": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5_index": {
+      "improving_your_think_da4710_online_claims_3bbb25_headline_evidence_ga_e337e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_online_claims_3bbb25_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5_intelligence_not_cur_8609ca": {
+      "improving_your_think_da4710_online_claims_3bbb25_lateral_reading_sour_b1df5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_online_claims_3bbb25_trace_viral_claims_ff2800": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5_mixed_evidence_harde_7e92ee": {
+      "improving_your_think_da4710_online_claims_3bbb25_verify_viral_visuals_a6cbd1": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5_motivated_scepticism_a93c8d": {
+      "improving_your_think_da4710_plain_english_teachi_399aee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_plain_english_teachi_399aee_causal_chain_explana_d6dcb2": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5_political_framing_nu_89bb4b": {
+      "improving_your_think_da4710_plain_english_teachi_399aee_illusion_explanatory_73fac0": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5_stop_arguing_like_la_cca6af": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_no_notes_explanation_891faf": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_no_notes_explanation_891faf_blank_page_explanati_f4cf15": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_no_notes_explanation_891faf_checking_explanation_8d35a1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_no_notes_explanation_891faf_illusion_explanatory_73fac0": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_no_notes_explanation_891faf_index": {
+      "improving_your_think_da4710_plain_english_teachi_399aee_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_no_notes_explanation_891faf_memory_diagrams_f042cb": {
+      "improving_your_think_da4710_plain_english_teachi_399aee_jargon_hiding_unders_125a65": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_no_notes_explanation_891faf_retrieval_practice_n_ff145b": {
+      "improving_your_think_da4710_plain_english_teachi_399aee_self_explanation_ret_cd9a6b": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_no_notes_explanation_891faf_self_explanation_exa_584b5c": {
+      "improving_your_think_da4710_plain_english_teachi_399aee_teach_back_questions_efab41": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f": {
+      "improving_your_think_da4710_plain_english_teachi_399aee_ten_minute_plain_eng_68964a": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f_ai_search_bias_ab5776": {
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f_autocomplete_bias_81fbde": {
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9_base_rates_special_c_330e02": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f_biased_query_wording_f68ac5": {
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9_decision_trees_outco_95fabc": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f_index": {
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9_expected_value_downs_0a6e06": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9_forecast_calibration_baa976": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f_missing_vocabulary_fda632": {
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9_natural_frequencies_e577b8": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f_narrow_search_effect_9a7565": {
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9_weighted_criteria_tr_5c2ddf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_problem_framing_7f52a6": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f_search_stopping_rule_835cc6": {
+      "improving_your_think_da4710_problem_framing_7f52a6_decision_quality_che_acaad9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad": {
+      "improving_your_think_da4710_problem_framing_7f52a6_five_question_framin_593120": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad_consider_opposite_ar_a5bd4e": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad_false_balance_disagr_4e0810": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad_humility_without_gul_89545b": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad_index": {
+      "improving_your_think_da4710_problem_framing_7f52a6_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad_myside_bias_hostile_96a25a": {
+      "improving_your_think_da4710_problem_framing_7f52a6_problem_type_reasoni_030a43": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad_receptive_listening_73ad89": {
+      "improving_your_think_da4710_problem_framing_7f52a6_solution_shaped_fram_2074a3": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad_strongest_opposing_a_102f34": {
+      "improving_your_think_da4710_problem_framing_7f52a6_symptoms_vs_causes_68799e": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599": {
+      "improving_your_think_da4710_problem_framing_7f52a6_wicked_problem_confl_fde782": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599_index": {
+      "improving_your_think_da4710_project_failure_syst_695c51": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_project_failure_syst_695c51_crossrail_hidden_com_ed2c9b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_project_failure_syst_695c51_green_milestones_int_06f2e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_project_failure_syst_695c51_ignored_risk_registe_4f936b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_project_failure_syst_695c51_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599_mistakes_feedback_277a1a": {
+      "improving_your_think_da4710_project_failure_syst_695c51_normalisation_devian_b46276": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599_reading_brain_dumps_1afd95": {
+      "improving_your_think_da4710_project_failure_syst_695c51_optimistic_cost_esti_49a0aa": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599_recall_vs_rereading_cd0ac4": {
+      "improving_your_think_da4710_project_failure_syst_695c51_project_decision_rig_8da924": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599_transfer_questions_ad96de": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599_usable_self_tests_1252b7": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5_clarifying_question_b1e894": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599_work_retrieval_routi_45888a": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5_critical_thinking_di_bcd8d0": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5_critical_trust_not_c_fc7504": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5_confidence_answer_ke_e67afb": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5_delphi_report_standa_9f8905": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5_index": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5_prediction_logs_feed_6ae798": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5_remote_work_producti_fe623d": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5_pretesting_wrong_gue_347650": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5_self_regulation_bias_bc4436": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5_right_answer_wrong_r_913adc": {
+      "improving_your_think_da4710_real_world_transfer_0cecd5": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5_surprise_attention_p_18fd3b": {
+      "improving_your_think_da4710_real_world_transfer_0cecd5_critical_thinking_tr_1f9f9e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5_worked_examples_next_951399": {
+      "improving_your_think_da4710_real_world_transfer_0cecd5_debiasing_training_t_29bbed": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_problem_breakdown_59ff8f": {
+      "improving_your_think_da4710_real_world_transfer_0cecd5_domain_knowledge_jud_286498": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_problem_breakdown_59ff8f_assumption_test_ab37e1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_problem_breakdown_59ff8f_causes_constraints_428762": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_problem_breakdown_59ff8f_competing_explanatio_70f8c0": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_problem_breakdown_59ff8f_decision_frame_38100b": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_problem_breakdown_59ff8f_diagnostic_evidence_33ce19": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_problem_breakdown_59ff8f_index": {
+      "improving_your_think_da4710_real_world_transfer_0cecd5_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_problem_breakdown_59ff8f_rebuilding_problem_l_e90efa": {
+      "improving_your_think_da4710_real_world_transfer_0cecd5_near_far_transfer_de_443b9f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_real_world_transfer_0cecd5_thinking_checklists_9f9fca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_real_world_transfer_0cecd5_thinking_real_world_976b1b": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2": {
+      "improving_your_think_da4710_retrieval_practice_750003": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2_better_outcome_measu_1d9ea7": {
+      "improving_your_think_da4710_retrieval_practice_750003_application_prompts_389924": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2_framing_effects_ques_a2d97c": {
+      "improving_your_think_da4710_retrieval_practice_750003_brain_dumps_missing_7cd538": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2_index": {
+      "improving_your_think_da4710_retrieval_practice_750003_closed_book_explanat_49712f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_retrieval_practice_750003_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2_pico_everyday_questi_e383d5": {
+      "improving_your_think_da4710_retrieval_practice_750003_low_stakes_retrieval_7a069a": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2_question_timeframes_0f38c9": {
+      "improving_your_think_da4710_retrieval_practice_750003_metacognitive_retrie_8a4e8c": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2_right_comparison_bef_2f5f47": {
+      "improving_your_think_da4710_retrieval_practice_750003_retrieval_feedback_l_ef6e5c": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2_testable_decision_qu_2933aa": {
+      "improving_your_think_da4710_strong_objections_4a9a76": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_real_problem_practic_466932": {
+      "improving_your_think_da4710_strong_objections_4a9a76_competing_hypotheses_2276fd": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_real_problem_practic_466932_authentic_assessment_98ad97": {
+      "improving_your_think_da4710_strong_objections_4a9a76_consider_the_opposit_d8b0ee": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_real_problem_practic_466932_feedback_loops_fdc3b7": {
+      "improving_your_think_da4710_strong_objections_4a9a76_devils_advocacy_grou_2c803f": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_real_problem_practic_466932_good_practice_proble_a6504c": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_real_problem_practic_466932_index": {
+      "improving_your_think_da4710_strong_objections_4a9a76_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_real_problem_practic_466932_prediction_notes_727267": {
+      "improving_your_think_da4710_strong_objections_4a9a76_premortem_failure_pa_b35348": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_real_problem_practic_466932_problem_based_learni_28feca": {
+      "improving_your_think_da4710_strong_objections_4a9a76_red_teams_groupthink_b8c78c": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_real_problem_practic_466932_transfer_gap_3c6a00": {
+      "improving_your_think_da4710_strong_objections_4a9a76_steelman_rival_view_1716c5": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_source_quality_af91d8": {
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_source_quality_af91d8_confirmation_bias_ag_a7753a": {
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42_argument_mapping_pra_8b7853": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_source_quality_af91d8_copied_claims_corrob_26d324": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_source_quality_af91d8_expertise_claim_fit_a7ce2a": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_source_quality_af91d8_independent_evidence_6c8401": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_source_quality_af91d8_index": {
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_source_quality_af91d8_news_anonymous_sourc_36e93e": {
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42_infusion_immersion_c_3df42e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42_modelling_reasoning_a7c323": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42_physics_data_judgeme_14eb38": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_source_quality_af91d8_science_replication_be7cad": {
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42_reasoning_feedback_0f08e6": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a": {
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42_thinking_transfer_ta_e076d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a_biased_assimilation_e839e3": {
+      "improving_your_think_da4710_thinking_mistakes_7c70ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_thinking_mistakes_7c70ba_availability_risk_daae70": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_thinking_mistakes_7c70ba_base_rates_11f2c9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a_housing_reform_steel_1746f8": {
+      "improving_your_think_da4710_thinking_mistakes_7c70ba_confirmation_bias_se_46d307": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a_index": {
+      "improving_your_think_da4710_thinking_mistakes_7c70ba_hidden_anchors_967a22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_thinking_mistakes_7c70ba_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a_opponents_test_f0ec1b": {
+      "improving_your_think_da4710_thinking_mistakes_7c70ba_planning_fallacy_fd46a8": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a_rapoports_rules_bac1fc": {
+      "improving_your_think_da4710_thinking_mistakes_7c70ba_sunk_costs_8f2993": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_three_parts_thinking_a75215": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a_return_to_office_ste_e919be": {
+      "improving_your_think_da4710_three_parts_thinking_a75215_actively_open_minded_2e2bbd": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a_strawman_traps_9465e7": {
+      "improving_your_think_da4710_three_parts_thinking_a75215_argument_mapping_8e4963": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4_choice_overload_trad_c5900b": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4_decision_fatigue_cho_2f4f5d": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4_decision_scores_fals_9319a6": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4_good_enough_decision_0ca615": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4_index": {
+      "improving_your_think_da4710_three_parts_thinking_a75215_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4_must_have_thresholds_60f43e": {
+      "improving_your_think_da4710_three_parts_thinking_a75215_intellectual_humilit_ff42ae": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4_opportunity_cost_mis_2f01c9": {
+      "improving_your_think_da4710_three_parts_thinking_a75215_overconfidence_check_29230e": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4": {
+      "improving_your_think_da4710_three_parts_thinking_a75215_real_world_practice_fbe835": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4_confirmation_bias_we_6cda4a": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4_index": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4_load_bearing_assumpt_b1e8d0": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4_measurement_assumpti_1cd582": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4_premortem_failure_ca_2dbece": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4_rival_explanations_8b35a7": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4_will_test_assumption_8e66f1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd_claim_evidence_table_95890a": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd_five_line_chains_b448f5": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd_index": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd_predecision_reasonin_0b4f0a": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd_self_explanation_pro_edad22": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd_team_reasoning_notes_2eec94": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd_weak_link_checks_93e61d": {
+      "improving_your_think_da4710_three_parts_thinking_a75215_self_regulated_learn_f5b946": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -1466,8 +1466,8 @@
     "article_pages": 242,
     "amazon_specific_pages": 211,
     "amazon_fallback_pages": 0,
-    "ebay_specific_pages": 211,
-    "ebay_fallback_pages": 0,
+    "ebay_specific_pages": 181,
+    "ebay_fallback_pages": 26,
     "pages": {
       "improving_your_think_da4710": {
         "amazon_specific": true,
@@ -1475,49 +1475,241 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_cause_correlation_008ee5": {
+      "improving_your_think_da4710_active_learning_a8cca9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_active_learning_a8cca9_close_book_recall_30ecb8": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_cause_correlation_008ee5_anscombes_quartet_a6a1df": {
+      "improving_your_think_da4710_active_learning_a8cca9_fresh_examples_trans_24dcb7": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_cause_correlation_008ee5_confounders_hidden_d_239664": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_cause_correlation_008ee5_fair_comparisons_475244": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_cause_correlation_008ee5_index": {
+      "improving_your_think_da4710_active_learning_a8cca9_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_cause_correlation_008ee5_randomised_trials_cbfee3": {
+      "improving_your_think_da4710_active_learning_a8cca9_practice_testing_lea_2d19c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_active_learning_a8cca9_prediction_before_ch_456999": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_cause_correlation_008ee5_simpsons_paradox_36ef7a": {
+      "improving_your_think_da4710_active_learning_a8cca9_self_explanation_ste_bf22b0": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_cause_correlation_008ee5_testable_mechanisms_4d51f6": {
+      "improving_your_think_da4710_active_learning_a8cca9_workplace_decision_r_880dce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0_accident_cause_chain_057479": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0_compatible_vs_select_81dd51": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0_competing_hypotheses_d99925": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0_delayed_reply_rivals_2bf045": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0_sales_drop_tracking_aa364e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_alternative_explanat_ee4fa0_training_control_gro_ccf6e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963_argument_mapping_pra_e55b61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963_argument_maps_vs_min_9d37e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963_conclusion_first_map_3084d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963_evidence_gaps_decisi_53b7e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963_hidden_assumptions_a_766e13": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_argument_mapping_8e4963_objections_in_argume_36c49a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e_decision_review_trig_693dc9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e_disconfirming_eviden_de1884": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e_partial_confidence_u_5f1f5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e_premortem_change_sig_6c6f43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e_revision_conditions_0a1d53": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_change_my_mind_f0f53e_wason_246_experiment_80b6ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1_anecdotes_as_evidenc_303f30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1_late_replies_assumpt_d445ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1_policy_timing_causat_8ce948": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1_supplement_causal_cl_657e6b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1_toulmin_warrants_eve_0bf227": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_claims_evidence_assu_a804b1_work_complaints_evid_124a00": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -1529,17 +1721,17 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_feedbac_6aa270": {
+      "improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_persona_4eff62": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_confidence_calibrati_3ec11e_forecasting_tourname_5ba5fb": {
+      "improving_your_think_da4710_confidence_calibrati_3ec11e_good_judgment_lesson_ea91a6": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
       "improving_your_think_da4710_confidence_calibrati_3ec11e_index": {
         "amazon_specific": false,
@@ -1547,509 +1739,413 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_confidence_calibrati_3ec11e_narrow_confidence_in_fb59fd": {
+      "improving_your_think_da4710_confidence_calibrati_3ec11e_missed_prediction_re_740db4": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_confidence_calibrati_3ec11e_probability_words_66fb37": {
+      "improving_your_think_da4710_confidence_calibrati_3ec11e_probabilities_not_wo_bcc6f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_confidence_calibrati_3ec11e_scorable_forecast_qu_0298c2": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_confidence_calibrati_3ec11e_resolution_rules_4d6bea": {
+      "improving_your_think_da4710_confidence_calibrati_3ec11e_useful_prediction_ta_59e4ac": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_confidence_calibrati_3ec11e_update_triggers_6870d4": {
+      "improving_your_think_da4710_confirmation_bias_dee5c3": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d": {
+      "improving_your_think_da4710_confirmation_bias_dee5c3_health_symptom_confi_aa1ed0": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d_confidence_uncertain_b9424a": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d_correlation_causatio_db7bf3": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d_evidence_evaluation_ed7801": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d_explicit_reasoning_i_e07fe1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d_index": {
+      "improving_your_think_da4710_confirmation_bias_dee5c3_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d_metacognition_routin_64adf6": {
+      "improving_your_think_da4710_confirmation_bias_dee5c3_job_regret_question_f0d2d2": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_critical_thinking_tr_28fa6d_transfer_limits_know_991d7b": {
+      "improving_your_think_da4710_confirmation_bias_dee5c3_protected_first_answ_379961": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9": {
+      "improving_your_think_da4710_confirmation_bias_dee5c3_relationship_red_fla_f948a9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9_decision_journal_tem_c492f8": {
+      "improving_your_think_da4710_confirmation_bias_dee5c3_rival_explanation_te_79df6c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_confirmation_bias_dee5c3_selective_search_tra_e8d79a": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9_hindsight_bias_revie_cca255": {
+      "improving_your_think_da4710_correlation_causatio_a505f2": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9_index": {
+      "improving_your_think_da4710_correlation_causatio_a505f2_berkeley_simpsons_pa_d6f352": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_correlation_causatio_a505f2_ice_cream_confoundin_2e30b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_correlation_causatio_a505f2_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9_outcome_bias_decisio_3bef10": {
+      "improving_your_think_da4710_correlation_causatio_a505f2_onboarding_selection_b550aa": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9_prediction_probabili_0b0809": {
+      "improving_your_think_da4710_correlation_causatio_a505f2_randomised_trials_fa_ab34e7": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9_promotion_decision_c_9e2b71": {
+      "improving_your_think_da4710_correlation_causatio_a505f2_revision_app_motivat_cacded": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_decision_journals_44d9d9_rejected_alternative_fdfc3d": {
+      "improving_your_think_da4710_correlation_causatio_a505f2_sleep_mortality_mech_c2c0dc": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_distributed_practice_4a249b": {
+      "improving_your_think_da4710_decision_stakes_7c2e2a": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_distributed_practice_4a249b_cepeda_spacing_sweet_d86498": {
+      "improving_your_think_da4710_decision_stakes_7c2e2a_analysis_paralysis_l_6cea77": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_distributed_practice_4a249b_choosing_spacing_gap_bc08d9": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_distributed_practice_4a249b_cramming_fluency_tra_740155": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_distributed_practice_4a249b_forgetting_weak_link_ba522e": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_distributed_practice_4a249b_index": {
+      "improving_your_think_da4710_decision_stakes_7c2e2a_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_distributed_practice_4a249b_retrieval_before_rev_9afacd": {
+      "improving_your_think_da4710_decision_stakes_7c2e2a_one_way_door_decisio_8d398a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_decision_stakes_7c2e2a_premortem_failure_mo_94c7ce": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_distributed_practice_4a249b_spaced_varied_exampl_614b16": {
+      "improving_your_think_da4710_decision_stakes_7c2e2a_shared_risk_decision_6ce5c9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e": {
+      "improving_your_think_da4710_decision_stakes_7c2e2a_two_way_door_tests_688c6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_decision_stakes_7c2e2a_written_decision_not_4a72d2": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e_chess_expert_memory_97626c": {
+      "improving_your_think_da4710_deliberate_practice_ac56e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_deliberate_practice_ac56e9_alternative_explanat_fb89b7": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e_expert_problem_sorti_603ec7": {
+      "improving_your_think_da4710_deliberate_practice_ac56e9_argument_maps_weak_p_139107": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e_field_map_analysis_bf0afd": {
+      "improving_your_think_da4710_deliberate_practice_ac56e9_calibration_overconf_48d1c6": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e_generic_thinking_lim_0f398a": {
+      "improving_your_think_da4710_deliberate_practice_ac56e9_error_logs_reasoning_69ee61": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e_index": {
+      "improving_your_think_da4710_deliberate_practice_ac56e9_faded_prompts_indepe_e1ab5e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_deliberate_practice_ac56e9_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e_usable_knowledge_20bfad": {
+      "improving_your_think_da4710_deliberate_practice_ac56e9_prediction_logs_scor_8d2137": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_domain_knowledge_96a03e_wrong_problem_parts_ca3345": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61_affect_heuristic_sho_7dd38f": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69_confidence_not_actio_95da80": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61_anger_blame_certaint_2ec68f": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69_health_claim_standar_92b60f": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61_identity_protective_b82e9e": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69_index": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69_low_stakes_threshold_0a0b96": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61_misinformation_urgen_eba9d7": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69_mixed_evidence_bias_039c9f": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61_status_threat_revisi_a98310": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69_precommitment_tests_e63956": {
+      "improving_your_think_da4710_emotion_identity_rea_e7cc61_stress_flexible_thin_10039d": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_evidence_standards_a40c69_strong_signals_8e9089": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_expert_intuition_73d438": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7_after_action_reviews_3ee5df": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_expert_intuition_73d438_actuarial_vs_expert_da2dd6": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7_decision_journals_44d9d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_expert_intuition_73d438_chess_pattern_recogn_fa725f": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7_forecast_probabiliti_487fb6": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_expert_intuition_73d438_clinical_intuition_c_7607a6": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7_high_confidence_erro_a0b3bf": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_expert_intuition_73d438_fireground_rpd_7a1ddf": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_expert_intuition_73d438_forecasting_feedback_1390af": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_expert_intuition_73d438_index": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_expert_intuition_73d438_kind_wicked_environm_f79e63": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7_outcome_bias_9d7f23": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724": {
+      "improving_your_think_da4710_feedback_loops_judgm_3e40b7_weak_feedback_enviro_511868": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724_close_source_recall_a4dec3": {
+      "improving_your_think_da4710_first_answer_traps_70dd40": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724_error_diagnosis_boun_9a990b": {
+      "improving_your_think_da4710_first_answer_traps_70dd40_backwards_answer_tes_89568e": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724_index": {
+      "improving_your_think_da4710_first_answer_traps_70dd40_bat_ball_constraint_ffac9c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_first_answer_traps_70dd40_crt_numeracy_limits_bb9c15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_first_answer_traps_70dd40_crt_prior_exposure_9e59b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_first_answer_traps_70dd40_fluency_false_confid_d29b93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_first_answer_traps_70dd40_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724_prediction_before_fe_59d667": {
+      "improving_your_think_da4710_first_answer_traps_70dd40_lily_pad_growth_erro_4cba98": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724_rereading_fluency_tr_bb372f": {
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724_self_explanation_mec_95a0aa": {
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d_absolute_risk_987114": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d_diet_causation_89eaa2": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_familiarity_trap_82f724_transfer_tests_examp_d9473f": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_feedback_calibration_8a35f0": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_feedback_calibration_8a35f0_brier_scores_limits_363784": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_feedback_calibration_8a35f0_decision_records_hin_fcf162": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_feedback_calibration_8a35f0_fast_feedback_confid_0193a4": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_feedback_calibration_8a35f0_good_judgment_lesson_ea91a6": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_feedback_calibration_8a35f0_index": {
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_feedback_calibration_8a35f0_outcome_bias_decisio_3bef10": {
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d_screening_tradeoffs_c257de": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_feedback_calibration_8a35f0_probabilistic_foreca_98ad52": {
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d_supplement_claims_a2f58b": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_framing_effects_b0667d": {
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d_surrogate_markers_a98517": {
         "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_framing_effects_b0667d_career_experiment_fr_b070f6": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_framing_effects_b0667d_default_options_inac_310d30": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_framing_effects_b0667d_delivery_framing_tra_c60bea": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_framing_effects_b0667d_gain_loss_wording_7d9853": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_framing_effects_b0667d_index": {
-        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
-        "ebay_fallback": false
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_framing_effects_b0667d_outside_view_forecas_3f7565": {
+      "improving_your_think_da4710_health_claim_skeptic_4efb5d_testimonials_placebo_98a2fa": {
         "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_framing_effects_b0667d_sunk_cost_commitment_31e4c5": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f_emergency_decision_r_3237e1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f_hidden_decision_cost_bb81f0": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f_index": {
-        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f_live_alternatives_e775b1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f_reference_class_fore_cd7842": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f_surgical_checklist_l_3f76cd": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_high_stakes_decision_b09c8f_uncertainty_checks_7da529": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_fallback": true
       },
       "improving_your_think_da4710_index": {
         "amazon_specific": false,
@@ -2057,865 +2153,769 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00": {
+      "improving_your_think_da4710_intellectual_humilit_ff42ae": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00_complex_choices_unco_edd5d5": {
+      "improving_your_think_da4710_intellectual_humilit_ff42ae_changing_mind_status_35736d": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00_false_fluency_9ed854": {
+      "improving_your_think_da4710_intellectual_humilit_ff42ae_confidence_evidence_e17e1a": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00_fast_frugal_rules_abc8bb": {
+      "improving_your_think_da4710_intellectual_humilit_ff42ae_core_beliefs_resist_890cd9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00_high_stakes_pause_c90402": {
+      "improving_your_think_da4710_intellectual_humilit_ff42ae_cynicism_humble_skep_cd056f": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00_index": {
+      "improving_your_think_da4710_intellectual_humilit_ff42ae_disconfirming_eviden_de1884": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_intellectual_humilit_ff42ae_humility_misinformat_9867ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_intellectual_humilit_ff42ae_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00_recognition_primed_d_0202fc": {
+      "improving_your_think_da4710_intuition_second_pas_ed3df6": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_intuition_vs_analysi_f4ec00_trained_gut_feelings_061d3c": {
+      "improving_your_think_da4710_intuition_second_pas_ed3df6_decision_hygiene_gro_72a896": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc": {
+      "improving_your_think_da4710_intuition_second_pas_ed3df6_emotional_activation_c715ae": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc_click_restraint_sear_2617c0": {
+      "improving_your_think_da4710_intuition_second_pas_ed3df6_expert_intuition_fee_94296d": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc_emotional_viral_clai_18915a": {
+      "improving_your_think_da4710_intuition_second_pas_ed3df6_false_familiarity_de_2ef2ee": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc_index": {
+      "improving_your_think_da4710_intuition_second_pas_ed3df6_fluent_wrong_answers_d4bff7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_intuition_second_pas_ed3df6_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc_polished_websites_mi_dd957d": {
+      "improving_your_think_da4710_intuition_second_pas_ed3df6_premature_closure_di_4ae153": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc_teaching_lateral_rea_6dc982": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53_career_growth_eviden_c08ff8": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_lateral_reading_afeebc_who_is_behind_site_cf152b": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_live_alternatives_e775b1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_live_alternatives_e775b1_ach_everyday_matrix_68f92e": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_live_alternatives_e775b1_index": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_live_alternatives_e775b1_positive_test_strate_b8d5ce": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53_job_offer_downside_r_1ec8df": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_live_alternatives_e775b1_prediction_tests_riv_be4001": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53_job_offer_scorecard_d5ad7d": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_live_alternatives_e775b1_shared_evidence_trap_4a9729": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53_manager_quality_offe_bfac6b": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_live_alternatives_e775b1_testable_rival_expla_3d4ae2": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53_testing_job_fit_22419f": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_live_alternatives_e775b1_workplace_live_alter_683acb": {
+      "improving_your_think_da4710_job_offer_tradeoffs_769c53_total_compensation_v_d1f34b": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334": {
+      "improving_your_think_da4710_metacognition_74edbc": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334_calibration_self_ass_0ec91a": {
+      "improving_your_think_da4710_metacognition_74edbc_after_action_metacog_b300b9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334_confidence_premature_65dc34": {
+      "improving_your_think_da4710_metacognition_74edbc_before_task_strategy_c94f72": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334_consider_opposite_bi_a65a23": {
+      "improving_your_think_da4710_metacognition_74edbc_confidence_evidence_ef0c00": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334_if_statement_assumpt_3977f7": {
+      "improving_your_think_da4710_metacognition_74edbc_during_task_strategy_28fd59": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334_index": {
+      "improving_your_think_da4710_metacognition_74edbc_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334_observation_interpre_81a70e": {
+      "improving_your_think_da4710_metacognition_74edbc_metacognition_real_t_0a978f": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_metacognition_assump_b47334_same_standard_decisi_fecc47": {
+      "improving_your_think_da4710_metacognition_74edbc_reading_understandin_8995de": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5": {
+      "improving_your_think_da4710_online_claims_3bbb25": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5_identity_threat_corr_c8f0fd": {
+      "improving_your_think_da4710_online_claims_3bbb25_claim_size_evidence_c51d6f": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5_index": {
+      "improving_your_think_da4710_online_claims_3bbb25_correction_policy_si_04505c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_online_claims_3bbb25_headline_evidence_ga_e337e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_online_claims_3bbb25_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5_intelligence_not_cur_8609ca": {
+      "improving_your_think_da4710_online_claims_3bbb25_lateral_reading_sour_b1df5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_online_claims_3bbb25_trace_viral_claims_ff2800": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5_mixed_evidence_harde_7e92ee": {
+      "improving_your_think_da4710_online_claims_3bbb25_verify_viral_visuals_a6cbd1": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5_motivated_scepticism_a93c8d": {
+      "improving_your_think_da4710_plain_english_teachi_399aee": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5_political_framing_nu_89bb4b": {
+      "improving_your_think_da4710_plain_english_teachi_399aee_causal_chain_explana_d6dcb2": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_myside_bias_de0ec5_stop_arguing_like_la_cca6af": {
+      "improving_your_think_da4710_plain_english_teachi_399aee_illusion_explanatory_73fac0": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_no_notes_explanation_891faf": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_no_notes_explanation_891faf_blank_page_explanati_f4cf15": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_no_notes_explanation_891faf_checking_explanation_8d35a1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_no_notes_explanation_891faf_illusion_explanatory_73fac0": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_no_notes_explanation_891faf_index": {
+      "improving_your_think_da4710_plain_english_teachi_399aee_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_no_notes_explanation_891faf_memory_diagrams_f042cb": {
+      "improving_your_think_da4710_plain_english_teachi_399aee_jargon_hiding_unders_125a65": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_no_notes_explanation_891faf_retrieval_practice_n_ff145b": {
+      "improving_your_think_da4710_plain_english_teachi_399aee_self_explanation_ret_cd9a6b": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_no_notes_explanation_891faf_self_explanation_exa_584b5c": {
+      "improving_your_think_da4710_plain_english_teachi_399aee_teach_back_questions_efab41": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f": {
+      "improving_your_think_da4710_plain_english_teachi_399aee_ten_minute_plain_eng_68964a": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f_ai_search_bias_ab5776": {
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f_autocomplete_bias_81fbde": {
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9_base_rates_special_c_330e02": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f_biased_query_wording_f68ac5": {
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9_decision_trees_outco_95fabc": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f_index": {
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9_expected_value_downs_0a6e06": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9_forecast_calibration_baa976": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f_missing_vocabulary_fda632": {
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9_natural_frequencies_e577b8": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f_narrow_search_effect_9a7565": {
+      "improving_your_think_da4710_probabilities_tradeo_aa66d9_weighted_criteria_tr_5c2ddf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_problem_framing_7f52a6": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_online_confirmation_d4dd0f_search_stopping_rule_835cc6": {
+      "improving_your_think_da4710_problem_framing_7f52a6_decision_quality_che_acaad9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad": {
+      "improving_your_think_da4710_problem_framing_7f52a6_five_question_framin_593120": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad_consider_opposite_ar_a5bd4e": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad_false_balance_disagr_4e0810": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad_humility_without_gul_89545b": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad_index": {
+      "improving_your_think_da4710_problem_framing_7f52a6_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad_myside_bias_hostile_96a25a": {
+      "improving_your_think_da4710_problem_framing_7f52a6_problem_type_reasoni_030a43": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad_receptive_listening_73ad89": {
+      "improving_your_think_da4710_problem_framing_7f52a6_solution_shaped_fram_2074a3": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_open_minded_thinking_b0c2ad_strongest_opposing_a_102f34": {
+      "improving_your_think_da4710_problem_framing_7f52a6_symptoms_vs_causes_68799e": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599": {
+      "improving_your_think_da4710_problem_framing_7f52a6_wicked_problem_confl_fde782": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599_index": {
+      "improving_your_think_da4710_project_failure_syst_695c51": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_project_failure_syst_695c51_crossrail_hidden_com_ed2c9b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_project_failure_syst_695c51_green_milestones_int_06f2e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_project_failure_syst_695c51_ignored_risk_registe_4f936b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_project_failure_syst_695c51_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599_mistakes_feedback_277a1a": {
+      "improving_your_think_da4710_project_failure_syst_695c51_normalisation_devian_b46276": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599_reading_brain_dumps_1afd95": {
+      "improving_your_think_da4710_project_failure_syst_695c51_optimistic_cost_esti_49a0aa": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599_recall_vs_rereading_cd0ac4": {
+      "improving_your_think_da4710_project_failure_syst_695c51_project_decision_rig_8da924": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599_transfer_questions_ad96de": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599_usable_self_tests_1252b7": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5_clarifying_question_b1e894": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_practice_testing_35a599_work_retrieval_routi_45888a": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5_critical_thinking_di_bcd8d0": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5_critical_trust_not_c_fc7504": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5_confidence_answer_ke_e67afb": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5_delphi_report_standa_9f8905": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5_index": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5_prediction_logs_feed_6ae798": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5_remote_work_producti_fe623d": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5_pretesting_wrong_gue_347650": {
+      "improving_your_think_da4710_purposeful_judgment_54a3a5_self_regulation_bias_bc4436": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5_right_answer_wrong_r_913adc": {
+      "improving_your_think_da4710_real_world_transfer_0cecd5": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5_surprise_attention_p_18fd3b": {
+      "improving_your_think_da4710_real_world_transfer_0cecd5_critical_thinking_tr_1f9f9e": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_prediction_habits_f0daf5_worked_examples_next_951399": {
+      "improving_your_think_da4710_real_world_transfer_0cecd5_debiasing_training_t_29bbed": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_problem_breakdown_59ff8f": {
+      "improving_your_think_da4710_real_world_transfer_0cecd5_domain_knowledge_jud_286498": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_problem_breakdown_59ff8f_assumption_test_ab37e1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_problem_breakdown_59ff8f_causes_constraints_428762": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_problem_breakdown_59ff8f_competing_explanatio_70f8c0": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_problem_breakdown_59ff8f_decision_frame_38100b": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_problem_breakdown_59ff8f_diagnostic_evidence_33ce19": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_problem_breakdown_59ff8f_index": {
+      "improving_your_think_da4710_real_world_transfer_0cecd5_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_problem_breakdown_59ff8f_rebuilding_problem_l_e90efa": {
+      "improving_your_think_da4710_real_world_transfer_0cecd5_near_far_transfer_de_443b9f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_real_world_transfer_0cecd5_thinking_checklists_9f9fca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_real_world_transfer_0cecd5_thinking_real_world_976b1b": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2": {
+      "improving_your_think_da4710_retrieval_practice_750003": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2_better_outcome_measu_1d9ea7": {
+      "improving_your_think_da4710_retrieval_practice_750003_application_prompts_389924": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2_framing_effects_ques_a2d97c": {
+      "improving_your_think_da4710_retrieval_practice_750003_brain_dumps_missing_7cd538": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2_index": {
+      "improving_your_think_da4710_retrieval_practice_750003_closed_book_explanat_49712f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_retrieval_practice_750003_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2_pico_everyday_questi_e383d5": {
+      "improving_your_think_da4710_retrieval_practice_750003_low_stakes_retrieval_7a069a": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2_question_timeframes_0f38c9": {
+      "improving_your_think_da4710_retrieval_practice_750003_metacognitive_retrie_8a4e8c": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2_right_comparison_bef_2f5f47": {
+      "improving_your_think_da4710_retrieval_practice_750003_retrieval_feedback_l_ef6e5c": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_question_design_1265c2_testable_decision_qu_2933aa": {
+      "improving_your_think_da4710_strong_objections_4a9a76": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_real_problem_practic_466932": {
+      "improving_your_think_da4710_strong_objections_4a9a76_competing_hypotheses_2276fd": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_real_problem_practic_466932_authentic_assessment_98ad97": {
+      "improving_your_think_da4710_strong_objections_4a9a76_consider_the_opposit_d8b0ee": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_real_problem_practic_466932_feedback_loops_fdc3b7": {
+      "improving_your_think_da4710_strong_objections_4a9a76_devils_advocacy_grou_2c803f": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_real_problem_practic_466932_good_practice_proble_a6504c": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_real_problem_practic_466932_index": {
+      "improving_your_think_da4710_strong_objections_4a9a76_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_real_problem_practic_466932_prediction_notes_727267": {
+      "improving_your_think_da4710_strong_objections_4a9a76_premortem_failure_pa_b35348": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_real_problem_practic_466932_problem_based_learni_28feca": {
+      "improving_your_think_da4710_strong_objections_4a9a76_red_teams_groupthink_b8c78c": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_real_problem_practic_466932_transfer_gap_3c6a00": {
+      "improving_your_think_da4710_strong_objections_4a9a76_steelman_rival_view_1716c5": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_source_quality_af91d8": {
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_source_quality_af91d8_confirmation_bias_ag_a7753a": {
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42_argument_mapping_pra_8b7853": {
         "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
+        "ebay_specific": false,
+        "ebay_fallback": true
       },
-      "improving_your_think_da4710_source_quality_af91d8_copied_claims_corrob_26d324": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_source_quality_af91d8_expertise_claim_fit_a7ce2a": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_source_quality_af91d8_independent_evidence_6c8401": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_source_quality_af91d8_index": {
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_source_quality_af91d8_news_anonymous_sourc_36e93e": {
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42_infusion_immersion_c_3df42e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42_modelling_reasoning_a7c323": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42_physics_data_judgeme_14eb38": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_source_quality_af91d8_science_replication_be7cad": {
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42_reasoning_feedback_0f08e6": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a": {
+      "improving_your_think_da4710_teaching_thinking_sk_b24d42_thinking_transfer_ta_e076d9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a_biased_assimilation_e839e3": {
+      "improving_your_think_da4710_thinking_mistakes_7c70ba": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a_housing_reform_steel_1746f8": {
+      "improving_your_think_da4710_thinking_mistakes_7c70ba_availability_risk_daae70": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_thinking_mistakes_7c70ba_base_rates_11f2c9": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a_index": {
+      "improving_your_think_da4710_thinking_mistakes_7c70ba_confirmation_bias_se_46d307": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "improving_your_think_da4710_thinking_mistakes_7c70ba_hidden_anchors_967a22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_thinking_mistakes_7c70ba_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a_opponents_test_f0ec1b": {
+      "improving_your_think_da4710_thinking_mistakes_7c70ba_planning_fallacy_fd46a8": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a_rapoports_rules_bac1fc": {
+      "improving_your_think_da4710_thinking_mistakes_7c70ba_sunk_costs_8f2993": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "improving_your_think_da4710_three_parts_thinking_a75215": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a_return_to_office_ste_e919be": {
+      "improving_your_think_da4710_three_parts_thinking_a75215_actively_open_minded_2e2bbd": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_steelmanning_argumen_91444a_strawman_traps_9465e7": {
+      "improving_your_think_da4710_three_parts_thinking_a75215_argument_mapping_8e4963": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4_choice_overload_trad_c5900b": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4_decision_fatigue_cho_2f4f5d": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4_decision_scores_fals_9319a6": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4_good_enough_decision_0ca615": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4_index": {
+      "improving_your_think_da4710_three_parts_thinking_a75215_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4_must_have_thresholds_60f43e": {
+      "improving_your_think_da4710_three_parts_thinking_a75215_intellectual_humilit_ff42ae": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_tradeoff_thinking_70bcb4_opportunity_cost_mis_2f01c9": {
+      "improving_your_think_da4710_three_parts_thinking_a75215_overconfidence_check_29230e": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4": {
+      "improving_your_think_da4710_three_parts_thinking_a75215_real_world_practice_fbe835": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4_confirmation_bias_we_6cda4a": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4_index": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4_load_bearing_assumpt_b1e8d0": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4_measurement_assumpti_1cd582": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4_premortem_failure_ca_2dbece": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4_rival_explanations_8b35a7": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_weakest_link_assumpt_7c77f4_will_test_assumption_8e66f1": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd_claim_evidence_table_95890a": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd_five_line_chains_b448f5": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd_index": {
-        "amazon_specific": false,
-        "amazon_fallback": false,
-        "ebay_specific": false,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd_predecision_reasonin_0b4f0a": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd_self_explanation_pro_edad22": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd_team_reasoning_notes_2eec94": {
-        "amazon_specific": true,
-        "amazon_fallback": false,
-        "ebay_specific": true,
-        "ebay_fallback": false
-      },
-      "improving_your_think_da4710_written_reasoning_ch_b4e5fd_weak_link_checks_93e61d": {
+      "improving_your_think_da4710_three_parts_thinking_a75215_self_regulated_learn_f5b946": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,

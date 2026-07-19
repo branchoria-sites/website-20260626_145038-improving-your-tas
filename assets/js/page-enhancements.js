@@ -140,6 +140,12 @@
     if (!link || typeof link.closest !== "function") {
       return "unknown";
     }
+    if (link.getAttribute("data-affiliate-placement")) {
+      return String(link.getAttribute("data-affiliate-placement"));
+    }
+    if (link.closest("[data-ebay-listing-card]")) {
+      return "listing_card";
+    }
     if (link.closest(".fr-book-card")) {
       return "book_card";
     }
@@ -159,17 +165,35 @@
       if (!link) {
         return;
       }
-      var merchant = affiliateMerchantFromUrl(link.href);
-      if (!merchant || typeof window.gtag !== "function") {
+      var merchant = String(link.getAttribute("data-affiliate-merchant") || affiliateMerchantFromUrl(link.href));
+      if (!merchant) {
         return;
       }
-      window.gtag("event", "affiliate_click", {
+      var destination = null;
+      try {
+        destination = new URL(String(link.href || ""), window.location.href);
+      } catch (err) {
+        destination = null;
+      }
+      var section = link.closest("[data-ebay-experiment]");
+      var detail = {
         affiliate_merchant: merchant,
         affiliate_placement: affiliatePlacementForLink(link),
-        link_url: String(link.href || ""),
+        destination_host: destination ? String(destination.hostname || "") : "",
+        destination_path: destination ? String(destination.pathname || "").slice(0, 160) : "",
         link_text: String(link.textContent || "").replace(/\s+/g, " ").trim().slice(0, 120),
+        ebay_card_kind: String(link.getAttribute("data-ebay-card-kind") || ""),
+        ebay_card_position: String(link.getAttribute("data-ebay-card-position") || ""),
+        experiment: section ? String(section.getAttribute("data-ebay-experiment") || "") : "",
+        experiment_variant: section ? String(section.getAttribute("data-ebay-experiment-variant") || "") : ""
+      };
+      document.dispatchEvent(new CustomEvent("phoenix:affiliate-click", { detail: detail }));
+      if (typeof window.gtag !== "function") {
+        return;
+      }
+      window.gtag("event", "affiliate_click", Object.assign({}, detail, {
         transport_type: "beacon"
-      });
+      }));
     });
   }
 
@@ -8856,7 +8880,75 @@
   }
 
   function initPageActionButtons() {
-    return;
+    var copyLinkButtons = document.querySelectorAll("[data-page-copy-link]");
+    var copyCitationButtons = document.querySelectorAll("[data-page-copy-citation]");
+    var printButtons = document.querySelectorAll("[data-page-print]");
+    if (!copyLinkButtons.length && !copyCitationButtons.length && !printButtons.length) {
+      return;
+    }
+
+    function getCanonicalPageUrl() {
+      var canonical = document.querySelector('link[rel="canonical"]');
+      var rawUrl = canonical ? String(canonical.getAttribute("href") || "").trim() : "";
+      try {
+        var parsed = new URL(rawUrl || window.location.href, window.location.href);
+        parsed.hash = "";
+        return parsed.href;
+      } catch (err) {
+        return String(window.location.href || "").split("#")[0];
+      }
+    }
+
+    function buildPageCitation() {
+      var heading = document.querySelector(".article-hero h1, .article-content h1, h1");
+      var siteTitle = document.querySelector(".site-title-full")
+        || document.querySelector(".site-title-short")
+        || document.querySelector(".site-title");
+      var pageTitle = String(heading ? heading.textContent : document.title || "Untitled report")
+        .replace(/\s+/g, " ")
+        .trim();
+      var collectionTitle = String(siteTitle ? siteTitle.textContent : "")
+        .replace(/\s+/g, " ")
+        .trim();
+      var language = String(document.documentElement.lang || "en").trim() || "en";
+      var accessedLabel = language.toLowerCase().indexOf("fr") === 0 ? "consulté le" : "accessed";
+      var accessedDate = "";
+      try {
+        accessedDate = new Intl.DateTimeFormat(language, {
+          year: "numeric",
+          month: "long",
+          day: "numeric"
+        }).format(new Date());
+      } catch (err) {
+        accessedDate = new Date().toISOString().slice(0, 10);
+      }
+      var parts = [pageTitle];
+      if (collectionTitle && collectionTitle.toLowerCase() !== pageTitle.toLowerCase()) {
+        parts.push(collectionTitle);
+      }
+      parts.push(getCanonicalPageUrl());
+      return parts.join(". ") + " (" + accessedLabel + " " + accessedDate + ").";
+    }
+
+    function attachCopyAction(buttons, getValue, successMessageKey, successFallback) {
+      Array.prototype.forEach.call(buttons, function (button) {
+        button.addEventListener("click", function () {
+          copyTextToClipboard(getValue()).then(function () {
+            showPageActionToast(getUiString(successMessageKey, successFallback));
+          }).catch(function () {
+            showPageActionToast(getUiString("copy-failed", "Copy failed"));
+          });
+        });
+      });
+    }
+
+    attachCopyAction(copyLinkButtons, getCanonicalPageUrl, "link-copied", "Link copied");
+    attachCopyAction(copyCitationButtons, buildPageCitation, "citation-copied", "Citation copied");
+    Array.prototype.forEach.call(printButtons, function (button) {
+      button.addEventListener("click", function () {
+        window.print();
+      });
+    });
   }
 
   function initImageLightbox() {
@@ -9104,6 +9196,7 @@
     var fallbackSummary = root.getAttribute('data-map-fallback-summary') || 'Open this item from the map.';
     var previewPreloadLimit = root.getAttribute('data-map-preview-preload') || 'all';
     var mapFitMode = root.getAttribute('data-map-fit') || '';
+    var mapLayout = String(root.getAttribute('data-map-layout') || '').trim().toLowerCase();
     var initialItemId = String(root.getAttribute('data-map-initial-item') || '').trim().toUpperCase();
     if (!canvas || !mapSrc || !dataSrc) {
       return;
@@ -9129,6 +9222,17 @@
         };
         xhr.onerror = function() { reject(new Error('Failed to load ' + url)); };
         xhr.send();
+      });
+    };
+    var loadTextWithRetry = function(url) {
+      return loadText(url).catch(function(firstError) {
+        return new Promise(function(resolve) {
+          window.setTimeout(resolve, 180);
+        }).then(function() {
+          return loadText(url);
+        }).catch(function() {
+          throw firstError;
+        });
       });
     };
 
@@ -9373,9 +9477,65 @@
       };
       window.setTimeout(preloadNext, 450);
     };
+    var bindPreviewImageFallback = function() {
+      if (!preview) {
+        return;
+      }
+      var image = preview.querySelector('img');
+      if (!image) {
+        preview.classList.remove('is-image-loading');
+        preview.removeAttribute('aria-busy');
+        preview.classList.add('is-image-missing');
+        return;
+      }
+      var removeBrokenImage = function() {
+        if (image.parentNode === preview) {
+          preview.removeChild(image);
+        }
+        preview.classList.remove('is-image-loading');
+        preview.removeAttribute('aria-busy');
+        preview.classList.add('is-image-missing');
+      };
+      image.addEventListener('load', function() {
+        preview.classList.remove('is-image-loading');
+        preview.removeAttribute('aria-busy');
+        preview.classList.remove('is-image-missing');
+      }, { once: true });
+      image.addEventListener('error', removeBrokenImage, { once: true });
+      if (image.complete && !image.naturalWidth) {
+        removeBrokenImage();
+      } else if (!image.complete) {
+        preview.classList.add('is-image-loading');
+        preview.setAttribute('aria-busy', 'true');
+      }
+    };
+    bindPreviewImageFallback();
 
     var inlineDataNode = root.querySelector('[data-interactive-map-data], [data-uap-world-map-data]');
     var inlineSvg = canvas.querySelector('svg');
+    var setMapState = function(state, message) {
+      root.setAttribute('data-map-state', state);
+      var currentStatus = canvas.querySelector('.interactive-map-status, .uap-world-map-status');
+      if (!message) {
+        if (currentStatus && currentStatus.parentNode === canvas) {
+          canvas.removeChild(currentStatus);
+        }
+        return;
+      }
+      if (!currentStatus) {
+        currentStatus = document.createElement('span');
+        currentStatus.className = 'interactive-map-status uap-world-map-status';
+        currentStatus.setAttribute('role', 'status');
+        currentStatus.setAttribute('aria-live', 'polite');
+        canvas.appendChild(currentStatus);
+      }
+      currentStatus.textContent = message;
+    };
+    if (inlineSvg) {
+      setMapState('initializing', 'Preparing map…');
+    } else {
+      setMapState('loading', 'Loading map…');
+    }
     var countryAliases = {
       UK: 'GB',
       EL: 'GR'
@@ -9462,11 +9622,22 @@
     var guessVisitorCountryIso = function(availableCountries) {
       return inferCountryFromTimezone(availableCountries) || inferCountryFromLocale(availableCountries) || '';
     };
+    var mapDataUnavailable = false;
     var dataPromise = inlineDataNode && inlineSvg
       ? Promise.resolve([null, JSON.parse(inlineDataNode.textContent || '{}'), true])
       : Promise.all([
-        loadText(mapSrc),
-        loadText(dataSrc).then(function(text) { return JSON.parse(text); }),
+        loadTextWithRetry(mapSrc).then(function(svgText) {
+          // Insert the base map as soon as it arrives. A slow or temporarily
+          // unavailable metadata request must not leave the mobile canvas blank.
+          canvas.innerHTML = svgText;
+          return svgText;
+        }),
+        loadTextWithRetry(dataSrc).then(function(text) {
+          return JSON.parse(text);
+        }).catch(function() {
+          mapDataUnavailable = true;
+          return { items: [], countries: [] };
+        }),
         Promise.resolve(false)
       ]);
 
@@ -9484,12 +9655,21 @@
       });
       preloadPreviewImages(Object.keys(byIso).map(function(iso) { return byIso[iso]; }));
       if (!isInline) {
-        canvas.innerHTML = svgText;
+        // The SVG was inserted as soon as it loaded so it remained visible
+        // while the metadata request completed.
       }
       var svg = canvas.querySelector('svg');
       if (!svg) {
-        return;
+        throw new Error('Map SVG did not contain an svg element.');
       }
+      var contextShapeMapLayouts = {
+        'canada': true,
+        'australia': true,
+        'france-departments': true,
+        'spain-provinces': true,
+        'italy-regions': true,
+        'germany-states': true
+      };
       root.addEventListener('click', function(event) {
         event.stopPropagation();
       });
@@ -10005,6 +10185,7 @@
           + '<strong data-interactive-map-preview-title data-uap-world-map-preview-title>' + escapeHtml(previewTitle) + '</strong>'
           + '<span data-interactive-map-preview-summary data-uap-world-map-preview-summary>' + escapeHtml(getItemSummary(item)) + '</span>'
           + (item.url ? '<span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>' : '');
+        bindPreviewImageFallback();
       };
       var forEachMapNode = function(nodeOrNodes, callback) {
         if (!nodeOrNodes || typeof callback !== 'function') {
@@ -10153,13 +10334,22 @@
           guessedNode = nodes;
         }
         nodesByIso[iso] = nodes;
-        nodes.forEach(function(node) {
+        nodes.forEach(function(node, nodeIndex) {
           node.classList.add('is-linked');
           node.setAttribute('data-uap-country', iso);
           node.setAttribute('data-interactive-map-item', iso);
-          node.setAttribute('tabindex', '0');
-          node.setAttribute('role', 'link');
-          node.setAttribute('aria-label', 'Open ' + getItemLabel(item));
+          if (nodeIndex === 0) {
+            node.setAttribute('tabindex', '0');
+            node.setAttribute('role', 'link');
+            node.setAttribute('aria-label', 'Open ' + getItemLabel(item));
+          } else {
+            // Multi-part countries and regions remain pointer targets, but only
+            // one shape per item should enter the keyboard/accessibility tree.
+            node.setAttribute('tabindex', '-1');
+            node.setAttribute('aria-hidden', 'true');
+            node.removeAttribute('role');
+            node.removeAttribute('aria-label');
+          }
           node.addEventListener('mouseenter', function() { focusCountry(nodes, item); });
           node.addEventListener('focus', function() { focusCountry(nodes, item); });
           node.addEventListener('click', function(event) {
@@ -10176,6 +10366,19 @@
           });
         });
       });
+      var markUnlinkedMapContextShapes = function() {
+        if (!contextShapeMapLayouts[mapLayout]) {
+          return;
+        }
+        Array.prototype.forEach.call(svg.querySelectorAll('path, polygon, polyline, rect, circle'), function(node) {
+          if (node.hasAttribute('data-interactive-map-item') || node.hasAttribute('data-uap-country')) {
+            return;
+          }
+          node.classList.add('map-context-shape');
+          node.setAttribute('aria-hidden', 'true');
+        });
+      };
+      markUnlinkedMapContextShapes();
       fitSvgToLinkedBounds();
       var resolveInitialIso = function() {
         if (initialItemId && byIso[initialItemId] && nodesByIso[initialItemId]) {
@@ -10227,8 +10430,27 @@
           }
         }, 160);
       }
+      setMapState(
+        mapDataUnavailable ? 'partial' : 'ready',
+        mapDataUnavailable ? 'Map links are unavailable. Use the featured file or Contents below.' : ''
+      );
     }).catch(function() {
-      canvas.textContent = 'Map unavailable.';
+      canvas.innerHTML = '';
+      var staticFallback = document.createElement('img');
+      staticFallback.className = 'interactive-map-static-fallback uap-world-map-static-fallback';
+      staticFallback.src = resolveSiteAssetUrl(mapSrc);
+      staticFallback.alt = mapLabel;
+      staticFallback.addEventListener('load', function() {
+        root.setAttribute('data-map-state', 'static');
+      }, { once: true });
+      staticFallback.addEventListener('error', function() {
+        if (staticFallback.parentNode === canvas) {
+          canvas.removeChild(staticFallback);
+        }
+        setMapState('error', 'Map unavailable. Use the featured file or Contents below.');
+      }, { once: true });
+      canvas.appendChild(staticFallback);
+      setMapState('fallback', 'Interactive map unavailable. Use the featured file or Contents below.');
     });
     });
   }

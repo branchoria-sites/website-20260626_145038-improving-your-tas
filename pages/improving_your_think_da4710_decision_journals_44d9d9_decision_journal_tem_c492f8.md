@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_decision_journals_44d9d9_decis
 
 ## Introduction
 
-The most effective [decision journal]({{ 'decision-journal/' | relative_url }}) templates are surprisingly small. People rarely abandon the practice because they disagree with its value; they abandon it because the form takes too long to complete before a real decision. The templates that survive repeated use share a common design principle: they capture enough information to make later review honest, while remaining short enough to fill in when time is limited. This balance is reflected in widely used approaches from decision practitioners such as Farnam Street and Annie Duke, which emphasise recording explicit [predictions]({{ 'predictions/' | relative_url }}), uncertainty and reasoning before acting rather than producing lengthy essays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fs.blog/knowledge-project-podcast/annie-duke/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[Farnam Street+2Coda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-snippet">In this episode, she explains why most people confuse luck with skill, how to think in bets, and...Read more...</span></span></span>
+The most effective [decision journal]({{ 'decision-journal/' | relative_url }}) templates are surprisingly small. People rarely abandon the practice because they disagree with its value; they abandon it because the form takes too long to complete before a real decision. The templates that survive repeated use share a common design principle: they capture enough information to make later review honest, while remaining short enough to fill in when time is limited. This balance is reflected in widely used approaches from decision practitioners such as Farnam Street and Annie Duke, which emphasise recording explicit [predictions]({{ 'predictions/' | relative_url }}), uncertainty and reasoning before acting rather than producing lengthy essays.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fs.blog/knowledge-project-podcast/annie-duke/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[Farnam Street+2Coda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-snippet">In this episode, she explains why most people confuse luck with skill, how to think in bets, and...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9_decision_journal_tem_c492f8-Illustration-1-dark.svg" | relative_url }}" alt="Templates illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9_decision_journal_tem_c492f8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9_decision_journal_tem_c492f8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -296,7 +296,7 @@ A practical minimum contains six elements:
 * **Key assumptions.** Note what must be true for your decision to work.
 * **Review date.** Decide in advance when the outcome should be evaluated.
 
-This structure mirrors the recurring features found across widely used decision-journal examples. Rather than collecting every possible detail, they focus on preserving the information that memory is most likely to distort later: expectations, confidence and assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://coda.io/%40annie-duke/how-to-make-better-decisions-practical-exercises-from-professional-poker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coda.io">[Coda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coda.io</span><span class="citation-popover-snippet">How to make better decisions: Practical exercises from...A companion toolkit for my book &quot;How to Decide: Simple Tools for Making Bet...</span></span></span>
+This structure mirrors the recurring features found across widely used decision-journal examples. Rather than collecting every possible detail, they focus on preserving the information that memory is most likely to distort later: expectations, confidence and assumptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://coda.io/%40annie-duke/how-to-make-better-decisions-practical-exercises-from-professional-poker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coda.io">[Coda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coda.io</span><span class="citation-popover-snippet">How to make better decisions: Practical exercises from...A companion toolkit for my book &quot;How to Decide: Simple Tools for Making Bet...</span></span></span>
 
 A concise entry might look like this:
 
@@ -330,7 +330,7 @@ Write:
 
 </div>
 
-Probability estimates are especially valuable because they acknowledge [uncertainty]({{ 'uncertainty/' | relative_url }}) instead of pretending certainty exists. Annie Duke argues that expressing beliefs as probabilities forces people to distinguish between confidence and certainty, producing decisions that are easier to evaluate honestly afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fs.blog/knowledge-project-podcast/annie-duke/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[Farnam Street+2Coda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-snippet">In this episode, she explains why most people confuse luck with skill, how to think in bets, and...Read more...</span></span></span>
+Probability estimates are especially valuable because they acknowledge [uncertainty]({{ 'uncertainty/' | relative_url }}) instead of pretending certainty exists. Annie Duke argues that expressing beliefs as probabilities forces people to distinguish between confidence and certainty, producing decisions that are easier to evaluate honestly afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fs.blog/knowledge-project-podcast/annie-duke/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[Farnam Street+2Coda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-snippet">In this episode, she explains why most people confuse luck with skill, how to think in bets, and...Read more...</span></span></span>
 
 Another useful habit is to separate **facts**, **assumptions** and **interpretations**. For example:
 
@@ -384,7 +384,7 @@ Useful additional sections include:
 
 </div>
 
-These additions remain focused on improving later review rather than justifying the decision after the fact. They also reduce the temptation to defend [sunk costs]({{ 'sunk-costs/' | relative_url }}) because they establish, before acting, what evidence would count as a reason to change direction. Annie Duke's practical decision tools similarly encourage making important assumptions explicit before commitment instead of relying on memory or intuition afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://coda.io/%40annie-duke/how-to-make-better-decisions-practical-exercises-from-professional-poker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coda.io">[Coda+2Behavioral Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coda.io</span><span class="citation-popover-snippet">How to make better decisions: Practical exercises from...A companion toolkit for my book &quot;How to Decide: Simple Tools for Making Bet...</span></span></span>
+These additions remain focused on improving later review rather than justifying the decision after the fact. They also reduce the temptation to defend [sunk costs]({{ 'sunk-costs/' | relative_url }}) because they establish, before acting, what evidence would count as a reason to change direction. Annie Duke's practical decision tools similarly encourage making important assumptions explicit before commitment instead of relying on memory or intuition afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://coda.io/%40annie-duke/how-to-make-better-decisions-practical-exercises-from-professional-poker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coda.io">[Coda+2Behavioral Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coda.io</span><span class="citation-popover-snippet">How to make better decisions: Practical exercises from...A companion toolkit for my book &quot;How to Decide: Simple Tools for Making Bet...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IQrHM6wnjiw" title="How To Use Obsidian for Decision Making 2026 (Step-By-Step)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IQrHM6wnjiw" target="_blank" rel="noopener noreferrer">How To Use Obsidian for Decision Making 2026 (Step-By-Step)</a></p><p class="youtube-embed-meta">Channel: Emma&#x27;s Productivity Lab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IQrHM6wnjiw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IQrHM6wnjiw">Open on YouTube</a></p></div></div></div>
@@ -407,200 +407,200 @@ If the template changes every month, [comparisons]({{ 'comparisons/' | relative_
 
 The journal becomes less a diary than a calibration tool. Because every entry answers the same core questions, patterns emerge that would be invisible in free-form notes.
 
-Many experienced practitioners therefore recommend keeping one standard template for ordinary decisions and one expanded version for high-stakes choices. The simplicity encourages regular use, while the additional fields remain available when the consequences justify extra effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://coda.io/%40annie-duke/how-to-make-better-decisions-practical-exercises-from-professional-poker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coda.io">[Coda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coda.io</span><span class="citation-popover-snippet">How to make better decisions: Practical exercises from...A companion toolkit for my book &quot;How to Decide: Simple Tools for Making Bet...</span></span></span>
+Many experienced practitioners therefore recommend keeping one standard template for ordinary decisions and one expanded version for high-stakes choices. The simplicity encourages regular use, while the additional fields remain available when the consequences justify extra effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://coda.io/%40annie-duke/how-to-make-better-decisions-practical-exercises-from-professional-poker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coda.io">[Coda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coda.io</span><span class="citation-popover-snippet">How to make better decisions: Practical exercises from...A companion toolkit for my book &quot;How to Decide: Simple Tools for Making Bet...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9_decision_journal_tem_c492f8-Illustration-3-dark.svg" | relative_url }}" alt="Templates illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9_decision_journal_tem_c492f8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9_decision_journal_tem_c492f8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What should a decision journal entry include?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What should a decision journal entry include?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hOZFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
-        </h4>
-        <p class="fr-book-author">By Annie Duke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hOZFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
+</h4>
+<p class="fr-book-author">By Annie Duke</p>
         
-        <p class="fr-book-desc">Explains decision quality, probabilistic thinking, and the value of recording reasoning before outcomes are known.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains decision quality, probabilistic thinking, and the value of recording reasoning before outcomes are known.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Supports journal fields such as predictions, probabilities, assumptions, and later review.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports journal fields such as predictions, probabilities, assumptions, and later review.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Provides practical frameworks for structuring decisions and avoiding common thinking traps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical frameworks for structuring decisions and avoiding common thinking traps.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Decision+Book+by+Mikael+Krogerus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Decision Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tUVNzwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Decision Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Decision+Book+by+Mikael+Krogerus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Decision Book">The Decision Book</a>
-        </h4>
-        <p class="fr-book-author">By Mikael Krogerus, Roman Tschäppeler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Decision+Book+by+Mikael+Krogerus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Decision Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tUVNzwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Decision Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Decision+Book+by+Mikael+Krogerus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Decision Book">The Decision Book</a>
+</h4>
+<p class="fr-book-author">By Mikael Krogerus, Roman Tschäppeler</p>
         
-        <p class="fr-book-desc">Offers concise decision frameworks that pair naturally with structured journal entries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Decision+Book+by+Mikael+Krogerus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers concise decision frameworks that pair naturally with structured journal entries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Decision+Book+by+Mikael+Krogerus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YELLOW WOODEN DECISION MAKER DICE - YES NO MAYBE ??"><img src="https://i.ebayimg.com/images/g/BeUAAeSwUMpqMbg2/s-l225.jpg" alt="Listing image for YELLOW WOODEN DECISION MAKER DICE - YES NO MAYBE ??" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">YELLOW WOODEN DECISION MAKER DICE - YES NO MAYBE ??</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YELLOW WOODEN DECISION MAKER DICE - YES NO MAYBE ??"><img src="https://i.ebayimg.com/images/g/BeUAAeSwUMpqMbg2/s-l225.jpg" alt="Listing image for YELLOW WOODEN DECISION MAKER DICE - YES NO MAYBE ??" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">YELLOW WOODEN DECISION MAKER DICE - YES NO MAYBE ??</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Takeaway Dice Decision Maker Food Meal Dinner Movie Night Party Family Gift"><img src="https://i.ebayimg.com/images/g/DnkAAOSwcCFnBlpv/s-l225.jpg" alt="Listing image for Takeaway Dice Decision Maker Food Meal Dinner Movie Night Party Family Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Takeaway Dice Decision Maker Food Meal Dinner Movie Night Party Family Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Takeaway Dice Decision Maker Food Meal Dinner Movie Night Party Family Gift"><img src="https://i.ebayimg.com/images/g/DnkAAOSwcCFnBlpv/s-l225.jpg" alt="Listing image for Takeaway Dice Decision Maker Food Meal Dinner Movie Night Party Family Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Takeaway Dice Decision Maker Food Meal Dinner Movie Night Party Family Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Solid Brass Dice Decision Maker Spinner Office Desk Paperweight RPG -NOS"><img src="https://i.ebayimg.com/images/g/AjwAAeSwJSpp3Z3g/s-l225.jpg" alt="Listing image for Vintage Solid Brass Dice Decision Maker Spinner Office Desk Paperweight RPG -NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Vintage Solid Brass Dice Decision Maker Spinner Office Desk Paperweight RPG -NOS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Solid Brass Dice Decision Maker Spinner Office Desk Paperweight RPG -NOS"><img src="https://i.ebayimg.com/images/g/AjwAAeSwJSpp3Z3g/s-l225.jpg" alt="Listing image for Vintage Solid Brass Dice Decision Maker Spinner Office Desk Paperweight RPG -NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Vintage Solid Brass Dice Decision Maker Spinner Office Desk Paperweight RPG -NOS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TAKEAWAY DICE Decision Maker Food Meal Dinner Movie Night Party Family Gift UK"><img src="https://i.ebayimg.com/images/g/UkgAAOSw5uBj1Ej4/s-l225.jpg" alt="Listing image for TAKEAWAY DICE Decision Maker Food Meal Dinner Movie Night Party Family Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">TAKEAWAY DICE Decision Maker Food Meal Dinner Movie Night Party Family Gift UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TAKEAWAY DICE Decision Maker Food Meal Dinner Movie Night Party Family Gift UK"><img src="https://i.ebayimg.com/images/g/UkgAAOSw5uBj1Ej4/s-l225.jpg" alt="Listing image for TAKEAWAY DICE Decision Maker Food Meal Dinner Movie Night Party Family Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">TAKEAWAY DICE Decision Maker Food Meal Dinner Movie Night Party Family Gift UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-a-decision-journal-entry-include-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-should-a-decision-journal-entry-include-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -616,7 +616,7 @@ Many experienced practitioners therefore recommend keeping one standard template
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -636,7 +636,7 @@ Many experienced practitioners therefore recommend keeping one standard template
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -668,7 +668,7 @@ Many experienced practitioners therefore recommend keeping one standard template
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -720,7 +720,7 @@ Many experienced practitioners therefore recommend keeping one standard template
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -765,7 +765,7 @@ Many experienced practitioners therefore recommend keeping one standard template
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -806,78 +806,78 @@ Many experienced practitioners therefore recommend keeping one standard template
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fs.blog  
-   Link: <a href="https://fs.blog/knowledge-project-podcast/annie-duke/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/knowledge-project-podcast/annie-duke/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In this episode, she explains why most people confuse luck with skill, how to think in bets, and...Read more...</p></details>
+   Link:<a href="https://fs.blog/knowledge-project-podcast/annie-duke/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/knowledge-project-podcast/annie-duke/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this episode, she explains why most people confuse luck with skill, how to think in bets, and...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: coda.io  
-   Link: <a href="https://coda.io/%40annie-duke/how-to-make-better-decisions-practical-exercises-from-professional-poker" target="_blank" rel="noopener noreferrer nofollow">https://coda.io/%40annie-duke/how-to-make-better-decisions-practical-exercises-from-professional-poker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to make better decisions: Practical exercises from...A companion toolkit for my book &quot;How to Decide: Simple Tools for Making Bet...</p></details>
+   Link:<a href="https://coda.io/%40annie-duke/how-to-make-better-decisions-practical-exercises-from-professional-poker" target="_blank" rel="noopener noreferrer nofollow">https://coda.io/%40annie-duke/how-to-make-better-decisions-practical-exercises-from-professional-poker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to make better decisions: Practical exercises from...A companion toolkit for my book &quot;How to Decide: Simple Tools for Making Bet...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: behavioralscientist.org  
    Title: practical tools for better decisions a qa with annie duke on how to decide  
-   Link: <a href="https://behavioralscientist.org/practical-tools-for-better-decisions-a-qa-with-annie-duke-on-how-to-decide/" target="_blank" rel="noopener noreferrer nofollow">https://behavioralscientist.org/practical-tools-for-better-decisions-a-qa-with-annie-duke-on-how-to-decide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral ScientistPractical Tools for Better Decisions: A Q&amp;A with Annie...16 Nov 2020 — Annie Duke wants you to make better decisions...</p></details>
+   Link:<a href="https://behavioralscientist.org/practical-tools-for-better-decisions-a-qa-with-annie-duke-on-how-to-decide/" target="_blank" rel="noopener noreferrer nofollow">https://behavioralscientist.org/practical-tools-for-better-decisions-a-qa-with-annie-duke-on-how-to-decide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral ScientistPractical Tools for Better Decisions: A Q&amp;A with Annie...16 Nov 2020 — Annie Duke wants you to make better decisions...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: advanced-hindsight.com  
-   Link: <a href="https://advanced-hindsight.com/behavioral-design-podcast/making-better-decisions-with-annie-duke/" target="_blank" rel="noopener noreferrer nofollow">https://advanced-hindsight.com/behavioral-design-podcast/making-better-decisions-with-annie-duke/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making Better Decisions with Annie DukeShe has made it her pursuit to help us understand how we make decisions and provide us with concre...</p></details>
+   Link:<a href="https://advanced-hindsight.com/behavioral-design-podcast/making-better-decisions-with-annie-duke/" target="_blank" rel="noopener noreferrer nofollow">https://advanced-hindsight.com/behavioral-design-podcast/making-better-decisions-with-annie-duke/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Making Better Decisions with Annie DukeShe has made it her pursuit to help us understand how we make decisions and provide us with concre...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: annieduke.com  
    Title: article decision making by thinking in bets annie duke  
-   Link: <a href="https://www.annieduke.com/article-decision-making-by-thinking-in-bets-annie-duke/" target="_blank" rel="noopener noreferrer nofollow">https://www.annieduke.com/article-decision-making-by-thinking-in-bets-annie-duke/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Article: Decision making by Thinking in Bets: Annie Duke30 Mar 2020 — You will realize that you can become good at decision making · You...</p></details>
+   Link:<a href="https://www.annieduke.com/article-decision-making-by-thinking-in-bets-annie-duke/" target="_blank" rel="noopener noreferrer nofollow">https://www.annieduke.com/article-decision-making-by-thinking-in-bets-annie-duke/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Article: Decision making by Thinking in Bets: Annie Duke30 Mar 2020 — You will realize that you can become good at decision making · You...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lennysnewsletter.com  
    Title: Discover how to make better choices and improve  
-   Link: <a href="https://www.lennysnewsletter.com/p/making-better-decisions-annie-duke" target="_blank" rel="noopener noreferrer nofollow">https://www.lennysnewsletter.com/p/making-better-decisions-annie-duke</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenny&#x27;s NewsletterA framework for making better decisions | Annie Duke...2 May 2024 — Learn from Annie Duke&#x27;s expertise on decision-maki...</p></details>
+   Link:<a href="https://www.lennysnewsletter.com/p/making-better-decisions-annie-duke" target="_blank" rel="noopener noreferrer nofollow">https://www.lennysnewsletter.com/p/making-better-decisions-annie-duke</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lenny&#x27;s NewsletterA framework for making better decisions | Annie Duke...2 May 2024 — Learn from Annie Duke&#x27;s expertise on decision-maki...</p></details>
    Published: May 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: open.spotify.com  
    Title: 3jw0nb MVq Gq Nqtmt QJLt1R  
-   Link: <a href="https://open.spotify.com/episode/3jw0nbMVqGqNqtmtQJLt1R" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/3jw0nbMVqGqNqtmtQJLt1R</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tools for Deciding Better Every Day with Annie Duke18 Nov 2025 — Annie is a former professional poker player turned decision strategist w...</p></details>
+   Link:<a href="https://open.spotify.com/episode/3jw0nbMVqGqNqtmtQJLt1R" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/3jw0nbMVqGqNqtmtQJLt1R</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tools for Deciding Better Every Day with Annie Duke18 Nov 2025 — Annie is a former professional poker player turned decision strategist w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: podcasts.happyscribe.com  
    Title: 37 annie duke getting better by being wrong  
-   Link: <a href="https://podcasts.happyscribe.com/the-knowledge-project-with-shane-parrish/37-annie-duke-getting-better-by-being-wrong" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/the-knowledge-project-with-shane-parrish/37-annie-duke-getting-better-by-being-wrong</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What I used to say is that the players who weren&#x27;t so good at the beginner levels...Read more...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/the-knowledge-project-with-shane-parrish/37-annie-duke-getting-better-by-being-wrong" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/the-knowledge-project-with-shane-parrish/37-annie-duke-getting-better-by-being-wrong</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What I used to say is that the players who weren&#x27;t so good at the beginner levels...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Before You Make A Hard Decision, Use A Decision Journal (with example)  
-   Link: <a href="https://www.youtube.com/watch?v=MbnfgDyz1tQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MbnfgDyz1tQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to make better decisions with this framework and Notion template...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MbnfgDyz1tQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MbnfgDyz1tQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to make better decisions with this framework and Notion template...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IQrHM6wnjiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IQrHM6wnjiw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My 2023 Obsidian Workflow for Note-Taking and Templated Thinking...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IQrHM6wnjiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IQrHM6wnjiw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My 2023 Obsidian Workflow for Note-Taking and Templated Thinking...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: How to make better decisions with this framework and Notion template  
-   Link: <a href="https://www.youtube.com/watch?v=kLiLQbNvKOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kLiLQbNvKOc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 must have FREE notion templates you need...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kLiLQbNvKOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kLiLQbNvKOc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 must have FREE notion templates you need...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/ie/podcast/37-annie-duke-getting-better-by-being-wrong/id990149481?i=1000416546154" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ie/podcast/37-annie-duke-getting-better-by-being-wrong/id990149481?i=1000416546154</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com37 Annie Duke: Getting Better…–The Knowledge Project25 Jul 2018 — What drew Annie into such a high stakes, time-pressured enviro...</p></details>
+   Link:<a href="https://podcasts.apple.com/ie/podcast/37-annie-duke-getting-better-by-being-wrong/id990149481?i=1000416546154" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ie/podcast/37-annie-duke-getting-better-by-being-wrong/id990149481?i=1000416546154</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com37 Annie Duke: Getting Better…–The Knowledge Project25 Jul 2018 — What drew Annie into such a high stakes, time-pressured enviro...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Top 10 must have FREE notion templates you need  
-   Link: <a href="https://www.youtube.com/watch?v=Q_zJLpk7cE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q_zJLpk7cE8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Use Obsidian for Decision Making 2026 (Step-By-Step)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q_zJLpk7cE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q_zJLpk7cE8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Use Obsidian for Decision Making 2026 (Step-By-Step)...</p></details>

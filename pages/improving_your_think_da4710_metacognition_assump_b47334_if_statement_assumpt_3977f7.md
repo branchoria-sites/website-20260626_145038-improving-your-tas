@@ -284,7 +284,7 @@ Many reasoning mistakes begin before any evidence is examined. A conclusion feel
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_if_statement_assumpt_3977f7-Illustration-1-dark.svg" | relative_url }}" alt="If Tests illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_if_statement_assumpt_3977f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_if_statement_assumpt_3977f7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This small change shifts attention from the conclusion to its supporting conditions. It exposes assumptions that were previously invisible, making them easier to inspect, test, or replace. Within metacognition, this is valuable because it turns “thinking about thinking” into a concrete practice: identifying the hidden beliefs that are carrying your reasoning. Research on conditional reasoning shows that people reason differently once conditions are made explicit, while studies of metacognition consistently find that monitoring the basis of confidence improves judgement and self-regulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7658316/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Annual Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by A Datsogianni · 2020 · Cited by 15 — One of the key components of deductive reasoning is conditional reasoning, i.e., reasoning wit...</span></span></span>
+This small change shifts attention from the conclusion to its supporting conditions. It exposes assumptions that were previously invisible, making them easier to inspect, test, or replace. Within metacognition, this is valuable because it turns “thinking about thinking” into a concrete practice: identifying the hidden beliefs that are carrying your reasoning. Research on conditional reasoning shows that people reason differently once conditions are made explicit, while studies of metacognition consistently find that monitoring the basis of confidence improves judgement and self-regulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7658316/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Annual Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by A Datsogianni · 2020 · Cited by 15 — One of the key components of deductive reasoning is conditional reasoning, i.e., reasoning wit...</span></span></span>
 
 ## What must be true first?
 
@@ -303,7 +303,7 @@ Hidden condition: *If motivation is the main limiting factor rather than unclear
 
 The conclusion may still be correct. The benefit comes from making its foundations visible instead of treating them as unquestionable facts.
 
-This reflects a broader principle in [critical thinking]({{ 'critical-skills/' | relative_url }}): arguments depend not only on evidence but also on assumptions connecting the evidence to the conclusion. Explicitly identifying those assumptions makes them available for evaluation rather than leaving them hidden inside intuition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: condor.depaul.edu">[condor.depaul.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">condor.depaul.edu</span><span class="citation-popover-snippet">A Guide To Critical ThinkingCritical thinking describes a process of uncovering and checking our assumptions and reasoning. First, we ana...</span></span></span>
+This reflects a broader principle in [critical thinking]({{ 'critical-skills/' | relative_url }}): arguments depend not only on evidence but also on assumptions connecting the evidence to the conclusion. Explicitly identifying those assumptions makes them available for evaluation rather than leaving them hidden inside intuition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: condor.depaul.edu">[condor.depaul.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">condor.depaul.edu</span><span class="citation-popover-snippet">A Guide To Critical ThinkingCritical thinking describes a process of uncovering and checking our assumptions and reasoning. First, we ana...</span></span></span>
 
 ## How if-statements reveal load-bearing assumptions
 
@@ -331,7 +331,7 @@ These conditions are no longer hidden. They become individual questions that can
 
 This approach is especially useful because people often search for evidence supporting an overall conclusion while overlooking whether its most important condition has ever been checked. Making assumptions explicit changes the order of thinking: first verify the conditions, then increase confidence in the conclusion.
 
-Research on reasoning with conditionals suggests that people naturally evaluate "if–then" relationships differently from simple assertions because conditional statements invite consideration of alternative possibilities and exceptions rather than a single narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7658316/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by A Datsogianni · 2020 · Cited by 15 — One of the key components of deductive reasoning is conditional reasoning, i.e., reasoning wit...</span></span></span>
+Research on reasoning with conditionals suggests that people naturally evaluate "if–then" relationships differently from simple assertions because conditional statements invite consideration of alternative possibilities and exceptions rather than a single narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7658316/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by A Datsogianni · 2020 · Cited by 15 — One of the key components of deductive reasoning is conditional reasoning, i.e., reasoning wit...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q2Ur9cDet8E" title="conditional reasoning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q2Ur9cDet8E" target="_blank" rel="noopener noreferrer">conditional reasoning</a></p><p class="youtube-embed-meta">Channel: Political Thought Experiments</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q2Ur9cDet8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q2Ur9cDet8E">Open on YouTube</a></p></div></div></div>
@@ -383,7 +383,7 @@ Try:
 
 > **If** I can [explain it]({{ 'explain-it/' | relative_url }}) clearly without notes and answer new questions about it, **then** I probably understand it.
 
-This conditional exposes the difference between recognition and genuine understanding. Educational research on metacognition repeatedly shows that confidence alone is an imperfect guide to knowledge, making external tests of understanding more reliable than subjective feelings of familiarity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-022423-032425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: annualreviews.org">[Annual Reviews+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">annualreviews.org</span><span class="citation-popover-title">Individual consistency in the accuracy and distribution of confidence judgments</span><span class="citation-popover-snippet">Annual ReviewsMetacognition and Confidence: A Review and Synthesisby SM Fleming · 2024 · Cited by 365 — Meta-reasoning: monitoring and co...</span></span></span>
+This conditional exposes the difference between recognition and genuine understanding. Educational research on metacognition repeatedly shows that confidence alone is an imperfect guide to knowledge, making external tests of understanding more reliable than subjective feelings of familiarity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-022423-032425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: annualreviews.org">[Annual Reviews+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">annualreviews.org</span><span class="citation-popover-title">Individual consistency in the accuracy and distribution of confidence judgments</span><span class="citation-popover-snippet">Annual ReviewsMetacognition and Confidence: A Review and Synthesisby SM Fleming · 2024 · Cited by 365 — Meta-reasoning: monitoring and co...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_if_statement_assumpt_3977f7-Illustration-3-dark.svg" | relative_url }}" alt="If Tests illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_if_statement_assumpt_3977f7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_if_statement_assumpt_3977f7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -403,7 +403,7 @@ Initial conclusionWeakest visible conditionUseful test"This marketing campaign w
 
 Testing the weakest assumption often provides far more information than collecting additional evidence supporting assumptions that were already relatively secure.
 
-Project management and decision-making methods increasingly encourage explicit assumption mapping for this reason: the goal is not to eliminate assumptions—which is impossible—but to identify the few whose failure would change the decision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmctraining.com/articles-and-resources/assumptions-in-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmctraining.com">[PMC Training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmctraining.com</span><span class="citation-popover-title">PMC Training Assumptions in Decision Making: How to Know What You</span><span class="citation-popover-snippet">When beliefs are treated as facts without verification, even well-reasoned plans can fail in execution. Structured...Read more...</span></span></span>
+Project management and decision-making methods increasingly encourage explicit assumption mapping for this reason: the goal is not to eliminate assumptions—which is impossible—but to identify the few whose failure would change the decision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmctraining.com/articles-and-resources/assumptions-in-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmctraining.com">[PMC Training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmctraining.com</span><span class="citation-popover-title">PMC Training Assumptions in Decision Making: How to Know What You</span><span class="citation-popover-snippet">When beliefs are treated as facts without verification, even well-reasoned plans can fail in execution. Structured...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cJt5Hzas1wc" title="&quot;An Introduction to Critical Thinking&quot; (Chapter 3): Focus on Conditionals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cJt5Hzas1wc" target="_blank" rel="noopener noreferrer">&quot;An Introduction to Critical Thinking&quot; (Chapter 3): Focus on Conditionals</a></p><p class="youtube-embed-meta">Channel: Symbolic Logic and Argumentation Skills (Critical Thinking)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cJt5Hzas1wc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cJt5Hzas1wc">Open on YouTube</a></p></div></div></div>
@@ -439,178 +439,178 @@ With practice, the transformation becomes almost automatic:
 This habit does not eliminate uncertainty or guarantee correct decisions. Its value is that it makes hidden assumptions visible early enough to examine them, reducing the risk that careful reasoning is built on an unnoticed foundation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Must Be True First?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Must Be True First?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains common thinking errors, assumptions, and how to improve decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common thinking errors, assumptions, and how to improve decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Encourages testing beliefs, examining assumptions, and updating conclusions from evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages testing beliefs, examining assumptions, and updating conclusions from evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
+</h4>
+<p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
         
-        <p class="fr-book-desc">Helps readers identify hidden assumptions and test conditions before reaching conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify hidden assumptions and test conditions before reaching conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Focuses on cognitive biases and reasoning mistakes caused by faulty assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on cognitive biases and reasoning mistakes caused by faulty assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch"><img src="https://i.ebayimg.com/images/g/No4AAOSwgyBmw8Rr/s-l225.jpg" alt="Listing image for Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch"><img src="https://i.ebayimg.com/images/g/No4AAOSwgyBmw8Rr/s-l225.jpg" alt="Listing image for Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Signed Everybody Album Poster With Frame"><img src="https://i.ebayimg.com/images/g/nd0AAeSwoApoMksV/s-l225.jpg" alt="Listing image for Logic Signed Everybody Album Poster With Frame" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Logic Signed Everybody Album Poster With Frame</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Signed Everybody Album Poster With Frame"><img src="https://i.ebayimg.com/images/g/nd0AAeSwoApoMksV/s-l225.jpg" alt="Listing image for Logic Signed Everybody Album Poster With Frame" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Logic Signed Everybody Album Poster With Frame</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/ingAAOSwu~tnW22i/s-l225.jpg" alt="Listing image for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/ingAAOSwu~tnW22i/s-l225.jpg" alt="Listing image for LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">LOGIC RAPPER ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-must-be-true-first-logic-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster -book -books" data-ebay-reference="what-must-be-true-first-logic-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ This habit does not eliminate uncertainty or guarantee correct decisions. Its va
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ This habit does not eliminate uncertainty or guarantee correct decisions. Its va
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ This habit does not eliminate uncertainty or guarantee correct decisions. Its va
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ This habit does not eliminate uncertainty or guarantee correct decisions. Its va
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ This habit does not eliminate uncertainty or guarantee correct decisions. Its va
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -815,113 +815,113 @@ This habit does not eliminate uncertainty or guarantee correct decisions. Its va
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7658316/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7658316/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Datsogianni · 2020 · Cited by 15 — One of the key components of deductive reasoning is conditional reasoning, i.e., reasoning wit...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7658316/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7658316/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Datsogianni · 2020 · Cited by 15 — One of the key components of deductive reasoning is conditional reasoning, i.e., reasoning wit...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: condor.depaul.edu  
-   Link: <a href="https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html" target="_blank" rel="noopener noreferrer nofollow">https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide To Critical ThinkingCritical thinking describes a process of uncovering and checking our assumptions and reasoning. First, we ana...</p></details>
+   Link:<a href="https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html" target="_blank" rel="noopener noreferrer nofollow">https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide To Critical ThinkingCritical thinking describes a process of uncovering and checking our assumptions and reasoning. First, we ana...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4Zxp2-_pLCE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Zxp2-_pLCE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>conditional reasoning...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4Zxp2-_pLCE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Zxp2-_pLCE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>conditional reasoning...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: conditional reasoning  
-   Link: <a href="https://www.youtube.com/watch?v=q2Ur9cDet8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q2Ur9cDet8E</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Think About Thinking — The Metacognition Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q2Ur9cDet8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q2Ur9cDet8E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Think About Thinking — The Metacognition Explained...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: annualreviews.org  
    Title: Individual consistency in the accuracy and distribution of confidence judgments  
-   Link: <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-022423-032425" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/content/journals/10.1146/annurev-psych-022423-032425</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual ReviewsMetacognition and Confidence: A Review and Synthesisby SM Fleming · 2024 · Cited by 365 — Meta-reasoning: monitoring and co...</p></details>
+   Link:<a href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-022423-032425" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/content/journals/10.1146/annurev-psych-022423-032425</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual ReviewsMetacognition and Confidence: A Review and Synthesisby SM Fleming · 2024 · Cited by 365 — Meta-reasoning: monitoring and co...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2018.1506481" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09658211.2018.1506481</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineTesting and metacognition: [retrieval](&amp;#123;&amp;#123; &#x27;retrieval/&#x27; | relative_url &amp;#125;&amp;#125;) practise effects on...In the present study, we examined the potential of ret...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2018.1506481" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09658211.2018.1506481</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineTesting and metacognition: [retrieval](&amp;#123;&amp;#123; &#x27;retrieval/&#x27; | relative_url &amp;#125;&amp;#125;) practise effects on...In the present study, we examined the potential of ret...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmctraining.com  
    Title: PMC Training Assumptions in Decision Making: How to Know What You  
-   Link: <a href="https://pmctraining.com/articles-and-resources/assumptions-in-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://pmctraining.com/articles-and-resources/assumptions-in-decision-making/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When beliefs are treated as facts without verification, even well-reasoned plans can fail in execution. Structured...Read more...</p></details>
+   Link:<a href="https://pmctraining.com/articles-and-resources/assumptions-in-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://pmctraining.com/articles-and-resources/assumptions-in-decision-making/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When beliefs are treated as facts without verification, even well-reasoned plans can fail in execution. Structured...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10912288/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10912288/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of life sciences students&#x27; metacognitive monitoring to...by MG Behrendt · 2024 · Cited by 6 — This study aimed to determine how variatio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10912288/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10912288/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of life sciences students&#x27; metacognitive monitoring to...by MG Behrendt · 2024 · Cited by 6 — This study aimed to determine how variatio...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7475702/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7475702/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In particular...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7475702/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7475702/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In particular...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Metacognition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Metacognition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MetacognitionMetacognition is an awareness of one&#x27;s thought processes and an understanding of the patterns behind them. It is &quot;thinkin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Metacognition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Metacognition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MetacognitionMetacognition is an awareness of one&#x27;s thought processes and an understanding of the patterns behind them. It is &quot;thinkin...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/344956360_Reasoning_With_Conditionals_About_Everyday_and_Mathematical_Concepts_in_Primary_School" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344956360_Reasoning_With_Conditionals_About_Everyday_and_Mathematical_Concepts_in_Primary_School</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasoning With Conditionals About Everyday and...25 Oct 2020 — It extends results concerning the gradual development of primary students...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/344956360_Reasoning_With_Conditionals_About_Everyday_and_Mathematical_Concepts_in_Primary_School" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344956360_Reasoning_With_Conditionals_About_Everyday_and_Mathematical_Concepts_in_Primary_School</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reasoning With Conditionals About Everyday and...25 Oct 2020 — It extends results concerning the gradual development of primary students...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: findresearcher.sdu.dk  
-   Link: <a href="https://findresearcher.sdu.dk/ws/files/182691160/jocn_a_01531.pdf" target="_blank" rel="noopener noreferrer nofollow">https://findresearcher.sdu.dk/ws/files/182691160/jocn_a_01531.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>meta-analysis of conditional and syllogistic inferencesProbabilistic accounts of reasoning are based on the assumption that human reasoni...</p></details>
+   Link:<a href="https://findresearcher.sdu.dk/ws/files/182691160/jocn_a_01531.pdf" target="_blank" rel="noopener noreferrer nofollow">https://findresearcher.sdu.dk/ws/files/182691160/jocn_a_01531.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meta-analysis of conditional and syllogistic inferencesProbabilistic accounts of reasoning are based on the assumption that human reasoni...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: vuorre.com  
    Title: vuorre and metcalfe 2021 measures of relative metacognitive accur  
-   Link: <a href="https://vuorre.com/bibliography/files/7NK7WAEM/vuorre-and-metcalfe_2021_measures-of-relative-metacognitive-accur.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vuorre.com/bibliography/files/7NK7WAEM/vuorre-and-metcalfe_2021_measures-of-relative-metacognitive-accur.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measures of relative metacognitive accuracy are...by M Vuorre · 2021 · Cited by 59 — Metacognitive resolution refers to people&#x27;s ability...</p></details>
+   Link:<a href="https://vuorre.com/bibliography/files/7NK7WAEM/vuorre-and-metcalfe_2021_measures-of-relative-metacognitive-accur.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vuorre.com/bibliography/files/7NK7WAEM/vuorre-and-metcalfe_2021_measures-of-relative-metacognitive-accur.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measures of relative metacognitive accuracy are...by M Vuorre · 2021 · Cited by 59 — Metacognitive resolution refers to people&#x27;s ability...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/852961038/7-Creative-Problem-Solving" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/852961038/7-Creative-Problem-Solving</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ving, emphasizing the use of Socratic questioning to analyze assumptions...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/852961038/7-Creative-Problem-Solving" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/852961038/7-Creative-Problem-Solving</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ving, emphasizing the use of Socratic questioning to analyze assumptions...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: royalsocietypublishing.org  
    Title: Metacognition in human decision making confidence  
-   Link: <a href="https://royalsocietypublishing.org/rstb/article/367/1594/1310/21855/Metacognition-in-human-decision-making-confidence" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rstb/article/367/1594/1310/21855/Metacognition-in-human-decision-making-confidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition in human decision-making: confidence and...by N Yeung · 2012 · Cited by 976 — These metacognitive abilities help people to...</p></details>
+   Link:<a href="https://royalsocietypublishing.org/rstb/article/367/1594/1310/21855/Metacognition-in-human-decision-making-confidence" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rstb/article/367/1594/1310/21855/Metacognition-in-human-decision-making-confidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition in human decision-making: confidence and...by N Yeung · 2012 · Cited by 976 — These metacognitive abilities help people to...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Break ideas apart to understand how they work  
-   Link: <a href="https://www.facebook.com/askpstudyinaustralia/posts/7-styles-of-thinking-different-problems-require-different-ways-of-thinking-stren/1380249874119874/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/askpstudyinaustralia/posts/7-styles-of-thinking-different-problems-require-different-ways-of-thinking-stren/1380249874119874/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3. Creative...... Techniques: Examining yourself, Correcting yourself Three Critical Thinking Steps 1. Identifying assumptions To identi...</p></details>
+   Link:<a href="https://www.facebook.com/askpstudyinaustralia/posts/7-styles-of-thinking-different-problems-require-different-ways-of-thinking-stren/1380249874119874/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/askpstudyinaustralia/posts/7-styles-of-thinking-different-problems-require-different-ways-of-thinking-stren/1380249874119874/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3. Creative...... Techniques: Examining yourself, Correcting yourself Three Critical Thinking Steps 1. Identifying assumptions To identi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: files.eric.ed.gov  
    Title: ERICConfident or familiar?  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED617483.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED617483.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of familiarity ratings in adults...by CJ Fitzsimmons · 2020 · Cited by 47 — The role familiarity cues play in judgments of conf...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED617483.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED617483.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of familiarity ratings in adults...by CJ Fitzsimmons · 2020 · Cited by 47 — The role familiarity cues play in judgments of conf...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: repub.eur.nl  
    Title: This happens almost automatically as we rely on a number of.Read more  
-   Link: <a href="https://repub.eur.nl/pub/130461/141801-Lara-van-Peppen-com.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repub.eur.nl/pub/130461/141801-Lara-van-Peppen-com.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKINGby L M van Peppen · 2020 — Every day, we make many decisions that are based on previous experiences and existing knowledge...</p></details>
+   Link:<a href="https://repub.eur.nl/pub/130461/141801-Lara-van-Peppen-com.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repub.eur.nl/pub/130461/141801-Lara-van-Peppen-com.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKINGby L M van Peppen · 2020 — Every day, we make many decisions that are based on previous experiences and existing knowledge...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: asana.com  
    Title: Get 8 core skills, a 7-step process,  
-   Link: <a href="https://asana.com/resources/critical-thinking-skills" target="_blank" rel="noopener noreferrer nofollow">https://asana.com/resources/critical-thinking-skills</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical thinking skills: 7 steps for the workplace [2026]16 Feb 2026 — Learn critical thinking skills to analyze evidence, reduce bias...</p></details>
+   Link:<a href="https://asana.com/resources/critical-thinking-skills" target="_blank" rel="noopener noreferrer nofollow">https://asana.com/resources/critical-thinking-skills</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical thinking skills: 7 steps for the workplace [2026]16 Feb 2026 — Learn critical thinking skills to analyze evidence, reduce bias...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/236030685_CRITICAL_THINKING_CHALLENGES_POSSIBILITIES_AND_PURPOSE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236030685_CRITICAL_THINKING_CHALLENGES_POSSIBILITIES_AND_PURPOSE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>critical thinking: challenges, possibilities, and purposeCritical thinking skill requires coordination of three different perspectives: p...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/236030685_CRITICAL_THINKING_CHALLENGES_POSSIBILITIES_AND_PURPOSE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236030685_CRITICAL_THINKING_CHALLENGES_POSSIBILITIES_AND_PURPOSE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>critical thinking: challenges, possibilities, and purposeCritical thinking skill requires coordination of three different perspectives: p...</p></details>

@@ -284,7 +284,7 @@ image: /assets/images/improving_your_think_da4710_practice_testing_35a599_transf
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_practice_testing_35a599_transfer_questions_ad96de-Illustration-1-dark.svg" | relative_url }}" alt="Transfer illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_practice_testing_35a599_transfer_questions_ad96de-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_practice_testing_35a599_transfer_questions_ad96de-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on [retrieval practice]({{ 'retrieval/' | relative_url }}) increasingly shows that testing is not just about remembering facts. Well-designed retrieval questions can improve the ability to transfer knowledge to unfamiliar situations, especially when learners repeatedly apply concepts to [varied examples]({{ 'varied-examples/' | relative_url }}) rather than recalling the same example over and over. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-snippet">More specifically, 4 experiments examined how repeated...Read more...</span></span></span>
+Research on [retrieval practice]({{ 'retrieval/' | relative_url }}) increasingly shows that testing is not just about remembering facts. Well-designed retrieval questions can improve the ability to transfer knowledge to unfamiliar situations, especially when learners repeatedly apply concepts to [varied examples]({{ 'varied-examples/' | relative_url }}) rather than recalling the same example over and over.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-snippet">More specifically, 4 experiments examined how repeated...Read more...</span></span></span>
 
 ## Why recall is not enough for analysis
 
@@ -316,7 +316,7 @@ Transfer questions ask something different:
 
 These questions require learners to map an abstract concept onto a fresh problem instead of matching familiar wording.
 
-Educational psychologists often distinguish between recognising an answer and generating one. Recognition can be supported by familiarity. Transfer requires selecting an appropriate mental model without obvious cues, making it a much stronger test of conceptual understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/20951630/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The critical role of retrieval practice in long-term retentionby HL Roediger 3rd · 2011 · Cited by 2694 — In addition, retrieval pr...</span></span></span>
+Educational psychologists often distinguish between recognising an answer and generating one. Recognition can be supported by familiarity. Transfer requires selecting an appropriate mental model without obvious cues, making it a much stronger test of conceptual understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/20951630/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The critical role of retrieval practice in long-term retentionby HL Roediger 3rd · 2011 · Cited by 2694 — In addition, retrieval pr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G6u9_lbW2hY" title="The Testing Effect &amp; Retrieval practice: the number 1 study hack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G6u9_lbW2hY" target="_blank" rel="noopener noreferrer">The Testing Effect &amp; Retrieval practice: the number 1 study hack</a></p><p class="youtube-embed-meta">Channel: Presenting Psychology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G6u9_lbW2hY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G6u9_lbW2hY">Open on YouTube</a></p></div></div></div>
@@ -365,7 +365,7 @@ Notice that none of these questions asks learners to repeat definitions. Each re
 
 One common mistake is practising the same type of example repeatedly. Learners become good at recognising that particular example rather than understanding the underlying idea.
 
-Research suggests that retrieval becomes more transferable when people repeatedly retrieve and apply concepts across **different examples** instead of revisiting the same one. In a series of experiments, participants who answered application questions using varied examples later performed better on completely new examples than participants who repeatedly practised the same example. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29265856/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Retrieving and applying knowledge to different examples...by AC Butler · 2017 · Cited by 87 — All four experiments showed that var...</span></span></span>
+Research suggests that retrieval becomes more transferable when people repeatedly retrieve and apply concepts across **different examples** instead of revisiting the same one. In a series of experiments, participants who answered application questions using varied examples later performed better on completely new examples than participants who repeatedly practised the same example.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29265856/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Retrieving and applying knowledge to different examples...by AC Butler · 2017 · Cited by 87 — All four experiments showed that var...</span></span></span>
 
 The likely reason is that varied practice encourages abstraction. Instead of remembering one story, learners begin identifying the deeper pattern shared across many situations.
 
@@ -413,7 +413,7 @@ Not all transfer is equally demanding.
 
 **Far transfer** requires applying the same principle in a substantially different context. A lesson about evaluating scientific evidence might later help someone assess claims in advertising, investment decisions or public debate.
 
-Far transfer has historically been difficult to achieve in education. Nevertheless, retrieval practice has shown encouraging effects. Andrew Butler's experiments demonstrated that repeated testing produced better transfer to new inferential questions than repeated studying, including transfer across different knowledge domains. Later work replicated this advantage while exploring the conditions under which it occurs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-snippet">More specifically, 4 experiments examined how repeated...Read more...</span></span></span>
+Far transfer has historically been difficult to achieve in education. Nevertheless, retrieval practice has shown encouraging effects. Andrew Butler's experiments demonstrated that repeated testing produced better transfer to new inferential questions than repeated studying, including transfer across different knowledge domains. Later work replicated this advantage while exploring the conditions under which it occurs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-snippet">More specifically, 4 experiments examined how repeated...Read more...</span></span></span>
 
 The implication is not that any quiz automatically produces broad reasoning skills. Rather, the design of retrieval questions matters. Questions that demand explanation, inference and application are more likely to support flexible knowledge than questions that only require verbatim recall.
 
@@ -462,197 +462,197 @@ After studying any important idea, ask yourself three questions before moving on
 
 These questions encourage abstraction rather than memorisation. They also expose shallow understanding early, while there is still time to strengthen it.
 
-Practice testing reaches its greatest value when retrieval becomes more than remembering yesterday's example. By repeatedly asking learners to recognise familiar principles inside unfamiliar situations, transfer questions help transform isolated knowledge into thinking tools that remain useful long after the original lesson has been forgotten. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29265856/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PDF Retrieval Practice+3PubMed+3Andy Matuschak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Retrieving and applying knowledge to different examples...by AC Butler · 2017 · Cited by 87 — All four experiments showed that var...</span></span></span>
+Practice testing reaches its greatest value when retrieval becomes more than remembering yesterday's example. By repeatedly asking learners to recognise familiar principles inside unfamiliar situations, transfer questions help transform isolated knowledge into thinking tools that remain useful long after the original lesson has been forgotten.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29265856/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PDF Retrieval Practice+3PubMed+3Andy Matuschak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Retrieving and applying knowledge to different examples...by AC Butler · 2017 · Cited by 87 — All four experiments showed that var...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Use the Idea Somewhere New?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Use the Idea Somewhere New?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Links retrieval to flexible application.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links retrieval to flexible application.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Range on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1ZyaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Range" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Range">Range</a>
-        </h4>
-        <p class="fr-book-author">By David Epstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Range on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1ZyaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Range" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Range">Range</a>
+</h4>
+<p class="fr-book-author">By David Epstein</p>
         
-        <p class="fr-book-desc">Explores transfer of knowledge across domains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores transfer of knowledge across domains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
-        </h4>
-        <p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
+</h4>
+<p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
         
-        <p class="fr-book-desc">Focuses on applying skills in new contexts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on applying skills in new contexts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d0IdvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-        </h4>
-        <p class="fr-book-author">By Scott Young</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d0IdvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+</h4>
+<p class="fr-book-author">By Scott Young</p>
         
-        <p class="fr-book-desc">Encourages applying learning beyond rote recall.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages applying learning beyond rote recall.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Range&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Range</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Range&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Range</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1+1=3 If you don&#x27;t use condom Frame Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1117044b211e3aac3155.jpg' | relative_url }}" alt="Listing image for 1+1=3 If you don&#x27;t use condom Frame Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">1+1=3 If you don&#x27;t use condom Frame Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you use poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: you use poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1+1=3 If you don&#x27;t use condom Frame Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1117044b211e3aac3155.jpg' | relative_url }}" alt="Listing image for 1+1=3 If you don&#x27;t use condom Frame Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">1+1=3 If you don&#x27;t use condom Frame Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you use poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: you use poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Use What You Have - Save The Planet Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/98e7e03930e8d4343e9d.jpg' | relative_url }}" alt="Listing image for Use What You Have - Save The Planet Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Use What You Have - Save The Planet Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you use poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: you use poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Use What You Have - Save The Planet Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/98e7e03930e8d4343e9d.jpg' | relative_url }}" alt="Listing image for Use What You Have - Save The Planet Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Use What You Have - Save The Planet Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you use poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: you use poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Use What You Have - Save The Planet Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/34816e4b444a0ff0163f.jpg' | relative_url }}" alt="Listing image for Use What You Have - Save The Planet Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Use What You Have - Save The Planet Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you use poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: you use poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Use What You Have - Save The Planet Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/34816e4b444a0ff0163f.jpg' | relative_url }}" alt="Listing image for Use What You Have - Save The Planet Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Use What You Have - Save The Planet Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you use poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: you use poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Start Where You Are Use What You Ha Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e11442de0a8c1d6983a9.jpg' | relative_url }}" alt="Listing image for Start Where You Are Use What You Ha Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Start Where You Are Use What You Ha Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you use poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: you use poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Start Where You Are Use What You Ha Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e11442de0a8c1d6983a9.jpg' | relative_url }}" alt="Listing image for Start Where You Are Use What You Ha Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Start Where You Are Use What You Ha Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you use poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: you use poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+use+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you use poster -book -books -dvd" data-ebay-reference="transfer-can-you-use-the-idea-somewhere-new-improving-your-think-you-use-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -668,7 +668,7 @@ Practice testing reaches its greatest value when retrieval becomes more than rem
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -688,7 +688,7 @@ Practice testing reaches its greatest value when retrieval becomes more than rem
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -720,7 +720,7 @@ Practice testing reaches its greatest value when retrieval becomes more than rem
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -772,7 +772,7 @@ Practice testing reaches its greatest value when retrieval becomes more than rem
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -817,7 +817,7 @@ Practice testing reaches its greatest value when retrieval becomes more than rem
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -858,98 +858,98 @@ Practice testing reaches its greatest value when retrieval becomes more than rem
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: andymatuschak.org  
-   Link: <a href="https://andymatuschak.org/files/papers/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andymatuschak.org/files/papers/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>More specifically, 4 experiments examined how repeated...Read more...</p></details>
+   Link:<a href="https://andymatuschak.org/files/papers/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andymatuschak.org/files/papers/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More specifically, 4 experiments examined how repeated...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29265856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29265856/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieving and applying knowledge to different examples...by AC Butler · 2017 · Cited by 87 — All four experiments showed that var...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29265856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29265856/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieving and applying knowledge to different examples...by AC Butler · 2017 · Cited by 87 — All four experiments showed that var...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20951630/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20951630/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The critical role of retrieval practice in long-term retentionby HL Roediger 3rd · 2011 · Cited by 2694 — In addition, retrieval pr...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/20951630/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20951630/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The critical role of retrieval practice in long-term retentionby HL Roediger 3rd · 2011 · Cited by 2694 — In addition, retrieval pr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5183614/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5183614/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Testing Effect and Far Transfer: The Role of Exposure to...by GG van Eersel · 2016 · Cited by 31 — Butler (2010: Experiment 3) sh...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5183614/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5183614/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Testing Effect and Far Transfer: The Role of Exposure to...by GG van Eersel · 2016 · Cited by 31 — Butler (2010: Experiment 3) sh...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pdf.retrievalpractice.org  
-   Link: <a href="https://pdf.retrievalpractice.org/transfer/Pan_Rickard_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdf.retrievalpractice.org/transfer/Pan_Rickard_2018.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PDF Retrieval PracticeTransfer of Test-Enhanced Learning: Meta-Analytic Review...by SC Pan · 2018 · Cited by 433 — The critical question...</p></details>
+   Link:<a href="https://pdf.retrievalpractice.org/transfer/Pan_Rickard_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdf.retrievalpractice.org/transfer/Pan_Rickard_2018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PDF Retrieval PracticeTransfer of Test-Enhanced Learning: Meta-Analytic Review...by SC Pan · 2018 · Cited by 433 — The critical question...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Use of Retrieval Practice in the Health Professions - PMCby MJ Serra · 2025 · Cited by 11 — Most empirical articles examining retrieval p...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Use of Retrieval Practice in the Health Professions - PMCby MJ Serra · 2025 · Cited by 11 — Most empirical articles examining retrieval p...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>practice enhances new learning: the forward effect of...by B Pastötter · 2014 · Cited by 276 — The review discusses current theoretical...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>practice enhances new learning: the forward effect of...by B Pastötter · 2014 · Cited by 276 — The review discusses current theoretical...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: notes.andymatuschak.org  
    Title: Retrieval practice and transfer learning  
-   Link: <a href="https://notes.andymatuschak.org/Retrieval_practice_and_transfer_learning" target="_blank" rel="noopener noreferrer nofollow">https://notes.andymatuschak.org/Retrieval_practice_and_transfer_learning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>practice and transfer learning16 Apr 2024 — Butler, A. (2010). Repeated Testing Produces Superior Transfer of Learning Relative to Repeat...</p></details>
+   Link:<a href="https://notes.andymatuschak.org/Retrieval_practice_and_transfer_learning" target="_blank" rel="noopener noreferrer nofollow">https://notes.andymatuschak.org/Retrieval_practice_and_transfer_learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>practice and transfer learning16 Apr 2024 — Butler, A. (2010). Repeated Testing Produces Superior Transfer of Learning Relative to Repeat...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/40869048_Tests_Enhance_the_Transfer_of_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/40869048_Tests_Enhance_the_Transfer_of_Learning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Tests Enhance the Transfer of LearningPrior studies suggest that a greater degree of transfer reduces the size of the testing effec...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/40869048_Tests_Enhance_the_Transfer_of_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/40869048_Tests_Enhance_the_Transfer_of_Learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Tests Enhance the Transfer of LearningPrior studies suggest that a greater degree of transfer reduces the size of the testing effec...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/594207830/Butler-2010-Repeated-Testing-Produces-Superior-Transfer-of-Learning-Relative-to-Repeated-Studying" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/594207830/Butler-2010-Repeated-Testing-Produces-Superior-Transfer-of-Learning-Relative-to-Repeated-Studying</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Butler 2010 - Repeated Testing Produces Superior...Butler 2010 - Repeated Testing Produces Superior Transfer of Learning Relative to Rep...</p></details>
+   Link:<a href="https://www.scribd.com/document/594207830/Butler-2010-Repeated-Testing-Produces-Superior-Transfer-of-Learning-Relative-to-Repeated-Studying" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/594207830/Butler-2010-Repeated-Testing-Produces-Superior-Transfer-of-Learning-Relative-to-Repeated-Studying</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Butler 2010 - Repeated Testing Produces Superior...Butler 2010 - Repeated Testing Produces Superior Transfer of Learning Relative to Rep...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sc-pan.github.io  
-   Link: <a href="https://sc-pan.github.io/pdf/PR_JEPA_2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sc-pan.github.io/pdf/PR_JEPA_2017.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C. (2010). Repeated testing produces superior transfer of learn- ing relative to repeated studying. Journal of Experimental Psychology: L...</p></details>
+   Link:<a href="https://sc-pan.github.io/pdf/PR_JEPA_2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sc-pan.github.io/pdf/PR_JEPA_2017.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C. (2010). Repeated testing produces superior transfer of learn- ing relative to repeated studying. Journal of Experimental Psychology: L...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
    Title: Repeated Testing Produces Superior Transfer of Learning  
-   Link: <a href="https://www.researchgate.net/publication/46094320_Repeated_Testing_Produces_Superior_Transfer_of_Learning_Relative_to_Repeated_Studying" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/46094320_Repeated_Testing_Produces_Superior_Transfer_of_Learning_Relative_to_Repeated_Studying</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>transfer of knowledge in a variety of contexts (Butler, 2010).... retrieval practice may also promote transfer of learning to new clini...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/46094320_Repeated_Testing_Produces_Superior_Transfer_of_Learning_Relative_to_Repeated_Studying" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/46094320_Repeated_Testing_Produces_Superior_Transfer_of_Learning_Relative_to_Repeated_Studying</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>transfer of knowledge in a variety of contexts (Butler, 2010).... retrieval practice may also promote transfer of learning to new clini...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/986681099/Elicit-Retrieval-Practice-and-Memory-Transfer-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/986681099/Elicit-Retrieval-Practice-and-Memory-Transfer-Report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rm retention and knowledge transfer across various academic domains...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/986681099/Elicit-Retrieval-Practice-and-Memory-Transfer-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/986681099/Elicit-Retrieval-Practice-and-Memory-Transfer-Report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rm retention and knowledge transfer across various academic domains...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/321988375_Retrieving_and_applying_knowledge_to_different_examples_promotes_transfer_of_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321988375_Retrieving_and_applying_knowledge_to_different_examples_promotes_transfer_of_learning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ings, one of the most significant goals of learning in HE (Butler 2010...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/321988375_Retrieving_and_applying_knowledge_to_different_examples_promotes_transfer_of_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321988375_Retrieving_and_applying_knowledge_to_different_examples_promotes_transfer_of_learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ings, one of the most significant goals of learning in HE (Butler 2010...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: my.chartered.college  
    Title: Lots of potential for using the same  
-   Link: <a href="https://my.chartered.college/impact_article/[assessment" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/[assessment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as learning: The role of retrieval practice in...by J Firth · Cited by 4 — Butler, AC (2010) Repeated testing produces superior transfer...</p></details>
+   Link:<a href="https://my.chartered.college/impact_article/[assessment" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/[assessment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as learning: The role of retrieval practice in...by J Firth · Cited by 4 — Butler, AC (2010) Repeated testing produces superior transfer...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01977/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01977/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Testing Effect and Far Transfer: The Role of Exposure...by GG van Eersel · 2016 · Cited by 32 — Butler (2010: Experiment 3) showed t...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01977/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01977/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Testing Effect and Far Transfer: The Role of Exposure...by GG van Eersel · 2016 · Cited by 32 — Butler (2010: Experiment 3) showed t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: uweb.cas.usf.edu  
    Title: Rohrer et al 2010JEPLMC  
-   Link: <a href="https://uweb.cas.usf.edu/~drohrer/pdfs/Rohrer_et_al_2010JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uweb.cas.usf.edu/~drohrer/pdfs/Rohrer_et_al_2010JEPLMC.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhance the Transfer of Learning - Karst Research Groupby D Rohrer · 2010 · Cited by 374 — Studies have shown that material is better rem...</p></details>
+   Link:<a href="https://uweb.cas.usf.edu/~drohrer/pdfs/Rohrer_et_al_2010JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uweb.cas.usf.edu/~drohrer/pdfs/Rohrer_et_al_2010JEPLMC.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhance the Transfer of Learning - Karst Research Groupby D Rohrer · 2010 · Cited by 374 — Studies have shown that material is better rem...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/00220973.2024.2392684" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/00220973.2024.2392684</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval Practice: A Tool for Teaching the Control-of-...by J Kranz · 2024 · Cited by 2 — Two experiments investigated through a transf...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/00220973.2024.2392684" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/00220973.2024.2392684</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval Practice: A Tool for Teaching the Control-of-...by J Kranz · 2024 · Cited by 2 — Two experiments investigated through a transf...</p></details>

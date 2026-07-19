@@ -445,13 +445,13 @@ Weakest-link thinking is the habit of asking: “Which assumption, if wrong, wou
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4-overview.webp" | relative_url }}" alt="Overview image for Weakest Link" loading="eager" decoding="sync" fetchpriority="high">
-This matters because ordinary evidence-checking can create false confidence. A plan may contain ten assumptions, nine of which are true, while the tenth makes the whole decision unsafe. Intelligence-analysis guides call this kind of move a “key assumptions check”: identifying the premises on which a judgement depends, especially those that are accepted as true but not routinely questioned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">For example, military analysis may focus.Read more</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span> RAND’s assumption-based planning uses the related idea of “load-bearing” and “vulnerable” assumptions in plans, because surprises often come from assumptions leaders either did not see or had stopped noticing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/content/dam/rand/pubs/monograph_reports/2005/MR114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">Corporation Assumption-Based Planning</span><span class="citation-popover-snippet">RAND CorporationAssumption-Based PlanningFebruary 9, 2022 — Assumption- Based Planning considers them to be assumptions regardless of the...</span><span class="citation-popover-meta">Published: February 9, 2022</span></span></span>
+This matters because ordinary evidence-checking can create false confidence. A plan may contain ten assumptions, nine of which are true, while the tenth makes the whole decision unsafe. Intelligence-analysis guides call this kind of move a “key assumptions check”: identifying the premises on which a judgement depends, especially those that are accepted as true but not routinely questioned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">For example, military analysis may focus.Read more</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span> RAND’s assumption-based planning uses the related idea of “load-bearing” and “vulnerable” assumptions in plans, because surprises often come from assumptions leaders either did not see or had stopped noticing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/content/dam/rand/pubs/monograph_reports/2005/MR114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">Corporation Assumption-Based Planning</span><span class="citation-popover-snippet">RAND CorporationAssumption-Based PlanningFebruary 9, 2022 — Assumption- Based Planning considers them to be assumptions regardless of the...</span><span class="citation-popover-meta">Published: February 9, 2022</span></span></span>
 
 ## Why the weakest link is rarely the weakest-looking sentence
 
 The fragile part of an argument is not always the claim that sounds most dramatic. It is the claim with the highest combination of dependency, [uncertainty]({{ 'uncertainty/' | relative_url }}) and consequence. A conclusion may survive a minor factual error but collapse if one linking assumption fails. For example, “We should launch this product in September” may depend less on the exact marketing slogan than on the assumption that the supplier can scale production, the customer problem is urgent enough, and a competitor will not neutralise the advantage before launch.
 
-Argument mapping helps because it separates the conclusion, the stated reasons and the hidden warrants that connect them. Argument maps are used in critical thinking to reveal the structure of reasoning, including unstated assumptions, objections and counterarguments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span> The practical value is simple: once the argument is visible, you can see whether the conclusion has many independent supports or one narrow bridge pretending to be a broad foundation.
+Argument mapping helps because it separates the conclusion, the stated reasons and the hidden warrants that connect them. Argument maps are used in critical thinking to reveal the structure of reasoning, including unstated assumptions, objections and counterarguments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span> The practical value is simple: once the argument is visible, you can see whether the conclusion has many independent supports or one narrow bridge pretending to be a broad foundation.
 
 A [weak link]({{ 'weak-link/' | relative_url }}) usually has one of these forms:
 
@@ -489,11 +489,11 @@ A useful sequence is:
 
 </div>
 
-This resembles the “key assumptions check” in structured analytic techniques. A US government tradecraft primer defines a key assumption as a hypothesis accepted as true that forms the basis of an [assessment]({{ 'assessment/' | relative_url }}), and notes that hidden assumptions are difficult because they are often held unconsciously and therefore rarely challenged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">For example, military analysis may focus.Read more</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span> The same habit scales down to everyday reasoning: before arguing harder for a view, identify what the view quietly needs to be true.
+This resembles the “key assumptions check” in structured analytic techniques. A US government tradecraft primer defines a key assumption as a hypothesis accepted as true that forms the basis of an [assessment]({{ 'assessment/' | relative_url }}), and notes that hidden assumptions are difficult because they are often held unconsciously and therefore rarely challenged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">For example, military analysis may focus.Read more</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span> The same habit scales down to everyday reasoning: before arguing harder for a view, identify what the view quietly needs to be true.
 
 ### The “will” test
 
-One simple way to find weak links in plans is to search for confident future-tense language: “customers will adopt”, “the team will deliver”, “costs will fall”, “the regulation will not change”, “the model will generalise”. A review of James Dewar’s work on assumption-based planning notes that one method for identifying assumptions is to search a plan for the word “will”, because it often marks a forecast that has been smuggled into the plan as if it were settled fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.ymaws.com/www.projectmanagement.org.za/resource/resmgr/bookreviews/janfeb05.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.ymaws.com">[YMAWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.ymaws.com</span><span class="citation-popover-title">Assumption Based Planning, by James A Dewar</span><span class="citation-popover-snippet">Assumption Based Planning, by James A Dewar</span></span></span>
+One simple way to find weak links in plans is to search for confident future-tense language: “customers will adopt”, “the team will deliver”, “costs will fall”, “the regulation will not change”, “the model will generalise”. A review of James Dewar’s work on assumption-based planning notes that one method for identifying assumptions is to search a plan for the word “will”, because it often marks a forecast that has been smuggled into the plan as if it were settled fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.ymaws.com/www.projectmanagement.org.za/resource/resmgr/bookreviews/janfeb05.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.ymaws.com">[YMAWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.ymaws.com</span><span class="citation-popover-title">Assumption Based Planning, by James A Dewar</span><span class="citation-popover-snippet">Assumption Based Planning, by James A Dewar</span></span></span>
 
 The “will” test is not a grammar trick. It catches a common planning failure: treating an expectation as an observation. “We have signed the vendor” is evidence. “The vendor will deliver the integration by August” is an assumption. The second statement may be reasonable, but it deserves a different kind of scrutiny.
 
@@ -504,13 +504,13 @@ The “will” test is not a grammar trick. It catches a common planning failure
 
 Not every weak assumption is decision-relevant. A good test is to ask: “If this is false, what follows?” If the answer is “we would need to rewrite the plan”, it is load-bearing. If the answer is “we would slightly adjust the estimate”, it may not be the weakest link.
 
-RAND’s assumption-based planning is built around this distinction. It treats assumptions as important when their failure would require significant changes to operations or plans, then looks for signposts, shaping actions and hedging actions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/topics/assumption-based-planning.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Open source on rand.org.</span></span></span> That is the core of weakest-link thinking: do not give equal attention to every uncertainty. Give special attention to the uncertainty that can force a different decision.
+RAND’s assumption-based planning is built around this distinction. It treats assumptions as important when their failure would require significant changes to operations or plans, then looks for signposts, shaping actions and hedging actions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/topics/assumption-based-planning.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Open source on rand.org.</span></span></span> That is the core of weakest-link thinking: do not give equal attention to every uncertainty. Give special attention to the uncertainty that can force a different decision.
 
 ## Stress-testing plans and arguments
 
 Stress-testing means creating a controlled collision between the conclusion and the conditions under which it might fail. This can be done before a decision, not only after a mistake. The point is to make the argument pay rent: what evidence, event or counterexample would show that the conclusion is weaker than it looks?
 
-A project premortem is one well-known version. Gary Klein’s Harvard Business Review article describes asking a team to imagine that a project has failed and then generate reasons for the failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Open source on hbr.org.</span></span></span> Its value is psychological as well as analytical: people who are reluctant to voice doubts during ordinary planning can find it easier to describe failure causes once failure is made hypothetical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+A project premortem is one well-known version. Gary Klein’s Harvard Business Review article describes asking a team to imagine that a project has failed and then generate reasons for the failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-snippet">Open source on hbr.org.</span></span></span> Its value is psychological as well as analytical: people who are reluctant to voice doubts during ordinary planning can find it easier to describe failure causes once failure is made hypothetical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 For an individual, the same move can be compact:
 
@@ -529,7 +529,7 @@ This last question is especially useful because it exposes whether the conclusio
 
 ## Why confirmation bias makes weak links hard to see
 
-Weakest-link thinking fights a specific human tendency: once we favour a conclusion, we become better at finding support for it than at locating the premise most likely to fail. The classic study by Charles Lord, Lee Ross and Mark Lepper found that people evaluating mixed evidence on capital punishment tended to judge evidence supporting their prior view more favourably than evidence opposing it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span><span class="citation-popover-snippet">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span></span></span> Later reviews describe confirmation bias as a broad tendency to search for, interpret and remember information in ways that support existing beliefs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span></span></span>
+Weakest-link thinking fights a specific human tendency: once we favour a conclusion, we become better at finding support for it than at locating the premise most likely to fail. The classic study by Charles Lord, Lee Ross and Mark Lepper found that people evaluating mixed evidence on capital punishment tended to judge evidence supporting their prior view more favourably than evidence opposing it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span><span class="citation-popover-snippet">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span></span></span> Later reviews describe confirmation bias as a broad tendency to search for, interpret and remember information in ways that support existing beliefs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span></span></span>
 
 That matters because a weak link often hides behind selective standards. We may demand rigorous proof from objections while accepting friendly assumptions as “common sense”. A team may interrogate a critic’s numbers but wave through its own adoption forecast. A manager may ask for evidence that a plan will fail but not evidence that the plan’s central mechanism will work.
 
@@ -550,9 +550,9 @@ There are four common responses.
 
 **Test before committing.** If the conclusion depends on customer demand, run a demand test before building the full product. If it depends on a diagnosis, seek the evidence that best separates it from dangerous alternatives. If it depends on a legal, technical or operational interpretation, verify that specific point rather than reviewing the whole plan again.
 
-**Redesign to reduce dependence.** A plan is more robust when it can succeed under several plausible futures. The UK Ministry of Defence’s red teaming handbook defines red teaming as the independent application of structured, creative and critical thinking techniques to help decision-makers produce better-informed decisions and more robust products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/61702155e90e07197867eb93/20210625-Red_Teaming_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Red Teaming Handbook, 3rd Edition</span><span class="citation-popover-snippet">UK Red Teaming Handbook, 3rd Edition</span></span></span> In weakest-link terms, robustness means the conclusion no longer depends so heavily on one fragile assumption.
+**Redesign to reduce dependence.** A plan is more robust when it can succeed under several plausible futures. The UK Ministry of Defence’s red teaming handbook defines red teaming as the independent application of structured, creative and critical thinking techniques to help decision-makers produce better-informed decisions and more robust products.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/61702155e90e07197867eb93/20210625-Red_Teaming_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Red Teaming Handbook, 3rd Edition</span><span class="citation-popover-snippet">UK Red Teaming Handbook, 3rd Edition</span></span></span> In weakest-link terms, robustness means the conclusion no longer depends so heavily on one fragile assumption.
 
-**Add signposts and tripwires.** RAND-style assumption-based planning looks for indicators that an assumption is failing, so a team can notice early rather than after the damage is done. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.betterevaluation.org/sites/default/files/abp.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betterevaluation.org">[betterevaluation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betterevaluation.org</span><span class="citation-popover-snippet">Open source on betterevaluation.org.</span></span></span> A signpost might be slower-than-expected trial conversion, supplier delay, staff attrition, competitor pricing, regulator language or a missed technical milestone. A tripwire is the pre-agreed point at which the plan changes.
+**Add signposts and tripwires.** RAND-style assumption-based planning looks for indicators that an assumption is failing, so a team can notice early rather than after the damage is done.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.betterevaluation.org/sites/default/files/abp.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betterevaluation.org">[betterevaluation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betterevaluation.org</span><span class="citation-popover-snippet">Open source on betterevaluation.org.</span></span></span> A signpost might be slower-than-expected trial conversion, supplier delay, staff attrition, competitor pricing, regulator language or a missed technical milestone. A tripwire is the pre-agreed point at which the plan changes.
 
 **Choose a reversible option.** When a weak link cannot be tested cheaply, the decision should often become smaller, staged or reversible. The analytical question shifts from “Are we right?” to “How much should we risk while we are still uncertain?”
 
@@ -589,7 +589,7 @@ This example shows the discipline of the method. It does not say the plan is bad
 
 A normal risk list can become a dumping ground: everything that might go wrong, ranked loosely by anxiety. Weakest-link thinking is narrower. It asks which uncertainty most threatens the conclusion’s validity.
 
-That distinction prevents two common errors. The first is **risk theatre**, where teams name many risks but do not connect them to the decision logic. The second is **comforting completeness**, where a long list creates the impression of rigour even though the central assumption remains untested. A key assumptions check is useful precisely because it links assumptions back to the judgement they support, rather than treating risks as detached hazards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">For example, military analysis may focus.Read more</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span>
+That distinction prevents two common errors. The first is **risk theatre**, where teams name many risks but do not connect them to the decision logic. The second is **comforting completeness**, where a long list creates the impression of rigour even though the central assumption remains untested. A key assumptions check is useful precisely because it links assumptions back to the judgement they support, rather than treating risks as detached hazards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">For example, military analysis may focus.Read more</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span>
 
 The difference can be stated plainly:
 
@@ -617,7 +617,7 @@ The method is simple, but it can be misused.
 
 **Mistake two: attacking the easiest premise.** People often challenge the claim they know how to debate, not the one that carries the argument. A small data flaw can distract from a much larger causal assumption.
 
-**Mistake three: treating weak links as personal criticism.** In group settings, assumptions can feel owned by the person who proposed the plan. Red teaming guidance tries to counter this by making challenge a structured role rather than an interpersonal attack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/61702155e90e07197867eb93/20210625-Red_Teaming_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Red Teaming Handbook, 3rd Edition</span><span class="citation-popover-snippet">UK Red Teaming Handbook, 3rd Edition</span></span></span>
+**Mistake three: treating weak links as personal criticism.** In group settings, assumptions can feel owned by the person who proposed the plan. Red teaming guidance tries to counter this by making challenge a structured role rather than an interpersonal attack.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/61702155e90e07197867eb93/20210625-Red_Teaming_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Red Teaming Handbook, 3rd Edition</span><span class="citation-popover-snippet">UK Red Teaming Handbook, 3rd Edition</span></span></span>
 
 **Mistake four: testing only for confirmation.** A test designed to show that the plan can work may not reveal whether it is likely to work. The better test is diagnostic: it should distinguish between “our conclusion is sound” and “our conclusion only looked sound because we ignored a rival explanation”.
 
@@ -630,178 +630,178 @@ The aim of weakest-link thinking is not to become negative. It is to make confid
 This is why the method is a useful mechanism for improving thinking and analytical skills. It turns critique from a vague attitude into a focused routine: make the reasoning visible, find the assumption that could break it, test that assumption first, and change the decision when the weak link is too important to ignore.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Find the Assumption That Could Break Everything. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Find the Assumption That Could Break Everything. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains common reasoning errors that make hidden assumptions go unchallenged.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common reasoning errors that make hidden assumptions go unchallenged.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Shows how to test assumptions and improve forecasts underpinning important decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to test assumptions and improve forecasts underpinning important decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Helps readers recognize faulty assumptions and weak reasoning patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognize faulty assumptions and weak reasoning patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pyramid Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpUowkjMX_gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pyramid Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pyramid Principle">The Pyramid Principle</a>
-        </h4>
-        <p class="fr-book-author">By Barbara Minto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pyramid Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpUowkjMX_gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pyramid Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pyramid Principle">The Pyramid Principle</a>
+</h4>
+<p class="fr-book-author">By Barbara Minto</p>
         
-        <p class="fr-book-desc">Strengthens argument structure by exposing unsupported premises and logical gaps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strengthens argument structure by exposing unsupported premises and logical gaps.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pyramid+Principle+by+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1977 ER Silver Jubilee memorabilia job lot, glasses, mug &amp; tankard — rare find!"><img src="https://i.ebayimg.com/images/g/NlcAAeSwIzlotHDr/s-l225.jpg" alt="Listing image for 1977 ER Silver Jubilee memorabilia job lot, glasses, mug &amp; tankard — rare find!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">1977 ER Silver Jubilee memorabilia job lot, glasses, mug &amp; tankard — rare find!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for find memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: find memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1977 ER Silver Jubilee memorabilia job lot, glasses, mug &amp; tankard — rare find!"><img src="https://i.ebayimg.com/images/g/NlcAAeSwIzlotHDr/s-l225.jpg" alt="Listing image for 1977 ER Silver Jubilee memorabilia job lot, glasses, mug &amp; tankard — rare find!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">1977 ER Silver Jubilee memorabilia job lot, glasses, mug &amp; tankard — rare find!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for find memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: find memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ford escort memorabilia original FORD press photos x 9. RARE FIND."><img src="https://i.ebayimg.com/images/g/X6IAAeSweM9qDBAX/s-l225.jpg" alt="Listing image for ford escort memorabilia original FORD press photos x 9. RARE FIND." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">ford escort memorabilia original FORD press photos x 9. RARE FIND.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for find memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: find memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ford escort memorabilia original FORD press photos x 9. RARE FIND."><img src="https://i.ebayimg.com/images/g/X6IAAeSweM9qDBAX/s-l225.jpg" alt="Listing image for ford escort memorabilia original FORD press photos x 9. RARE FIND." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">ford escort memorabilia original FORD press photos x 9. RARE FIND.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for find memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: find memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HUGE LOT OF 101, VERY HARD TO FIND, MCDONALD&#x27;S MEMORABILIA - MINT CONDITION!!"><img src="https://i.ebayimg.com/images/g/BcMAAeSwAM9poo-h/s-l225.jpg" alt="Listing image for HUGE LOT OF 101, VERY HARD TO FIND, MCDONALD&#x27;S MEMORABILIA - MINT CONDITION!!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">HUGE LOT OF 101, VERY HARD TO FIND, MCDONALD&#x27;S MEMORABILIA - MINT CONDITION!!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for find memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: find memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HUGE LOT OF 101, VERY HARD TO FIND, MCDONALD&#x27;S MEMORABILIA - MINT CONDITION!!"><img src="https://i.ebayimg.com/images/g/BcMAAeSwAM9poo-h/s-l225.jpg" alt="Listing image for HUGE LOT OF 101, VERY HARD TO FIND, MCDONALD&#x27;S MEMORABILIA - MINT CONDITION!!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">HUGE LOT OF 101, VERY HARD TO FIND, MCDONALD&#x27;S MEMORABILIA - MINT CONDITION!!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for find memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: find memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=find+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="find memorabilia -book -books -dvd" data-ebay-reference="find-the-assumption-that-could-break-everything-find-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -817,7 +817,7 @@ This is why the method is a useful mechanism for improving thinking and analytic
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -837,7 +837,7 @@ This is why the method is a useful mechanism for improving thinking and analytic
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -869,7 +869,7 @@ This is why the method is a useful mechanism for improving thinking and analytic
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -921,7 +921,7 @@ This is why the method is a useful mechanism for improving thinking and analytic
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -966,7 +966,7 @@ This is why the method is a useful mechanism for improving thinking and analytic
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1006,165 +1006,165 @@ This is why the method is a useful mechanism for improving thinking and analytic
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rand.org  
    Title: Corporation Assumption-Based Planning  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/monograph_reports/2005/MR114.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/monograph_reports/2005/MR114.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationAssumption-Based PlanningFebruary 9, 2022 — Assumption- Based Planning considers them to be assumptions regardless of the...</p></details>
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/monograph_reports/2005/MR114.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/monograph_reports/2005/MR114.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationAssumption-Based PlanningFebruary 9, 2022 — Assumption- Based Planning considers them to be assumptions regardless of the...</p></details>
    Published: February 9, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Argument map  
-   Link: <a href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_map</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_map</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.ymaws.com  
    Title: Assumption Based Planning, by James A Dewar  
-   Link: <a href="https://cdn.ymaws.com/www.projectmanagement.org.za/resource/resmgr/bookreviews/janfeb05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.ymaws.com/www.projectmanagement.org.za/resource/resmgr/bookreviews/janfeb05.pdf</a>  
+   Link:<a href="https://cdn.ymaws.com/www.projectmanagement.org.za/resource/resmgr/bookreviews/janfeb05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.ymaws.com/www.projectmanagement.org.za/resource/resmgr/bookreviews/janfeb05.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/topics/assumption-based-planning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/topics/assumption-based-planning.html</a>  
+   Link:<a href="https://www.rand.org/topics/assumption-based-planning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/topics/assumption-based-planning.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: betterevaluation.org  
-   Link: <a href="https://www.betterevaluation.org/sites/default/files/abp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/sites/default/files/abp.pdf</a>  
+   Link:<a href="https://www.betterevaluation.org/sites/default/files/abp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/sites/default/files/abp.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
+   Link:<a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Red Teaming Handbook, 3rd Edition  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/61702155e90e07197867eb93/20210625-Red_Teaming_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/61702155e90e07197867eb93/20210625-Red_Teaming_Handbook.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/61702155e90e07197867eb93/20210625-Red_Teaming_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/61702155e90e07197867eb93/20210625-Red_Teaming_Handbook.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf</a>  
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/285707436_Improving_critical_thinking_using_web_based_argument_mapping_exercises_with_automated_feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/285707436_Improving_critical_thinking_using_web_based_argument_mapping_exercises_with_automated_feedback</a>  
+   Link:<a href="https://www.researchgate.net/publication/285707436_Improving_critical_thinking_using_web_based_argument_mapping_exercises_with_automated_feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/285707436_Improving_critical_thinking_using_web_based_argument_mapping_exercises_with_automated_feedback</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking</a>  
+   Link:<a href="https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/346677223_Assumption-Based_Planning_A_Tool_for_Reducing_Avoidable_Surprises" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346677223_Assumption-Based_Planning_A_Tool_for_Reducing_Avoidable_Surprises</a>  
+   Link:<a href="https://www.researchgate.net/publication/346677223_Assumption-Based_Planning_A_Tool_for_Reducing_Avoidable_Surprises" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346677223_Assumption-Based_Planning_A_Tool_for_Reducing_Avoidable_Surprises</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/387217073_Adopting_A_Red_Teaming_Mentality_To_Streamline_The_Decision-Making_Process_In_The_Romanian_Armed_Forces" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387217073_Adopting_A_Red_Teaming_Mentality_To_Streamline_The_Decision-Making_Process_In_The_Romanian_Armed_Forces</a>  
+   Link:<a href="https://www.researchgate.net/publication/387217073_Adopting_A_Red_Teaming_Mentality_To_Streamline_The_Decision-Making_Process_In_The_Romanian_Armed_Forces" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387217073_Adopting_A_Red_Teaming_Mentality_To_Streamline_The_Decision-Making_Process_In_The_Romanian_Armed_Forces</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/10961642_Cognitive_forcing_strategies_in_clinical_decisionmaking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10961642_Cognitive_forcing_strategies_in_clinical_decisionmaking</a>  
+   Link:<a href="https://www.researchgate.net/publication/10961642_Cognitive_forcing_strategies_in_clinical_decisionmaking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10961642_Cognitive_forcing_strategies_in_clinical_decisionmaking</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
+   Link:<a href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/337154064_Structured_Analytic_Techniques_Taxonomy_and_Technique_Selection_for_Information_and_Intelligence_Analysis_Practitioners" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337154064_Structured_Analytic_Techniques_Taxonomy_and_Technique_Selection_for_Information_and_Intelligence_Analysis_Practitioners</a>  
+   Link:<a href="https://www.researchgate.net/publication/337154064_Structured_Analytic_Techniques_Taxonomy_and_Technique_Selection_for_Information_and_Intelligence_Analysis_Practitioners" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337154064_Structured_Analytic_Techniques_Taxonomy_and_Technique_Selection_for_Information_and_Intelligence_Analysis_Practitioners</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Richards Heuer  
-   Link: <a href="https://en.wikipedia.org/wiki/Richards_Heuer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Richards_Heuer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Richards_Heuer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Richards_Heuer</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reasons.io  
    Title: Critical Thinking with Argument Maps  
-   Link: <a href="https://reasons.io/learn/08" target="_blank" rel="noopener noreferrer nofollow">https://reasons.io/learn/08</a>  
+   Link:<a href="https://reasons.io/learn/08" target="_blank" rel="noopener noreferrer nofollow">https://reasons.io/learn/08</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gary-klein.com  
-   Link: <a href="https://www.gary-klein.com/premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.gary-klein.com/premortem</a>  
+   Link:<a href="https://www.gary-klein.com/premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.gary-klein.com/premortem</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: stat.berkeley.edu  
    Title: For example, military analysis may focus.Read more  
-   Link: <a href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</p></details>
+   Link:<a href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</p></details>
    Published: April 28, 2009  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hbr.org  
-   Link: <a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2007/09/performing-a-project-premortem</a>  
+   Link:<a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2007/09/performing-a-project-premortem</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: fbaum.unc.edu  
    Title: Frank Baumgartner [Biased Assimilation](&#123;&#123; 'mixed-evidence-accf68/' | relative_url &#125;&#125;) and Attitude Polarization: The Effects  
-   Link: <a href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf</a>  
+   Link:<a href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pages.ucsd.edu  
    Title: UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many  
-   Link: <a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
+   Link:<a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: criticalthinkingacademy.net  
    Title: Confirmation bias  
-   Link: <a href="https://criticalthinkingacademy.net/blog/confirmation-bias.html" target="_blank" rel="noopener noreferrer nofollow">https://criticalthinkingacademy.net/blog/confirmation-bias.html</a>  
+   Link:<a href="https://criticalthinkingacademy.net/blog/confirmation-bias.html" target="_blank" rel="noopener noreferrer nofollow">https://criticalthinkingacademy.net/blog/confirmation-bias.html</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: rationaleonline.com  
-   Link: <a href="https://rationaleonline.com/docs/en/tutorials/argument-mapping" target="_blank" rel="noopener noreferrer nofollow">https://rationaleonline.com/docs/en/tutorials/argument-mapping</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument MappingLooks in more detail at the internal structure of simple arguments. Gives simple guidelines for identifyin...</p></details>
+   Link:<a href="https://rationaleonline.com/docs/en/tutorials/argument-mapping" target="_blank" rel="noopener noreferrer nofollow">https://rationaleonline.com/docs/en/tutorials/argument-mapping</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument MappingLooks in at the internal structure of simple arguments. Gives simple guidelines for identifyin...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: assets.cambridge.org  
-   Link: <a href="https://assets.cambridge.org/0521806534/frontmatter/0521806534_frontmatter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/0521806534/frontmatter/0521806534_frontmatter.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge AssetsAssumption-Based PlanningAssumption-based plan- ning (ABP) is a tool for identifying as many of the assumptions underly...</p></details>
+   Link:<a href="https://assets.cambridge.org/0521806534/frontmatter/0521806534_frontmatter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/0521806534/frontmatter/0521806534_frontmatter.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge AssetsAssumption-Based PlanningAssumption-based plan- ning (ABP) is a tool for identifying as many of the assumptions underly...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Charting the Thicket: Using Argument Mapping to Explore Controversial Topics  
-   Link: <a href="https://www.youtube.com/watch?v=f833pHMlJjk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f833pHMlJjk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking with Generative AI and Argument Maps...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=f833pHMlJjk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f833pHMlJjk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking with Generative AI and Argument Maps...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Identify Assumptions: Steps to Question Underlying Beliefs in Decision Making!  
-   Link: <a href="https://www.youtube.com/watch?v=fIF0pIx-usI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fIF0pIx-usI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marianne Talbot - Evaluating Arguments Part One...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fIF0pIx-usI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fIF0pIx-usI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marianne Talbot - Evaluating Arguments Part One...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Critical Thinking with Generative AI and Argument Maps  
-   Link: <a href="https://www.youtube.com/watch?v=RrihZ3JKZPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RrihZ3JKZPE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identify Assumptions: Steps to Question Underlying Beliefs in Decision Making...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RrihZ3JKZPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RrihZ3JKZPE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identify Assumptions: Steps to Question Underlying Beliefs in Decision Making...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Critical Thinking Questions to Test Assumptions  
-   Link: <a href="https://www.youtube.com/watch?v=WED3VcgzcYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WED3VcgzcYQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Charting the Thicket: Using Argument Mapping to Explore Controversial Topics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WED3VcgzcYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WED3VcgzcYQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charting the Thicket: Using Argument Mapping to Explore Controversial Topics...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: greydynamics.com  
-   Link: <a href="https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/</a>  
+   Link:<a href="https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: dia.mil  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/161442/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/161442/</a>  
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/161442/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/161442/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cdnmaltego.blob.core.windows.net  
-   Link: <a href="https://cdnmaltego.blob.core.windows.net/cdn/Case%20studies/Evaluating_Structured_Analysis_Techniques_AaronDixon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdnmaltego.blob.core.windows.net/cdn/Case%20studies/Evaluating_Structured_Analysis_Techniques_AaronDixon.pdf</a>  
+   Link:<a href="https://cdnmaltego.blob.core.windows.net/cdn/Case%20studies/Evaluating_Structured_Analysis_Techniques_AaronDixon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdnmaltego.blob.core.windows.net/cdn/Case%20studies/Evaluating_Structured_Analysis_Techniques_AaronDixon.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: managementboek.nl  
-   Link: <a href="https://managementboek.nl/boek/9780521001267/assumption-based-planning-james-a-dewar?srsltid=AfmBOoqUxal9V7T7x-v726Bn9mIwC95Lw9r6rmYTBc3laupaw8DqcV2s" target="_blank" rel="noopener noreferrer nofollow">https://managementboek.nl/boek/9780521001267/assumption-based-planning-james-a-dewar?srsltid=AfmBOoqUxal9V7T7x-v726Bn9mIwC95Lw9r6rmYTBc3laupaw8DqcV2s</a>  
+   Link:<a href="https://managementboek.nl/boek/9780521001267/assumption-based-planning-james-a-dewar?srsltid=AfmBOoqUxal9V7T7x-v726Bn9mIwC95Lw9r6rmYTBc3laupaw8DqcV2s" target="_blank" rel="noopener noreferrer nofollow">https://managementboek.nl/boek/9780521001267/assumption-based-planning-james-a-dewar?srsltid=AfmBOoqUxal9V7T7x-v726Bn9mIwC95Lw9r6rmYTBc3laupaw8DqcV2s</a>  

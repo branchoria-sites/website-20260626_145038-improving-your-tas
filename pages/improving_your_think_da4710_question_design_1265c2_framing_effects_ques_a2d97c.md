@@ -284,13 +284,13 @@ image: /assets/images/improving_your_think_da4710_question_design_1265c2_framing
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_framing_effects_ques_a2d97c-Illustration-1-dark.svg" | relative_url }}" alt="Framing Effects illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_framing_effects_ques_a2d97c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_framing_effects_ques_a2d97c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For anyone seeking to improve analytical thinking, framing effects matter because they operate before evidence is weighed. The wording of a question influences which facts appear relevant, what counts as success or failure, how [uncertainty]({{ 'uncertainty/' | relative_url }}) is interpreted, and which risks receive attention. Better reasoning therefore requires examining not only the evidence but also the frame through which the evidence is presented. Research spanning more than four decades demonstrates that framing effects are robust across health, finance, public policy, consumer behaviour and everyday decision-making, although their size varies with context and individual differences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/7455683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The dependence of preferences on the...</span></span></span>
+For anyone seeking to improve analytical thinking, framing effects matter because they operate before evidence is weighed. The wording of a question influences which facts appear relevant, what counts as success or failure, how [uncertainty]({{ 'uncertainty/' | relative_url }}) is interpreted, and which risks receive attention. Better reasoning therefore requires examining not only the evidence but also the frame through which the evidence is presented. Research spanning more than four decades demonstrates that framing effects are robust across health, finance, public policy, consumer behaviour and everyday decision-making, although their size varies with context and individual differences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/7455683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The dependence of preferences on the...</span></span></span>
 
 ## Why identical facts can produce different conclusions
 
 The classic demonstration of framing was published by Amos Tversky and Daniel Kahneman in 1981. Participants considered an outbreak of a disease expected to kill 600 people and chose between two intervention programmes. In one version, [outcomes]({{ 'outcomes/' | relative_url }}) were described in terms of lives saved; in another, mathematically identical outcomes were described in terms of lives lost.
 
-Under the gain frame, most participants preferred the certain option that guaranteed saving 200 lives. Under the loss frame, preferences reversed: most participants preferred a risky option offering a one-third chance that nobody would die and a two-thirds chance that everyone would die. Nothing about the [probabilities]({{ 'probabilities/' | relative_url }}) changed. Only the wording changed, yet preferences shifted dramatically. Tversky and Kahneman argued that people evaluate options relative to a psychological reference point rather than through purely objective calculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/7455683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The dependence of preferences on the...</span></span></span>
+Under the gain frame, most participants preferred the certain option that guaranteed saving 200 lives. Under the loss frame, preferences reversed: most participants preferred a risky option offering a one-third chance that nobody would die and a two-thirds chance that everyone would die. Nothing about the [probabilities]({{ 'probabilities/' | relative_url }}) changed. Only the wording changed, yet preferences shifted dramatically. Tversky and Kahneman argued that people evaluate options relative to a psychological reference point rather than through purely objective calculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/7455683/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The dependence of preferences on the...</span></span></span>
 
 This finding challenged the assumption that rational preferences should remain stable when equivalent information is merely reworded. Instead, people often respond to the perceived meaning created by the frame rather than to the underlying numerical equivalence.
 
@@ -302,9 +302,9 @@ When outcomes are presented as gains, people tend to become relatively risk-aver
 
 When outcomes are presented as losses, many people become more willing to gamble. Faced with a certain loss, a risky alternative offering even a small chance of avoiding that loss becomes psychologically attractive.
 
-This pattern follows the broader principles of prospect theory. Losses generally carry greater psychological weight than equivalent gains—a phenomenon often described as loss aversion. Rather than evaluating outcomes in absolute terms, individuals compare them with a reference point and react differently depending on whether they perceive themselves as gaining or losing relative to that point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8563093/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">Explaining Risky Choices with Judgments: Framing, the Zero...by VF Reyna · 2021 · Cited by 29 — The original theory of framing effect...</span></span></span>
+This pattern follows the broader principles of prospect theory. Losses generally carry greater psychological weight than equivalent gains—a phenomenon often described as loss aversion. Rather than evaluating outcomes in absolute terms, individuals compare them with a reference point and react differently depending on whether they perceive themselves as gaining or losing relative to that point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8563093/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">Explaining Risky Choices with Judgments: Framing, the Zero...by VF Reyna · 2021 · Cited by 29 — The original theory of framing effect...</span></span></span>
 
-Importantly, this does not mean people always become risk-seeking under loss frames. The magnitude of the framing effect depends on factors such as the probabilities involved, familiarity with the domain, expertise, emotional involvement and whether the equivalence between frames is made explicit. A recent systematic review concludes that risky-choice framing effects are robust but heterogeneous, with considerable variation across experimental conditions and populations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10620856/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA systematic review of risky-choice framing effects</span><span class="citation-popover-snippet">NIHby A Kühberger · 2023 · Cited by 31 — Classic explanations of goal-framing effects are inspired by Prospect theory (PT, see belo...</span></span></span>
+Importantly, this does not mean people always become risk-seeking under loss frames. The magnitude of the framing effect depends on factors such as the probabilities involved, familiarity with the domain, expertise, emotional involvement and whether the equivalence between frames is made explicit. A recent systematic review concludes that risky-choice framing effects are robust but heterogeneous, with considerable variation across experimental conditions and populations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10620856/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA systematic review of risky-choice framing effects</span><span class="citation-popover-snippet">NIHby A Kühberger · 2023 · Cited by 31 — Classic explanations of goal-framing effects are inspired by Prospect theory (PT, see belo...</span></span></span>
 
 ## Project failure versus project success questions
 
@@ -335,7 +335,7 @@ For analytical thinking, the lesson is not to choose one frame permanently but t
 
 ## Attribute framing changes evaluations without changing facts
 
-Not every framing effect concerns risky choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8563093/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">Explaining Risky Choices with Judgments: Framing, the Zero...by VF Reyna · 2021 · Cited by 29 — The original theory of framing effect...</span></span></span>
+Not every framing effect concerns risky choices.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8563093/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">Explaining Risky Choices with Judgments: Framing, the Zero...by VF Reyna · 2021 · Cited by 29 — The original theory of framing effect...</span></span></span>
 
 Researchers distinguish **attribute framing**, in which a single characteristic is described positively or negatively despite representing identical information.
 
@@ -350,7 +350,7 @@ Examples include:
 
 </div>
 
-Although these statements communicate mathematically equivalent information, evaluations often become more favourable under the positive description. Systematic reviews have found consistent evidence that positive attribute framing tends to improve evaluations of products, medical treatments and other objects without altering their underlying characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12926860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">In goal framing, a negatively‐framed message</span><span class="citation-popover-snippet">Framing of health information messages - PMC - NIHby EA Akl · 2011 · Cited by 248 — In attribute framing, attributes are judged more f...</span></span></span>
+Although these statements communicate mathematically equivalent information, evaluations often become more favourable under the positive description. Systematic reviews have found consistent evidence that positive attribute framing tends to improve evaluations of products, medical treatments and other objects without altering their underlying characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12926860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">In goal framing, a negatively‐framed message</span><span class="citation-popover-snippet">Framing of health information messages - PMC - NIHby EA Akl · 2011 · Cited by 248 — In attribute framing, attributes are judged more f...</span></span></span>
 
 This matters because evaluations often occur before careful numerical analysis. Positive wording can create an initial impression that shapes later interpretation even when people subsequently encounter identical statistics.
 
@@ -368,7 +368,7 @@ Examples include:
 * "Exercise improves cardiovascular health."
 * "Not exercising increases cardiovascular disease risk."
 
-Research suggests that gain and loss goal frames do not have universal effects. Their influence depends on the behaviour being promoted. Preventive behaviours such as sunscreen use or healthy eating sometimes respond better to gain frames, whereas detection behaviours such as disease screening may respond differently depending on perceived risk, efficacy and audience characteristics. Reviews of health communication therefore recommend matching the frame to the behavioural context rather than assuming that either positive or negative wording is always superior. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12926860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">In goal framing, a negatively‐framed message</span><span class="citation-popover-snippet">Framing of health information messages - PMC - NIHby EA Akl · 2011 · Cited by 248 — In attribute framing, attributes are judged more f...</span></span></span>
+Research suggests that gain and loss goal frames do not have universal effects. Their influence depends on the behaviour being promoted. Preventive behaviours such as sunscreen use or healthy eating sometimes respond better to gain frames, whereas detection behaviours such as disease screening may respond differently depending on perceived risk, efficacy and audience characteristics. Reviews of health communication therefore recommend matching the frame to the behavioural context rather than assuming that either positive or negative wording is always superior.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12926860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">In goal framing, a negatively‐framed message</span><span class="citation-popover-snippet">Framing of health information messages - PMC - NIHby EA Akl · 2011 · Cited by 248 — In attribute framing, attributes are judged more f...</span></span></span>
 
 This illustrates an important analytical principle: framing is not merely persuasive language; it changes which consequences become psychologically salient.
 
@@ -396,7 +396,7 @@ Each description emphasises a different aspect of the same policy.
 
 Consequently, participants often argue using different evidence because each frame implicitly defines a different problem. A discussion framed around public safety naturally prioritises accident statistics and risk reduction. The same discussion framed around personal freedom instead highlights autonomy, proportionality and government intervention.
 
-Political communication researchers therefore distinguish between factual disagreement and framing disagreement. The latter concerns which aspects of reality deserve emphasis, which values become relevant and which [comparisons]({{ 'comparisons/' | relative_url }}) appear appropriate. Behavioural economics similarly notes that framing influences public attitudes towards policies by directing attention towards selected dimensions of complex issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/framing-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com &#124; The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">Behavioral Economics.com &#124; The BE Hub Framing effect</span><span class="citation-popover-snippet">The BE HubFraming effect - BehavioralEconomics.com &#124; The BE Hub4 Dec 2024 — Research has considered how framing affects public opinions o...</span></span></span>
+Political communication researchers therefore distinguish between factual disagreement and framing disagreement. The latter concerns which aspects of reality deserve emphasis, which values become relevant and which [comparisons]({{ 'comparisons/' | relative_url }}) appear appropriate. Behavioural economics similarly notes that framing influences public attitudes towards policies by directing attention towards selected dimensions of complex issues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/framing-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com &#124; The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">Behavioral Economics.com &#124; The BE Hub Framing effect</span><span class="citation-popover-snippet">The BE HubFraming effect - BehavioralEconomics.com &#124; The BE Hub4 Dec 2024 — Research has considered how framing affects public opinions o...</span></span></span>
 
 Recognising this distinction improves [critical thinking]({{ 'critical-skills/' | relative_url }}) because it becomes possible to ask whether people disagree about evidence or merely about which frame they have adopted.
 
@@ -409,7 +409,7 @@ Framing affects more than preferences; it alters information processing.
 
 Several [mechanisms]({{ 'mechanisms/' | relative_url }}) contribute:
 
-* **Reference points.** People judge outcomes relative to an expected baseline rather than in absolute terms. A gain or loss is experienced relative to that baseline rather than purely numerically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8563093/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">Explaining Risky Choices with Judgments: Framing, the Zero...by VF Reyna · 2021 · Cited by 29 — The original theory of framing effect...</span></span></span>
+* **Reference points.** People judge outcomes relative to an expected baseline rather than in absolute terms. A gain or loss is experienced relative to that baseline rather than purely numerically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8563093/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">Explaining Risky Choices with Judgments: Framing, the Zero...by VF Reyna · 2021 · Cited by 29 — The original theory of framing effect...</span></span></span>
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -419,7 +419,7 @@ Several [mechanisms]({{ 'mechanisms/' | relative_url }}) contribute:
 
 </div>
 
-Modern experimental work continues to investigate these mechanisms, including how experience, repeated decisions and individual differences moderate framing effects. Although framing remains one of the most replicated findings in decision research, researchers increasingly recognise that its magnitude varies with task design, expertise and contextual factors rather than representing an unavoidable bias of identical strength in every situation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9115510/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Investigating and Modeling the Effect of Framing, Experience...by S Uttrani · 2022 — One example of preference reversal is the framin...</span></span></span>
+Modern experimental work continues to investigate these mechanisms, including how experience, repeated decisions and individual differences moderate framing effects. Although framing remains one of the most replicated findings in decision research, researchers increasingly recognise that its magnitude varies with task design, expertise and contextual factors rather than representing an unavoidable bias of identical strength in every situation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9115510/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Investigating and Modeling the Effect of Framing, Experience...by S Uttrani · 2022 — One example of preference reversal is the framin...</span></span></span>
 
 ## How to reduce framing errors during evidence gathering
 
@@ -470,194 +470,194 @@ Framing effects demonstrate that evidence never arrives in a psychological vacuu
 For analytical thinking, the central lesson is therefore not to eliminate framing but to inspect it deliberately. Before deciding which evidence is convincing, examine how the question defines success, failure, gains, losses and comparison points. Reframing the same evidence from multiple perspectives does not weaken analysis; it strengthens it by revealing assumptions that a single frame leaves invisible.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Framing Changes What Evidence Means. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Framing Changes What Evidence Means. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains framing effects, heuristics, and judgment under uncertainty central to the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains framing effects, heuristics, and judgment under uncertainty central to the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NGA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NGA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-        <p class="fr-book-desc">Shows how presentation and choice architecture influence decisions through framing and related effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how presentation and choice architecture influence decisions through framing and related effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Includes practical discussions of framing and other biases that distort evidence evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes practical discussions of framing and other biases that distort evidence evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Undoing+Project+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Undoing Project on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVSNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Undoing Project" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Undoing+Project+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Undoing Project">The Undoing Project</a>
-        </h4>
-        <p class="fr-book-author">By Michael Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Undoing+Project+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Undoing Project on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVSNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Undoing Project" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Undoing+Project+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Undoing Project">The Undoing Project</a>
+</h4>
+<p class="fr-book-author">By Michael Lewis</p>
         
-        <p class="fr-book-desc">Tells the story of Kahneman and Tversky, whose work established framing effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Undoing+Project+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Tells the story of Kahneman and Tversky, whose work established framing effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Undoing+Project+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thames &amp; Kosmos My City Roll &amp; Build, Decision-Making Board Game, Family Games"><img src="https://i.ebayimg.com/images/g/la0AAeSwk~JpRtL1/s-l225.jpg" alt="Listing image for Thames &amp; Kosmos My City Roll &amp; Build, Decision-Making Board Game, Family Games" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer">Thames &amp; Kosmos My City Roll &amp; Build, Decision-Making Board Game, Family Games</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making board game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thames &amp; Kosmos My City Roll &amp; Build, Decision-Making Board Game, Family Games"><img src="https://i.ebayimg.com/images/g/la0AAeSwk~JpRtL1/s-l225.jpg" alt="Listing image for Thames &amp; Kosmos My City Roll &amp; Build, Decision-Making Board Game, Family Games" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer">Thames &amp; Kosmos My City Roll &amp; Build, Decision-Making Board Game, Family Games</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making board game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Picnic Board Game Complete Decision Making Game"><img src="https://i.ebayimg.com/images/g/necAAeSw~JFpFItn/s-l225.jpg" alt="Listing image for The Picnic Board Game Complete Decision Making Game" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer">The Picnic Board Game Complete Decision Making Game</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making board game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Picnic Board Game Complete Decision Making Game"><img src="https://i.ebayimg.com/images/g/necAAeSw~JFpFItn/s-l225.jpg" alt="Listing image for The Picnic Board Game Complete Decision Making Game" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer">The Picnic Board Game Complete Decision Making Game</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making board game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thames &amp; Kosmos My City Roll &amp; Build, Decision-Making Board Game, Family Games"><img src="https://i.ebayimg.com/images/g/jZYAAeSwN6lqHdIz/s-l225.jpg" alt="Listing image for Thames &amp; Kosmos My City Roll &amp; Build, Decision-Making Board Game, Family Games" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer">Thames &amp; Kosmos My City Roll &amp; Build, Decision-Making Board Game, Family Games</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making board game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thames &amp; Kosmos My City Roll &amp; Build, Decision-Making Board Game, Family Games"><img src="https://i.ebayimg.com/images/g/jZYAAeSwN6lqHdIz/s-l225.jpg" alt="Listing image for Thames &amp; Kosmos My City Roll &amp; Build, Decision-Making Board Game, Family Games" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer">Thames &amp; Kosmos My City Roll &amp; Build, Decision-Making Board Game, Family Games</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making board game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fluttering Souls Two Player Decision Making Strategy Board Game Ages 13 and Up"><img src="https://i.ebayimg.com/images/g/2gMAAOSw6URmb8Ge/s-l225.jpg" alt="Listing image for Fluttering Souls Two Player Decision Making Strategy Board Game Ages 13 and Up" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer">Fluttering Souls Two Player Decision Making Strategy Board Game Ages 13 and Up</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making board game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fluttering Souls Two Player Decision Making Strategy Board Game Ages 13 and Up"><img src="https://i.ebayimg.com/images/g/2gMAAOSw6URmb8Ge/s-l225.jpg" alt="Listing image for Fluttering Souls Two Player Decision Making Strategy Board Game Ages 13 and Up" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer">Fluttering Souls Two Player Decision Making Strategy Board Game Ages 13 and Up</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making board game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-framing-changes-what-evidence-means-decision-making-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making board game" data-ebay-reference="how-framing-changes-what-evidence-means-decision-making-board-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -673,7 +673,7 @@ For analytical thinking, the central lesson is therefore not to eliminate framin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -693,7 +693,7 @@ For analytical thinking, the central lesson is therefore not to eliminate framin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -725,7 +725,7 @@ For analytical thinking, the central lesson is therefore not to eliminate framin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -777,7 +777,7 @@ For analytical thinking, the central lesson is therefore not to eliminate framin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -822,7 +822,7 @@ For analytical thinking, the central lesson is therefore not to eliminate framin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -862,108 +862,108 @@ For analytical thinking, the central lesson is therefore not to eliminate framin
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Read more  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8563093/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8563093/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining Risky Choices with Judgments: Framing, the Zero...by VF Reyna · 2021 · Cited by 29 — The original theory of framing effect...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8563093/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8563093/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining Risky Choices with Judgments: Framing, the Zero...by VF Reyna · 2021 · Cited by 29 — The original theory of framing effect...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: In goal framing, a negatively‐framed message  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12926860/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12926860/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Framing of health information messages - PMC - NIHby EA Akl · 2011 · Cited by 248 — In attribute framing, attributes are judged more f...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12926860/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12926860/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Framing of health information messages - PMC - NIHby EA Akl · 2011 · Cited by 248 — In attribute framing, attributes are judged more f...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: behavioraleconomics.com  
    Title: Behavioral Economics.com | The BE Hub Framing effect  
-   Link: <a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/framing-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/framing-effect/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The BE HubFraming effect - BehavioralEconomics.com | The BE Hub4 Dec 2024 — Research has considered how framing affects public opinions o...</p></details>
+   Link:<a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/framing-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/framing-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The BE HubFraming effect - BehavioralEconomics.com | The BE Hub4 Dec 2024 — Research has considered how framing affects public opinions o...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9115510/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9115510/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating and Modeling the Effect of Framing, Experience...by S Uttrani · 2022 — One example of preference reversal is the framin...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9115510/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9115510/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating and Modeling the Effect of Framing, Experience...by S Uttrani · 2022 — One example of preference reversal is the framin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/7455683/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7455683/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The dependence of preferences on the...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/7455683/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7455683/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The dependence of preferences on the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA systematic review of risky-choice framing effects  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10620856/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10620856/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby A Kühberger · 2023 · Cited by 31 — Classic explanations of goal-framing effects are inspired by Prospect theory (PT, see belo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10620856/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10620856/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby A Kühberger · 2023 · Cited by 31 — Classic explanations of goal-framing effects are inspired by Prospect theory (PT, see belo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10508293/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10508293/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the influence of message framing in persuasive...by NR Gier · 2023 · Cited by 24 — Message framing (or goal framing), meaning to present...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10508293/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10508293/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the influence of message framing in persuasive...by NR Gier · 2023 · Cited by 24 — Message framing (or goal framing), meaning to present...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/attribute" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/attribute</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryATTRIBUTE definition: 1. a quality or characteristic that someone or something has: 2. a quality...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/attribute" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/attribute</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryATTRIBUTE definition: 1. a quality or characteristic that someone or something has: 2. a quality...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Attribute" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Attribute</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AttributeAttribute (computing), a specification that defines a property of an object, element, or file; Attribute (knowledge represent...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Attribute" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Attribute</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AttributeAttribute (computing), a specification that defines a property of an object, element, or file; Attribute (knowledge represent...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/dictionary/attribute" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/attribute</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsAn attribute is a quality or characteristic given to a person, group, or some other thing. Your best attrib...</p></details>
+   Link:<a href="https://www.vocabulary.com/dictionary/attribute" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/attribute</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsAn attribute is a quality or characteristic given to a person, group, or some other thing. Your best attrib...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/233894741_An_Examination_of_Consumer_Responses_Toward_Attribute-_and_Goal-Framed_Messages" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233894741_An_Examination_of_Consumer_Responses_Toward_Attribute-_and_Goal-Framed_Messages</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Examination of Consumer Responses Toward AttributeThe combined results of four independent studies show that positive attribute frames...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/233894741_An_Examination_of_Consumer_Responses_Toward_Attribute-_and_Goal-Framed_Messages" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233894741_An_Examination_of_Consumer_Responses_Toward_Attribute-_and_Goal-Framed_Messages</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Examination of Consumer Responses Toward AttributeThe combined results of four independent studies show that positive attribute frames...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pure.uva.nl  
-   Link: <a href="https://pure.uva.nl/ws/files/63249396/Prospect_Theory_in_Times_of_a_Pandemic_The_Effects_of_Gain_versus_Loss_Framing_on_Risky_Choices_and_Emotional_Responses_during_the_2020_Coronavirus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/63249396/Prospect_Theory_in_Times_of_a_Pandemic_The_Effects_of_Gain_versus_Loss_Framing_on_Risky_Choices_and_Emotional_Responses_during_the_2020_Coronavirus.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of gain versus loss framing on risky choices and...Prospect theory (Kahneman &amp; Tversky, 1979; Tversky &amp; Kahneman, 1981) specifi...</p></details>
+   Link:<a href="https://pure.uva.nl/ws/files/63249396/Prospect_Theory_in_Times_of_a_Pandemic_The_Effects_of_Gain_versus_Loss_Framing_on_Risky_Choices_and_Emotional_Responses_during_the_2020_Coronavirus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/63249396/Prospect_Theory_in_Times_of_a_Pandemic_The_Effects_of_Gain_versus_Loss_Framing_on_Risky_Choices_and_Emotional_Responses_during_the_2020_Coronavirus.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effects of gain versus loss framing on risky choices and...Prospect theory (Kahneman &amp; Tversky, 1979; Tversky &amp; Kahneman, 1981) specifi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unitesi.unive.it  
-   Link: <a href="https://unitesi.unive.it/retrieve/f5e2e059-c157-43f8-9e89-0fea03362e74/886804-1271456.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unitesi.unive.it/retrieve/f5e2e059-c157-43f8-9e89-0fea03362e74/886804-1271456.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>case of the Covid-19 pandemicDifferent types of framing. There are mainly three kind of framing effects, that are: the primacy effect, th...</p></details>
+   Link:<a href="https://unitesi.unive.it/retrieve/f5e2e059-c157-43f8-9e89-0fea03362e74/886804-1271456.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unitesi.unive.it/retrieve/f5e2e059-c157-43f8-9e89-0fea03362e74/886804-1271456.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>case of the Covid-19 pandemicDifferent types of framing. There are mainly three kind of framing effects, that are: the primacy effect, th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/attribute" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/attribute</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/attribute" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/attribute</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blogs.lse.ac.uk  
-   Link: <a href="https://blogs.lse.ac.uk/politicsandpolicy/changing-the-message-to-change-the-response-psychological-framing-effects-during-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/politicsandpolicy/changing-the-message-to-change-the-response-psychological-framing-effects-during-covid-19/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>framing effects during COVID-1917 Jul 2020 — While preventing death and saving life are two sides of the same coin, &#x27;prevent a death&#x27; tri...</p></details>
+   Link:<a href="https://blogs.lse.ac.uk/politicsandpolicy/changing-the-message-to-change-the-response-psychological-framing-effects-during-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/politicsandpolicy/changing-the-message-to-change-the-response-psychological-framing-effects-during-covid-19/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>framing effects during COVID-1917 Jul 2020 — While preventing death and saving life are two sides of the same coin, &#x27;prevent a death&#x27; tri...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: asahp.org  
    Title: obtainable resources knwnz atye7 zwrsl 82t7d ac9ac td6e8 el4zw 3sft8 l4zea cnajl  
-   Link: <a href="https://www.asahp.org/trends-test-1/2021/5/18/obtainable-resources-knwnz-atye7-zwrsl-82t7d-ac9ac-td6e8-el4zw-3sft8-l4zea-cnajl" target="_blank" rel="noopener noreferrer nofollow">https://www.asahp.org/trends-test-1/2021/5/18/obtainable-resources-knwnz-atye7-zwrsl-82t7d-ac9ac-td6e8-el4zw-3sft8-l4zea-cnajl</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IMPORTANCE OF ACCURATE FRAMINGAug 18, 2021 —... lives saved and in the other by the number of lives lost. Kahneman&#x27;s doctorate is from B...</p></details>
+   Link:<a href="https://www.asahp.org/trends-test-1/2021/5/18/obtainable-resources-knwnz-atye7-zwrsl-82t7d-ac9ac-td6e8-el4zw-3sft8-l4zea-cnajl" target="_blank" rel="noopener noreferrer nofollow">https://www.asahp.org/trends-test-1/2021/5/18/obtainable-resources-knwnz-atye7-zwrsl-82t7d-ac9ac-td6e8-el4zw-3sft8-l4zea-cnajl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMPORTANCE OF ACCURATE FRAMINGAug 18, 2021 —... lives saved and in the other by the number of lives lost. Kahneman&#x27;s doctorate is from B...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fermatslibrary.com  
-   Link: <a href="https://fermatslibrary.com/s/the-framing-of-decisions-and-the-psychology-of-choice" target="_blank" rel="noopener noreferrer nofollow">https://fermatslibrary.com/s/the-framing-of-decisions-and-the-psychology-of-choice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tversky. and Daniel Kahneman; people&#x27;s choices, in everyday life as well. as in the social sciences, are often found-. ed on the assumpt...</p></details>
+   Link:<a href="https://fermatslibrary.com/s/the-framing-of-decisions-and-the-psychology-of-choice" target="_blank" rel="noopener noreferrer nofollow">https://fermatslibrary.com/s/the-framing-of-decisions-and-the-psychology-of-choice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tversky. and Daniel Kahneman; people&#x27;s choices, in everyday life as well. as in the social sciences, are often found-. ed on the assumpt...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psicothema.com  
-   Link: <a href="https://www.psicothema.com/pii?pii=3107" target="_blank" rel="noopener noreferrer nofollow">https://www.psicothema.com/pii?pii=3107</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the latter does not involve risk manipulation, and the task goal does not consist...</p></details>
+   Link:<a href="https://www.psicothema.com/pii?pii=3107" target="_blank" rel="noopener noreferrer nofollow">https://www.psicothema.com/pii?pii=3107</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the latter does not involve risk manipulation, and the task goal does not consist...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/framing-effect.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/framing-effect.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y to a particular decision depending on how it&#x27;s presented.Read more...</p></details>
+   Link:<a href="https://www.simplypsychology.org/framing-effect.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/framing-effect.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y to a particular decision depending on how it&#x27;s presented.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english-korean/attribute" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english-korean/attribute</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tion. ~에 원인을 돌리다. The quarterback attributes the...Read more...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english-korean/attribute" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english-korean/attribute</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tion. ~에 원인을 돌리다. The quarterback attributes the...Read more...</p></details>

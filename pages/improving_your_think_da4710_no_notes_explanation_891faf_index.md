@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710-no-notes/
 description: Focused pages that expand on Explain It.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: improving_your_think_da4710_no_notes_explanation_891faf
 parent_title: Explain It
@@ -16,7 +16,7 @@ parent_permalink: /explain-it/
 
 # Explore Topics in Explain It
 
-The following pages expand on the main **[Explain It]({{ '/explain-it/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Explain It]({{ '/explain-it/' | relative_url }})** page and cover its key branches in.
 
 - [Blank Page]({{ '/blank-page/' | relative_url }})
 - [Gap Check]({{ '/gap-check/' | relative_url }})

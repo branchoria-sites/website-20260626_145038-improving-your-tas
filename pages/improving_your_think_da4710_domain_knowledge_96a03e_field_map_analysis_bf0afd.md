@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_domain_knowledge_96a03e_field_
 
 ## Introduction
 
-Before judging whether a claim is true, it helps to know what kind of territory you are standing in. A field map is a practical representation of how a subject fits together: its core vocabulary, important measurements, underlying [mechanisms]({{ 'mechanisms/' | relative_url }}), representative cases and recurring mistakes. Rather than collecting isolated facts, you build a structure that shows how ideas relate to one another. That structure gives later analysis direction and helps you recognise which questions matter and which [comparisons]({{ 'comparisons/' | relative_url }}) are misleading. Research on concept mapping and expert knowledge consistently shows that organising knowledge into connected concepts improves understanding, recall and problem solving because information is interpreted as part of a meaningful system rather than as disconnected fragments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://methods.sagepub.com/ency/edvol/encyc-of-case-study-research/chpt/concept-mapping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methods.sagepub.com">[SAGE Research Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methods.sagepub.com</span><span class="citation-popover-title">SAGE Research Methods Encyclopedia of Case Study Research</span><span class="citation-popover-snippet">These concept meanings are pictorially arranged...</span></span></span>
+Before judging whether a claim is true, it helps to know what kind of territory you are standing in. A field map is a practical representation of how a subject fits together: its core vocabulary, important measurements, underlying [mechanisms]({{ 'mechanisms/' | relative_url }}), representative cases and recurring mistakes. Rather than collecting isolated facts, you build a structure that shows how ideas relate to one another. That structure gives later analysis direction and helps you recognise which questions matter and which [comparisons]({{ 'comparisons/' | relative_url }}) are misleading. Research on concept mapping and expert knowledge consistently shows that organising knowledge into connected concepts improves understanding, recall and problem solving because information is interpreted as part of a meaningful system rather than as disconnected fragments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://methods.sagepub.com/ency/edvol/encyc-of-case-study-research/chpt/concept-mapping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methods.sagepub.com">[SAGE Research Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methods.sagepub.com</span><span class="citation-popover-title">SAGE Research Methods Encyclopedia of Case Study Research</span><span class="citation-popover-snippet">These concept meanings are pictorially arranged...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_field_map_analysis_bf0afd-Illustration-1-dark.svg" | relative_url }}" alt="Field Map illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_field_map_analysis_bf0afd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_field_map_analysis_bf0afd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ People often begin analysis with a claim: "This policy reduced crime", "This sup
 
 Without that preparation, it is easy to confuse surface similarities with meaningful comparisons. Two healthcare interventions may appear comparable while targeting different populations. Two economic indicators may move together despite measuring different phenomena. Two historical events may share obvious features while arising from entirely different institutional conditions.
 
-Experts tend to avoid these mistakes because they organise knowledge around relationships rather than isolated facts. Concept mapping research similarly treats understanding as the construction of linked concepts instead of memorised lists, allowing later evidence to be interpreted within an organised framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10702656/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Concept Maps for Teaching, Training, Testing and Thinkingby P Eachempati · 2020 · Cited by 13 — Concept maps are evidence based pedago...</span></span></span>
+Experts tend to avoid these mistakes because they organise knowledge around relationships rather than isolated facts. Concept mapping research similarly treats understanding as the construction of linked concepts instead of memorised lists, allowing later evidence to be interpreted within an organised framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10702656/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Concept Maps for Teaching, Training, Testing and Thinkingby P Eachempati · 2020 · Cited by 13 — Concept maps are evidence based pedago...</span></span></span>
 
 A useful field map therefore functions as a guide rather than a conclusion. It identifies what belongs in the discussion before deciding who is right.
 
@@ -373,7 +373,7 @@ For example, if a policy claims to improve educational [outcomes]({{ 'outcomes/'
 
 Evidence supporting or contradicting the policy can then be interpreted within those causal relationships instead of appearing as isolated studies.
 
-Concept mapping methods encourage explicitly connecting concepts with labelled relationships such as "causes", "depends on", "increases" or "constrains", making assumptions visible instead of implicit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://methods.sagepub.com/ency/edvol/encyc-of-case-study-research/chpt/concept-mapping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methods.sagepub.com">[SAGE Research Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methods.sagepub.com</span><span class="citation-popover-title">SAGE Research Methods Encyclopedia of Case Study Research</span><span class="citation-popover-snippet">These concept meanings are pictorially arranged...</span></span></span>
+Concept mapping methods encourage explicitly connecting concepts with labelled relationships such as "causes", "depends on", "increases" or "constrains", making assumptions visible instead of implicit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://methods.sagepub.com/ency/edvol/encyc-of-case-study-research/chpt/concept-mapping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methods.sagepub.com">[SAGE Research Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methods.sagepub.com</span><span class="citation-popover-title">SAGE Research Methods Encyclopedia of Case Study Research</span><span class="citation-popover-snippet">These concept meanings are pictorially arranged...</span></span></span>
 
 ## Use representative cases to calibrate understanding
 
@@ -427,7 +427,7 @@ A stronger field map connects concepts through relationships such as:
 
 These relationships allow new information to be inserted naturally. When encountering a new claim, the first question becomes, "Where does this fit?" rather than "Do I already agree with it?"
 
-Knowledge representation research similarly emphasises maps and ontologies that capture relationships among concepts, providing a shared conceptual structure instead of isolated definitions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dl.ifip.org/db/conf/ifip5-3/basys2008/SoaresS08.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.ifip.org">[dl.ifip.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.ifip.org</span><span class="citation-popover-snippet">Using Concept Maps For Ontology DevelopmentThis paper presents a graphical-based knowledge representation approach using concept maps tow...</span></span></span>
+Knowledge representation research similarly emphasises maps and ontologies that capture relationships among concepts, providing a shared conceptual structure instead of isolated definitions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dl.ifip.org/db/conf/ifip5-3/basys2008/SoaresS08.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.ifip.org">[dl.ifip.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.ifip.org</span><span class="citation-popover-snippet">Using Concept Maps For Ontology DevelopmentThis paper presents a graphical-based knowledge representation approach using concept maps tow...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IFuD42ajzuQ" title="SOLVE Complex Problems With The 7-Step McKinsey Framework" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IFuD42ajzuQ" target="_blank" rel="noopener noreferrer">SOLVE Complex Problems With The 7-Step McKinsey Framework</a></p><p class="youtube-embed-meta">Channel: Trish Lee</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IFuD42ajzuQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IFuD42ajzuQ">Open on YouTube</a></p></div></div></div>
@@ -509,194 +509,194 @@ The greatest benefit of a field map is not that it makes analysis faster, but th
 In this way, [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) becomes more than accumulated information. It becomes an organised model of the field that supports clearer judgement, reveals missing pieces of evidence and reduces the risk of analysing arguments without first understanding the landscape in which they belong.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Build The Map Before Judging Claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Build The Map Before Judging Claims. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Explains common cognitive traps that field mapping helps prevent before evaluating claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common cognitive traps that field mapping helps prevent before evaluating claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xg-CBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xg-CBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
         
-        <p class="fr-book-desc">Teaches building structured understanding rather than collecting isolated facts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches building structured understanding rather than collecting isolated facts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides foundational concepts about reasoning, evidence and cognitive bias.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundational concepts about reasoning, evidence and cognitive bias.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Illusion+by+Steven+A.+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PqMgDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Knowledge Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+by+Steven+A.+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Illusion">The Knowledge Illusion</a>
-        </h4>
-        <p class="fr-book-author">By Steven A. Sloman, Philip Fernbach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Illusion+by+Steven+A.+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PqMgDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Knowledge Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+by+Steven+A.+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Illusion">The Knowledge Illusion</a>
+</h4>
+<p class="fr-book-author">By Steven A. Sloman, Philip Fernbach</p>
         
-        <p class="fr-book-desc">Highlights why people need accurate mental models of a field before judging claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+by+Steven+A.+Sloman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights why people need accurate mental models of a field before judging claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+by+Steven+A.+Sloman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map of Great Britain GB Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More"><img src="https://i.ebayimg.com/images/g/luAAAOSw11hoUt~R/s-l225.jpg" alt="Listing image for Map of Great Britain GB Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Map of Great Britain GB Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: map poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map of Great Britain GB Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More"><img src="https://i.ebayimg.com/images/g/luAAAOSw11hoUt~R/s-l225.jpg" alt="Listing image for Map of Great Britain GB Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Map of Great Britain GB Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for map poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: map poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Poster British Isles OS 2024 Edition A1 + 610x914mm Gloss Print"><img src="https://i.ebayimg.com/images/g/dCEAAOSwrMxoRgJM/s-l225.jpg" alt="Listing image for UK Map Poster British Isles OS 2024 Edition A1 + 610x914mm Gloss Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">UK Map Poster British Isles OS 2024 Edition A1 + 610x914mm Gloss Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: map poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Poster British Isles OS 2024 Edition A1 + 610x914mm Gloss Print"><img src="https://i.ebayimg.com/images/g/dCEAAOSwrMxoRgJM/s-l225.jpg" alt="Listing image for UK Map Poster British Isles OS 2024 Edition A1 + 610x914mm Gloss Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">UK Map Poster British Isles OS 2024 Edition A1 + 610x914mm Gloss Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for map poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: map poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches"><img src="https://i.ebayimg.com/images/g/xwEAAOSw03VgWk96/s-l225.jpg" alt="Listing image for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: map poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches"><img src="https://i.ebayimg.com/images/g/xwEAAOSw03VgWk96/s-l225.jpg" alt="Listing image for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for map poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: map poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MAP OF THE WORLD POSTER GIANT SIZE 140 X 100cm FLAGS WALL PRINT TRAVEL JOURNEY"><img src="https://i.ebayimg.com/images/g/fKgAAeSwrmRqAYG1/s-l225.jpg" alt="Listing image for MAP OF THE WORLD POSTER GIANT SIZE 140 X 100cm FLAGS WALL PRINT TRAVEL JOURNEY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MAP OF THE WORLD POSTER GIANT SIZE 140 X 100cm FLAGS WALL PRINT TRAVEL JOURNEY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: map poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MAP OF THE WORLD POSTER GIANT SIZE 140 X 100cm FLAGS WALL PRINT TRAVEL JOURNEY"><img src="https://i.ebayimg.com/images/g/fKgAAeSwrmRqAYG1/s-l225.jpg" alt="Listing image for MAP OF THE WORLD POSTER GIANT SIZE 140 X 100cm FLAGS WALL PRINT TRAVEL JOURNEY" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MAP OF THE WORLD POSTER GIANT SIZE 140 X 100cm FLAGS WALL PRINT TRAVEL JOURNEY</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for map poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: map poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=map+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=build-the-map-before-judging-claims-map-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="map poster -book -books -dvd" data-ebay-reference="build-the-map-before-judging-claims-map-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -712,7 +712,7 @@ In this way, [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) become
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -732,7 +732,7 @@ In this way, [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) become
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -764,7 +764,7 @@ In this way, [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) become
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -816,7 +816,7 @@ In this way, [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) become
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -861,7 +861,7 @@ In this way, [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) become
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -901,75 +901,75 @@ In this way, [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) become
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10702656/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10702656/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Concept Maps for Teaching, Training, Testing and Thinkingby P Eachempati · 2020 · Cited by 13 — Concept maps are evidence based pedago...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10702656/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10702656/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Concept Maps for Teaching, Training, Testing and Thinkingby P Eachempati · 2020 · Cited by 13 — Concept maps are evidence based pedago...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dl.ifip.org  
-   Link: <a href="https://dl.ifip.org/db/conf/ifip5-3/basys2008/SoaresS08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dl.ifip.org/db/conf/ifip5-3/basys2008/SoaresS08.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Concept Maps For Ontology DevelopmentThis paper presents a graphical-based knowledge representation approach using concept maps tow...</p></details>
+   Link:<a href="https://dl.ifip.org/db/conf/ifip5-3/basys2008/SoaresS08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dl.ifip.org/db/conf/ifip5-3/basys2008/SoaresS08.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Concept Maps For Ontology DevelopmentThis paper presents a graphical-based knowledge representation approach using concept maps tow...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: methods.sagepub.com  
    Title: SAGE Research Methods Encyclopedia of Case Study Research  
-   Link: <a href="https://methods.sagepub.com/ency/edvol/encyc-of-case-study-research/chpt/concept-mapping" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/ency/edvol/encyc-of-case-study-research/chpt/concept-mapping</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These concept meanings are pictorially arranged...</p></details>
+   Link:<a href="https://methods.sagepub.com/ency/edvol/encyc-of-case-study-research/chpt/concept-mapping" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/ency/edvol/encyc-of-case-study-research/chpt/concept-mapping</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These concept meanings are pictorially arranged...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scitepress.org  
-   Link: <a href="https://www.scitepress.org/Papers/2024/130602/130602.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scitepress.org/Papers/2024/130602/130602.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>or creating corporate atlas of knowledge maps – a visual guide of [diagrams](&amp;#123;&amp;#123; &#x27;diagrams/&#x27; | relative_url &amp;#125;&amp;#125;) describing the intellectual...</p></details>
+   Link:<a href="https://www.scitepress.org/Papers/2024/130602/130602.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scitepress.org/Papers/2024/130602/130602.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>or creating corporate atlas of knowledge maps – a visual guide of [diagrams](&amp;#123;&amp;#123; &#x27;diagrams/&#x27; | relative_url &amp;#125;&amp;#125;) describing the intellectual...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: asmedigitalcollection.asme.org  
    Title: Top Down Hierarchical Construction and Application  
-   Link: <a href="https://asmedigitalcollection.asme.org/mechanicaldesign/article/147/3/031401/1206698/Top-Down-Hierarchical-Construction-and-Application" target="_blank" rel="noopener noreferrer nofollow">https://asmedigitalcollection.asme.org/mechanicaldesign/article/147/3/031401/1206698/Top-Down-Hierarchical-Construction-and-Application</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>asme.orgTop-Down Hierarchical Construction and Application of a...18 Oct 2024 — This article introduces the concept of knowledge graph...</p></details>
+   Link:<a href="https://asmedigitalcollection.asme.org/mechanicaldesign/article/147/3/031401/1206698/Top-Down-Hierarchical-Construction-and-Application" target="_blank" rel="noopener noreferrer nofollow">https://asmedigitalcollection.asme.org/mechanicaldesign/article/147/3/031401/1206698/Top-Down-Hierarchical-Construction-and-Application</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>asme.orgTop-Down Hierarchical Construction and Application of a...18 Oct 2024 — This article introduces the concept of knowledge graph...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/A-Concept-Map-that-integrates-a-number-of-other-Concept-Maps-into-a-knowledge-model-about_fig4_228805307" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/A-Concept-Map-that-integrates-a-number-of-other-Concept-Maps-into-a-knowledge-model-about_fig4_228805307</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maps into a knowledge model about the domain of bulk power operations...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/A-Concept-Map-that-integrates-a-number-of-other-Concept-Maps-into-a-knowledge-model-about_fig4_228805307" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/A-Concept-Map-that-integrates-a-number-of-other-Concept-Maps-into-a-knowledge-model-about_fig4_228805307</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maps into a knowledge model about the domain of bulk power operations...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2509.14554" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2509.14554</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Concept Map Generationby X Zhai · 2025 · Cited by 3 — This review systematically synthesizes the emerging body of...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2509.14554" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2509.14554</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Concept Map Generationby X Zhai · 2025 · Cited by 3 — This review systematically synthesizes the emerging body of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Charting the Thicket: Using Argument Mapping to Explore Controversial Topics  
-   Link: <a href="https://www.youtube.com/watch?v=f833pHMlJjk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f833pHMlJjk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Concept Maps and Mind Maps Tools for Research EP 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=f833pHMlJjk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f833pHMlJjk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Concept Maps and Mind Maps Tools for Research EP 1...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-031-54677-8_5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-54677-8_5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Techniques and Application of Knowledge Mappingby A Okada · 2025 — This chapter introduces 19 distinct types of knowledge maps, illustrat...</p></details>
+   Link:<a href="https://link.springer.com/chapter/10.1007/978-3-031-54677" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-54677</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Techniques and Application of Knowledge Mappingby A Okada · 2025 — This chapter introduces 19 distinct types of knowledge maps, illustrat...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Concept Maps and Mind Maps Tools for Research EP 1  
-   Link: <a href="https://www.youtube.com/watch?v=b33rvFDEVdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b33rvFDEVdg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SOLVE Complex Problems With The 7-Step McKinsey Framework...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b33rvFDEVdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b33rvFDEVdg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SOLVE Complex Problems With The 7-Step McKinsey Framework...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: How to Create a Literature Map?  
-   Link: <a href="https://www.youtube.com/watch?v=0a8AZHdeTTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0a8AZHdeTTE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Charting the Thicket: Using Argument Mapping to Explore Controversial Topics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0a8AZHdeTTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0a8AZHdeTTE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charting the Thicket: Using Argument Mapping to Explore Controversial Topics...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: SOLVE Complex Problems With The 7-Step Mc Kinsey Framework  
-   Link: <a href="https://www.youtube.com/watch?v=IFuD42ajzuQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IFuD42ajzuQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Critical Thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;) with Argument Maps...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IFuD42ajzuQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IFuD42ajzuQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Critical Thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;) with Argument Maps...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Critical Thinking with Argument Maps  
-   Link: <a href="https://www.youtube.com/watch?v=cgbpsONQlYY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cgbpsONQlYY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=cgbpsONQlYY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cgbpsONQlYY</a>  

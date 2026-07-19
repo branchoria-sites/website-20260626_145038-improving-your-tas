@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_li
 
 ## Introduction
 
-One of the most reliable ways to improve a [high-stakes decision]({{ 'decision-routines/' | relative_url }}) is to prevent the first attractive option from becoming the only option. The initial proposal often feels compelling because it arrives first, fits existing assumptions or offers immediate relief. Once attention narrows around it, other possibilities receive less effort, weaker scrutiny or no consideration at all. Research on judgement and decision-making consistently shows that people tend to stop searching once they find a plausible answer rather than the best available one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+One of the most reliable ways to improve a [high-stakes decision]({{ 'decision-routines/' | relative_url }}) is to prevent the first attractive option from becoming the only option. The initial proposal often feels compelling because it arrives first, fits existing assumptions or offers immediate relief. Once attention narrows around it, other possibilities receive less effort, weaker scrutiny or no consideration at all. Research on judgement and decision-making consistently shows that people tend to stop searching once they find a plausible answer rather than the best available one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_live_alternatives_e775b1-Illustration-1-dark.svg" | relative_url }}" alt="Alternatives illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_live_alternatives_e775b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_live_alternatives_e775b1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,14 +282,14 @@ A practical decision routine counters this tendency by requiring the preferred o
 
 ## Why favourite options crowd out rivals
 
-The first credible solution has psychological advantages that later options struggle to overcome. Once people begin imagining themselves succeeding with one plan, they naturally search for confirming evidence, explain away weaknesses and devote less attention to competing ideas. This "premature closure" is well documented across research on judgement and decision-making. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The first credible solution has psychological advantages that later options struggle to overcome. Once people begin imagining themselves succeeding with one plan, they naturally search for confirming evidence, explain away weaknesses and devote less attention to competing ideas. This "premature closure" is well documented across research on judgement and decision-making.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Several [mechanisms]({{ 'mechanisms/' | relative_url }}) reinforce this narrowing.
 
-* **Confirmation bias** encourages evidence gathering that supports the emerging favourite while neglecting conflicting information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-* **Anchoring** causes early information or the first proposal to shape later evaluations, even when it was only a starting point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-* **Choice-supportive memory** makes people remember selected options more favourably after they have mentally committed to them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-* **Group dynamics** can amplify the effect. Once influential people express enthusiasm, others often spend their effort improving the preferred option instead of questioning whether another path should replace it altogether. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5543983/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making Processes in Social Contexts</span><span class="citation-popover-snippet">by E Bruch · 2017 · Cited by 421 — Sociological research on choice emphasizes how features of the social environment shape individual...</span></span></span>
+* **Confirmation bias** encourages evidence gathering that supports the emerging favourite while neglecting conflicting information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* **Anchoring** causes early information or the first proposal to shape later evaluations, even when it was only a starting point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* **Choice-supportive memory** makes people remember selected options more favourably after they have mentally committed to them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* **Group dynamics** can amplify the effect. Once influential people express enthusiasm, others often spend their effort improving the preferred option instead of questioning whether another path should replace it altogether.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5543983/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making Processes in Social Contexts</span><span class="citation-popover-snippet">by E Bruch · 2017 · Cited by 421 — Sociological research on choice emphasizes how features of the social environment shape individual...</span></span></span>
 
 The result is usually not a bad comparison between many alternatives. It is the absence of comparison altogether.
 
@@ -307,7 +307,7 @@ An additional question often improves the comparison:
 
 **What if we deliberately did nothing for now?**
 
-Doing nothing is frequently ignored because people assume action is the default. Behavioural research shows that maintaining the status quo is itself an alternative, with both costs and benefits that deserve explicit comparison. Sometimes delay simply postpones problems. In other situations it preserves flexibility while [uncertainty]({{ 'uncertainty/' | relative_url }}) resolves. Treating "wait" as a formal option prevents hidden assumptions about urgency from dominating the decision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Status Quo Bias in Decision-Making</span><span class="citation-popover-snippet">ResearchGate(PDF) Status Quo Bias in Decision-MakingFebruary 1, 1988 — Most real decisions, unlike those of economics texts, have a statu...</span><span class="citation-popover-meta">Published: February 1, 1988</span></span></span>
+Doing nothing is frequently ignored because people assume action is the default. Behavioural research shows that maintaining the status quo is itself an alternative, with both costs and benefits that deserve explicit comparison. Sometimes delay simply postpones problems. In other situations it preserves flexibility while [uncertainty]({{ 'uncertainty/' | relative_url }}) resolves. Treating "wait" as a formal option prevents hidden assumptions about urgency from dominating the decision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Status Quo Bias in Decision-Making</span><span class="citation-popover-snippet">ResearchGate(PDF) Status Quo Bias in Decision-MakingFebruary 1, 1988 — Most real decisions, unlike those of economics texts, have a statu...</span><span class="citation-popover-meta">Published: February 1, 1988</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QmZDc5_ffvE" title="Decisive: How to Make Better Choices - Chip and Dan Heath - ANIMATED BOOK REVIEW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QmZDc5_ffvE" target="_blank" rel="noopener noreferrer">Decisive: How to Make Better Choices - Chip and Dan Heath - ANIMATED BOOK REVIEW</a></p><p class="youtube-embed-meta">Channel: Practical Psychology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QmZDc5_ffvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QmZDc5_ffvE">Open on YouTube</a></p></div></div></div>
@@ -330,7 +330,7 @@ A better routine is to score every live alternative against the same questions.
 
 </div>
 
-Using identical criteria reduces the temptation to change the rules simply because one option feels attractive. Decision-quality research argues that good choices depend not only on analysing consequences but also on generating a sufficiently diverse set of feasible options before comparison. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decision_quality" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Decision quality</span><span class="citation-popover-snippet">Decision quality</span></span></span>
+Using identical criteria reduces the temptation to change the rules simply because one option feels attractive. Decision-quality research argues that good choices depend not only on analysing consequences but also on generating a sufficiently diverse set of feasible options before comparison.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Decision_quality" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Decision quality</span><span class="citation-popover-snippet">Decision quality</span></span></span>
 
 One useful discipline is to write the comparison before discussing preferences. Recording strengths, weaknesses and uncertainties side by side makes later reasoning more transparent and reduces [hindsight bias]({{ 'hindsight-bias/' | relative_url }}) if the decision is reviewed.
 
@@ -371,7 +371,7 @@ Not every decision can be tested this way, but where experimentation is possible
 
 Imagine a hospital deciding whether to adopt a new digital triage system.
 
-A narrow framing compares: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=EspwZf3lmDM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Premature Closure in Medicine</span><span class="citation-popover-snippet">Widen your options&quot; &quot;narrow framing&quot; decision making 4 Steps to Clearer Thinking: The WRAP Process Explained Blink Brain Wave...</span></span></span>
+A narrow framing compares:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=EspwZf3lmDM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Premature Closure in Medicine</span><span class="citation-popover-snippet">Widen your options&quot; &quot;narrow framing&quot; decision making 4 Steps to Clearer Thinking: The WRAP Process Explained Blink Brain Wave...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
@@ -411,7 +411,7 @@ Several habits weaken the value of alternative generation.
 
 </div>
 
-Intelligence analysts have long used structured techniques such as analysing competing hypotheses to force multiple explanations to compete against the same evidence rather than allowing one attractive interpretation to dominate prematurely. Although developed for intelligence work, the underlying principle applies broadly: judgement improves when plausible alternatives are actively compared instead of merely acknowledged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Analysis of competing hypotheses</span><span class="citation-popover-snippet">Analysis of competing hypotheses</span></span></span>
+Intelligence analysts have long used structured techniques such as analysing competing hypotheses to force multiple explanations to compete against the same evidence rather than allowing one attractive interpretation to dominate prematurely. Although developed for intelligence work, the underlying principle applies broadly: judgement improves when plausible alternatives are actively compared instead of merely acknowledged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Analysis of competing hypotheses</span><span class="citation-popover-snippet">Analysis of competing hypotheses</span></span></span>
 
 ## The mechanism in practice
 
@@ -424,194 +424,194 @@ For high-stakes choices, a routine as simple as requiring one different strategy
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What else is genuinely on the table?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What else is genuinely on the table?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Directly teaches how to avoid narrow framing and generate real alternatives before committing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly teaches how to avoid narrow framing and generate real alternatives before committing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why first impressions, anchors, and coherent stories can dominate later evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why first impressions, anchors, and coherent stories can dominate later evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Addresses confirmation bias, anchoring, sunk cost, and other forces that make favourite options crowd out rivals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses confirmation bias, anchoring, sunk cost, and other forces that make favourite options crowd out rivals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lateral+Thinking%3A+Creativity+Step+by+Step+by+Edward+De+Bono&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lateral Thinking: Creativity Step by Step on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LVZqAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Lateral Thinking: Creativity Step by Step" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lateral+Thinking%3A+Creativity+Step+by+Step+by+Edward+De+Bono&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lateral Thinking: Creativity Step by Step">Lateral Thinking: Creativity Step by Step</a>
-        </h4>
-        <p class="fr-book-author">By Edward De Bono</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lateral+Thinking%3A+Creativity+Step+by+Step+by+Edward+De+Bono&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lateral Thinking: Creativity Step by Step on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LVZqAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Lateral Thinking: Creativity Step by Step" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lateral+Thinking%3A+Creativity+Step+by+Step+by+Edward+De+Bono&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lateral Thinking: Creativity Step by Step">Lateral Thinking: Creativity Step by Step</a>
+</h4>
+<p class="fr-book-author">By Edward De Bono</p>
         
-        <p class="fr-book-desc">Supports the page&#x27;s emphasis on generating genuinely different alternatives rather than refining only the favourite.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lateral+Thinking%3A+Creativity+Step+by+Step+by+Edward+De+Bono&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the page&#x27;s emphasis on generating genuinely different alternatives rather than refining only the favourite.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lateral+Thinking%3A+Creativity+Step+by+Step+by+Edward+De+Bono&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Decision maker/action dice"><img src="https://i.ebayimg.com/images/g/ZrYAAOSwrpVlorsB/s-l225.jpg" alt="Listing image for Decision maker/action dice" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Decision maker/action dice</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Decision maker/action dice"><img src="https://i.ebayimg.com/images/g/ZrYAAOSwrpVlorsB/s-l225.jpg" alt="Listing image for Decision maker/action dice" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Decision maker/action dice</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Food Dice, Food Decision Maker, Funny, Dice for Date Nights with Husband And"><img src="https://i.ebayimg.com/images/g/-McAAeSwEDFpTiEX/s-l225.jpg" alt="Listing image for 2x Food Dice, Food Decision Maker, Funny, Dice for Date Nights with Husband And" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">2x Food Dice, Food Decision Maker, Funny, Dice for Date Nights with Husband And</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Food Dice, Food Decision Maker, Funny, Dice for Date Nights with Husband And"><img src="https://i.ebayimg.com/images/g/-McAAeSwEDFpTiEX/s-l225.jpg" alt="Listing image for 2x Food Dice, Food Decision Maker, Funny, Dice for Date Nights with Husband And" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">2x Food Dice, Food Decision Maker, Funny, Dice for Date Nights with Husband And</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yes No Dice Decision Maker"><img src="https://i.ebayimg.com/images/g/NEAAAeSw~LZpYqik/s-l225.jpg" alt="Listing image for Yes No Dice Decision Maker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Yes No Dice Decision Maker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yes No Dice Decision Maker"><img src="https://i.ebayimg.com/images/g/NEAAAeSw~LZpYqik/s-l225.jpg" alt="Listing image for Yes No Dice Decision Maker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Yes No Dice Decision Maker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Decision Maker Dice Paper Weight Office Table Premium Quality Anti-Stress Relief"><img src="https://i.ebayimg.com/images/g/uqkAAOSwUc1mhJB1/s-l225.jpg" alt="Listing image for Decision Maker Dice Paper Weight Office Table Premium Quality Anti-Stress Relief" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Decision Maker Dice Paper Weight Office Table Premium Quality Anti-Stress Relief</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Decision Maker Dice Paper Weight Office Table Premium Quality Anti-Stress Relief"><img src="https://i.ebayimg.com/images/g/uqkAAOSwUc1mhJB1/s-l225.jpg" alt="Listing image for Decision Maker Dice Paper Weight Office Table Premium Quality Anti-Stress Relief" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Decision Maker Dice Paper Weight Office Table Premium Quality Anti-Stress Relief</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-is-genuinely-on-the-table-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="what-else-is-genuinely-on-the-table-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -627,7 +627,7 @@ For high-stakes choices, a routine as simple as requiring one different strategy
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -647,7 +647,7 @@ For high-stakes choices, a routine as simple as requiring one different strategy
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -679,7 +679,7 @@ For high-stakes choices, a routine as simple as requiring one different strategy
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -731,7 +731,7 @@ For high-stakes choices, a routine as simple as requiring one different strategy
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -776,7 +776,7 @@ For high-stakes choices, a routine as simple as requiring one different strategy
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -817,92 +817,92 @@ For high-stakes choices, a routine as simple as requiring one different strategy
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Decision-making</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Decision-making</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDecision-Making Processes in Social Contexts  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5543983/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5543983/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by E Bruch · 2017 · Cited by 421 — Sociological research on choice emphasizes how features of the social environment shape individual...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5543983/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5543983/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by E Bruch · 2017 · Cited by 421 — Sociological research on choice emphasizes how features of the social environment shape individual...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Status Quo Bias in Decision-Making  
-   Link: <a href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Status Quo Bias in Decision-MakingFebruary 1, 1988 — Most real decisions, unlike those of economics texts, have a statu...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Status Quo Bias in Decision-MakingFebruary 1, 1988 — Most real decisions, unlike those of economics texts, have a statu...</p></details>
    Published: February 1, 1988  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Decision quality  
-   Link: <a href="https://en.wikipedia.org/wiki/Decision_quality" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Decision_quality</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Decision_quality" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Decision_quality</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Analysis of competing hypotheses  
-   Link: <a href="https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: umassd.edu  
-   Link: <a href="https://www.umassd.edu/fycm/decision-making/process/" target="_blank" rel="noopener noreferrer nofollow">https://www.umassd.edu/fycm/decision-making/process/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision-making process2 Apr 2026 — Decision making is the process of making choices by identifying a decision, gathering information, an...</p></details>
+   Link:<a href="https://www.umassd.edu/fycm/decision-making/process/" target="_blank" rel="noopener noreferrer nofollow">https://www.umassd.edu/fycm/decision-making/process/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision-making process2 Apr 2026 — Decision making is the process of making choices by identifying a decision, gathering information, an...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fs.blog  
-   Link: <a href="https://fs.blog/mental-models/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/mental-models/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental Models: The Best Way to Make Intelligent DecisionsA mental model is a simplified explanation of how something works. Any idea, bel...</p></details>
+   Link:<a href="https://fs.blog/mental-models/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/mental-models/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mental Models: The Best Way to Make Intelligent DecisionsA mental model is a simplified explanation of how something works. Any idea, bel...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/top-content/soft-skills-emotional-intelligence/enhancing-decision-making-skills/techniques-for-evaluating-alternatives-in-decisions/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/soft-skills-emotional-intelligence/enhancing-decision-making-skills/techniques-for-evaluating-alternatives-in-decisions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Techniques For Evaluating Alternatives In DecisionsTechniques for evaluating alternatives in decisions help you compare different options...</p></details>
+   Link:<a href="https://www.linkedin.com/top-content/soft-skills-emotional-intelligence/enhancing-decision-making-skills/techniques-for-evaluating-alternatives-in-decisions/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/soft-skills-emotional-intelligence/enhancing-decision-making-skills/techniques-for-evaluating-alternatives-in-decisions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Techniques For Evaluating Alternatives In DecisionsTechniques for evaluating alternatives in decisions help you compare different options...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sosintel.co.uk  
-   Link: <a href="https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SOS IntelligenceMastering the Analysis of Competing Hypotheses (ACH)20 Jun 2025 — At its core, ACH shifts the analytical focus from provi...</p></details>
+   Link:<a href="https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SOS IntelligenceMastering the Analysis of Competing Hypotheses (ACH)20 Jun 2025 — At its core, ACH shifts the analytical focus from provi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/status-quo-bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo BiasThe status quo bias describes our preference for the current state of affairs, resulting in resistance to change.Read more...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/status-quo-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo BiasThe status quo bias describes our preference for the current state of affairs, resulting in resistance to change.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: productanonymous.com  
    Title: Is that enough? What are the unwritten alternatives?Read more  
-   Link: <a href="https://productanonymous.com/2013/09/the-art-of-decision-making-identifying-alternatives/" target="_blank" rel="noopener noreferrer nofollow">https://productanonymous.com/2013/09/the-art-of-decision-making-identifying-alternatives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Art of Decision Making – Part 4: Identifying alternatives15 Sept 2013 — You&#x27;ve got your problem identified, and you immediately think...</p></details>
+   Link:<a href="https://productanonymous.com/2013/09/the-art-of-decision-making-identifying-alternatives/" target="_blank" rel="noopener noreferrer nofollow">https://productanonymous.com/2013/09/the-art-of-decision-making-identifying-alternatives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Art of Decision Making – Part 4: Identifying alternatives15 Sept 2013 — You&#x27;ve got your problem identified, and you immediately think...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Decisive by Chip & Dan Heath Book  
-   Link: <a href="https://www.youtube.com/watch?v=YP98UFtArGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YP98UFtArGI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decisive: How to Make Better Choices - Chip and Dan Heath - ANIMATED BOOK REVIEW...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YP98UFtArGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YP98UFtArGI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decisive: How to Make Better Choices - Chip and Dan Heath - ANIMATED BOOK REVIEW...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: How To Make Good Decisions  
-   Link: <a href="https://www.youtube.com/watch?v=ItVT1iHaGY4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ItVT1iHaGY4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decisive by Chip &amp; Dan Heath Book Summary | The WRAP Framework for Decision Making...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ItVT1iHaGY4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ItVT1iHaGY4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decisive by Chip &amp; Dan Heath Book Summary | The WRAP Framework for Decision Making...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Premature Closure in Medicine  
-   Link: <a href="https://www.youtube.com/watch?v=EspwZf3lmDM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EspwZf3lmDM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Widen your options&quot; &quot;narrow framing&quot; decision making 4 Steps to Clearer Thinking: The WRAP Process Explained Blink Brain Wave...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EspwZf3lmDM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EspwZf3lmDM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Widen your options&quot; &quot;narrow framing&quot; decision making 4 Steps to Clearer Thinking: The WRAP Process Explained Blink Brain Wave...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: 4 Steps to Clearer Thinking: The WRAP Process Explained  
-   Link: <a href="https://www.youtube.com/watch?v=oMz7CyOCdEc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oMz7CyOCdEc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Make Good Decisions - Decision-Making Villains To Avoid...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oMz7CyOCdEc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oMz7CyOCdEc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Make Good Decisions - Decision-Making Villains To Avoid...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Decisive: How to Make Better Choices  
-   Link: <a href="https://www.youtube.com/watch?v=QmZDc5_ffvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QmZDc5_ffvE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Premature Closure in Medicine...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QmZDc5_ffvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QmZDc5_ffvE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Premature Closure in Medicine...</p></details>

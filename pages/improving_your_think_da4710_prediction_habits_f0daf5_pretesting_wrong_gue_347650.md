@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_prediction_habits_f0daf5_prete
 
 ## Introduction
 
-Many people assume that making a wrong guess before learning is harmful because the mistake will become “stuck” in memory. Research on **pretesting** suggests a more nuanced picture. When learners attempt to answer a question before being taught the material, they usually fail—but if they then receive clear corrective feedback, they often remember the correct answer better than learners who simply studied it without first guessing. This phenomenon, known as the **pretesting effect**, has been demonstrated across word pairs, factual knowledge, reading passages, videos and classroom learning, although its strength depends on how the activity is designed and what is being learned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-023-09814-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Prequestioning and Pretesting Effects: a Review of Empirical...by SC Pan · 2023 · Cited by 111 — In this review, we summarize th...</span></span></span>
+Many people assume that making a wrong guess before learning is harmful because the mistake will become “stuck” in memory. Research on **pretesting** suggests a more nuanced picture. When learners attempt to answer a question before being taught the material, they usually fail—but if they then receive clear corrective feedback, they often remember the correct answer better than learners who simply studied it without first guessing. This phenomenon, known as the **pretesting effect**, has been demonstrated across word pairs, factual knowledge, reading passages, videos and classroom learning, although its strength depends on how the activity is designed and what is being learned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-023-09814-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Prequestioning and Pretesting Effects: a Review of Empirical...by SC Pan · 2023 · Cited by 111 — In this review, we summarize th...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_pretesting_wrong_gue_347650-Illustration-1-dark.svg" | relative_url }}" alt="Pretesting illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_pretesting_wrong_gue_347650-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_pretesting_wrong_gue_347650-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -302,9 +302,9 @@ A typical sequence is simple:
 
 </div>
 
-The crucial feature is that the learner commits to an answer before seeing the solution. This creates a specific prediction that can later be confirmed or corrected. Simply wondering about the answer without generating one does not consistently produce the same benefits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-023-09814-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Prequestioning and Pretesting Effects: a Review of Empirical...by SC Pan · 2023 · Cited by 111 — In this review, we summarize th...</span></span></span>
+The crucial feature is that the learner commits to an answer before seeing the solution. This creates a specific prediction that can later be confirmed or corrected. Simply wondering about the answer without generating one does not consistently produce the same benefits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-023-09814-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Prequestioning and Pretesting Effects: a Review of Empirical...by SC Pan · 2023 · Cited by 111 — In this review, we summarize th...</span></span></span>
 
-Laboratory studies that revived interest in pretesting often used very difficult materials. Participants guessed the second word in unfamiliar word pairs, such as trying to complete a cue before seeing the target. Most guesses were incorrect, yet later recall exceeded that of learners who spent the same amount of time only studying the completed pairs. Similar effects have since been reported using trivia questions, prose passages, lectures and video-based instruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-023-09814-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Prequestioning and Pretesting Effects: a Review of Empirical...by SC Pan · 2023 · Cited by 111 — In this review, we summarize th...</span></span></span>
+Laboratory studies that revived interest in pretesting often used very difficult materials. Participants guessed the second word in unfamiliar word pairs, such as trying to complete a cue before seeing the target. Most guesses were incorrect, yet later recall exceeded that of learners who spent the same amount of time only studying the completed pairs. Similar effects have since been reported using trivia questions, prose passages, lectures and video-based instruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-023-09814-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Prequestioning and Pretesting Effects: a Review of Empirical...by SC Pan · 2023 · Cited by 111 — In this review, we summarize th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y24Lh5CXoBA" title="Using Pretests as Learning Tools, Dr. Elizabeth Bjork" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y24Lh5CXoBA" target="_blank" rel="noopener noreferrer">Using Pretests as Learning Tools, Dr. Elizabeth Bjork</a></p><p class="youtube-embed-meta">Channel: LastingLearning.com</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y24Lh5CXoBA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y24Lh5CXoBA">Open on YouTube</a></p></div></div></div>
@@ -315,13 +315,13 @@ Wrong guesses do not improve learning by themselves. Their value comes from what
 
 Several complementary explanations have emerged from the research.
 
-First, generating an answer activates related knowledge already stored in memory. Even if the answer is wrong, relevant concepts become active, making it easier to connect the correct information to existing knowledge once it appears. Rather than reading a fact in isolation, the learner incorporates it into an existing mental network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredicting as a learning strategy</span><span class="citation-popover-snippet">NIHby G Brod · 2021 · Cited by 77 — This article attempts to delineate the procedural and mechanistic characteristics of predicting...</span></span></span>
+First, generating an answer activates related knowledge already stored in memory. Even if the answer is wrong, relevant concepts become active, making it easier to connect the correct information to existing knowledge once it appears. Rather than reading a fact in isolation, the learner incorporates it into an existing mental network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredicting as a learning strategy</span><span class="citation-popover-snippet">NIHby G Brod · 2021 · Cited by 77 — This article attempts to delineate the procedural and mechanistic characteristics of predicting...</span></span></span>
 
-Second, an incorrect prediction creates a noticeable mismatch between expectation and reality. This prediction error captures attention. Instead of passively reading the correction, learners are more likely to notice precisely what differs from their expectation, making the corrective information more memorable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredicting as a learning strategy</span><span class="citation-popover-snippet">NIHby G Brod · 2021 · Cited by 77 — This article attempts to delineate the procedural and mechanistic characteristics of predicting...</span></span></span>
+Second, an incorrect prediction creates a noticeable mismatch between expectation and reality. This prediction error captures attention. Instead of passively reading the correction, learners are more likely to notice precisely what differs from their expectation, making the corrective information more memorable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredicting as a learning strategy</span><span class="citation-popover-snippet">NIHby G Brod · 2021 · Cited by 77 — This article attempts to delineate the procedural and mechanistic characteristics of predicting...</span></span></span>
 
-Third, the learner's own incorrect response provides additional [retrieval]({{ 'retrieval/' | relative_url }}) routes. Later, remembering the original mistake can help cue the corrected answer. Rather than competing with the correct information, the error can become a reminder of why the correct response matters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-02022-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Unraveling the benefits of experiencing errors during learningby Y Mera · 2022 · Cited by 97 — Experimental evidence has shown th...</span></span></span>
+Third, the learner's own incorrect response provides additional [retrieval]({{ 'retrieval/' | relative_url }}) routes. Later, remembering the original mistake can help cue the corrected answer. Rather than competing with the correct information, the error can become a reminder of why the correct response matters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-02022-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Unraveling the benefits of experiencing errors during learningby Y Mera · 2022 · Cited by 97 — Experimental evidence has shown th...</span></span></span>
 
-Recent reviews increasingly describe these [mechanisms]({{ 'mechanisms/' | relative_url }}) as a sequence: pretesting changes how learners attend to subsequent instruction, how they encode new information and how they retrieve it later. The wrong answer is useful not because errors are inherently beneficial, but because they reshape the learning process that follows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-023-09814-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Prequestioning and Pretesting Effects: a Review of Empirical...by SC Pan · 2023 · Cited by 111 — In this review, we summarize th...</span></span></span>
+Recent reviews increasingly describe these [mechanisms]({{ 'mechanisms/' | relative_url }}) as a sequence: pretesting changes how learners attend to subsequent instruction, how they encode new information and how they retrieve it later. The wrong answer is useful not because errors are inherently beneficial, but because they reshape the learning process that follows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-023-09814-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Prequestioning and Pretesting Effects: a Review of Empirical...by SC Pan · 2023 · Cited by 111 — In this review, we summarize th...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_pretesting_wrong_gue_347650-Illustration-2-dark.svg" | relative_url }}" alt="Pretesting illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_pretesting_wrong_gue_347650-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_pretesting_wrong_gue_347650-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,11 +329,11 @@ Recent reviews increasingly describe these [mechanisms]({{ 'mechanisms/' | relat
 
 A common concern is that guessing will reinforce incorrect knowledge. Research suggests this fear is often overstated when corrective feedback is prompt and unambiguous.
 
-Studies on errorful learning consistently show that producing mistakes can improve later memory compared with error-free study, provided that learners subsequently receive the correct answer. Simply making mistakes without correction does not produce the same benefit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-02022-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Unraveling the benefits of experiencing errors during learningby Y Mera · 2022 · Cited by 97 — Experimental evidence has shown th...</span></span></span>
+Studies on errorful learning consistently show that producing mistakes can improve later memory compared with error-free study, provided that learners subsequently receive the correct answer. Simply making mistakes without correction does not produce the same benefit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-02022-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Unraveling the benefits of experiencing errors during learningby Y Mera · 2022 · Cited by 97 — Experimental evidence has shown th...</span></span></span>
 
-This distinction matters because educational advice has sometimes promoted avoiding errors altogether. Modern evidence instead suggests that carefully managed errors can become learning opportunities. The important variable is not whether an error occurred, but whether it was followed by attention-grabbing, accurate correction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-02022-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Unraveling the benefits of experiencing errors during learningby Y Mera · 2022 · Cited by 97 — Experimental evidence has shown th...</span></span></span>
+This distinction matters because educational advice has sometimes promoted avoiding errors altogether. Modern evidence instead suggests that carefully managed errors can become learning opportunities. The important variable is not whether an error occurred, but whether it was followed by attention-grabbing, accurate correction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-02022-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Unraveling the benefits of experiencing errors during learningby Y Mera · 2022 · Cited by 97 — Experimental evidence has shown th...</span></span></span>
 
-Research on **hypercorrection** offers a related insight. Surprisingly, errors made with high confidence are often corrected especially well once reliable feedback is received. The [surprise]({{ 'surprise/' | relative_url }}) created by discovering that a confident belief was wrong appears to increase attention to the correction rather than preventing it from being learned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hypercorrection (psychology</span><span class="citation-popover-snippet">Hypercorrection (psychology</span></span></span>
+Research on **hypercorrection** offers a related insight. Surprisingly, errors made with high confidence are often corrected especially well once reliable feedback is received. The [surprise]({{ 'surprise/' | relative_url }}) created by discovering that a confident belief was wrong appears to increase attention to the correction rather than preventing it from being learned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hypercorrection (psychology</span><span class="citation-popover-snippet">Hypercorrection (psychology</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wzjp9uPm_Tw" title="The Best Way To Learn You&#x27;ve Never Tried" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wzjp9uPm_Tw" target="_blank" rel="noopener noreferrer">The Best Way To Learn You&#x27;ve Never Tried</a></p><p class="youtube-embed-meta">Channel: Joel Snape</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wzjp9uPm_Tw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wzjp9uPm_Tw">Open on YouTube</a></p></div></div></div>
@@ -342,13 +342,13 @@ Research on **hypercorrection** offers a related insight. Surprisingly, errors m
 
 The benefits of pretesting are real but not universal.
 
-One important condition is the availability of corrective feedback. If learners guess and never discover the correct answer, the strategy offers little educational value and may simply leave misconceptions unchallenged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-02022-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Unraveling the benefits of experiencing errors during learningby Y Mera · 2022 · Cited by 97 — Experimental evidence has shown th...</span></span></span>
+One important condition is the availability of corrective feedback. If learners guess and never discover the correct answer, the strategy offers little educational value and may simply leave misconceptions unchallenged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-02022-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Unraveling the benefits of experiencing errors during learningby Y Mera · 2022 · Cited by 97 — Experimental evidence has shown th...</span></span></span>
 
-The quality of the guess also matters. Random responses generated without engaging prior knowledge provide fewer useful connections than genuine attempts based on existing understanding. Productive guessing involves reasoning from what is already known rather than selecting answers arbitrarily. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredicting as a learning strategy</span><span class="citation-popover-snippet">NIHby G Brod · 2021 · Cited by 77 — This article attempts to delineate the procedural and mechanistic characteristics of predicting...</span></span></span>
+The quality of the guess also matters. Random responses generated without engaging prior knowledge provide fewer useful connections than genuine attempts based on existing understanding. Productive guessing involves reasoning from what is already known rather than selecting answers arbitrarily.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredicting as a learning strategy</span><span class="citation-popover-snippet">NIHby G Brod · 2021 · Cited by 77 — This article attempts to delineate the procedural and mechanistic characteristics of predicting...</span></span></span>
 
-Some evidence also suggests that timing interacts with the type of material. For relatively arbitrary associations, such as unrelated word pairs, immediate corrective feedback appears particularly important. For meaningful questions, such as trivia or conceptually rich material, learning benefits can survive longer delays before feedback because the question itself activates a broader semantic network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249646552_Attempting_to_Answer_a_Meaningful_Question_Enhances_Subsequent_Learning_Even_When_Feedback_Is_Delayed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Recent evidence</span><span class="citation-popover-snippet">Attempting to Answer a Meaningful Question Enhances...July 15, 2013 — PDF &#124; Attempting to retrieve information from memory e...</span><span class="citation-popover-meta">Published: July 15, 2013</span></span></span>
+Some evidence also suggests that timing interacts with the type of material. For relatively arbitrary associations, such as unrelated word pairs, immediate corrective feedback appears particularly important. For meaningful questions, such as trivia or conceptually rich material, learning benefits can survive longer delays before feedback because the question itself activates a broader semantic network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249646552_Attempting_to_Answer_a_Meaningful_Question_Enhances_Subsequent_Learning_Even_When_Feedback_Is_Delayed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Recent evidence</span><span class="citation-popover-snippet">Attempting to Answer a Meaningful Question Enhances...July 15, 2013 — PDF &#124; Attempting to retrieve information from memory e...</span><span class="citation-popover-meta">Published: July 15, 2013</span></span></span>
 
-Finally, pretesting should not be confused with replacing instruction. The strongest results occur when unsuccessful guesses are followed by careful study of the correct explanation, not when learners are expected to discover everything independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-023-09814-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Prequestioning and Pretesting Effects: a Review of Empirical...by SC Pan · 2023 · Cited by 111 — In this review, we summarize th...</span></span></span>
+Finally, pretesting should not be confused with replacing instruction. The strongest results occur when unsuccessful guesses are followed by careful study of the correct explanation, not when learners are expected to discover everything independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-023-09814-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Prequestioning and Pretesting Effects: a Review of Empirical...by SC Pan · 2023 · Cited by 111 — In this review, we summarize th...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_pretesting_wrong_gue_347650-Illustration-3-dark.svg" | relative_url }}" alt="Pretesting illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_pretesting_wrong_gue_347650-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_pretesting_wrong_gue_347650-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -367,194 +367,194 @@ In this way, pretesting serves a dual purpose within the broader practice of [pr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why wrong guesses can improve memory. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why wrong guesses can improve memory. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains retrieval practice, testing, and productive errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains retrieval practice, testing, and productive errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Jv3YCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
-        </h4>
-        <p class="fr-book-author">By Barbara A. Oakley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Jv3YCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
+</h4>
+<p class="fr-book-author">By Barbara A. Oakley</p>
         
-        <p class="fr-book-desc">Encourages attempting answers before seeing solutions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages attempting answers before seeing solutions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
-        </h4>
-        <p class="fr-book-author">By Benedict Carey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+</h4>
+<p class="fr-book-author">By Benedict Carey</p>
         
-        <p class="fr-book-desc">Discusses why mistakes plus feedback improve memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses why mistakes plus feedback improve memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d0IdvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-        </h4>
-        <p class="fr-book-author">By Scott Young</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d0IdvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+</h4>
+<p class="fr-book-author">By Scott Young</p>
         
-        <p class="fr-book-desc">Promotes active experimentation and feedback.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes active experimentation and feedback.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Mind+for+Numbers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Mind for Numbers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Mind+for+Numbers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Mind for Numbers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for First World War Memorabilia Group Belonging To Gunner John Eckersley"><img src="{{ '/assets/images/marketplace-covers/fd8468b90e8af5aa48c9.jpg' | relative_url }}" alt="Listing image for First World War Memorabilia Group Belonging To Gunner John Eckersley" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">First World War Memorabilia Group Belonging To Gunner John Eckersley</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for first memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: first memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for First World War Memorabilia Group Belonging To Gunner John Eckersley"><img src="{{ '/assets/images/marketplace-covers/fd8468b90e8af5aa48c9.jpg' | relative_url }}" alt="Listing image for First World War Memorabilia Group Belonging To Gunner John Eckersley" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">First World War Memorabilia Group Belonging To Gunner John Eckersley</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for first memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: first memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sega Rambo First Blood Sign - Arcade Game Memorabilia Wall Display"><img src="{{ '/assets/images/marketplace-covers/399174d56a82ab6230fd.jpg' | relative_url }}" alt="Listing image for Sega Rambo First Blood Sign - Arcade Game Memorabilia Wall Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Sega Rambo First Blood Sign - Arcade Game Memorabilia Wall Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for first memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: first memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sega Rambo First Blood Sign - Arcade Game Memorabilia Wall Display"><img src="{{ '/assets/images/marketplace-covers/399174d56a82ab6230fd.jpg' | relative_url }}" alt="Listing image for Sega Rambo First Blood Sign - Arcade Game Memorabilia Wall Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Sega Rambo First Blood Sign - Arcade Game Memorabilia Wall Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for first memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: first memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAREST OF ALL BEATLES MEMORABILIA AVAILABLE FOR THE VERY FIRST TIME"><img src="{{ '/assets/images/marketplace-covers/6358236f7e52842c9742.jpg' | relative_url }}" alt="Listing image for RAREST OF ALL BEATLES MEMORABILIA AVAILABLE FOR THE VERY FIRST TIME" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">RAREST OF ALL BEATLES MEMORABILIA AVAILABLE FOR THE VERY FIRST TIME</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for first memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: first memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAREST OF ALL BEATLES MEMORABILIA AVAILABLE FOR THE VERY FIRST TIME"><img src="{{ '/assets/images/marketplace-covers/6358236f7e52842c9742.jpg' | relative_url }}" alt="Listing image for RAREST OF ALL BEATLES MEMORABILIA AVAILABLE FOR THE VERY FIRST TIME" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">RAREST OF ALL BEATLES MEMORABILIA AVAILABLE FOR THE VERY FIRST TIME</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for first memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: first memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The First Wives Club Movie Poster Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/aee85f4d3992e9198002.jpg' | relative_url }}" alt="Listing image for The First Wives Club Movie Poster Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The First Wives Club Movie Poster Signed Printed Autograph A3 Framed Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for first memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: first memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The First Wives Club Movie Poster Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/aee85f4d3992e9198002.jpg' | relative_url }}" alt="Listing image for The First Wives Club Movie Poster Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The First Wives Club Movie Poster Signed Printed Autograph A3 Framed Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for first memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: first memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=first+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="first memorabilia -book -books -dvd" data-ebay-reference="pretesting-why-wrong-guesses-can-improve-memory-improving-your-think-first-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ In this way, pretesting serves a dual purpose within the broader practice of [pr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ In this way, pretesting serves a dual purpose within the broader practice of [pr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ In this way, pretesting serves a dual purpose within the broader practice of [pr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ In this way, pretesting serves a dual purpose within the broader practice of [pr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ In this way, pretesting serves a dual purpose within the broader practice of [pr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,91 +760,91 @@ In this way, pretesting serves a dual purpose within the broader practice of [pr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10648-023-09814-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-023-09814-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prequestioning and Pretesting Effects: a Review of Empirical...by SC Pan · 2023 · Cited by 111 — In this review, we summarize th...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10648-023-09814-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-023-09814-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prequestioning and Pretesting Effects: a Review of Empirical...by SC Pan · 2023 · Cited by 111 — In this review, we summarize th...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPredicting as a learning strategy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Brod · 2021 · Cited by 77 — This article attempts to delineate the procedural and mechanistic characteristics of predicting...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Brod · 2021 · Cited by 77 — This article attempts to delineate the procedural and mechanistic characteristics of predicting...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13423-021-02022-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-021-02022-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unraveling the benefits of experiencing errors during learningby Y Mera · 2022 · Cited by 97 — Experimental evidence has shown th...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13423-021-02022-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-021-02022-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unraveling the benefits of experiencing errors during learningby Y Mera · 2022 · Cited by 97 — Experimental evidence has shown th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/353451805_The_Benefits_of_Impossible_Tests_Assessing_the_Role_of_Error-Correction_in_the_Pretesting_Effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353451805_The_Benefits_of_Impossible_Tests_Assessing_the_Role_of_Error-Correction_in_the_Pretesting_Effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Role of Error-Correction in the Pretesting Effect8 Aug 2021 — The error-correction hypothesis suggests that incorrect guess...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/353451805_The_Benefits_of_Impossible_Tests_Assessing_the_Role_of_Error-Correction_in_the_Pretesting_Effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353451805_The_Benefits_of_Impossible_Tests_Assessing_the_Role_of_Error-Correction_in_the_Pretesting_Effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Role of Error-Correction in the Pretesting Effect8 Aug 2021 — The error-correction hypothesis suggests that incorrect guess...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Hypercorrection (psychology)  
-   Link: <a href="https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: Recent evidence  
-   Link: <a href="https://www.researchgate.net/publication/249646552_Attempting_to_Answer_a_Meaningful_Question_Enhances_Subsequent_Learning_Even_When_Feedback_Is_Delayed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249646552_Attempting_to_Answer_a_Meaningful_Question_Enhances_Subsequent_Learning_Even_When_Feedback_Is_Delayed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Attempting to Answer a Meaningful Question Enhances...July 15, 2013 — PDF | Attempting to retrieve information from memory e...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/249646552_Attempting_to_Answer_a_Meaningful_Question_Enhances_Subsequent_Learning_Even_When_Feedback_Is_Delayed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249646552_Attempting_to_Answer_a_Meaningful_Question_Enhances_Subsequent_Learning_Even_When_Feedback_Is_Delayed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Attempting to Answer a Meaningful Question Enhances...July 15, 2013 — PDF | Attempting to retrieve information from memory e...</p></details>
    Published: July 15, 2013  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374157738_Prequestioning_and_pretesting_effects_a_review_of_empirical_research_theoretical_perspectives_and_implications_for_educational_practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374157738_Prequestioning_and_pretesting_effects_a_review_of_empirical_research_theoretical_perspectives_and_implications_for_educational_practice</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Prequestioning and Pretesting Effects: a Review of...4 Sept 2023 — In this review, we summarize the emerging evidence for prequest...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/374157738_Prequestioning_and_pretesting_effects_a_review_of_empirical_research_theoretical_perspectives_and_implications_for_educational_practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374157738_Prequestioning_and_pretesting_effects_a_review_of_empirical_research_theoretical_perspectives_and_implications_for_educational_practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Prequestioning and Pretesting Effects: a Review of...4 Sept 2023 — In this review, we summarize the emerging evidence for prequest...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journalofcognition.org  
-   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.455</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect suggests that attempting...</p></details>
+   Link:<a href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.455</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect suggests that attempting...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292081/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pretesting Effect: Exploring the Impact of Feedback and...by Y Mera · 2025 · Cited by 2 — The pretesting effect suggests that attempting...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292081/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pretesting Effect: Exploring the Impact of Feedback and...by Y Mera · 2025 · Cited by 2 — The pretesting effect suggests that attempting...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11295426/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11295426/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the potential benefits of truth... - PMCby K Arcos · 2023 · Cited by 2 — Thus, pretesting, or guessing, may create more elabor...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11295426/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11295426/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the potential benefits of truth... - PMCby K Arcos · 2023 · Cited by 2 — Thus, pretesting, or guessing, may create more elabor...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pearl.plymouth.ac.uk  
-   Link: <a href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1192&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow">https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1192&amp;context=psy-research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Role of Error-Correction in the Pretesting Effectby AB Inkster · 2021 — According to the error- correction idea, the learning system...</p></details>
+   Link:<a href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1192&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow">https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1192&amp;context=psy-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Role of Error-Correction in the Pretesting Effectby AB Inkster · 2021 — According to the error- correction idea, the learning system...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Using Pretests as Learning Tools, Dr. Elizabeth Bjork  
-   Link: <a href="https://www.youtube.com/watch?v=Y24Lh5CXoBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y24Lh5CXoBA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are The Benefits Of Pre-Testing? | with Dr Nick Soderstrom...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y24Lh5CXoBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y24Lh5CXoBA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Are The Benefits Of Pre-Testing? | with Dr Nick Soderstrom...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Best Way To Learn You've Never Tried  
-   Link: <a href="https://www.youtube.com/watch?v=wzjp9uPm_Tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wzjp9uPm_Tw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The study technique that TRAVELS THROUGH TIME...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wzjp9uPm_Tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wzjp9uPm_Tw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The study technique that TRAVELS THROUGH TIME...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: ALSET Webinar with Dr Steven Pan  
-   Link: <a href="https://www.youtube.com/watch?v=blFOgA6zTrE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=blFOgA6zTrE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Best Way To Learn You&#x27;ve Never Tried...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=blFOgA6zTrE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=blFOgA6zTrE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Best Way To Learn You&#x27;ve Never Tried...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: What Are The Benefits Of Pre-Testing? | with Dr Nick Soderstrom  
-   Link: <a href="https://www.youtube.com/watch?v=N75GPCOHF7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N75GPCOHF7g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ALSET Webinar with Dr Steven Pan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=N75GPCOHF7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N75GPCOHF7g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ALSET Webinar with Dr Steven Pan...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The study technique that TRAVELS THROUGH TIME  
-   Link: <a href="https://www.youtube.com/watch?v=hI5ATajLxl8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hI5ATajLxl8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=hI5ATajLxl8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hI5ATajLxl8</a>  

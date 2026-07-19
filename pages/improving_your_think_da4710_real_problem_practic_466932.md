@@ -451,7 +451,7 @@ Real-problem practice means improving analytical skill by working on problems th
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932-overview.webp" | relative_url }}" alt="Overview image for Real Practice" loading="eager" decoding="sync" fetchpriority="high">
-The practical lesson is simple: do not practise “thinking” only as a detached mental puzzle. Practise making judgements, explaining them, acting on them where appropriate, and reviewing what happened. Research on learning transfer, [problem-based learning]({{ 'problem-based-learning/' | relative_url }}), [critical-thinking]({{ 'critical-skills/' | relative_url }}) instruction and expert judgement all points in the same direction: skills become usable when learners connect knowledge to context, receive feedback, and revisit decisions rather than merely completing isolated exercises. The National Academies’ learning research defines transfer as the ability to extend what is learned in one context to new contexts, which is exactly the gap that real-problem practice is meant to close. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</span></span></span>
+The practical lesson is simple: do not practise “thinking” only as a detached mental puzzle. Practise making judgements, explaining them, acting on them where appropriate, and reviewing what happened. Research on learning transfer, [problem-based learning]({{ 'problem-based-learning/' | relative_url }}), [critical-thinking]({{ 'critical-skills/' | relative_url }}) instruction and expert judgement all points in the same direction: skills become usable when learners connect knowledge to context, receive feedback, and revisit decisions rather than merely completing isolated exercises. The National Academies’ learning research defines transfer as the ability to extend what is learned in one context to new contexts, which is exactly the gap that real-problem practice is meant to close.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</span></span></span>
 
 ## Why realistic problems teach more
 
@@ -459,15 +459,15 @@ A thinking exercise can train a narrow subskill: identify a fallacy, solve a log
 
 Realistic problems force the learner to practise the full chain of analysis. A manager deciding whether to delay a product launch must define the real question, separate evidence from reassurance, weigh customer harm against commercial pressure, decide what information is still worth collecting, and later compare the outcome with the original reasoning. A student investigating a local environmental issue must decide which data are trustworthy, what alternative explanations exist, and how [uncertainty]({{ 'uncertainty/' | relative_url }}) should affect recommendations. These are not just “thinking skills” in the abstract; they are thinking skills under constraint.
 
-Learning science helps explain why this matters. The National Academies’ work on learning and [transfer]({{ 'transfer/' | relative_url }}) emphasises that people do not automatically apply something learned in one setting to another; transfer depends on depth of understanding, relevant context and the ability to recognise when prior knowledge applies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</span></span></span> A learner who has only practised tidy exercises may know the vocabulary of good reasoning but fail to recognise the same reasoning demand in a messy meeting, a data dashboard, a budget choice or a public claim.
+Learning science helps explain why this matters. The National Academies’ work on learning and [transfer]({{ 'transfer/' | relative_url }}) emphasises that people do not automatically apply something learned in one setting to another; transfer depends on depth of understanding, relevant context and the ability to recognise when prior knowledge applies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</span></span></span> A learner who has only practised tidy exercises may know the vocabulary of good reasoning but fail to recognise the same reasoning demand in a messy meeting, a data dashboard, a budget choice or a public claim.
 
-Problem-based learning is one major educational response to this issue. Maastricht University describes its problem-based learning model as students working in small groups to solve complex, real-world problems, with guidance, feedback and [assessment]({{ 'assessment/' | relative_url }}) built into the process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maastrichtuniversity.nl">[Maastricht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maastrichtuniversity.nl</span><span class="citation-popover-snippet">Maastricht UniversityProblem-Based LearningAt Maastricht University, students learn by working in small groups to solve complex, real-wor...</span></span></span> A 2023 systematic review in *Frontiers in Education* found that adaptations of problem-based learning aimed at critical thinking commonly use real or realistic problems, structured collaboration, questioning and reflection to make the thinking process more explicit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1139987/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers The critical thinking-oriented adaptations of problem-based</span><span class="citation-popover-snippet">Frontiers The critical thinking-oriented adaptations of problem-based</span><span class="citation-popover-meta">Published: May 24, 2023</span></span></span> The point is not that every exercise must become a large project. It is that analytical practice becomes more powerful when it resembles the conditions under which the skill must later perform.
+Problem-based learning is one major educational response to this issue. Maastricht University describes its problem-based learning model as students working in small groups to solve complex, real-world problems, with guidance, feedback and [assessment]({{ 'assessment/' | relative_url }}) built into the process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maastrichtuniversity.nl">[Maastricht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maastrichtuniversity.nl</span><span class="citation-popover-snippet">Maastricht UniversityProblem-Based LearningAt Maastricht University, students learn by working in small groups to solve complex, real-wor...</span></span></span> A 2023 systematic review in *Frontiers in Education* found that adaptations of problem-based learning aimed at critical thinking commonly use real or realistic problems, structured collaboration, questioning and reflection to make the thinking process more explicit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1139987/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers The critical thinking-oriented adaptations of problem-based</span><span class="citation-popover-snippet">Frontiers The critical thinking-oriented adaptations of problem-based</span><span class="citation-popover-meta">Published: May 24, 2023</span></span></span> The point is not that every exercise must become a large project. It is that analytical practice becomes more powerful when it resembles the conditions under which the skill must later perform.
 
 ## The missing ingredient is feedback from reality
 
 Real problems are useful not merely because they feel more authentic, but because they can produce feedback. Without feedback, people can become more fluent at explaining themselves without becoming more accurate. They may learn to sound analytical while protecting the same weak assumptions.
 
-Daniel Kahneman and Gary Klein’s influential paper on intuitive expertise drew a boundary between trustworthy expertise and overconfident judgement. They argued that professional intuition is more likely to be reliable in environments with valid cues and opportunities for timely feedback; without those conditions, experience can produce confidence without skill. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4056 — This article reports on an effort t...</span></span></span> That insight applies directly to analytical practice. A person improves faster when they can compare “what I expected” with “what actually happened” and then inspect the gap.
+Daniel Kahneman and Gary Klein’s influential paper on intuitive expertise drew a boundary between trustworthy expertise and overconfident judgement. They argued that professional intuition is more likely to be reliable in environments with valid cues and opportunities for timely feedback; without those conditions, experience can produce confidence without skill.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4056 — This article reports on an effort t...</span></span></span> That insight applies directly to analytical practice. A person improves faster when they can compare “what I expected” with “what actually happened” and then inspect the gap.
 
 The strongest practice loop has four parts:
 
@@ -481,9 +481,9 @@ The strongest practice loop has four parts:
 
 </div>
 
-This is where real-problem practice differs from simply “getting experience”. Experience alone may repeat the same habits. Deliberate practice research stresses focused goals and feedback rather than repetition for its own sake. Ericsson’s account of deliberate practice emphasises tasks designed to improve performance, often with repeated attempts and feedback on specific weaknesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Open source on frontiersin.org.</span></span></span> For analytical skills, that means designing practice around decisions where the learner can later ask: Was the question framed well? Did the evidence support the conclusion? Were alternatives considered? Did the strongest assumption survive contact with reality?
+This is where real-problem practice differs from simply “getting experience”. Experience alone may repeat the same habits. Deliberate practice research stresses focused goals and feedback rather than repetition for its own sake. Ericsson’s account of deliberate practice emphasises tasks designed to improve performance, often with repeated attempts and feedback on specific weaknesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Open source on frontiersin.org.</span></span></span> For analytical skills, that means designing practice around decisions where the learner can later ask: Was the question framed well? Did the evidence support the conclusion? Were alternatives considered? Did the strongest assumption survive contact with reality?
 
-A useful example comes from physics education. Holmes, Wieman and Bonn argued that quantitative critical thinking requires repeated practice in making decisions based on data, with feedback on those decisions. In their introductory physics lab intervention, students repeatedly made and acted on [comparisons]({{ 'comparisons/' | relative_url }}) between datasets and models; after support was faded, they were far more likely than a control group to improve experimental methods and identify limitations in a model using data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26283351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> The lesson travels beyond physics: learners need repeated chances to make evidence-based judgements, not just hear that evidence-based judgement is important.
+A useful example comes from physics education. Holmes, Wieman and Bonn argued that quantitative critical thinking requires repeated practice in making decisions based on data, with feedback on those decisions. In their introductory physics lab intervention, students repeatedly made and acted on [comparisons]({{ 'comparisons/' | relative_url }}) between datasets and models; after support was faded, they were far more likely than a control group to improve experimental methods and identify limitations in a model using data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26283351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> The lesson travels beyond physics: learners need repeated chances to make evidence-based judgements, not just hear that evidence-based judgement is important.
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932-Illustration-1-dark.svg" | relative_url }}" alt="Real Practice illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -504,7 +504,7 @@ A strong practice problem usually has these features:
 
 </div>
 
-This is why authentic assessment has become important in education. A systematic review of authentic assessment in higher education describes it as using real-world tasks to evaluate knowledge, skills and attitudes in ways that replicate situations where those abilities would be used. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eur.nl/media/124635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eur.nl">[Erasmus University Rotterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eur.nl</span><span class="citation-popover-snippet">Open source on eur.nl.</span></span></span> The University of Hull similarly describes authentic assessment as open-ended tasks requiring learners to produce a response, performance or product in a real-world or realistic context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hull.ac.uk/asset-library/docs/authentic-assessment-copy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hull.ac.uk">[University of Hull]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hull.ac.uk</span><span class="citation-popover-snippet">Open source on hull.ac.uk.</span></span></span> For analytical skill, the assessment format matters because the assessment tells learners what kind of thinking is valued. If tests reward only recall or formula selection, learners may not practise framing, judgement and evidence use.
+This is why authentic assessment has become important in education. A systematic review of authentic assessment in higher education describes it as using real-world tasks to evaluate knowledge, skills and attitudes in ways that replicate situations where those abilities would be used.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eur.nl/media/124635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eur.nl">[Erasmus University Rotterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eur.nl</span><span class="citation-popover-snippet">Open source on eur.nl.</span></span></span> The University of Hull similarly describes authentic assessment as open-ended tasks requiring learners to produce a response, performance or product in a real-world or realistic context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hull.ac.uk/asset-library/docs/authentic-assessment-copy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hull.ac.uk">[University of Hull]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hull.ac.uk</span><span class="citation-popover-snippet">Open source on hull.ac.uk.</span></span></span> For analytical skill, the assessment format matters because the assessment tells learners what kind of thinking is valued. If tests reward only recall or formula selection, learners may not practise framing, judgement and evidence use.
 
 The best practice problems often come from ordinary work and study rather than special training material. Examples include:
 
@@ -528,9 +528,9 @@ These are small interventions, but they change the nature of practice. The learn
 
 The choice is not “real problems or thinking exercises”. The better distinction is between exercises that remain detached and exercises that prepare the learner for real analysis. Thinking routines, logic drills, argument maps and [checklists]({{ 'checklists/' | relative_url }}) can all be useful when they make reasoning visible and reduce avoidable errors.
 
-Harvard Project Zero describes thinking routines as short sequences of questions or steps that help reveal thinking and make particular “thinking moves” more available in other contexts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pz.harvard.edu/thinking-routines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pz.harvard.edu">[Project Zero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pz.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span> Routines such as “What do you see? What do you think? What do you wonder?” are not substitutes for real-world judgement, but they can slow down observation and interpretation before a learner jumps to a conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pz.harvard.edu/resources/see-think-wonder" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pz.harvard.edu">[Project Zero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pz.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span> Used well, such routines become scaffolding: they support real-problem practice until the learner can apply the moves without the prompt.
+Harvard Project Zero describes thinking routines as short sequences of questions or steps that help reveal thinking and make particular “thinking moves” more available in other contexts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pz.harvard.edu/thinking-routines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pz.harvard.edu">[Project Zero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pz.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span> Routines such as “What do you see? What do you think? What do you wonder?” are not substitutes for real-world judgement, but they can slow down observation and interpretation before a learner jumps to a conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pz.harvard.edu/resources/see-think-wonder" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pz.harvard.edu">[Project Zero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pz.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span> Used well, such routines become scaffolding: they support real-problem practice until the learner can apply the moves without the prompt.
 
-The risk is that exercises become a performance of thoughtfulness. A group can fill in a template, name assumptions and produce a neat reflection without ever testing whether the analysis improves decisions. This is a common weakness of generic critical-thinking training: learners may enjoy the language of reasoning but fail to transfer it to the messy contexts where it matters. Abrami and colleagues’ meta-analysis of critical-thinking instruction found positive effects overall, but the broader message is that instruction works best when critical thinking is explicitly taught and practised rather than merely hoped for. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
+The risk is that exercises become a performance of thoughtfulness. A group can fill in a template, name assumptions and produce a neat reflection without ever testing whether the analysis improves decisions. This is a common weakness of generic critical-thinking training: learners may enjoy the language of reasoning but fail to transfer it to the messy contexts where it matters. Abrami and colleagues’ meta-analysis of critical-thinking instruction found positive effects overall, but the broader message is that instruction works best when critical thinking is explicitly taught and practised rather than merely hoped for.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
 
 A useful implementation rule is: **teach the move in a simple exercise, then require it in a real problem soon afterwards**. For example, do not stop at teaching “consider alternatives” through a worksheet. Apply it to a real hiring decision, a project risk, a research interpretation or a personal finance choice. Do not stop at “identify assumptions” in an argument. Apply it to a forecast where those assumptions can be checked later.
 
@@ -555,9 +555,9 @@ One practical weekly structure is:
 
 The review should be short but honest. A useful format is: “I expected X because Y. What happened was Z. The main difference was A. Next time I will check B earlier.” This turns experience into a learning loop.
 
-Workplaces can make this routine more powerful by normalising after-action reviews rather than treating review as blame. The CIPD’s evidence review on performance feedback stresses that feedback should be prepared, actionable and responsive to how people receive it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/performance-feedback-evidence-review_tcm18-111378.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipd.org">[CIPD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipd.org</span><span class="citation-popover-title">Performance feedback: an evidence review</span><span class="citation-popover-snippet">Performance feedback: an evidence review</span></span></span> For analytical development, feedback is most useful when it addresses the reasoning process: framing, evidence, alternatives, uncertainty and follow-through. “Good job” and “that was wrong” are too blunt to teach much.
+Workplaces can make this routine more powerful by normalising after-action reviews rather than treating review as blame. The CIPD’s evidence review on performance feedback stresses that feedback should be prepared, actionable and responsive to how people receive it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/performance-feedback-evidence-review_tcm18-111378.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipd.org">[CIPD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipd.org</span><span class="citation-popover-title">Performance feedback: an evidence review</span><span class="citation-popover-snippet">Performance feedback: an evidence review</span></span></span> For analytical development, feedback is most useful when it addresses the reasoning process: framing, evidence, alternatives, uncertainty and follow-through. “Good job” and “that was wrong” are too blunt to teach much.
 
-Education settings can do the same by replacing some artificial tasks with authentic outputs: policy briefs, design proposals, data-based recommendations, case analyses, public explanations, portfolios and reflective decision logs. The RAND Corporation’s work on deeper learning notes that project-based learning asks students to investigate real-world problems over extended periods and is commonly used to cultivate skills such as critical thinking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA900/RRA956-28/RAND_RRA956-28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">Corporation Encouraging Deeper Learning in Middle and High School</span><span class="citation-popover-snippet">Corporation Encouraging Deeper Learning in Middle and High School</span></span></span> The implementation challenge is to keep projects analytically disciplined. A project that is creative but never asks students to justify evidence, compare alternatives or revise conclusions may be engaging without being strong analytical practice.
+Education settings can do the same by replacing some artificial tasks with authentic outputs: policy briefs, design proposals, data-based recommendations, case analyses, public explanations, portfolios and reflective decision logs. The RAND Corporation’s work on deeper learning notes that project-based learning asks students to investigate real-world problems over extended periods and is commonly used to cultivate skills such as critical thinking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA900/RRA956-28/RAND_RRA956-28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">Corporation Encouraging Deeper Learning in Middle and High School</span><span class="citation-popover-snippet">Corporation Encouraging Deeper Learning in Middle and High School</span></span></span> The implementation challenge is to keep projects analytically disciplined. A project that is creative but never asks students to justify evidence, compare alternatives or revise conclusions may be engaging without being strong analytical practice.
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932-Illustration-2-dark.svg" | relative_url }}" alt="Real Practice illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -571,7 +571,7 @@ Another failure mode is **feedback that arrives too late or too noisily**. Some 
 
 A third failure mode is **confusing outcome quality with reasoning quality**. Real outcomes contain luck. A poor decision can work out, and a strong decision can fail. That is why review should examine both process and result: Did the reasoning use the best available evidence? Were uncertainties stated? Were alternatives fairly compared? Was the decision updated when new information appeared?
 
-A fourth failure mode is **using real problems only to confirm status or authority**. In organisations, “real-world experience” can become a shield against challenge: “I know because I’ve done this for years.” Kahneman and Klein’s boundary condition matters here. Experience is most trustworthy where the environment gives valid cues and good feedback; otherwise, repeated exposure can reinforce confident error. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4056 — This article reports on an effort t...</span></span></span>
+A fourth failure mode is **using real problems only to confirm status or authority**. In organisations, “real-world experience” can become a shield against challenge: “I know because I’ve done this for years.” Kahneman and Klein’s boundary condition matters here. Experience is most trustworthy where the environment gives valid cues and good feedback; otherwise, repeated exposure can reinforce confident error.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4056 — This article reports on an effort t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HS5VTsJlX0Y" title="What Is the Importance of Problem-Based Learning in Adult Education? | Learn As An Adult" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HS5VTsJlX0Y" target="_blank" rel="noopener noreferrer">What Is the Importance of Problem-Based Learning in Adult Education? | Learn As An Adult</a></p><p class="youtube-embed-meta">Channel: Learn As An Adult</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HS5VTsJlX0Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HS5VTsJlX0Y">Open on YouTube</a></p></div></div></div>
@@ -589,178 +589,178 @@ The most effective approach is therefore a blend. Use thinking exercises to teac
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Practice Thinking on Real Problems. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Practice Thinking on Real Problems. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Demonstrates how repeated prediction, feedback and real-world evaluation improve judgement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how repeated prediction, feedback and real-world evaluation improve judgement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains common reasoning errors and how better judgement develops through practice and reflection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common reasoning errors and how better judgement develops through practice and reflection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Solve+It+by+George+Polya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Solve It on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z_hsbu9kyQQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Solve It" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Solve+It+by+George+Polya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Solve It">How to Solve It</a>
-        </h4>
-        <p class="fr-book-author">By George Polya</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Solve+It+by+George+Polya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Solve It on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z_hsbu9kyQQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Solve It" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Solve+It+by+George+Polya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Solve It">How to Solve It</a>
+</h4>
+<p class="fr-book-author">By George Polya</p>
         
-        <p class="fr-book-desc">Provides enduring methods for approaching unfamiliar real problems systematically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Solve+It+by+George+Polya&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides enduring methods for approaching unfamiliar real problems systematically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Solve+It+by+George+Polya&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Introduces practical cognitive biases that arise in everyday decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces practical cognitive biases that arise in everyday decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Solve+It&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Solve It</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Solve+It&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Solve It</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g"><img src="https://i.ebayimg.com/images/g/TeoAAeSwR-pqGv2L/s-l225.jpg" alt="Listing image for A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity desk accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity desk accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g"><img src="https://i.ebayimg.com/images/g/TeoAAeSwR-pqGv2L/s-l225.jpg" alt="Listing image for A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity desk accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity desk accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Focus Work Planner Desk Pad | 52 Weekly Sheets | Productivity Organiser"><img src="https://i.ebayimg.com/images/g/vjoAAeSwPpJpLDCm/s-l225.jpg" alt="Listing image for A4 Focus Work Planner Desk Pad | 52 Weekly Sheets | Productivity Organiser" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">A4 Focus Work Planner Desk Pad | 52 Weekly Sheets | Productivity Organiser</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity desk accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity desk accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Focus Work Planner Desk Pad | 52 Weekly Sheets | Productivity Organiser"><img src="https://i.ebayimg.com/images/g/vjoAAeSwPpJpLDCm/s-l225.jpg" alt="Listing image for A4 Focus Work Planner Desk Pad | 52 Weekly Sheets | Productivity Organiser" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">A4 Focus Work Planner Desk Pad | 52 Weekly Sheets | Productivity Organiser</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity desk accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity desk accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g"><img src="https://i.ebayimg.com/images/g/HmAAAeSwdbJqGvZt/s-l225.jpg" alt="Listing image for A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity desk accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity desk accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g"><img src="https://i.ebayimg.com/images/g/HmAAAeSwdbJqGvZt/s-l225.jpg" alt="Listing image for A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity desk accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity desk accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-thinking-on-real-problems-productivity-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity desk accessory" data-ebay-reference="practice-thinking-on-real-problems-productivity-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -776,7 +776,7 @@ The most effective approach is therefore a blend. Use thinking exercises to teac
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -796,7 +796,7 @@ The most effective approach is therefore a blend. Use thinking exercises to teac
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -828,7 +828,7 @@ The most effective approach is therefore a blend. Use thinking exercises to teac
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -880,7 +880,7 @@ The most effective approach is therefore a blend. Use thinking exercises to teac
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -925,7 +925,7 @@ The most effective approach is therefore a blend. Use thinking exercises to teac
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -965,160 +965,160 @@ The most effective approach is therefore a blend. Use thinking exercises to teac
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pz.harvard.edu  
-   Link: <a href="https://pz.harvard.edu/thinking-routines" target="_blank" rel="noopener noreferrer nofollow">https://pz.harvard.edu/thinking-routines</a>  
+   Link:<a href="https://pz.harvard.edu/thinking-routines" target="_blank" rel="noopener noreferrer nofollow">https://pz.harvard.edu/thinking-routines</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pz.harvard.edu  
-   Link: <a href="https://pz.harvard.edu/resources/see-think-wonder" target="_blank" rel="noopener noreferrer nofollow">https://pz.harvard.edu/resources/see-think-wonder</a>  
+   Link:<a href="https://pz.harvard.edu/resources/see-think-wonder" target="_blank" rel="noopener noreferrer nofollow">https://pz.harvard.edu/resources/see-think-wonder</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cipd.org  
    Title: Performance feedback: an evidence review  
-   Link: <a href="https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/performance-feedback-evidence-review_tcm18-111378.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/performance-feedback-evidence-review_tcm18-111378.pdf</a>  
+   Link:<a href="https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/performance-feedback-evidence-review_tcm18-111378.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/performance-feedback-evidence-review_tcm18-111378.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rand.org  
    Title: Corporation Encouraging Deeper Learning in Middle and High School  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA900/RRA956-28/RAND_RRA956-28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA900/RRA956-28/RAND_RRA956-28.pdf</a>  
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA900/RRA956-28/RAND_RRA956-28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA900/RRA956-28/RAND_RRA956-28.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pz.harvard.edu  
    Title: i used think now i think  
-   Link: <a href="https://pz.harvard.edu/resources/i-used-think-now-i-think" target="_blank" rel="noopener noreferrer nofollow">https://pz.harvard.edu/resources/i-used-think-now-i-think</a>  
+   Link:<a href="https://pz.harvard.edu/resources/i-used-think-now-i-think" target="_blank" rel="noopener noreferrer nofollow">https://pz.harvard.edu/resources/i-used-think-now-i-think</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: americanenglish.state.gov  
    Title: 17.2 presentation slides final version for website  
-   Link: <a href="https://americanenglish.state.gov/files/ae/resource_files/17.2_presentation_slides_-_final_version_for_website.pdf" target="_blank" rel="noopener noreferrer nofollow">https://americanenglish.state.gov/files/ae/resource_files/17.2_presentation_slides_-_final_version_for_website.pdf</a>  
+   Link:<a href="https://americanenglish.state.gov/files/ae/resource_files/17.2_presentation_slides_-_final_version_for_website.pdf" target="_blank" rel="noopener noreferrer nofollow">https://americanenglish.state.gov/files/ae/resource_files/17.2_presentation_slides_-_final_version_for_website.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/9853/chapter/6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/9853/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/9853/chapter/6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesChapter: 3 Learning and TransferProcesses of learning and the transfer of learning are central to understanding how peo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: maastrichtuniversity.nl  
-   Link: <a href="https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maastricht UniversityProblem-Based LearningAt Maastricht University, students learn by working in small groups to solve complex, real-wor...</p></details>
+   Link:<a href="https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maastricht UniversityProblem-Based LearningAt Maastricht University, students learn by working in small groups to solve complex, real-wor...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: frontiersin.org  
    Title: Frontiers The critical thinking-oriented adaptations of problem-based  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1139987/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1139987/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1139987/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1139987/full</a>  
    Published: May 24, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19739881/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4056 — This article reports on an effort t...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19739881/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4056 — This article reports on an effort t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26283351/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26283351/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26283351/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26283351/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: eur.nl  
-   Link: <a href="https://www.eur.nl/media/124635" target="_blank" rel="noopener noreferrer nofollow">https://www.eur.nl/media/124635</a>  
+   Link:<a href="https://www.eur.nl/media/124635" target="_blank" rel="noopener noreferrer nofollow">https://www.eur.nl/media/124635</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hull.ac.uk  
-   Link: <a href="https://www.hull.ac.uk/asset-library/docs/authentic-assessment-copy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hull.ac.uk/asset-library/docs/authentic-assessment-copy.pdf</a>  
+   Link:<a href="https://www.hull.ac.uk/asset-library/docs/authentic-assessment-copy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hull.ac.uk/asset-library/docs/authentic-assessment-copy.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.3102/0034654314551063</a>  
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.3102/0034654314551063</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8059994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8059994/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8059994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8059994/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6460682/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6460682/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6460682/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6460682/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12246200/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12246200/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12246200/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12246200/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10646338/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10646338/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10646338/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10646338/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13056334/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13056334/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13056334/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13056334/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7461852/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7461852/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7461852/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7461852/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9868728/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9868728/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9868728/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9868728/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: structural-learning.com  
    Title: deliberate practice  
-   Link: <a href="https://www.structural-learning.com/post/deliberate-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/deliberate-practice</a>  
+   Link:<a href="https://www.structural-learning.com/post/deliberate-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/deliberate-practice</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1689765/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1689765/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1689765/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1689765/full</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: web.mit.edu  
-   Link: <a href="https://web.mit.edu/6.969/www/readings/expertise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.mit.edu/6.969/www/readings/expertise.pdf</a>  
+   Link:<a href="https://web.mit.edu/6.969/www/readings/expertise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.mit.edu/6.969/www/readings/expertise.pdf</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1hbbaId69i8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1hbbaId69i8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to find simplicity on the other side of complexity: The cognitive theory of multimedia learning...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1hbbaId69i8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1hbbaId69i8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to find simplicity on the other side of complexity: The cognitive theory of multimedia learning...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: What Is the Importance of Problem-Based Learning in Adult Education?  
-   Link: <a href="https://www.youtube.com/watch?v=HS5VTsJlX0Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HS5VTsJlX0Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson 6 | Problem-Based vs Project-Based Learning | Technology for Teaching and Learning II...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HS5VTsJlX0Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HS5VTsJlX0Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson 6 | Problem-Based vs Project-Based Learning | Technology for Teaching and Learning II...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tUY21SiZON4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tUY21SiZON4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Webinar: Find and Fix Skills Gaps with Inbox Simulations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tUY21SiZON4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tUY21SiZON4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Webinar: Find and Fix Skills Gaps with Inbox Simulations...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: CE The Big Shift: From Schooling to Authentic Learning  
-   Link: <a href="https://www.youtube.com/watch?v=yzVSTVZ5XaQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yzVSTVZ5XaQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is the Importance of Problem-Based Learning in Adult Education?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yzVSTVZ5XaQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yzVSTVZ5XaQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is the Importance of Problem-Based Learning in Adult Education?...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
+   Link:<a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/387979612_Critical_Thinking_in_Authentic_Assessment_An_Exploration_into_Argumentative_Writing_Non-English_Department_in_Higher_Education" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387979612_Critical_Thinking_in_Authentic_Assessment_An_Exploration_into_Argumentative_Writing_Non-English_Department_in_Higher_Education</a>  
+   Link:<a href="https://www.researchgate.net/publication/387979612_Critical_Thinking_in_Authentic_Assessment_An_Exploration_into_Argumentative_Writing_Non-English_Department_in_Higher_Education" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387979612_Critical_Thinking_in_Authentic_Assessment_An_Exploration_into_Argumentative_Writing_Non-English_Department_in_Higher_Education</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390649459_John_D_Bransford_Ann_L_Brown_Rodney_R_Cocking_How_People_Learn_Vol_11_Washington_DC_Publisher_National_Academy_Press_2000" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390649459_John_D_Bransford_Ann_L_Brown_Rodney_R_Cocking_How_People_Learn_Vol_11_Washington_DC_Publisher_National_Academy_Press_2000</a>  
+   Link:<a href="https://www.researchgate.net/publication/390649459_John_D_Bransford_Ann_L_Brown_Rodney_R_Cocking_How_People_Learn_Vol_11_Washington_DC_Publisher_National_Academy_Press_2000" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390649459_John_D_Bransford_Ann_L_Brown_Rodney_R_Cocking_How_People_Learn_Vol_11_Washington_DC_Publisher_National_Academy_Press_2000</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396256382_Problem-Based_Learning_PBL_in_Action_Fostering_Critical_Thinking_Among_Middle_School_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396256382_Problem-Based_Learning_PBL_in_Action_Fostering_Critical_Thinking_Among_Middle_School_Students</a>  
+   Link:<a href="https://www.researchgate.net/publication/396256382_Problem-Based_Learning_PBL_in_Action_Fostering_Critical_Thinking_Among_Middle_School_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396256382_Problem-Based_Learning_PBL_in_Action_Fostering_Critical_Thinking_Among_Middle_School_Students</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: aft.org  
-   Link: <a href="https://www.aft.org/ae/fall2020/willingham" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/fall2020/willingham</a>  
+   Link:<a href="https://www.aft.org/ae/fall2020/willingham" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/fall2020/willingham</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: learningfocused.com  
-   Link: <a href="https://learningfocused.com/blogs/lesson-planning/increasing-critical-thinking-in-education-a-pathway-to-preparing-students-for-the-future?srsltid=AfmBOooDStFd_y3_BBCIi4z3pJbBbPL5xp2wX_ye7xSue1-0OWkCwIxl" target="_blank" rel="noopener noreferrer nofollow">https://learningfocused.com/blogs/lesson-planning/increasing-critical-thinking-in-education-a-pathway-to-preparing-students-for-the-future?srsltid=AfmBOooDStFd_y3_BBCIi4z3pJbBbPL5xp2wX_ye7xSue1-0OWkCwIxl</a>  
+   Link:<a href="https://learningfocused.com/blogs/lesson-planning/increasing-critical-thinking-in-education-a-pathway-to-preparing-students-for-the-future?srsltid=AfmBOooDStFd_y3_BBCIi4z3pJbBbPL5xp2wX_ye7xSue1-0OWkCwIxl" target="_blank" rel="noopener noreferrer nofollow">https://learningfocused.com/blogs/lesson-planning/increasing-critical-thinking-in-education-a-pathway-to-preparing-students-for-the-future?srsltid=AfmBOooDStFd_y3_BBCIi4z3pJbBbPL5xp2wX_ye7xSue1-0OWkCwIxl</a>  

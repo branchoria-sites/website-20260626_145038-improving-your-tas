@@ -284,7 +284,7 @@ When a disagreement matters, the biggest obstacle is often not a lack of evidenc
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_receptive_listening_73ad89-Illustration-1-dark.svg" | relative_url }}" alt="Receptive Listening illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_receptive_listening_73ad89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_receptive_listening_73ad89-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction is central to actively [open-minded thinking]({{ 'open-mind/' | relative_url }}). People frequently rebut a simplified version of an opponent's position, fill gaps with assumptions or respond to the category they think a claim belongs to rather than to the claim itself. Receptive listening slows this process just enough to make disagreement more accurate, which in turn makes later criticism more precise and more persuasive. Research on active listening and motivated reasoning suggests that feeling understood can reduce defensiveness while creating better conditions for evidence-based discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK442015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI+2Wholebeing Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIActive Listening</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf - NIHby K Tennant · 2023 · Cited by 59 — In active listening, it is critical that the receiver acknowledges r...</span></span></span>
+This distinction is central to actively [open-minded thinking]({{ 'open-mind/' | relative_url }}). People frequently rebut a simplified version of an opponent's position, fill gaps with assumptions or respond to the category they think a claim belongs to rather than to the claim itself. Receptive listening slows this process just enough to make disagreement more accurate, which in turn makes later criticism more precise and more persuasive. Research on active listening and motivated reasoning suggests that feeling understood can reduce defensiveness while creating better conditions for evidence-based discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK442015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI+2Wholebeing Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIActive Listening</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf - NIHby K Tennant · 2023 · Cited by 59 — In active listening, it is critical that the receiver acknowledges r...</span></span></span>
 
 ## Understanding before evaluation
 
@@ -302,9 +302,9 @@ A useful sequence is:
 
 </div>
 
-This order matters because understanding and evaluation rely on different mental tasks. If evaluation begins too early, people often stop processing new information and instead search for reasons to defend their existing view. Research on motivated reasoning suggests that people frequently scrutinise unwelcome evidence more harshly than evidence supporting what they already believe. Accuracy goals can reduce this tendency, but only if people genuinely attempt to understand before reaching a conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Motivated_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Motivated reasoning</span><span class="citation-popover-snippet">Motivated reasoning</span></span></span>
+This order matters because understanding and evaluation rely on different mental tasks. If evaluation begins too early, people often stop processing new information and instead search for reasons to defend their existing view. Research on motivated reasoning suggests that people frequently scrutinise unwelcome evidence more harshly than evidence supporting what they already believe. Accuracy goals can reduce this tendency, but only if people genuinely attempt to understand before reaching a conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Motivated_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Motivated reasoning</span><span class="citation-popover-snippet">Motivated reasoning</span></span></span>
 
-Active listening research likewise treats feedback as part of understanding rather than agreement. Paraphrasing allows the speaker to confirm or correct your interpretation before criticism begins, reducing misunderstandings that would otherwise dominate the conversation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK442015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIActive Listening</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf - NIHby K Tennant · 2023 · Cited by 59 — In active listening, it is critical that the receiver acknowledges r...</span></span></span>
+Active listening research likewise treats feedback as part of understanding rather than agreement. Paraphrasing allows the speaker to confirm or correct your interpretation before criticism begins, reducing misunderstandings that would otherwise dominate the conversation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK442015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIActive Listening</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf - NIHby K Tennant · 2023 · Cited by 59 — In active listening, it is critical that the receiver acknowledges r...</span></span></span>
 
 ## Language that lowers threat without hiding disagreement
 
@@ -326,7 +326,7 @@ These responses communicate intellectual seriousness rather than concession. The
 
 By contrast, statements like "That's obviously wrong" or "People like you always think..." merge interpretation, judgement and identity into a single response. Once that happens, the discussion often shifts from examining evidence to defending status and group membership.
 
-Carl Rogers and Richard Farson argued decades ago that careful listening reduces the perceived threat of criticism. When people believe they have been understood accurately, they are often less defensive and more willing to examine their own reasoning. Importantly, this effect comes from understanding rather than from pretending to agree. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wholebeinginstitute.com/wp-content/uploads/Rogers_Farson_Active-Listening.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wholebeinginstitute.com">[Wholebeing Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wholebeinginstitute.com</span><span class="citation-popover-title">Wholebeing Institute&#x27;Active Listening&#x27; by Carl R</span><span class="citation-popover-snippet">Rogers and Richard E. Farsonby CR Rogers · Cited by 1037 — Because listening reduces the threat of having one&#x27;s ideas criticized, the per...</span></span></span>
+Carl Rogers and Richard Farson argued decades ago that careful listening reduces the perceived threat of criticism. When people believe they have been understood accurately, they are often less defensive and more willing to examine their own reasoning. Importantly, this effect comes from understanding rather than from pretending to agree.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wholebeinginstitute.com/wp-content/uploads/Rogers_Farson_Active-Listening.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wholebeinginstitute.com">[Wholebeing Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wholebeinginstitute.com</span><span class="citation-popover-title">Wholebeing Institute&#x27;Active Listening&#x27; by Carl R</span><span class="citation-popover-snippet">Rogers and Richard E. Farsonby CR Rogers · Cited by 1037 — Because listening reduces the threat of having one&#x27;s ideas criticized, the per...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UCp8GXCsBbQ" title="Why Educated People Follow Dumb Ideas – Nietzsche and the Psychology of Motivated Reasoning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UCp8GXCsBbQ" target="_blank" rel="noopener noreferrer">Why Educated People Follow Dumb Ideas – Nietzsche and the Psychology of Motivated Reasoning</a></p><p class="youtube-embed-meta">Channel: Philosophy Coded</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UCp8GXCsBbQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UCp8GXCsBbQ">Open on YouTube</a></p></div></div></div>
@@ -429,194 +429,194 @@ If the answer to these questions is yes, disagreement becomes clearer rather tha
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Listen First Without Surrendering Your Standards. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Listen First Without Surrendering Your Standards. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crucial Conversations: Tools for Talking When Stakes are High on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7X3JPMMPqYMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crucial Conversations: Tools for Talking When Stakes are High" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crucial Conversations: Tools for Talking When Stakes are High">Crucial Conversations: Tools for Talking When Stakes are High</a>
-        </h4>
-        <p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 28 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses listening first, reducing defensiveness, and discussing difficult topics without abandoning standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crucial Conversations: Tools for Talking When Stakes are High on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7X3JPMMPqYMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crucial Conversations: Tools for Talking When Stakes are High" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crucial Conversations: Tools for Talking When Stakes are High">Crucial Conversations: Tools for Talking When Stakes are High</a>
+</h4>
+<p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 28 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses listening first, reducing defensiveness, and discussing difficult topics without abandoning standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Explores intellectual humility, revising beliefs, and understanding opposing viewpoints.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores intellectual humility, revising beliefs, and understanding opposing viewpoints.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Friends+and+Influence+People+by+Dale+Carnegie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Friends and Influence People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MV8enaqvCLYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Win Friends and Influence People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Friends+and+Influence+People+by+Dale+Carnegie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Friends and Influence People">How to Win Friends and Influence People</a>
-        </h4>
-        <p class="fr-book-author">By Dale Carnegie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Win+Friends+and+Influence+People+by+Dale+Carnegie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Win Friends and Influence People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MV8enaqvCLYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Win Friends and Influence People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Win+Friends+and+Influence+People+by+Dale+Carnegie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Win Friends and Influence People">How to Win Friends and Influence People</a>
+</h4>
+<p class="fr-book-author">By Dale Carnegie</p>
         
-        <p class="fr-book-desc">Emphasizes listening, understanding others, and communicating disagreement constructively.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Win+Friends+and+Influence+People+by+Dale+Carnegie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes listening, understanding others, and communicating disagreement constructively.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Win+Friends+and+Influence+People+by+Dale+Carnegie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Never+Split+the+Difference+by+Chris+Voss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Never Split the Difference on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PkPRswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Never Split the Difference" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Never+Split+the+Difference+by+Chris+Voss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Never Split the Difference">Never Split the Difference</a>
-        </h4>
-        <p class="fr-book-author">By Chris Voss, Tahl Raz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Never+Split+the+Difference+by+Chris+Voss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Never Split the Difference on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PkPRswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Never Split the Difference" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Never+Split+the+Difference+by+Chris+Voss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Never Split the Difference">Never Split the Difference</a>
+</h4>
+<p class="fr-book-author">By Chris Voss, Tahl Raz</p>
         
-        <p class="fr-book-desc">Shows how tactical listening and thoughtful questioning improve understanding before persuasion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Never+Split+the+Difference+by+Chris+Voss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how tactical listening and thoughtful questioning improve understanding before persuasion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Never+Split+the+Difference+by+Chris+Voss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crucial Conversations: Tools for Talking When Stakes are High</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Friends+and+Influence+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Friends and Influence People</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crucial Conversations: Tools for Talking When Stakes are High</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Win+Friends+and+Influence+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Win Friends and Influence People</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d55718535d3f8dac09e.jpg' | relative_url }}" alt="Listing image for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d55718535d3f8dac09e.jpg' | relative_url }}" alt="Listing image for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology symbol Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ed441eae68b77d8d8b77.jpg' | relative_url }}" alt="Listing image for Psychology symbol Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Psychology symbol Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology symbol Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ed441eae68b77d8d8b77.jpg' | relative_url }}" alt="Listing image for Psychology symbol Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Psychology symbol Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/507f06bf3be4341bf93d.jpg' | relative_url }}" alt="Listing image for Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/507f06bf3be4341bf93d.jpg' | relative_url }}" alt="Listing image for Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb4ac1d4e4c980c9dc1c.jpg' | relative_url }}" alt="Listing image for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb4ac1d4e4c980c9dc1c.jpg' | relative_url }}" alt="Listing image for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="receptive-listening-listen-first-without-surrendering-your-standards-improving-your-think-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -632,7 +632,7 @@ If the answer to these questions is yes, disagreement becomes clearer rather tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -652,7 +652,7 @@ If the answer to these questions is yes, disagreement becomes clearer rather tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -684,7 +684,7 @@ If the answer to these questions is yes, disagreement becomes clearer rather tha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -736,7 +736,7 @@ If the answer to these questions is yes, disagreement becomes clearer rather tha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -781,7 +781,7 @@ If the answer to these questions is yes, disagreement becomes clearer rather tha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -822,80 +822,80 @@ If the answer to these questions is yes, disagreement becomes clearer rather tha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIActive Listening  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK442015/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK442015/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StatPearls - NCBI Bookshelf - NIHby K Tennant · 2023 · Cited by 59 — In active listening, it is critical that the receiver acknowledges r...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK442015/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK442015/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StatPearls - NCBI Bookshelf - NIHby K Tennant · 2023 · Cited by 59 — In active listening, it is critical that the receiver acknowledges r...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Motivated reasoning  
-   Link: <a href="https://en.wikipedia.org/wiki/Motivated_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Motivated_reasoning</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Motivated_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Motivated_reasoning</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wholebeinginstitute.com  
    Title: Wholebeing Institute'Active Listening' by Carl R  
-   Link: <a href="https://wholebeinginstitute.com/wp-content/uploads/Rogers_Farson_Active-Listening.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wholebeinginstitute.com/wp-content/uploads/Rogers_Farson_Active-Listening.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rogers and Richard E. Farsonby CR Rogers · Cited by 1037 — Because listening reduces the threat of having one&#x27;s ideas criticized, the per...</p></details>
+   Link:<a href="https://wholebeinginstitute.com/wp-content/uploads/Rogers_Farson_Active-Listening.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wholebeinginstitute.com/wp-content/uploads/Rogers_Farson_Active-Listening.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rogers and Richard E. Farsonby CR Rogers · Cited by 1037 — Because listening reduces the threat of having one&#x27;s ideas criticized, the per...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journal.aldinhe.ac.uk  
-   Link: <a href="https://journal.aldinhe.ac.uk/index.php/jldhe/article/view/1409" target="_blank" rel="noopener noreferrer nofollow">https://journal.aldinhe.ac.uk/index.php/jldhe/article/view/1409</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>listening for effective student engagementby A Newton · 2024 · Cited by 10 — In this workshop, participants discussed how active listenin...</p></details>
+   Link:<a href="https://journal.aldinhe.ac.uk/index.php/jldhe/article/view/1409" target="_blank" rel="noopener noreferrer nofollow">https://journal.aldinhe.ac.uk/index.php/jldhe/article/view/1409</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>listening for effective student engagementby A Newton · 2024 · Cited by 10 — In this workshop, participants discussed how active listenin...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bumc.bu.edu  
-   Link: <a href="https://www.bumc.bu.edu/facdev-medicine/files/2016/10/Active-Listening-Handout.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bumc.bu.edu/facdev-medicine/files/2016/10/Active-Listening-Handout.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston University Medical CampusActive ListeningActive Listening. Active Listening means being deeply engaged in and attentive to what th...</p></details>
+   Link:<a href="https://www.bumc.bu.edu/facdev-medicine/files/2016/10/Active-Listening-Handout.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bumc.bu.edu/facdev-medicine/files/2016/10/Active-Listening-Handout.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston University Medical CampusActive ListeningActive Listening. Active Listening means being deeply engaged in and attentive to what th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/379083877_ACTIVE_LISTENING_-A_MODEL_OF_EMPATHETIC_COMMUNICATION_IN_THE_HELPING_PROFESSIONS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379083877_ACTIVE_LISTENING_-A_MODEL_OF_EMPATHETIC_COMMUNICATION_IN_THE_HELPING_PROFESSIONS</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) ACTIVE LISTENING -A MODEL OF EMPATHETIC...20 Mar 2024 — The paper aims to show the development of the concept of active listening...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/379083877_ACTIVE_LISTENING_-A_MODEL_OF_EMPATHETIC_COMMUNICATION_IN_THE_HELPING_PROFESSIONS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379083877_ACTIVE_LISTENING_-A_MODEL_OF_EMPATHETIC_COMMUNICATION_IN_THE_HELPING_PROFESSIONS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) ACTIVE LISTENING -A MODEL OF EMPATHETIC...20 Mar 2024 — The paper aims to show the development of the concept of active listening...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: asana.com  
-   Link: <a href="https://asana.com/resources/active-listening" target="_blank" rel="noopener noreferrer nofollow">https://asana.com/resources/active-listening</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective active listening: Examples, techniques &amp; exercisesActive listening is a powerful communication tool that helps teams connect, c...</p></details>
+   Link:<a href="https://asana.com/resources/active-listening" target="_blank" rel="noopener noreferrer nofollow">https://asana.com/resources/active-listening</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effective active listening: Examples, techniques &amp; exercisesActive listening is a powerful communication tool that helps teams connect, c...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: manifold.open.umn.edu  
    Title: chapter 15 listening  
-   Link: <a href="https://manifold.open.umn.edu/read/chapter-15-listening" target="_blank" rel="noopener noreferrer nofollow">https://manifold.open.umn.edu/read/chapter-15-listening</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15: ListeningListening is the learned process of receiving, interpreting, recalling, evaluating, and responding to verbal and nonverbal m...</p></details>
+   Link:<a href="https://manifold.open.umn.edu/read/chapter-15-listening" target="_blank" rel="noopener noreferrer nofollow">https://manifold.open.umn.edu/read/chapter-15-listening</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15: ListeningListening is the learned process of receiving, interpreting, recalling, evaluating, and responding to verbal and nonverbal m...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Disagreeing Better: Research-backed Tools for Navigating Conflict  
-   Link: <a href="https://www.youtube.com/watch?v=IqqFx2JeZhM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IqqFx2JeZhM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Educated People Follow Dumb Ideas – Nietzsche and the Psychology of Motivated Reasoning...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IqqFx2JeZhM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IqqFx2JeZhM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Educated People Follow Dumb Ideas – Nietzsche and the Psychology of Motivated Reasoning...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UCp8GXCsBbQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UCp8GXCsBbQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THIS Is Why You MUST Talk LESS | Simon Sinek...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UCp8GXCsBbQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UCp8GXCsBbQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THIS Is Why You MUST Talk LESS | Simon Sinek...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: verywellmind.com  
-   Link: <a href="https://www.verywellmind.com/what-is-active-listening-3024343" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-active-listening-3024343</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Active Listening Techniques For Better Communication14 Apr 2026 — Active listening techniques are strategies to help you focus on, unde...</p></details>
+   Link:<a href="https://www.verywellmind.com/what-is-active-listening-3024343" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-active-listening-3024343</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Active Listening Techniques For Better Communication14 Apr 2026 — Active listening techniques are strategies to help you focus on, unde...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Julia Minson | How to Disagree Better | Talks at Google  
-   Link: <a href="https://www.youtube.com/watch?v=GigRB6bZ0MI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GigRB6bZ0MI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disagreeing Better: Research-backed Tools for Navigating Conflict...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GigRB6bZ0MI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GigRB6bZ0MI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disagreeing Better: Research-backed Tools for Navigating Conflict...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: THIS Is Why You MUST Talk LESS | Simon Sinek  
-   Link: <a href="https://www.youtube.com/watch?v=4wWZqasA3GA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4wWZqasA3GA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Listening: How to Quickly Understand Difficult Things...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4wWZqasA3GA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4wWZqasA3GA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Listening: How to Quickly Understand Difficult Things...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Critical Listening: How to Quickly Understand Difficult Things  
-   Link: <a href="https://www.youtube.com/watch?v=UlMCTUvxa78" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UlMCTUvxa78</a>  
+   Link:<a href="https://www.youtube.com/watch?v=UlMCTUvxa78" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UlMCTUvxa78</a>  

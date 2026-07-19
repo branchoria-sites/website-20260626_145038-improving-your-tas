@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_su
 
 ## Introduction
 
-The World Health Organization (WHO) Surgical Safety Checklist is one of the clearest demonstrations that highly skilled professionals still benefit from simple decision routines. Its importance is often misunderstood. The checklist was never designed to replace surgical expertise or force rigid compliance with a script. Instead, it was created to reduce ordinary human failures—missed steps, unspoken assumptions and communication breakdowns—that can occur even in expert teams working under pressure. The lesson extends beyond medicine: in any [high-stakes decision]({{ 'decision-routines/' | relative_url }}), the greatest risks often come not from ignorance but from preventable omissions and failures to coordinate. The value of a checklist lies in making essential questions impossible to overlook before commitment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0810119" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7618 — A 19-item sur...</span></span></span>
+The World Health Organization (WHO) Surgical Safety Checklist is one of the clearest demonstrations that highly skilled professionals still benefit from simple decision routines. Its importance is often misunderstood. The checklist was never designed to replace surgical expertise or force rigid compliance with a script. Instead, it was created to reduce ordinary human failures—missed steps, unspoken assumptions and communication breakdowns—that can occur even in expert teams working under pressure. The lesson extends beyond medicine: in any [high-stakes decision]({{ 'decision-routines/' | relative_url }}), the greatest risks often come not from ignorance but from preventable omissions and failures to coordinate. The value of a checklist lies in making essential questions impossible to overlook before commitment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0810119" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7618 — A 19-item sur...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_surgical_checklist_l_3f76cd-Illustration-1-dark.svg" | relative_url }}" alt="Checklists illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_surgical_checklist_l_3f76cd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_surgical_checklist_l_3f76cd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -295,13 +295,13 @@ The WHO checklist introduced a structured pause at three points during every ope
 
 * **Before anaesthesia ("Sign In")**: confirm patient identity, procedure, surgical site, allergies and essential equipment.
 * **Before the incision ("Time Out")**: every team member introduces themselves, confirms the planned operation and raises anticipated concerns.
-* **Before leaving the operating theatre ("Sign Out")**: verify instrument counts, specimen labels and postoperative plans. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery/tool-and-resources" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationSafe surgery: Tool and ResourcesThe WHO Surgical Safety Checklist was developed after extensive consultation aim...</span></span></span>
+* **Before leaving the operating theatre ("Sign Out")**: verify instrument counts, specimen labels and postoperative plans.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery/tool-and-resources" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationSafe surgery: Tool and ResourcesThe WHO Surgical Safety Checklist was developed after extensive consultation aim...</span></span></span>
 
 </div>
 
 The innovation was not the individual questions. Most were already considered good practice. The change was requiring them to be asked consistently, aloud and as a team rather than assuming someone had already checked.
 
-The first multinational evaluation, involving eight hospitals in different healthcare systems, found substantial reductions in major complications and deaths following implementation of the 19-item checklist. While later studies have produced more varied estimates of effect, the original trial demonstrated that relatively small procedural changes could influence [outcomes]({{ 'outcomes/' | relative_url }}) in complex environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0810119" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7618 — A 19-item sur...</span></span></span>
+The first multinational evaluation, involving eight hospitals in different healthcare systems, found substantial reductions in major complications and deaths following implementation of the 19-item checklist. While later studies have produced more varied estimates of effect, the original trial demonstrated that relatively small procedural changes could influence [outcomes]({{ 'outcomes/' | relative_url }}) in complex environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0810119" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7618 — A 19-item sur...</span></span></span>
 
 ## Why omissions happen in expert teams
 
@@ -315,7 +315,7 @@ Experts usually fail through different [mechanisms]({{ 'mechanisms/' | relative_
 
 **Hierarchy discourages speaking up.** Junior staff often notice potential problems but hesitate to interrupt senior colleagues. By explicitly inviting every participant to contribute during the "Time Out", the checklist changes the social expectation from silence to participation.
 
-**Communication fragments.** Different professionals frequently possess different pieces of relevant information. Without a structured moment to share them, critical knowledge may remain isolated within one person. Reviews of checklist implementation consistently identify improved communication and teamwork as major mechanisms behind better outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4417373/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUse of the Surgical Safety Checklist to Improve</span><span class="citation-popover-snippet">by AE Pugel · 2015 · Cited by 223 — Use of a surgical safety checklist may prevent communication failures and reduce complications. In...</span></span></span>
+**Communication fragments.** Different professionals frequently possess different pieces of relevant information. Without a structured moment to share them, critical knowledge may remain isolated within one person. Reviews of checklist implementation consistently identify improved communication and teamwork as major mechanisms behind better outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4417373/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUse of the Surgical Safety Checklist to Improve</span><span class="citation-popover-snippet">by AE Pugel · 2015 · Cited by 223 — Use of a surgical safety checklist may prevent communication failures and reduce complications. In...</span></span></span>
 
 Importantly, the checklist addresses predictable human limitations rather than rare catastrophic mistakes. It reduces the chance that ordinary lapses accumulate into serious failures.
 
@@ -375,9 +375,9 @@ Decision routines work best when they standardise the process of thinking while 
 
 The checklist has become a landmark patient-safety intervention, yet its effectiveness is more nuanced than early headlines suggested.
 
-Subsequent systematic reviews and meta-analyses generally find improvements in teamwork, communication and many patient outcomes after checklist implementation. However, the size of the benefit varies considerably between hospitals and countries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/24068073/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Meta-analysis of Surgical Safety Checklist Effects on...by VE Lyons · 2014 · Cited by 132 — The results indicate that surgical saf...</span></span></span>
+Subsequent systematic reviews and meta-analyses generally find improvements in teamwork, communication and many patient outcomes after checklist implementation. However, the size of the benefit varies considerably between hospitals and countries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/24068073/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Meta-analysis of Surgical Safety Checklist Effects on...by VE Lyons · 2014 · Cited by 132 — The results indicate that surgical saf...</span></span></span>
 
-Some large observational studies reported little or no improvement after mandatory adoption. These findings prompted researchers to ask why similar checklists sometimes produced different results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thesandersfirm.com/news/study-questions-efficacy-surgical-safety-checklists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesandersfirm.com">[The Sanders Law Firm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesandersfirm.com</span><span class="citation-popover-snippet">The Sanders Law FirmNew Study Questions Efficacy Of Surgical Safety ChecklistsThe New England Journal of Medicine recently published a st...</span></span></span>
+Some large observational studies reported little or no improvement after mandatory adoption. These findings prompted researchers to ask why similar checklists sometimes produced different results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thesandersfirm.com/news/study-questions-efficacy-surgical-safety-checklists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesandersfirm.com">[The Sanders Law Firm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesandersfirm.com</span><span class="citation-popover-snippet">The Sanders Law FirmNew Study Questions Efficacy Of Surgical Safety ChecklistsThe New England Journal of Medicine recently published a st...</span></span></span>
 
 The emerging explanation is that the checklist itself is only part of the intervention.
 
@@ -390,7 +390,7 @@ Hospitals achieving the greatest improvements typically showed several common ch
 * genuine participation by the whole team;
 * adaptation of the checklist to local workflows;
 * regular training and reinforcement;
-* a culture where concerns could be raised without punishment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11493453/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluating the Impact of the World Health Organization&#x27;s...by L Alsadoun · 2024 · Cited by 22 — This systematic review evaluates the...</span></span></span>
+* a culture where concerns could be raised without punishment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11493453/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluating the Impact of the World Health Organization&#x27;s...by L Alsadoun · 2024 · Cited by 22 — This systematic review evaluates the...</span></span></span>
 
 </div>
 
@@ -419,185 +419,185 @@ For decisions with high stakes, a short routine can improve reliability by ensur
 
 These routines introduce a small amount of productive friction at precisely the moment when overconfidence, haste or hierarchy might otherwise allow preventable mistakes to pass unnoticed.
 
-The WHO Surgical Safety Checklist demonstrates that the greatest contribution of a checklist is often not remembering one more fact. It is creating a reliable moment in which experts stop, communicate and think together before acting. New England Journal of Medicine+2World Health Organization <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0810119" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[nejm.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7618 — A 19-item sur...</span></span></span>
+The WHO Surgical Safety Checklist demonstrates that the greatest contribution of a checklist is often not remembering one more fact. It is creating a reliable moment in which experts stop, communicate and think together before acting. New England Journal of Medicine+2World Health Organization<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nejm.org/doi/full/10.1056/NEJMsa0810119" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[nejm.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineA Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7618 — A 19-item sur...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8CIOLEZb9ew" title="A Free Summary of the Book The Checklist Manifesto by Atul Gawande" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8CIOLEZb9ew" target="_blank" rel="noopener noreferrer">A Free Summary of the Book The Checklist Manifesto by Atul Gawande</a></p><p class="youtube-embed-meta">Channel: Readitfor.me</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8CIOLEZb9ew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8CIOLEZb9ew">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why experts still need checklists. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why experts still need checklists. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_AP2EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
-        </h4>
-        <p class="fr-book-author">By Atul Gawande</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_AP2EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
+</h4>
+<p class="fr-book-author">By Atul Gawande</p>
         
-        <p class="fr-book-desc">Directly covers surgical checklists and extends the lesson to aviation, construction, finance, and complex work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers surgical checklists and extends the lesson to aviation, construction, finance, and complex work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Better+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Better on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hTKrkBmYKDQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Better" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Better+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Better">Better</a>
-        </h4>
-        <p class="fr-book-author">By Atul Gawande</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Better+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Better on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hTKrkBmYKDQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Better" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Better+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Better">Better</a>
+</h4>
+<p class="fr-book-author">By Atul Gawande</p>
         
-        <p class="fr-book-desc">Explores how professionals improve performance through diligence, measurement, and attention to preventable failure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Better+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how professionals improve performance through diligence, measurement, and attention to preventable failure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Better+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Provides practical routines for reducing avoidable judgement errors before committing to choices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical routines for reducing avoidable judgement errors before committing to choices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why skilled people still make predictable mistakes and why process safeguards matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why skilled people still make predictable mistakes and why process safeguards matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Better&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Better</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Better&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Better</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Summer Flowers 100% Cotton Pink Scrub Cap Hat Surgical Doctor Theatre Nurse ODP"><img src="{{ '/assets/images/marketplace-covers/86d3746fcbd6f1f8862e.jpg' | relative_url }}" alt="Listing image for Summer Flowers 100% Cotton Pink Scrub Cap Hat Surgical Doctor Theatre Nurse ODP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">Summer Flowers 100% Cotton Pink Scrub Cap Hat Surgical Doctor Theatre Nurse ODP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for surgical scrub cap">Search <span data-ebay-domain-label>eBay.co.uk</span>: surgical scrub cap</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Summer Flowers 100% Cotton Pink Scrub Cap Hat Surgical Doctor Theatre Nurse ODP"><img src="{{ '/assets/images/marketplace-covers/86d3746fcbd6f1f8862e.jpg' | relative_url }}" alt="Listing image for Summer Flowers 100% Cotton Pink Scrub Cap Hat Surgical Doctor Theatre Nurse ODP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">Summer Flowers 100% Cotton Pink Scrub Cap Hat Surgical Doctor Theatre Nurse ODP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for surgical scrub cap">Search<span data-ebay-domain-label>eBay.co.uk</span>: surgical scrub cap</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cotton Surgical Scrub Cap Hat SurgeryTheatre Doctor Nurses Solid Unisex"><img src="{{ '/assets/images/marketplace-covers/5d0191cb5865ffc8bbbc.jpg' | relative_url }}" alt="Listing image for Cotton Surgical Scrub Cap Hat SurgeryTheatre Doctor Nurses Solid Unisex" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">Cotton Surgical Scrub Cap Hat SurgeryTheatre Doctor Nurses Solid Unisex</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for surgical scrub cap">Search <span data-ebay-domain-label>eBay.co.uk</span>: surgical scrub cap</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cotton Surgical Scrub Cap Hat SurgeryTheatre Doctor Nurses Solid Unisex"><img src="{{ '/assets/images/marketplace-covers/5d0191cb5865ffc8bbbc.jpg' | relative_url }}" alt="Listing image for Cotton Surgical Scrub Cap Hat SurgeryTheatre Doctor Nurses Solid Unisex" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">Cotton Surgical Scrub Cap Hat SurgeryTheatre Doctor Nurses Solid Unisex</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for surgical scrub cap">Search<span data-ebay-domain-label>eBay.co.uk</span>: surgical scrub cap</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nurses Life Toggle Scrub Cap Eye Doctor Theatre Nurse Surgical Surgeon ODP Cap"><img src="{{ '/assets/images/marketplace-covers/6ed3c955fd85a746e14e.jpg' | relative_url }}" alt="Listing image for Nurses Life Toggle Scrub Cap Eye Doctor Theatre Nurse Surgical Surgeon ODP Cap" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">Nurses Life Toggle Scrub Cap Eye Doctor Theatre Nurse Surgical Surgeon ODP Cap</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for surgical scrub cap">Search <span data-ebay-domain-label>eBay.co.uk</span>: surgical scrub cap</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nurses Life Toggle Scrub Cap Eye Doctor Theatre Nurse Surgical Surgeon ODP Cap"><img src="{{ '/assets/images/marketplace-covers/6ed3c955fd85a746e14e.jpg' | relative_url }}" alt="Listing image for Nurses Life Toggle Scrub Cap Eye Doctor Theatre Nurse Surgical Surgeon ODP Cap" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">Nurses Life Toggle Scrub Cap Eye Doctor Theatre Nurse Surgical Surgeon ODP Cap</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for surgical scrub cap">Search<span data-ebay-domain-label>eBay.co.uk</span>: surgical scrub cap</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=surgical+scrub+cap&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="surgical scrub cap" data-ebay-reference="checklists-why-experts-still-need-checklists-improving-your-think-surgical-scrub-cap" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -613,7 +613,7 @@ The WHO Surgical Safety Checklist demonstrates that the greatest contribution of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -633,7 +633,7 @@ The WHO Surgical Safety Checklist demonstrates that the greatest contribution of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -665,7 +665,7 @@ The WHO Surgical Safety Checklist demonstrates that the greatest contribution of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -717,7 +717,7 @@ The WHO Surgical Safety Checklist demonstrates that the greatest contribution of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -762,7 +762,7 @@ The WHO Surgical Safety Checklist demonstrates that the greatest contribution of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -803,151 +803,151 @@ The WHO Surgical Safety Checklist demonstrates that the greatest contribution of
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery/tool-and-resources" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery/tool-and-resources</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationSafe surgery: Tool and ResourcesThe WHO Surgical Safety Checklist was developed after extensive consultation aim...</p></details>
+   Link:<a href="https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery/tool-and-resources" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery/tool-and-resources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationSafe surgery: Tool and ResourcesThe WHO Surgical Safety Checklist was developed after extensive consultation aim...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCUse of the Surgical Safety Checklist to Improve  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4417373/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4417373/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by AE Pugel · 2015 · Cited by 223 — Use of a surgical safety checklist may prevent communication failures and reduce complications. In...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4417373/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4417373/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by AE Pugel · 2015 · Cited by 223 — Use of a surgical safety checklist may prevent communication failures and reduce complications. In...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5881961/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5881961/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by ET Willassen · 2018 · Cited by 67 — In 2008, the World Health Organization (WHO) introduced the Safe Surgery checklist (SSC) as a s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5881961/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5881961/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by ET Willassen · 2018 · Cited by 67 — In 2008, the World Health Organization (WHO) introduced the Safe Surgery checklist (SSC) as a s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Role of WHO Surgical Checklists in Reducing  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11536331/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11536331/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Qaiser · 2024 · Cited by 9 — The application of the WHO Surgical Safety Checklist has been shown to improve surgical outcomes by...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11536331/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11536331/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Qaiser · 2024 · Cited by 9 — The application of the WHO Surgical Safety Checklist has been shown to improve surgical outcomes by...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11493453/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11493453/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating the Impact of the World Health Organization&#x27;s...by L Alsadoun · 2024 · Cited by 22 — This systematic review evaluates the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11493453/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11493453/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating the Impact of the World Health Organization&#x27;s...by L Alsadoun · 2024 · Cited by 22 — This systematic review evaluates the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jan.15841" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jan.15841</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryBarriers and facilitators associated with the implementation...7 Sept 2023 — This qualitative systematic review aime...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/jan.15841" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jan.15841</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryBarriers and facilitators associated with the implementation...7 Sept 2023 — This qualitative systematic review aime...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe surgeryThe Surgical Safety Checklist has been shown to reduce complications and mortality by over 30 percent. The Checklist is simpl...</p></details>
+   Link:<a href="https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safe surgeryThe Surgical Safety Checklist has been shown to reduce complications and mortality by over 30 percent. The Checklist is simpl...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nejm.org  
-   Link: <a href="https://www.nejm.org/doi/full/10.1056/NEJMsa0810119" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMsa0810119</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineA Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7618 — A 19-item sur...</p></details>
+   Link:<a href="https://www.nejm.org/doi/full/10.1056/NEJMsa0810119" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMsa0810119</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineA Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7618 — A 19-item sur...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: qualitysafety.bmj.com  
-   Link: <a href="https://qualitysafety.bmj.com/content/23/4/299" target="_blank" rel="noopener noreferrer nofollow">https://qualitysafety.bmj.com/content/23/4/299</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Quality &amp; Safety in Health CareSurgical checklists: a systematic review of impacts and...by JR Treadwell · 2014 · Cited by 771 — Surgica...</p></details>
+   Link:<a href="https://qualitysafety.bmj.com/content/23/4/299" target="_blank" rel="noopener noreferrer nofollow">https://qualitysafety.bmj.com/content/23/4/299</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quality &amp; Safety in Health CareSurgical checklists: a systematic review of impacts and...by JR Treadwell · 2014 · Cited by 771 — Surgica...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24068073/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24068073/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-analysis of Surgical Safety Checklist Effects on...by VE Lyons · 2014 · Cited by 132 — The results indicate that surgical saf...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24068073/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24068073/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-analysis of Surgical Safety Checklist Effects on...by VE Lyons · 2014 · Cited by 132 — The results indicate that surgical saf...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thesandersfirm.com  
-   Link: <a href="https://thesandersfirm.com/news/study-questions-efficacy-surgical-safety-checklists/" target="_blank" rel="noopener noreferrer nofollow">https://thesandersfirm.com/news/study-questions-efficacy-surgical-safety-checklists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sanders Law FirmNew Study Questions Efficacy Of Surgical Safety ChecklistsThe New England Journal of Medicine recently published a st...</p></details>
+   Link:<a href="https://thesandersfirm.com/news/study-questions-efficacy-surgical-safety-checklists/" target="_blank" rel="noopener noreferrer nofollow">https://thesandersfirm.com/news/study-questions-efficacy-surgical-safety-checklists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sanders Law FirmNew Study Questions Efficacy Of Surgical Safety ChecklistsThe New England Journal of Medicine recently published a st...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK138100/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK138100/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Surgical safety checklists: a review - NCBIby R Tang · 2014 · Cited by 103 — Meta-analysis of surgical safety checklist effects on te...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK138100/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK138100/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Surgical safety checklists: a review - NCBIby R Tang · 2014 · Cited by 103 — Meta-analysis of surgical safety checklist effects on te...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journalofsurgicalresearch.com  
-   Link: <a href="https://www.journalofsurgicalresearch.com/article/S0022-4804%2818%2930658-9/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.journalofsurgicalresearch.com/article/S0022-4804%2818%2930658-9/abstract</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health Organization Surgical Safety Checklist...by I Solsky · 2020 · Cited by 55 — The World Health Organization&#x27;s (WHO) surgical...</p></details>
+   Link:<a href="https://www.journalofsurgicalresearch.com/article/S0022-4804%2818%2930658-9/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.journalofsurgicalresearch.com/article/S0022-4804%2818%2930658-9/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health Organization Surgical Safety Checklist...by I Solsky · 2020 · Cited by 55 — The World Health Organization&#x27;s (WHO) surgical...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3489074/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3489074/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Fudickar · 2012 · Cited by 289 — The beneficial effect of the WHO checklist on perioperative complication rates indicates that co...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3489074/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3489074/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Fudickar · 2012 · Cited by 289 — The beneficial effect of the WHO checklist on perioperative complication rates indicates that co...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ncbi.nlm.nih.gov  
    Title: appa m1  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK143241/bin/appa-m1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK143241/bin/appa-m1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7614 — We hypothesized that a program to implement a...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK143241/bin/appa-m1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK143241/bin/appa-m1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Surgical Safety Checklist to Reduce Morbidity and...by AB Haynes · 2009 · Cited by 7614 — We hypothesized that a program to implement a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19144931/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19144931/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>surgical safety checklist to reduce morbidity and mortality...by AB Haynes · 2009 · Cited by 7618 — A 19-item surgical safety checklist...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/19144931/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19144931/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>surgical safety checklist to reduce morbidity and mortality...by AB Haynes · 2009 · Cited by 7618 — A 19-item surgical safety checklist...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nejm.org  
-   Link: <a href="https://www.nejm.org/doi/full/10.1056/NEJMsa1204720" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMsa1204720</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simulation-Based Trial of Surgical-Crisis Checklistsby AF Arriaga · 2013 · Cited by 741 — Checklist use during operating-room crises resu...</p></details>
+   Link:<a href="https://www.nejm.org/doi/full/10.1056/NEJMsa1204720" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMsa1204720</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simulation-Based Trial of Surgical-Crisis Checklistsby AF Arriaga · 2013 · Cited by 741 — Checklist use during operating-room crises resu...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: england.nhs.uk  
    Title: surgical safety checklist  
-   Link: <a href="https://www.england.nhs.uk/2019/01/surgical-safety-checklist/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/2019/01/surgical-safety-checklist/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decade of improved outcomes for patients thanks to...21 Jan 2019 — The Surgical Safety Checklist is a simple tool designed to improve co...</p></details>
+   Link:<a href="https://www.england.nhs.uk/2019/01/surgical-safety-checklist/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/2019/01/surgical-safety-checklist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decade of improved outcomes for patients thanks to...21 Jan 2019 — The Surgical Safety Checklist is a simple tool designed to improve co...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: psnet.ahrq.gov  
    Title: surgical safety checklist reduce morbidity and mortality global population  
-   Link: <a href="https://psnet.ahrq.gov/issue/surgical-safety-checklist-reduce-morbidity-and-mortality-global-population" target="_blank" rel="noopener noreferrer nofollow">https://psnet.ahrq.gov/issue/surgical-safety-checklist-reduce-morbidity-and-mortality-global-population</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>surgical safety checklist to reduce morbidity and mortality in...This study&#x27;s senior author, Atul Gawande, wrote about the success of ch...</p></details>
+   Link:<a href="https://psnet.ahrq.gov/issue/surgical-safety-checklist-reduce-morbidity-and-mortality-global-population" target="_blank" rel="noopener noreferrer nofollow">https://psnet.ahrq.gov/issue/surgical-safety-checklist-reduce-morbidity-and-mortality-global-population</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>surgical safety checklist to reduce morbidity and mortality in...This study&#x27;s senior author, Atul Gawande, wrote about the success of ch...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/23789023_A_Surgical_Safety_Checklist_to_Reduce_Morbidity_and_Mortality_in_a_Global_Population" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23789023_A_Surgical_Safety_Checklist_to_Reduce_Morbidity_and_Mortality_in_a_Global_Population</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Surgical Safety Checklist to Reduce Morbidity and...29 Jan 2009 — A 19-item surgical safety checklist designed to improve team c...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/23789023_A_Surgical_Safety_Checklist_to_Reduce_Morbidity_and_Mortality_in_a_Global_Population" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23789023_A_Surgical_Safety_Checklist_to_Reduce_Morbidity_and_Mortality_in_a_Global_Population</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Surgical Safety Checklist to Reduce Morbidity and...29 Jan 2009 — A 19-item surgical safety checklist designed to improve team c...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cureus.com  
-   Link: <a href="https://www.cureus.com/articles/291906-evaluating-the-impact-of-the-world-health-organizations-surgical-safety-checklist-on-clinical-outcomes-and-implementation-strategies-a-systematic-review" target="_blank" rel="noopener noreferrer nofollow">https://www.cureus.com/articles/291906-evaluating-the-impact-of-the-world-health-organizations-surgical-safety-checklist-on-clinical-outcomes-and-implementation-strategies-a-systematic-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating the Impact of the World Health Organization&#x27;s...21 Sept 2024 — The WHO Surgical Safety Checklist significantly reduced compli...</p></details>
+   Link:<a href="https://www.cureus.com/articles/291906-evaluating-the-impact-of-the-world-health-organizations-surgical-safety-checklist-on-clinical-outcomes-and-implementation-strategies-a-systematic-review" target="_blank" rel="noopener noreferrer nofollow">https://www.cureus.com/articles/291906-evaluating-the-impact-of-the-world-health-organizations-surgical-safety-checklist-on-clinical-outcomes-and-implementation-strategies-a-systematic-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating the Impact of the World Health Organization&#x27;s...21 Sept 2024 — The WHO Surgical Safety Checklist significantly reduced compli...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/44654530_The_WHO_surgical_safety_checklist" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/44654530_The_WHO_surgical_safety_checklist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The WHO surgical safety checklistThe World Health Organisation has introduced a three-phase checklist to reduce error and improve t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/44654530_The_WHO_surgical_safety_checklist" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/44654530_The_WHO_surgical_safety_checklist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The WHO surgical safety checklistThe World Health Organisation has introduced a three-phase checklist to reduce error and improve t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/surgical" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/surgical</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/surgical" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/surgical</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/986371251/%D8%A8%D8%AD%D8%AB-%D8%AA%D9%85%D8%B1%D9%8A%D8%B6-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/986371251/%D8%A8%D8%AD%D8%AB-%D8%AA%D9%85%D8%B1%D9%8A%D8%B6-1</a>  
+   Link:<a href="https://www.scribd.com/document/986371251/%D8%A8%D8%AD%D8%AB-%D8%AA%D9%85%D8%B1%D9%8A%D8%B6-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/986371251/%D8%A8%D8%AD%D8%AB-%D8%AA%D9%85%D8%B1%D9%8A%D8%B6-1</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: lifebox.org  
-   Link: <a href="https://www.lifebox.org/wp-content/uploads/2022/08/Checking-In-On-the-Checklist-web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lifebox.org/wp-content/uploads/2022/08/Checking-In-On-the-Checklist-web.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>anization) Surgical Safety Checklist—a two-minute, single-page protocol with 19 items for reducing preventable...Read more...</p></details>
+   Link:<a href="https://www.lifebox.org/wp-content/uploads/2022/08/Checking-In-On-the-Checklist-web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lifebox.org/wp-content/uploads/2022/08/Checking-In-On-the-Checklist-web.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anization) Surgical Safety Checklist—a two-minute, single-page protocol with 19 items for reducing preventable...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: news.harvard.edu  
    Title: surgical safety checklist drops deaths and complications by more than one third  
-   Link: <a href="https://news.harvard.edu/gazette/story/2009/01/surgical-safety-checklist-drops-deaths-and-complications-by-more-than-one-third/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2009/01/surgical-safety-checklist-drops-deaths-and-complications-by-more-than-one-third/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>safety checklist drops deaths and complications...14 Jan 2009 — The use of a simple surgical checklist during major operations can lower...</p></details>
+   Link:<a href="https://news.harvard.edu/gazette/story/2009/01/surgical-safety-checklist-drops-deaths-and-complications-by-more-than-one-third/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2009/01/surgical-safety-checklist-drops-deaths-and-complications-by-more-than-one-third/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>safety checklist drops deaths and complications...14 Jan 2009 — The use of a simple surgical checklist during major operations can lower...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: patientsafetysolutions.com  
    Title: May 2019 WHO Surgical Safety Checklist Cut Mortality 37 Percent in Scotland  
-   Link: <a href="https://www.patientsafetysolutions.com/docs/May_2019_WHO_Surgical_Safety_Checklist_Cut_Mortality_37_Percent_in_Scotland.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.patientsafetysolutions.com/docs/May_2019_WHO_Surgical_Safety_Checklist_Cut_Mortality_37_Percent_in_Scotland.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO Surgical Safety Checklist Cut Mortality 37% in ScotlandHaynes and colleagues (Haynes 2009) demonstrated that mortality at 30-days pos...</p></details>
+   Link:<a href="https://www.patientsafetysolutions.com/docs/May_2019_WHO_Surgical_Safety_Checklist_Cut_Mortality_37_Percent_in_Scotland.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.patientsafetysolutions.com/docs/May_2019_WHO_Surgical_Safety_Checklist_Cut_Mortality_37_Percent_in_Scotland.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHO Surgical Safety Checklist Cut Mortality 37% in ScotlandHaynes and colleagues (Haynes 2009) demonstrated that mortality at 30-days pos...</p></details>
    Published: May 2019  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: anaesthetics.ukzn.ac.za  
    Title: FMM No 8 The World Health Organisation Surgical Safety Checklist 2 S Zwane  
-   Link: <a href="https://anaesthetics.ukzn.ac.za/Libraries/ICU_1/FMM_No_8_The_World_Health_Organisation_Surgical_Safety_Checklist_2_-_S_Zwane.pdf" target="_blank" rel="noopener noreferrer nofollow">https://anaesthetics.ukzn.ac.za/Libraries/ICU_1/FMM_No_8_The_World_Health_Organisation_Surgical_Safety_Checklist_2_-_S_Zwane.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health Organisation Surgical Safety Checklistby SF Zwane · 2016 · Cited by 1 — The evaluation of the surgical safety checklist show...</p></details>
+   Link:<a href="https://anaesthetics.ukzn.ac.za/Libraries/ICU_1/FMM_No_8_The_World_Health_Organisation_Surgical_Safety_Checklist_2_-_S_Zwane.pdf" target="_blank" rel="noopener noreferrer nofollow">https://anaesthetics.ukzn.ac.za/Libraries/ICU_1/FMM_No_8_The_World_Health_Organisation_Surgical_Safety_Checklist_2_-_S_Zwane.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health Organisation Surgical Safety Checklistby SF Zwane · 2016 · Cited by 1 — The evaluation of the surgical safety checklist show...</p></details>

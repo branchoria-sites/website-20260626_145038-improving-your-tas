@@ -3,18 +3,21 @@ short_title: 'Sharper Thinking'
 brand_name: 'Branchoria'
 brand_domain: 'branchoria.com'
 description: 'Practical guides on Sharper Thinking, organized for fast browsing and comparison.'
-tagline: 'Practical ways to reason better, test ideas, and make decisions under uncertainty.'
+tagline: 'Practical habits for clearer judgment, better evidence use, and fewer reasoning traps.'
 encoding: utf-8
 lang: 'en'
 locale: 'en'
 text_direction: 'ltr'
 direction: 'ltr'
-visual_profile: 'atlas'
-layout_archetype: 'atlas'
-visual_palette: 'north-atlantic'
-visual_motif: 'orbital'
-font_heading: 'Manrope'
-font_body: 'Merriweather'
+visual_profile: 'compact'
+site_visual_identity: 'signal-cobalt'
+site_visual_identity_source: 'local_inference'
+site_visual_identity_confidence: 'medium'
+layout_archetype: 'compact-grid'
+visual_palette: 'signal-cobalt'
+visual_motif: 'constellation'
+font_heading: 'Sora'
+font_body: 'Public Sans'
 appearance_menu_enabled: true
 appearance_menu_default_open: false
 appearance_toast_ms: 5000
@@ -24,19 +27,19 @@ appearance_color_default: 'dark'
 mobile_layout_mode: 'article-first'
 mobile_sidebar_mode: 'collapsible'
 mobile_sidebar_default: 'closed'
-endnotes_mode: 'auto'
+endnotes_mode: 'collapsed'
 endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
 baseurl: ""
-url: "https://ufos-celebrities.branchoria.com"
+url: "https://sharper-thinking.branchoria.com"
 ui_priority: 'home-first'
 homepage_audience_mode: 'production'
 homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1782646591'
+ui_bundle_version: 'build-1784419172'
 google_site_verification: ''
 draft_noindex: false
 theme: minima
@@ -190,7 +193,18 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  copy_link: Copy link
+  cite_page: Cite page
+  print_save: Print / save
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
   topics: Topics
+  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search

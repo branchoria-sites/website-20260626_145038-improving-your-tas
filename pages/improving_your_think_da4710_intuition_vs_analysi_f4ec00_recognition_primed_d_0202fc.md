@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_re
 
 ## Introduction
 
-Recognition-primed decision-making explains how experienced people can make effective decisions in situations where there is little time, incomplete information and significant consequences. Rather than listing every possible option and comparing them one by one, experts often recognise a familiar pattern, generate the first workable response that fits the situation, mentally test that response, and act if it appears sound. This process is not blind intuition. It is experience organised into rapid pattern recognition and disciplined mental simulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/18689053/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This article describes the origins and contributions of the naturalistic decision making (NDM) research approach. study how people make...</span></span></span>
+Recognition-primed decision-making explains how experienced people can make effective decisions in situations where there is little time, incomplete information and significant consequences. Rather than listing every possible option and comparing them one by one, experts often recognise a familiar pattern, generate the first workable response that fits the situation, mentally test that response, and act if it appears sound. This process is not blind intuition. It is experience organised into rapid pattern recognition and disciplined mental simulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/18689053/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This article describes the origins and contributions of the naturalistic decision making (NDM) research approach. study how people make...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_recognition_primed_d_0202fc-Illustration-1-dark.svg" | relative_url }}" alt="Pressure Calls illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_recognition_primed_d_0202fc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_recognition_primed_d_0202fc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ This model matters because it changes the common debate about intuition versus a
 
 ## Recognising a pattern before comparing options
 
-The Recognition-Primed Decision (RPD) model emerged from research led by Gary Klein during the 1980s, particularly through observations of fireground commanders, military leaders and other professionals working in unpredictable, high-stakes environments. Researchers expected experts to compare several alternatives before choosing. Instead, they repeatedly observed something different: experienced decision-makers often identified a situation as matching a familiar pattern and immediately focused on a single promising course of action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/18689053/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2CONTENTdm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This article describes the origins and contributions of the naturalistic decision making (NDM) research approach. study how people make...</span></span></span>
+The Recognition-Primed Decision (RPD) model emerged from research led by Gary Klein during the 1980s, particularly through observations of fireground commanders, military leaders and other professionals working in unpredictable, high-stakes environments. Researchers expected experts to compare several alternatives before choosing. Instead, they repeatedly observed something different: experienced decision-makers often identified a situation as matching a familiar pattern and immediately focused on a single promising course of action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/18689053/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2CONTENTdm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This article describes the origins and contributions of the naturalistic decision making (NDM) research approach. study how people make...</span></span></span>
 
 Pattern recognition in this context means more than remembering previous events. Experts rapidly identify:
 
@@ -302,9 +302,9 @@ Pattern recognition in this context means more than remembering previous events.
 
 </div>
 
-The recognised pattern provides expectations. If incoming information fails to match those expectations, the expert does not simply continue with the original plan. Instead, they reassess the situation until it makes sense again. This continuous updating is one reason skilled practitioners often appear calm despite rapidly changing conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/319770380_Naturalistic_decision_making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Naturalistic decision making.The recognition-primed decision (RPD) model describes how people use their experience in t...</span></span></span>
+The recognised pattern provides expectations. If incoming information fails to match those expectations, the expert does not simply continue with the original plan. Instead, they reassess the situation until it makes sense again. This continuous updating is one reason skilled practitioners often appear calm despite rapidly changing conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/319770380_Naturalistic_decision_making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Naturalistic decision making.The recognition-primed decision (RPD) model describes how people use their experience in t...</span></span></span>
 
-One of the most influential observations came from experienced firefighters. Rather than selecting from several tactical plans, commanders frequently recognised a familiar fire pattern almost immediately. Their expertise lay less in choosing between many options than in identifying which type of incident they were facing and recalling the actions that usually succeeded in that context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cgsc.contentdm.oclc.org">[CONTENTdm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cgsc.contentdm.oclc.org</span><span class="citation-popover-snippet">CONTENTdmRecognition-Primed Decision MakingIt is important to note that. RPD, as will be discussed, captures how people actually make dec...</span></span></span>
+One of the most influential observations came from experienced firefighters. Rather than selecting from several tactical plans, commanders frequently recognised a familiar fire pattern almost immediately. Their expertise lay less in choosing between many options than in identifying which type of incident they were facing and recalling the actions that usually succeeded in that context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cgsc.contentdm.oclc.org">[CONTENTdm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cgsc.contentdm.oclc.org</span><span class="citation-popover-snippet">CONTENTdmRecognition-Primed Decision MakingIt is important to note that. RPD, as will be discussed, captures how people actually make dec...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Bkb2g-CGb30" title="143 – Naturalistic, Recognition-Primed Decision Making" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Bkb2g-CGb30" target="_blank" rel="noopener noreferrer">143 – Naturalistic, Recognition-Primed Decision Making</a></p><p class="youtube-embed-meta">Channel: Rob Gray</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Bkb2g-CGb30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Bkb2g-CGb30">Open on YouTube</a></p></div></div></div>
@@ -317,23 +317,23 @@ Instead of asking, "Which option is best?", they ask a different question:
 
 > "If I do this, what is likely to happen next?"
 
-This internal simulation is typically brief but structured. The decision-maker checks whether the proposed action fits the developing situation, whether it creates obvious problems, and whether adjustments are needed before acting. If the imagined sequence breaks down, the first option is rejected and another plausible action is generated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cgsc.contentdm.oclc.org">[CONTENTdm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cgsc.contentdm.oclc.org</span><span class="citation-popover-snippet">CONTENTdmRecognition-Primed Decision MakingIt is important to note that. RPD, as will be discussed, captures how people actually make dec...</span></span></span>
+This internal simulation is typically brief but structured. The decision-maker checks whether the proposed action fits the developing situation, whether it creates obvious problems, and whether adjustments are needed before acting. If the imagined sequence breaks down, the first option is rejected and another plausible action is generated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cgsc.contentdm.oclc.org">[CONTENTdm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cgsc.contentdm.oclc.org</span><span class="citation-popover-snippet">CONTENTdmRecognition-Primed Decision MakingIt is important to note that. RPD, as will be discussed, captures how people actually make dec...</span></span></span>
 
 This process explains why expert decisions can be both rapid and thoughtful. Speed comes from recognising familiar patterns. Reliability comes from testing the chosen action against an internal model of how events are likely to unfold.
 
-Importantly, experts are not assumed to find the mathematically optimal solution. Under severe time pressure, a workable and safe response is usually more valuable than searching indefinitely for perfection. The model therefore reflects how people actually succeed in demanding environments rather than how ideal decision-making is described in formal optimisation theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cgsc.contentdm.oclc.org">[CONTENTdm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cgsc.contentdm.oclc.org</span><span class="citation-popover-snippet">CONTENTdmRecognition-Primed Decision MakingIt is important to note that. RPD, as will be discussed, captures how people actually make dec...</span></span></span>
+Importantly, experts are not assumed to find the mathematically optimal solution. Under severe time pressure, a workable and safe response is usually more valuable than searching indefinitely for perfection. The model therefore reflects how people actually succeed in demanding environments rather than how ideal decision-making is described in formal optimisation theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cgsc.contentdm.oclc.org">[CONTENTdm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cgsc.contentdm.oclc.org</span><span class="citation-popover-snippet">CONTENTdmRecognition-Primed Decision MakingIt is important to note that. RPD, as will be discussed, captures how people actually make dec...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_recognition_primed_d_0202fc-Illustration-2-dark.svg" | relative_url }}" alt="Pressure Calls illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_recognition_primed_d_0202fc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00_recognition_primed_d_0202fc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What evidence supports the model?
 
-The RPD model became a central part of the broader field of naturalistic decision-making, which studies cognition in real-world settings rather than simplified laboratory tasks. Over several decades, researchers have documented similar decision patterns across multiple professions where [uncertainty]({{ 'uncertainty/' | relative_url }}), time pressure and incomplete information are unavoidable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/18689053/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This article describes the origins and contributions of the naturalistic decision making (NDM) research approach. study how people make...</span></span></span>
+The RPD model became a central part of the broader field of naturalistic decision-making, which studies cognition in real-world settings rather than simplified laboratory tasks. Over several decades, researchers have documented similar decision patterns across multiple professions where [uncertainty]({{ 'uncertainty/' | relative_url }}), time pressure and incomplete information are unavoidable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/18689053/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This article describes the origins and contributions of the naturalistic decision making (NDM) research approach. study how people make...</span></span></span>
 
 Healthcare provides particularly useful evidence because clinicians frequently make urgent decisions while balancing incomplete information against patient risk.
 
-A systematic review of emergency decision-making literature identified recognition-primed decision-making as a strong theoretical description of many acute [emergency decisions]({{ 'emergencies/' | relative_url }}). At the same time, the review emphasised that successful performance also depends on situational awareness, teamwork, stress management and task complexity rather than intuition alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16879547/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Medrecognition-primed decision making</span><span class="citation-popover-snippet">The literature in...by S Bond · 2006 · Cited by 87 — Results: A total of 12 papers were included identifying the recognition-primed deci...</span></span></span>
+A systematic review of emergency decision-making literature identified recognition-primed decision-making as a strong theoretical description of many acute [emergency decisions]({{ 'emergencies/' | relative_url }}). At the same time, the review emphasised that successful performance also depends on situational awareness, teamwork, stress management and task complexity rather than intuition alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16879547/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Medrecognition-primed decision making</span><span class="citation-popover-snippet">The literature in...by S Bond · 2006 · Cited by 87 — Results: A total of 12 papers were included identifying the recognition-primed deci...</span></span></span>
 
-More recent reviews covering healthcare, military operations, fire and rescue, aviation and industrial emergencies similarly found recognition-primed strategies appearing consistently across studies of trained professionals. Analytical reasoning did not disappear; instead, practitioners shifted between recognition-based, rule-based and analytical approaches depending on the circumstances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/15553434221147415" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDecision-Making During High-Risk Events: A Systematic...17 Jan 2023 — Recognition-primed decision-making-based strategies w...</span></span></span>
+More recent reviews covering healthcare, military operations, fire and rescue, aviation and industrial emergencies similarly found recognition-primed strategies appearing consistently across studies of trained professionals. Analytical reasoning did not disappear; instead, practitioners shifted between recognition-based, rule-based and analytical approaches depending on the circumstances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/15553434221147415" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDecision-Making During High-Risk Events: A Systematic...17 Jan 2023 — Recognition-primed decision-making-based strategies w...</span></span></span>
 
 This mixed picture is important. RPD is best understood as describing expert performance under demanding conditions rather than claiming that fast intuition is always superior.
 
@@ -344,7 +344,7 @@ This mixed picture is important. RPD is best understood as describing expert per
 
 One of the biggest misunderstandings is assuming that anyone can rely on recognition-primed decisions simply by "trusting their gut".
 
-The model makes almost the opposite claim. Recognition depends on experience in environments that contain recurring patterns and provide meaningful feedback. Without those conditions, rapid recognition may reflect misplaced confidence rather than genuine expertise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/18689053/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This article describes the origins and contributions of the naturalistic decision making (NDM) research approach. study how people make...</span></span></span>
+The model makes almost the opposite claim. Recognition depends on experience in environments that contain recurring patterns and provide meaningful feedback. Without those conditions, rapid recognition may reflect misplaced confidence rather than genuine expertise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/18689053/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This article describes the origins and contributions of the naturalistic decision making (NDM) research approach. study how people make...</span></span></span>
 
 Experts accumulate thousands of encounters that gradually teach them:
 
@@ -358,7 +358,7 @@ Experts accumulate thousands of encounters that gradually teach them:
 
 </div>
 
-Novices often notice superficial similarities, whereas experienced practitioners detect the underlying structure that predicts what will happen next. This explains why experienced firefighters, emergency clinicians or military commanders often notice warning signs that are invisible to less experienced colleagues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/319770380_Naturalistic_decision_making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Naturalistic decision making.The recognition-primed decision (RPD) model describes how people use their experience in t...</span></span></span>
+Novices often notice superficial similarities, whereas experienced practitioners detect the underlying structure that predicts what will happen next. This explains why experienced firefighters, emergency clinicians or military commanders often notice warning signs that are invisible to less experienced colleagues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/319770380_Naturalistic_decision_making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Naturalistic decision making.The recognition-primed decision (RPD) model describes how people use their experience in t...</span></span></span>
 
 Equally important, experts expect surprises. When new information conflicts with their expectations, they revise their understanding instead of forcing reality to fit their first impression.
 
@@ -374,201 +374,201 @@ Secondly, build experience deliberately. Reliable intuition develops through rep
 
 Thirdly, match the method to the environment. Recognition works best when situations repeat in broadly similar forms and mistakes are corrected quickly. In novel, highly uncertain or slow-feedback domains, slower analysis becomes more valuable because familiar patterns may be misleading.
 
-Finally, remember that experts are fast because they have learned what deserves attention. Their advantage is not magical instinct but years of recognising, testing and refining patterns under real-world conditions. Recognition-primed decision-making therefore illustrates that the strongest form of intuition is disciplined experience compressed into rapid judgement, not impulse masquerading as expertise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/18689053/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2CONTENTdm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This article describes the origins and contributions of the naturalistic decision making (NDM) research approach. study how people make...</span></span></span>
+Finally, remember that experts are fast because they have learned what deserves attention. Their advantage is not magical instinct but years of recognising, testing and refining patterns under real-world conditions. Recognition-primed decision-making therefore illustrates that the strongest form of intuition is disciplined experience compressed into rapid judgement, not impulse masquerading as expertise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/18689053/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2CONTENTdm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This article describes the origins and contributions of the naturalistic decision making (NDM) research approach. study how people make...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6-O5ITf0PzQ" title="The RPD Model: An Intro to Recognition Primed Decision Making" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6-O5ITf0PzQ" target="_blank" rel="noopener noreferrer">The RPD Model: An Intro to Recognition Primed Decision Making</a></p><p class="youtube-embed-meta">Channel: DecisionSkills</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6-O5ITf0PzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6-O5ITf0PzQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How experts decide fast under pressure. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How experts decide fast under pressure. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sources of Power on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KZ7uDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sources of Power" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sources of Power">Sources of Power</a>
-        </h4>
-        <p class="fr-book-author">By Gary A. Klein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sources of Power on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KZ7uDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sources of Power" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sources of Power">Sources of Power</a>
+</h4>
+<p class="fr-book-author">By Gary A. Klein</p>
         
-        <p class="fr-book-desc">The foundational book on expert decisions under pressure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The foundational book on expert decisions under pressure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Seeing+What+Others+Don%27t+by+Gary+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seeing What Others Don&#x27;t on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Cgt9DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Seeing What Others Don&#x27;t" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Seeing+What+Others+Don%27t+by+Gary+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seeing What Others Don&#x27;t">Seeing What Others Don&#x27;t</a>
-        </h4>
-        <p class="fr-book-author">By Gary Klein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Seeing+What+Others+Don%27t+by+Gary+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seeing What Others Don&#x27;t on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Cgt9DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Seeing What Others Don&#x27;t" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Seeing+What+Others+Don%27t+by+Gary+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seeing What Others Don&#x27;t">Seeing What Others Don&#x27;t</a>
+</h4>
+<p class="fr-book-author">By Gary Klein</p>
         
-        <p class="fr-book-desc">Explores pattern recognition and insight developed through experience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Seeing+What+Others+Don%27t+by+Gary+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores pattern recognition and insight developed through experience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Seeing+What+Others+Don%27t+by+Gary+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides complementary perspectives on intuition and expertise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides complementary perspectives on intuition and expertise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Streetlights+and+Shadows+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Streetlights and Shadows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9LpipUSwdqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Streetlights and Shadows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Streetlights+and+Shadows+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Streetlights and Shadows">Streetlights and Shadows</a>
-        </h4>
-        <p class="fr-book-author">By Gary A. Klein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Streetlights+and+Shadows+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Streetlights and Shadows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9LpipUSwdqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Streetlights and Shadows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Streetlights+and+Shadows+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Streetlights and Shadows">Streetlights and Shadows</a>
+</h4>
+<p class="fr-book-author">By Gary A. Klein</p>
         
-        <p class="fr-book-desc">Examines adaptive expertise in uncertain, real-world environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Streetlights+and+Shadows+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines adaptive expertise in uncertain, real-world environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Streetlights+and+Shadows+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sources+of+Power&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sources of Power</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Seeing+What+Others+Don%27t&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Seeing What Others Don&#x27;t</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sources+of+Power&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sources of Power</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Seeing+What+Others+Don%27t&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Seeing What Others Don&#x27;t</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Agent Avenue Board Game Card Game Family Party Strategy Game Brand New"><img src="https://i.ebayimg.com/images/g/W~gAAeSwFMlp1OFm/s-l225.jpg" alt="Listing image for Agent Avenue Board Game Card Game Family Party Strategy Game Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">Agent Avenue Board Game Card Game Family Party Strategy Game Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Agent Avenue Board Game Card Game Family Party Strategy Game Brand New"><img src="https://i.ebayimg.com/images/g/W~gAAeSwFMlp1OFm/s-l225.jpg" alt="Listing image for Agent Avenue Board Game Card Game Family Party Strategy Game Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">Agent Avenue Board Game Card Game Family Party Strategy Game Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CATAN Board Game 5th Edition Strategy Game – Trade Build Settle- Family Game"><img src="https://i.ebayimg.com/images/g/sBEAAeSwOoppMsQR/s-l225.jpg" alt="Listing image for CATAN Board Game 5th Edition Strategy Game – Trade Build Settle- Family Game" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">CATAN Board Game 5th Edition Strategy Game – Trade Build Settle- Family Game</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CATAN Board Game 5th Edition Strategy Game – Trade Build Settle- Family Game"><img src="https://i.ebayimg.com/images/g/sBEAAeSwOoppMsQR/s-l225.jpg" alt="Listing image for CATAN Board Game 5th Edition Strategy Game – Trade Build Settle- Family Game" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">CATAN Board Game 5th Edition Strategy Game – Trade Build Settle- Family Game</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jaipur 2nd Edition | Jaipur Board Game | Strategic Trading Card Game"><img src="https://i.ebayimg.com/images/g/kUcAAeSw4G1p2qxT/s-l225.jpg" alt="Listing image for Jaipur 2nd Edition | Jaipur Board Game | Strategic Trading Card Game" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">Jaipur 2nd Edition | Jaipur Board Game | Strategic Trading Card Game</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jaipur 2nd Edition | Jaipur Board Game | Strategic Trading Card Game"><img src="https://i.ebayimg.com/images/g/kUcAAeSw4G1p2qxT/s-l225.jpg" alt="Listing image for Jaipur 2nd Edition | Jaipur Board Game | Strategic Trading Card Game" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">Jaipur 2nd Edition | Jaipur Board Game | Strategic Trading Card Game</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEDAR Games Root: A Game of Woodland Might &amp; Right Board Game Ages 10+ 2"><img src="https://i.ebayimg.com/images/g/M7MAAeSwjwRpvAt6/s-l225.jpg" alt="Listing image for LEDAR Games Root: A Game of Woodland Might &amp; Right Board Game Ages 10+ 2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">LEDAR Games Root: A Game of Woodland Might &amp; Right Board Game Ages 10+ 2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEDAR Games Root: A Game of Woodland Might &amp; Right Board Game Ages 10+ 2"><img src="https://i.ebayimg.com/images/g/M7MAAeSwjwRpvAt6/s-l225.jpg" alt="Listing image for LEDAR Games Root: A Game of Woodland Might &amp; Right Board Game Ages 10+ 2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">LEDAR Games Root: A Game of Woodland Might &amp; Right Board Game Ages 10+ 2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-experts-decide-fast-under-pressure-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="how-experts-decide-fast-under-pressure-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ Finally, remember that experts are fast because they have learned what deserves 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ Finally, remember that experts are fast because they have learned what deserves 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ Finally, remember that experts are fast because they have learned what deserves 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ Finally, remember that experts are fast because they have learned what deserves 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ Finally, remember that experts are fast because they have learned what deserves 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,125 +773,125 @@ Finally, remember that experts are fast because they have learned what deserves 
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gary-klein.com  
-   Link: <a href="https://www.gary-klein.com/rpd" target="_blank" rel="noopener noreferrer nofollow">https://www.gary-klein.com/rpd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RPD | garykleinThe RPD model stemmed from Naturalistic Decision Making research and continues to be used today to study how experts make...</p></details>
+   Link:<a href="https://www.gary-klein.com/rpd" target="_blank" rel="noopener noreferrer nofollow">https://www.gary-klein.com/rpd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RPD | garykleinThe RPD model stemmed from Naturalistic Decision Making research and continues to be used today to study how experts make...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/319770380_Naturalistic_decision_making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319770380_Naturalistic_decision_making</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Naturalistic decision making.The recognition-primed decision (RPD) model describes how people use their experience in t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/319770380_Naturalistic_decision_making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319770380_Naturalistic_decision_making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Naturalistic decision making.The recognition-primed decision (RPD) model describes how people use their experience in t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ime pressure relies on rapid pattern recognition-precisely the mode...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ime pressure relies on rapid pattern recognition-precisely the mode...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: 235074868 The Recognition Primed Decision Model  
-   Link: <a href="https://www.researchgate.net/publication/235074868_The_Recognition-Primed_Decision_Model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235074868_The_Recognition-Primed_Decision_Model</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Recognition-Primed Decision Model(2022) used the framework of &quot;recognition primed decision making&quot; (Klein... Gary Klein is one...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/235074868_The_Recognition-Primed_Decision_Model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235074868_The_Recognition-Primed_Decision_Model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Recognition-Primed Decision Model(2022) used the framework of &quot;recognition primed decision making&quot; (Klein... Gary Klein is one...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Recognition-primed decision making  
-   Link: <a href="https://www.researchgate.net/publication/6906238_Modelling_emergency_decisions_Recognition-primed_decision_making_The_literature_in_relation_to_an_ophthalmic_critical_incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/6906238_Modelling_emergency_decisions_Recognition-primed_decision_making_The_literature_in_relation_to_an_ophthalmic_critical_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The literature in...Recognition-primed decision-making theory describes the decision processes of experts in time-bound emergency situat...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/6906238_Modelling_emergency_decisions_Recognition-primed_decision_making_The_literature_in_relation_to_an_ophthalmic_critical_incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/6906238_Modelling_emergency_decisions_Recognition-primed_decision_making_The_literature_in_relation_to_an_ophthalmic_critical_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The literature in...Recognition-primed decision-making theory describes the decision processes of experts in time-bound emergency situat...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18689053/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18689053/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This article describes the origins and contributions of the naturalistic decision making (NDM) research approach. study how people make...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/18689053/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18689053/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This article describes the origins and contributions of the naturalistic decision making (NDM) research approach. study how people make...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cgsc.contentdm.oclc.org  
-   Link: <a href="https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download" target="_blank" rel="noopener noreferrer nofollow">https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CONTENTdmRecognition-Primed Decision MakingIt is important to note that. RPD, as will be discussed, captures how people actually make dec...</p></details>
+   Link:<a href="https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download" target="_blank" rel="noopener noreferrer nofollow">https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CONTENTdmRecognition-Primed Decision MakingIt is important to note that. RPD, as will be discussed, captures how people actually make dec...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Medrecognition-primed decision making  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16879547/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16879547/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The literature in...by S Bond · 2006 · Cited by 87 — Results: A total of 12 papers were included identifying the recognition-primed deci...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16879547/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16879547/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The literature in...by S Bond · 2006 · Cited by 87 — Results: A total of 12 papers were included identifying the recognition-primed deci...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/15553434221147415" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/15553434221147415</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDecision-Making During High-Risk Events: A Systematic...17 Jan 2023 — Recognition-primed decision-making-based strategies w...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/15553434221147415" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/15553434221147415</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDecision-Making During High-Risk Events: A Systematic...17 Jan 2023 — Recognition-primed decision-making-based strategies w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDecision-Making During High-Risk Events  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govDecision-Making During High-Risk Events - PMC - NIHby C Reale · 2023 · Cited by 78 — Four high-level categories of decision-making...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govDecision-Making During High-Risk Events - PMC - NIHby C Reale · 2023 · Cited by 78 — Four high-level categories of decision-making...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6414081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6414081/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by CW Nibbelink · 2019 · Cited by 30 — The purpose of this paper is to derive a Practice Primed Decision Model from a Naturalistic Dec...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6414081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6414081/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by CW Nibbelink · 2019 · Cited by 30 — The purpose of this paper is to derive a Practice Primed Decision Model from a Naturalistic Dec...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21036295/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21036295/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roundtable on Opportunities to Advance Research on...by G D&#x27;Onofrio · 2010 · Cited by 79 — We identify key research questions essential...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21036295/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21036295/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roundtable on Opportunities to Advance Research on...by G D&#x27;Onofrio · 2010 · Cited by 79 — We identify key research questions essential...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/154193128603000616" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/154193128603000616</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Klein...A Recognition Primed Decision (RPD) model is proposed which emphasizes the use of recognition rather than calculation or analysi...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/154193128603000616" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/154193128603000616</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Klein...A Recognition Primed Decision (RPD) model is proposed which emphasizes the use of recognition rather than calculation or analysi...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/113247280/The_Recognition_Primed_Decision_Model" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/113247280/The_Recognition_Primed_Decision_Model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Recognition-Primed Decision ModelThe Recognition-Primed Decision Model Karol G. Ross, Ph.D., Gary A. Klein, Ph.D., Peter Thunho...</p></details>
+   Link:<a href="https://www.academia.edu/113247280/The_Recognition_Primed_Decision_Model" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/113247280/The_Recognition_Primed_Decision_Model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Recognition-Primed Decision ModelThe Recognition-Primed Decision Model Karol G. Ross, Ph.D., Gary A. Klein, Ph.D., Peter Thunho...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mededmentor.org  
-   Link: <a href="https://mededmentor.org/theory-database/theory-index/naturalistic-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://mededmentor.org/theory-database/theory-index/naturalistic-decision-making/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naturalistic Decision MakingRecognition-Primed Decision (RPD) model: A key aspect of NDM that explains how experienced decision-makers us...</p></details>
+   Link:<a href="https://mededmentor.org/theory-database/theory-index/naturalistic-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://mededmentor.org/theory-database/theory-index/naturalistic-decision-making/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naturalistic Decision MakingRecognition-Primed Decision (RPD) model: A key aspect of NDM that explains how experienced decision-makers us...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: decisionskills.com  
-   Link: <a href="https://www.decisionskills.com/rpd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.decisionskills.com/rpd.html</a>  
+   Link:<a href="https://www.decisionskills.com/rpd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.decisionskills.com/rpd.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pacdeff.com  
-   Link: <a href="https://pacdeff.com/pdfs/The%20Recognition%20Primed%20Decision%20Model.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pacdeff.com/pdfs/The%20Recognition%20Primed%20Decision%20Model.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Recognition-Primed Decision ModelCited by 197 — Klein, “Recognition–primed decisions.” who tend to concentrate on understanding the s...</p></details>
+   Link:<a href="https://pacdeff.com/pdfs/The%20Recognition%20Primed%20Decision%20Model.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pacdeff.com/pdfs/The%20Recognition%20Primed%20Decision%20Model.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Recognition-Primed Decision ModelCited by 197 — Klein, “Recognition–primed decisions.” who tend to concentrate on understanding the s...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/%40nba_gary" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40nba_gary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GARY G腿講NBA故事GARY G腿講NBA故事 · 【巴黎奧運回顧】美國男籃【復仇者】奧運總回顧！Curry三分之神！ · Popular videos · Videos · Playlists · 支持一下副頻道 · Shorts · 近20年來最激烈...Rea...</p></details>
+   Link:<a href="https://www.youtube.com/%40nba_gary" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40nba_gary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GARY G腿講NBA故事GARY G腿講NBA故事 · 【巴黎奧運回顧】美國男籃【復仇者】奧運總回顧！Curry三分之神！ · Popular videos · Videos · Playlists · 支持一下副頻道 · Shorts · 近20年來最激烈...Rea...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: acep.org  
-   Link: <a href="https://www.acep.org/acepanytime/critical-decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.acep.org/acepanytime/critical-decisions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clinical Pediatrics helps you to diagnose and manage children in the emergency department.Read more...</p></details>
+   Link:<a href="https://www.acep.org/acepanytime/critical-decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.acep.org/acepanytime/critical-decisions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clinical Pediatrics helps you to diagnose and manage children in the emergency department.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: clinicaldecisionmaking.com  
-   Link: <a href="https://clinicaldecisionmaking.com/" target="_blank" rel="noopener noreferrer nofollow">https://clinicaldecisionmaking.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clinical Decision Making in Emergency Medicine: HomeClinical Decision Making in Emergency Medicine is designed to update emergency clinic...</p></details>
+   Link:<a href="https://clinicaldecisionmaking.com/" target="_blank" rel="noopener noreferrer nofollow">https://clinicaldecisionmaking.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clinical Decision Making in Emergency Medicine: HomeClinical Decision Making in Emergency Medicine is designed to update emergency clinic...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: shadowboxtraining.com  
    Title: a primer on recognition primed decision making rpd  
-   Link: <a href="https://www.shadowboxtraining.com/news/2025/06/17/a-primer-on-recognition-primed-decision-making-rpd/" target="_blank" rel="noopener noreferrer nofollow">https://www.shadowboxtraining.com/news/2025/06/17/a-primer-on-recognition-primed-decision-making-rpd/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Primer on Recognition Primed Decision-Making (RPD)Jun 17, 2025 — In this article, I&#x27;ll explain what RPD is, how it works, how it compar...</p></details>
+   Link:<a href="https://www.shadowboxtraining.com/news/2025/06/17/a-primer-on-recognition-primed-decision-making-rpd/" target="_blank" rel="noopener noreferrer nofollow">https://www.shadowboxtraining.com/news/2025/06/17/a-primer-on-recognition-primed-decision-making-rpd/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Primer on Recognition Primed Decision-Making (RPD)Jun 17, 2025 — In this article, I&#x27;ll explain what RPD is, how it works, how it compar...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Libraryrecognition‐primed decision making  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2702.2006.01399.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2702.2006.01399.x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The literature in...by S Bond · 2006 · Cited by 87 — Background. This paper critics the literature on recognition-primed decision making...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2702.2006.01399.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2702.2006.01399.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The literature in...by S Bond · 2006 · Cited by 87 — Background. This paper critics the literature on recognition-primed decision making...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: merriam-webster.com  
    Title: RECOGNITIO N Definition & Meaning5 days ago — 1  
-   Link: <a href="https://www.merriam-webster.com/dictionary/recognition" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/recognition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The action of recognizing: the state of being recognized: such as a: acknowledgment; especially: formal acknowledgment of the politica...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/recognition" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/recognition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The action of recognizing: the state of being recognized: such as a: acknowledgment; especially: formal acknowledgment of the politica...</p></details>

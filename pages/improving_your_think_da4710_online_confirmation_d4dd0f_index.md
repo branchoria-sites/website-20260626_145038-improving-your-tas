@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710-online/
 description: Focused pages that expand on Search Bias.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: improving_your_think_da4710_online_confirmation_d4dd0f
 parent_title: Search Bias
@@ -16,7 +16,7 @@ parent_permalink: /search-bias/
 
 # Explore Topics in Search Bias
 
-The following pages expand on the main **[Search Bias]({{ '/search-bias/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Search Bias]({{ '/search-bias/' | relative_url }})** page and cover its key branches in.
 
 - [AI Search]({{ '/ai-search/' | relative_url }})
 - [Autocomplete]({{ '/autocomplete/' | relative_url }})

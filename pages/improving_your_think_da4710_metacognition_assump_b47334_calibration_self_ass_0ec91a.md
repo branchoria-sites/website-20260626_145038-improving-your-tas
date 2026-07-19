@@ -278,7 +278,7 @@ Self-[assessment]({{ 'assessment/' | relative_url }}) is only genuinely useful w
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_calibration_self_ass_0ec91a-Illustration-1-dark.svg" | relative_url }}" alt="Calibration illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_calibration_self_ass_0ec91a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_calibration_self_ass_0ec91a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research across psychology, education and decision science shows that people are often poor judges of the accuracy of their own knowledge. Fortunately, calibration can improve when confidence is measured, compared with [outcomes]({{ 'outcomes/' | relative_url }}) and followed by timely feedback. Rather than treating confidence as a feeling, calibration treats it as a prediction that can be tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iipdm.haifa.ac.il/images/publications/Asher_Koriat/2002-KorShefMaaJEPG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iipdm.haifa.ac.il">[iipdm.haifa.ac.il+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iipdm.haifa.ac.il</span><span class="citation-popover-title">2002 KorShefMaaJEPG</span><span class="citation-popover-snippet">O.. Nelson &amp; Dunlosky, 1991) refers to the correspondence between mean JOL and mean recall and reflects the extent to...Read more...</span></span></span>
+Research across psychology, education and decision science shows that people are often poor judges of the accuracy of their own knowledge. Fortunately, calibration can improve when confidence is measured, compared with [outcomes]({{ 'outcomes/' | relative_url }}) and followed by timely feedback. Rather than treating confidence as a feeling, calibration treats it as a prediction that can be tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iipdm.haifa.ac.il/images/publications/Asher_Koriat/2002-KorShefMaaJEPG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iipdm.haifa.ac.il">[iipdm.haifa.ac.il+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iipdm.haifa.ac.il</span><span class="citation-popover-title">2002 KorShefMaaJEPG</span><span class="citation-popover-snippet">O.. Nelson &amp; Dunlosky, 1991) refers to the correspondence between mean JOL and mean recall and reflects the extent to...Read more...</span></span></span>
 
 ## Accuracy versus calibration in everyday reasoning
 
@@ -298,10 +298,10 @@ This distinction matters because decisions depend on confidence as much as corre
 
 Poor calibration creates two common problems:
 
-* **Overconfidence**, where confidence exceeds actual accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mcm.uni-wuerzburg.de/fileadmin/06110000/2026/Accuracy_of_confidence_judgments.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcm.uni-wuerzburg.de">[mcm.uni-wuerzburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcm.uni-wuerzburg.de</span><span class="citation-popover-title">Accuracy of confidence judgments</span><span class="citation-popover-snippet">Institut Mensch-Computer-MedienAccuracy of confidence judgments: Stability and generality...by C MENGELKAMP · 2010 · Cited by 98 — Accur...</span></span></span>
+* **Overconfidence**, where confidence exceeds actual accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mcm.uni-wuerzburg.de/fileadmin/06110000/2026/Accuracy_of_confidence_judgments.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcm.uni-wuerzburg.de">[mcm.uni-wuerzburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcm.uni-wuerzburg.de</span><span class="citation-popover-title">Accuracy of confidence judgments</span><span class="citation-popover-snippet">Institut Mensch-Computer-MedienAccuracy of confidence judgments: Stability and generality...by C MENGELKAMP · 2010 · Cited by 98 — Accur...</span></span></span>
 * **Underconfidence**, where people hesitate even when they possess reliable knowledge.
 
-Both reduce decision quality. Overconfidence encourages unnecessary risks and discourages checking assumptions, while underconfidence leads to excessive verification, missed opportunities and inefficient learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zaguan.unizar.es/record/150059/files/texto_completo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zaguan.unizar.es">[Zaguan+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zaguan.unizar.es</span><span class="citation-popover-snippet">Confidence–Accuracy Calibration with General Knowledge...January 29, 2025 — by K Luna · 2012 · Cited by 71 — Research on the confi...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
+Both reduce decision quality. Overconfidence encourages unnecessary risks and discourages checking assumptions, while underconfidence leads to excessive verification, missed opportunities and inefficient learning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zaguan.unizar.es/record/150059/files/texto_completo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zaguan.unizar.es">[Zaguan+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zaguan.unizar.es</span><span class="citation-popover-snippet">Confidence–Accuracy Calibration with General Knowledge...January 29, 2025 — by K Luna · 2012 · Cited by 71 — Research on the confi...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
 
 An important insight from metacognition research is that confidence itself is not inherently informative. Confidence becomes useful only after repeated [comparisons]({{ 'comparisons/' | relative_url }}) with objective outcomes reveal whether it deserves to be trusted.
 
@@ -324,7 +324,7 @@ These cues are often helpful but are imperfect indicators of actual knowledge.
 
 For example, rereading notes can create a feeling of familiarity that produces high confidence without improving later recall. Likewise, recognising terminology during a lecture may feel like understanding even when the underlying concepts remain unclear.
 
-Research on confidence judgements has repeatedly shown that people often mistake these experiences for evidence of learning. The result is confidence that tracks subjective experience more closely than objective performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gmarks.org/when_confidence_is_not_a_signal_of_knowing.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gmarks.org">[gmarks.org+2iipdm.haifa.ac.il]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gmarks.org</span><span class="citation-popover-title">when confidence is not a signal of knowing</span><span class="citation-popover-snippet">by B Finn · 2015 · Cited by 153 — The students who subscribed to the quick learning belief were more likely to have overconfident compreh...</span></span></span>
+Research on confidence judgements has repeatedly shown that people often mistake these experiences for evidence of learning. The result is confidence that tracks subjective experience more closely than objective performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gmarks.org/when_confidence_is_not_a_signal_of_knowing.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gmarks.org">[gmarks.org+2iipdm.haifa.ac.il]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gmarks.org</span><span class="citation-popover-title">when confidence is not a signal of knowing</span><span class="citation-popover-snippet">by B Finn · 2015 · Cited by 153 — The students who subscribed to the quick learning belief were more likely to have overconfident compreh...</span></span></span>
 
 Calibration therefore requires replacing intuition with measurement. Instead of asking "How confident do I feel?", the better question becomes "When I have felt this confident before, how often was I actually right?"
 
@@ -339,14 +339,14 @@ Researchers then compare predicted performance with actual performance.
 
 This seemingly simple procedure reveals several important findings.
 
-First, people can become better at predicting future performance, but improvement usually depends on receiving feedback rather than simply making [predictions]({{ 'predictions/' | relative_url }}). Second, predictions made immediately after studying are often overly optimistic because the material is still fresh in working memory. Delaying the judgement even briefly generally produces more accurate estimates because learners rely less on short-term familiarity. Adam L Putnam+2iipdm.haifa.ac.il <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adamlputnam.com/uploads/8/3/5/6/83563830/putnam_deng___desoto_2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adamlputnam.com">[adamlputnam.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adamlputnam.com</span><span class="citation-popover-title">putnam deng desoto 2022</span><span class="citation-popover-snippet">Adam L PutnamConfidence ratings are better predictors of future...by AL Putnam · 2022 · Cited by 13 — The intuitive answer is through ju...</span></span></span>
+First, people can become better at predicting future performance, but improvement usually depends on receiving feedback rather than simply making [predictions]({{ 'predictions/' | relative_url }}). Second, predictions made immediately after studying are often overly optimistic because the material is still fresh in working memory. Delaying the judgement even briefly generally produces more accurate estimates because learners rely less on short-term familiarity. Adam L Putnam+2iipdm.haifa.ac.il<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adamlputnam.com/uploads/8/3/5/6/83563830/putnam_deng___desoto_2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adamlputnam.com">[adamlputnam.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adamlputnam.com</span><span class="citation-popover-title">putnam deng desoto 2022</span><span class="citation-popover-snippet">Adam L PutnamConfidence ratings are better predictors of future...by AL Putnam · 2022 · Cited by 13 — The intuitive answer is through ju...</span></span></span>
 
 Educational researchers distinguish between two aspects of monitoring accuracy:
 
 * **Calibration (absolute accuracy):** whether average confidence matches average performance.
 * **Resolution (relative accuracy):** whether confidence successfully distinguishes answers that will later be correct from those that will be wrong.
 
-A learner may correctly identify which topics are stronger than others (good resolution) while still being systematically overconfident overall (poor calibration). These are different skills that develop differently and should not be confused. iipdm.haifa.ac.il+2Matti’s website <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iipdm.haifa.ac.il/images/publications/Asher_Koriat/2002-KorShefMaaJEPG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iipdm.haifa.ac.il">[iipdm.haifa.ac.il]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iipdm.haifa.ac.il</span><span class="citation-popover-title">2002 KorShefMaaJEPG</span><span class="citation-popover-snippet">O.. Nelson &amp; Dunlosky, 1991) refers to the correspondence between mean JOL and mean recall and reflects the extent to...Read more...</span></span></span>
+A learner may correctly identify which topics are stronger than others (good resolution) while still being systematically overconfident overall (poor calibration). These are different skills that develop differently and should not be confused. iipdm.haifa.ac.il+2Matti’s website<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iipdm.haifa.ac.il/images/publications/Asher_Koriat/2002-KorShefMaaJEPG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iipdm.haifa.ac.il">[iipdm.haifa.ac.il]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iipdm.haifa.ac.il</span><span class="citation-popover-title">2002 KorShefMaaJEPG</span><span class="citation-popover-snippet">O.. Nelson &amp; Dunlosky, 1991) refers to the correspondence between mean JOL and mean recall and reflects the extent to...Read more...</span></span></span>
 
 This distinction explains why someone can correctly identify their weakest chapters before an examination while still substantially overestimating the final mark they will receive.
 
@@ -378,7 +378,7 @@ You may discover that:
 
 These observations are far more informative than isolated successes or failures because calibration concerns long-run correspondence rather than individual cases.
 
-Many educational interventions now ask students to provide confidence ratings alongside test answers. Studies suggest that repeated confidence assessment combined with feedback helps many learners improve calibration over successive assessments, although simply requesting confidence without meaningful feedback often produces much smaller gains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/27527263241298968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsChanges in students&#x27; confidence calibration across a...Nov 26, 2024 — Students broadly improved their calibration across th...</span></span></span>
+Many educational interventions now ask students to provide confidence ratings alongside test answers. Studies suggest that repeated confidence assessment combined with feedback helps many learners improve calibration over successive assessments, although simply requesting confidence without meaningful feedback often produces much smaller gains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/27527263241298968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsChanges in students&#x27; confidence calibration across a...Nov 26, 2024 — Students broadly improved their calibration across th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tyDQFmA1SpU" title="Daniel Kahneman: The Trouble with Confidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tyDQFmA1SpU" target="_blank" rel="noopener noreferrer">Daniel Kahneman: The Trouble with Confidence</a></p><p class="youtube-embed-meta">Channel: Big Think</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tyDQFmA1SpU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tyDQFmA1SpU">Open on YouTube</a></p></div></div></div>
@@ -397,7 +397,7 @@ A well-calibrated thinker is more likely to:
 
 Poor calibration produces the opposite pattern. Overconfident individuals often stop learning too early because they believe they already understand enough. Underconfident individuals may continue reviewing topics they have already mastered while neglecting weaker areas that need attention.
 
-Research on classroom learning consistently finds that accurate monitoring helps learners regulate effort more effectively. Knowing what you do not know allows study time to be allocated where it produces the greatest benefit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/284066045_Metacognitive_monitoring_accuracy_and_student_performance_in_the_postsecondary_classroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2קרן טראמפ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Metacognitive monitoring accuracy and student...21 Mar 2016 — Having accurate metacognitive calibration is crucial, si...</span></span></span>
+Research on classroom learning consistently finds that accurate monitoring helps learners regulate effort more effectively. Knowing what you do not know allows study time to be allocated where it produces the greatest benefit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/284066045_Metacognitive_monitoring_accuracy_and_student_performance_in_the_postsecondary_classroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2קרן טראמפ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Metacognitive monitoring accuracy and student...21 Mar 2016 — Having accurate metacognitive calibration is crucial, si...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_calibration_self_ass_0ec91a-Illustration-3-dark.svg" | relative_url }}" alt="Calibration illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_calibration_self_ass_0ec91a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334_calibration_self_ass_0ec91a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -405,7 +405,7 @@ Research on classroom learning consistently finds that accurate monitoring helps
 
 People sometimes assume that confidence is simply part of personality. Calibration research suggests otherwise.
 
-Confidence accuracy varies across tasks, domains and situations. Someone may be extremely well calibrated when estimating statistical problems but poorly calibrated when judging political knowledge, financial forecasts or their own comprehension of a complex article. Confidence therefore depends not only on the individual but also on the quality of feedback available and the characteristics of the task. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/367575911_Confidence_and_Calibration_of_Comprehension_in_Adolescence_Are_They_Domain-General_or_Domain-Specific" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Institut Mensch-Computer-Medien]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Confidence and Calibration of Comprehension in...24 Mar 2026 — Before and after taking 12 successive tests, 90 introdu...</span></span></span>
+Confidence accuracy varies across tasks, domains and situations. Someone may be extremely well calibrated when estimating statistical problems but poorly calibrated when judging political knowledge, financial forecasts or their own comprehension of a complex article. Confidence therefore depends not only on the individual but also on the quality of feedback available and the characteristics of the task.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/367575911_Confidence_and_Calibration_of_Comprehension_in_Adolescence_Are_They_Domain-General_or_Domain-Specific" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Institut Mensch-Computer-Medien]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Confidence and Calibration of Comprehension in...24 Mar 2026 — Before and after taking 12 successive tests, 90 introdu...</span></span></span>
 
 The encouraging implication is that calibration can be improved.
 
@@ -431,194 +431,194 @@ Within metacognition, that awareness is often the missing ingredient. Improving 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are You as Sure as You Think?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are You as Sure as You Think?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Focuses on calibration, probabilistic thinking, feedback, and improving prediction accuracy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on calibration, probabilistic thinking, feedback, and improving prediction accuracy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains overconfidence, cognitive biases, and why confidence often diverges from accuracy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains overconfidence, cognitive biases, and why confidence often diverges from accuracy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-        </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+</h4>
+<p class="fr-book-author">By Douglas W. Hubbard</p>
         
-        <p class="fr-book-desc">Demonstrates practical methods for quantifying uncertainty and testing predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates practical methods for quantifying uncertainty and testing predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Covers judgments of learning, feedback, retrieval practice, and improving metacognitive accuracy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers judgments of learning, feedback, retrieval practice, and improving metacognitive accuracy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lledo PLC Grace Bros van Are You Being Served? memorabilia toy vehicle"><img src="https://i.ebayimg.com/images/g/K9sAAeSwcnFp8y4P/s-l225.jpg" alt="Listing image for Lledo PLC Grace Bros van Are You Being Served? memorabilia toy vehicle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Lledo PLC Grace Bros van Are You Being Served? memorabilia toy vehicle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: you memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lledo PLC Grace Bros van Are You Being Served? memorabilia toy vehicle"><img src="https://i.ebayimg.com/images/g/K9sAAeSwcnFp8y4P/s-l225.jpg" alt="Listing image for Lledo PLC Grace Bros van Are You Being Served? memorabilia toy vehicle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Lledo PLC Grace Bros van Are You Being Served? memorabilia toy vehicle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: you memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tobi Legend Time Will Pass You By Framed Vinyl Single Northern Soul Memorabilia"><img src="https://i.ebayimg.com/images/g/hiwAAOSwLtNnhWOS/s-l225.jpg" alt="Listing image for Tobi Legend Time Will Pass You By Framed Vinyl Single Northern Soul Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Tobi Legend Time Will Pass You By Framed Vinyl Single Northern Soul Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: you memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tobi Legend Time Will Pass You By Framed Vinyl Single Northern Soul Memorabilia"><img src="https://i.ebayimg.com/images/g/hiwAAOSwLtNnhWOS/s-l225.jpg" alt="Listing image for Tobi Legend Time Will Pass You By Framed Vinyl Single Northern Soul Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Tobi Legend Time Will Pass You By Framed Vinyl Single Northern Soul Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: you memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AC/DC Framed Poster Print – If You Want Blood 1979 US Tour – Rock Memorabilia"><img src="https://i.ebayimg.com/images/g/PpAAAeSw7ltpPYx4/s-l225.jpg" alt="Listing image for AC/DC Framed Poster Print – If You Want Blood 1979 US Tour – Rock Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">AC/DC Framed Poster Print – If You Want Blood 1979 US Tour – Rock Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: you memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AC/DC Framed Poster Print – If You Want Blood 1979 US Tour – Rock Memorabilia"><img src="https://i.ebayimg.com/images/g/PpAAAeSw7ltpPYx4/s-l225.jpg" alt="Listing image for AC/DC Framed Poster Print – If You Want Blood 1979 US Tour – Rock Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">AC/DC Framed Poster Print – If You Want Blood 1979 US Tour – Rock Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: you memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DURAN DURAN THANK YOU MEMORABILIA original music press advert from 1995 - (APPRO"><img src="https://i.ebayimg.com/images/g/qEkAAeSwEoBqDuS9/s-l225.jpg" alt="Listing image for DURAN DURAN THANK YOU MEMORABILIA original music press advert from 1995 - (APPRO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">DURAN DURAN THANK YOU MEMORABILIA original music press advert from 1995 - (APPRO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: you memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DURAN DURAN THANK YOU MEMORABILIA original music press advert from 1995 - (APPRO"><img src="https://i.ebayimg.com/images/g/qEkAAeSwEoBqDuS9/s-l225.jpg" alt="Listing image for DURAN DURAN THANK YOU MEMORABILIA original music press advert from 1995 - (APPRO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">DURAN DURAN THANK YOU MEMORABILIA original music press advert from 1995 - (APPRO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: you memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you memorabilia -book -books -dvd" data-ebay-reference="are-you-as-sure-as-you-think-you-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -634,7 +634,7 @@ Within metacognition, that awareness is often the missing ingredient. Improving 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -654,7 +654,7 @@ Within metacognition, that awareness is often the missing ingredient. Improving 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -686,7 +686,7 @@ Within metacognition, that awareness is often the missing ingredient. Improving 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -738,7 +738,7 @@ Within metacognition, that awareness is often the missing ingredient. Improving 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -783,7 +783,7 @@ Within metacognition, that awareness is often the missing ingredient. Improving 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -823,147 +823,147 @@ Within metacognition, that awareness is often the missing ingredient. Improving 
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: iipdm.haifa.ac.il  
    Title: 2002 KorShefMaaJEPG  
-   Link: <a href="https://iipdm.haifa.ac.il/images/publications/Asher_Koriat/2002-KorShefMaaJEPG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iipdm.haifa.ac.il/images/publications/Asher_Koriat/2002-KorShefMaaJEPG.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>O.. Nelson &amp; Dunlosky, 1991) refers to the correspondence between mean JOL and mean recall and reflects the extent to...Read more...</p></details>
+   Link:<a href="https://iipdm.haifa.ac.il/images/publications/Asher_Koriat/2002-KorShefMaaJEPG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iipdm.haifa.ac.il/images/publications/Asher_Koriat/2002-KorShefMaaJEPG.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>O.. Nelson &amp; Dunlosky, 1991) refers to the correspondence between mean JOL and mean recall and reflects the extent to...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/284066045_Metacognitive_monitoring_accuracy_and_student_performance_in_the_postsecondary_classroom" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284066045_Metacognitive_monitoring_accuracy_and_student_performance_in_the_postsecondary_classroom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Metacognitive monitoring accuracy and student...21 Mar 2016 — Having accurate metacognitive calibration is crucial, si...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/284066045_Metacognitive_monitoring_accuracy_and_student_performance_in_the_postsecondary_classroom" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284066045_Metacognitive_monitoring_accuracy_and_student_performance_in_the_postsecondary_classroom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Metacognitive monitoring accuracy and student...21 Mar 2016 — Having accurate metacognitive calibration is crucial, si...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12730000/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12730000/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Study of Overconfidence Biases in Young...by DG Gültekin · 2025 · Cited by 2 — This bias makes individuals overly confident...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12730000/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12730000/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Study of Overconfidence Biases in Young...by DG Gültekin · 2025 · Cited by 2 — This bias makes individuals overly confident...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gmarks.org  
    Title: when confidence is not a signal of knowing  
-   Link: <a href="https://gmarks.org/when_confidence_is_not_a_signal_of_knowing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gmarks.org/when_confidence_is_not_a_signal_of_knowing.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Finn · 2015 · Cited by 153 — The students who subscribed to the quick learning belief were more likely to have overconfident compreh...</p></details>
+   Link:<a href="https://gmarks.org/when_confidence_is_not_a_signal_of_knowing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gmarks.org/when_confidence_is_not_a_signal_of_knowing.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Finn · 2015 · Cited by 153 — The students who subscribed to the quick learning belief were more likely to have overconfident compreh...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/257936161_What_are_confidence_judgments_made_of_Students%27_explanations_for_their_confidence_ratings_and_what_that_means_for_calibration" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/257936161_What_are_confidence_judgments_made_of_Students%27_explanations_for_their_confidence_ratings_and_what_that_means_for_calibration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>study explored university students&#x27; justifications for making their judgments of learning in a developmental psychology...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/257936161_What_are_confidence_judgments_made_of_Students%27_explanations_for_their_confidence_ratings_and_what_that_means_for_calibration" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/257936161_What_are_confidence_judgments_made_of_Students%27_explanations_for_their_confidence_ratings_and_what_that_means_for_calibration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>study explored university students&#x27; justifications for making their judgments of learning in a developmental psychology...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCJudgments of learning and improvement  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3041918/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3041918/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of learning and improvement - PMC - NIHby CL Townsend · 2010 · Cited by 65 — The main result was that judgments of improvement were poorl...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3041918/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3041918/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of learning and improvement - PMC - NIHby CL Townsend · 2010 · Cited by 65 — The main result was that judgments of improvement were poorl...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRepeated Feedback Can Benefit Seven-Year-old's  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12122647/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12122647/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by FJ Buehler · 2025 · Cited by 4 — Four cornerstones of calibration research: Why understanding students&#x27; judgments can improve their...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12122647/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12122647/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by FJ Buehler · 2025 · Cited by 4 — Four cornerstones of calibration research: Why understanding students&#x27; judgments can improve their...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349179781_Calibrating_Calibration_A_Meta-Analysis_of_Learning_Strategy_Instruction_Interventions_to_Improve_Metacognitive_Monitoring_Accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349179781_Calibrating_Calibration_A_Meta-Analysis_of_Learning_Strategy_Instruction_Interventions_to_Improve_Metacognitive_Monitoring_Accuracy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research confirms...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/349179781_Calibrating_Calibration_A_Meta-Analysis_of_Learning_Strategy_Instruction_Interventions_to_Improve_Metacognitive_Monitoring_Accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349179781_Calibrating_Calibration_A_Meta-Analysis_of_Learning_Strategy_Instruction_Interventions_to_Improve_Metacognitive_Monitoring_Accuracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research confirms...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/367575911_Confidence_and_Calibration_of_Comprehension_in_Adolescence_Are_They_Domain-General_or_Domain-Specific" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367575911_Confidence_and_Calibration_of_Comprehension_in_Adolescence_Are_They_Domain-General_or_Domain-Specific</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Confidence and Calibration of Comprehension in...24 Mar 2026 — Before and after taking 12 successive tests, 90 introdu...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/367575911_Confidence_and_Calibration_of_Comprehension_in_Adolescence_Are_They_Domain-General_or_Domain-Specific" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367575911_Confidence_and_Calibration_of_Comprehension_in_Adolescence_Are_They_Domain-General_or_Domain-Specific</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Confidence and Calibration of Comprehension in...24 Mar 2026 — Before and after taking 12 successive tests, 90 introdu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/271749740_Students%27_confidence_in_their_performance_judgements_a_comparison_of_different_response_scales" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271749740_Students%27_confidence_in_their_performance_judgements_a_comparison_of_different_response_scales</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Participating students were asked to judge their personal...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/271749740_Students%27_confidence_in_their_performance_judgements_a_comparison_of_different_response_scales" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271749740_Students%27_confidence_in_their_performance_judgements_a_comparison_of_different_response_scales</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Participating students were asked to judge their personal...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377781931_Managing_Overconfidence_Bias_in_Decision_Making_A_Review_of_the_Literature" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377781931_Managing_Overconfidence_Bias_in_Decision_Making_A_Review_of_the_Literature</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Managing Overconfidence Bias in Decision Making30 Jan 2024 — The current prevailing research has shown that overconfidence bias can...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377781931_Managing_Overconfidence_Bias_in_Decision_Making_A_Review_of_the_Literature" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377781931_Managing_Overconfidence_Bias_in_Decision_Making_A_Review_of_the_Literature</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Managing Overconfidence Bias in Decision Making30 Jan 2024 — The current prevailing research has shown that overconfidence bias can...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: zaguan.unizar.es  
-   Link: <a href="https://zaguan.unizar.es/record/150059/files/texto_completo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://zaguan.unizar.es/record/150059/files/texto_completo.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence–Accuracy Calibration with General Knowledge...January 29, 2025 — by K Luna · 2012 · Cited by 71 — Research on the confi...</p></details>
+   Link:<a href="https://zaguan.unizar.es/record/150059/files/texto_completo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://zaguan.unizar.es/record/150059/files/texto_completo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence–Accuracy Calibration with General Knowledge...January 29, 2025 — by K Luna · 2012 · Cited by 71 — Research on the confi...</p></details>
    Published: January 29, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: adamlputnam.com  
    Title: putnam deng desoto 2022  
-   Link: <a href="https://www.adamlputnam.com/uploads/8/3/5/6/83563830/putnam_deng___desoto_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.adamlputnam.com/uploads/8/3/5/6/83563830/putnam_deng___desoto_2022.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adam L PutnamConfidence ratings are better predictors of future...by AL Putnam · 2022 · Cited by 13 — The intuitive answer is through ju...</p></details>
+   Link:<a href="https://www.adamlputnam.com/uploads/8/3/5/6/83563830/putnam_deng___desoto_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.adamlputnam.com/uploads/8/3/5/6/83563830/putnam_deng___desoto_2022.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adam L PutnamConfidence ratings are better predictors of future...by AL Putnam · 2022 · Cited by 13 — The intuitive answer is through ju...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: vuorre.com  
    Title: vuorre and metcalfe 2021 measures of relative metacognitive accur  
-   Link: <a href="https://vuorre.com/bibliography/files/7NK7WAEM/vuorre-and-metcalfe_2021_measures-of-relative-metacognitive-accur.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vuorre.com/bibliography/files/7NK7WAEM/vuorre-and-metcalfe_2021_measures-of-relative-metacognitive-accur.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Matti’s websiteMeasures of relative metacognitive accuracy are...by M Vuorre · 2021 · Cited by 59 — This article investigates the concer...</p></details>
+   Link:<a href="https://vuorre.com/bibliography/files/7NK7WAEM/vuorre-and-metcalfe_2021_measures-of-relative-metacognitive-accur.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vuorre.com/bibliography/files/7NK7WAEM/vuorre-and-metcalfe_2021_measures-of-relative-metacognitive-accur.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Matti’s websiteMeasures of relative metacognitive accuracy are...by M Vuorre · 2021 · Cited by 59 — This article investigates the concer...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/27527263241298968" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/27527263241298968</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsChanges in students&#x27; confidence calibration across a...Nov 26, 2024 — Students broadly improved their calibration across th...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/27527263241298968" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/27527263241298968</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsChanges in students&#x27; confidence calibration across a...Nov 26, 2024 — Students broadly improved their calibration across th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mcm.uni-wuerzburg.de  
    Title: Accuracy of confidence judgments  
-   Link: <a href="https://www.mcm.uni-wuerzburg.de/fileadmin/06110000/2026/Accuracy_of_confidence_judgments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mcm.uni-wuerzburg.de/fileadmin/06110000/2026/Accuracy_of_confidence_judgments.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institut Mensch-Computer-MedienAccuracy of confidence judgments: Stability and generality...by C MENGELKAMP · 2010 · Cited by 98 — Accur...</p></details>
+   Link:<a href="https://www.mcm.uni-wuerzburg.de/fileadmin/06110000/2026/Accuracy_of_confidence_judgments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mcm.uni-wuerzburg.de/fileadmin/06110000/2026/Accuracy_of_confidence_judgments.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institut Mensch-Computer-MedienAccuracy of confidence judgments: Stability and generality...by C MENGELKAMP · 2010 · Cited by 98 — Accur...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bi.team  
-   Link: <a href="https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK is overconfidentOverconfident: average confidence scores at least 5pp higher than average correctness. Well-calibrated: average c...</p></details>
+   Link:<a href="https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK is overconfidentOverconfident: average confidence scores at least 5pp higher than average correctness. Well-calibrated: average c...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ejmste.com  
-   Link: <a href="https://www.ejmste.com/download/whats-about-the-calibration-between-confidence-and-accuracy-findings-in-probabilistic-problems-from-7780.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/whats-about-the-calibration-between-confidence-and-accuracy-findings-in-probabilistic-problems-from-7780.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s about the Calibration between Confidence and...by M Agus · 2019 · Cited by 9 — According to Dunlosky and Thiede (2013), in genera...</p></details>
+   Link:<a href="https://www.ejmste.com/download/whats-about-the-calibration-between-confidence-and-accuracy-findings-in-probabilistic-problems-from-7780.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/whats-about-the-calibration-between-confidence-and-accuracy-findings-in-probabilistic-problems-from-7780.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s about the Calibration between Confidence and...by M Agus · 2019 · Cited by 9 — According to Dunlosky and Thiede (2013), in genera...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Learn To Improve Your Decision Making  
-   Link: <a href="http://www.youtube.com/watch?v=_NnA2Vi03IY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_NnA2Vi03IY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calibration metacognition confidence accuracy decision making What is metacognition? | Steve Fleming EXPeditions - The living library of...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=_NnA2Vi03IY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_NnA2Vi03IY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calibration metacognition confidence accuracy decision making What is metacognition? | Steve Fleming EXPeditions - The living library of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cris.maastrichtuniversity.nl  
    Title: merrienboer 2013 activation of inaccurate prior knowledge  
-   Link: <a href="https://cris.maastrichtuniversity.nl/ws/files/73012654/merrienboer_2013_activation_of_inaccurate_prior_knowledge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/ws/files/73012654/merrienboer_2013_activation_of_inaccurate_prior_knowledge.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of inaccurate prior knowledge affects primary-...1 Apr 2013 — The cue utilization framework (Koriat, 1997) provides an explanation for l...</p></details>
+   Link:<a href="https://cris.maastrichtuniversity.nl/ws/files/73012654/merrienboer_2013_activation_of_inaccurate_prior_knowledge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/ws/files/73012654/merrienboer_2013_activation_of_inaccurate_prior_knowledge.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of inaccurate prior knowledge affects primary-...1 Apr 2013 — The cue utilization framework (Koriat, 1997) provides an explanation for l...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cs.cornell.edu  
    Title: when confidence and competence collide  
-   Link: <a href="https://www.cs.cornell.edu/~cristian/pdfs/when_confidence_and_competence_collide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.cornell.edu/~cristian/pdfs/when_confidence_and_competence_collide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence and Competence Collide: Effects on Online...by L Fu · Cited by 18 — We find that in task-oriented discussions, the more-confi...</p></details>
+   Link:<a href="https://www.cs.cornell.edu/~cristian/pdfs/when_confidence_and_competence_collide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.cornell.edu/~cristian/pdfs/when_confidence_and_competence_collide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence and Competence Collide: Effects on Online...by L Fu · Cited by 18 — We find that in task-oriented discussions, the more-confi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: improvewithmetacognition.com  
    Title: metacognitive judgments of knowing  
-   Link: <a href="https://www.improvewithmetacognition.com/metacognitive-judgments-of-knowing/" target="_blank" rel="noopener noreferrer nofollow">https://www.improvewithmetacognition.com/metacognitive-judgments-of-knowing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>02 Oct 2015 — JOLs are considered metacognitive judgments. They are judgments about what the person knows, often related to some future p...</p></details>
+   Link:<a href="https://www.improvewithmetacognition.com/metacognitive-judgments-of-knowing/" target="_blank" rel="noopener noreferrer nofollow">https://www.improvewithmetacognition.com/metacognitive-judgments-of-knowing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>02 Oct 2015 — JOLs are considered metacognitive judgments. They are judgments about what the person knows, often related to some future p...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/when-deciding-creates-overconfidence/CFBE92B067A3DF55E5DB9A05CF497064" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/when-deciding-creates-overconfidence/CFBE92B067A3DF55E5DB9A05CF497064</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When deciding creates overconfidence | Judgment and...by PJ Boyle · 2025 · Cited by 6 — We demonstrate how the distortion of information...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/when-deciding-creates-overconfidence/CFBE92B067A3DF55E5DB9A05CF497064" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/when-deciding-creates-overconfidence/CFBE92B067A3DF55E5DB9A05CF497064</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When deciding creates overconfidence | Judgment and...by PJ Boyle · 2025 · Cited by 6 — We demonstrate how the distortion of information...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acp.4236" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/acp.4236</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>effect of calibration training on...by MO Kelly · 2024 · Cited by 3 — Calibration is the degree to which confidence coincides with judgm...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acp.4236" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/acp.4236</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effect of calibration training on...by MO Kelly · 2024 · Cited by 3 — Calibration is the degree to which confidence coincides with judgm...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: repository.isls.org  
-   Link: <a href="https://repository.isls.org/bitstream/1/10262/1/ICLS2023_3-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.isls.org/bitstream/1/10262/1/ICLS2023_3-10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Methodological Expansion and Empirical Applicationby S Tobler · 2023 · Cited by 1 — Confidence judgment indicates students&#x27; judgments of...</p></details>
+   Link:<a href="https://repository.isls.org/bitstream/1/10262/1/ICLS2023_3-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.isls.org/bitstream/1/10262/1/ICLS2023_3-10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Methodological Expansion and Empirical Applicationby S Tobler · 2023 · Cited by 1 — Confidence judgment indicates students&#x27; judgments of...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Stephen Fleming, "Know Thyself: The Science of Self-Awareness"  
-   Link: <a href="http://www.youtube.com/watch?v=PmFGBeToa9k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=PmFGBeToa9k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn To Improve Your Decision Making - Julia Galef | Modern Wisdom Podcast 332...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=PmFGBeToa9k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=PmFGBeToa9k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn To Improve Your Decision Making - Julia Galef | Modern Wisdom Podcast 332...</p></details>

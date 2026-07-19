@@ -284,7 +284,7 @@ Health claims deserve a higher evidential standard than most other claims becaus
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_health_claim_standar_92b60f-Illustration-1-dark.svg" | relative_url }}" alt="Health Claims illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_health_claim_standar_92b60f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_health_claim_standar_92b60f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Evidence-based medicine was developed largely because human intuition performs poorly when judging treatment effects. Symptoms naturally fluctuate, many illnesses improve without intervention, expectations influence perceived improvement, and people who experience dramatic benefits are much more likely to share their stories than those who do not. Modern frameworks such as GRADE (Grading of Recommendations, [Assessment]({{ 'assessment/' | relative_url }}), Development and Evaluation), used by organisations including Cochrane, the World Health Organization (WHO) and many national guideline developers, were designed to separate genuine treatment effects from these common sources of error. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane+2gradeworkinggroup.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...The GRADE approach categorizes the certainty in a body of evidence as...</span></span></span>
+Evidence-based medicine was developed largely because human intuition performs poorly when judging treatment effects. Symptoms naturally fluctuate, many illnesses improve without intervention, expectations influence perceived improvement, and people who experience dramatic benefits are much more likely to share their stories than those who do not. Modern frameworks such as GRADE (Grading of Recommendations, [Assessment]({{ 'assessment/' | relative_url }}), Development and Evaluation), used by organisations including Cochrane, the World Health Organization (WHO) and many national guideline developers, were designed to separate genuine treatment effects from these common sources of error.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane+2gradeworkinggroup.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...The GRADE approach categorizes the certainty in a body of evidence as...</span></span></span>
 
 ## Why testimonials rarely establish whether a treatment works
 
@@ -300,7 +300,7 @@ Third, placebo responses and expectation effects influence how symptoms are perc
 
 Finally, memory is selective. People often remember successful treatments while forgetting unsuccessful ones, and individuals who benefit are far more likely to post reviews or recommend products than those who experience no improvement.
 
-These problems do not imply that every testimonial is false. Rather, they explain why sincere accounts cannot reliably distinguish [causation]({{ 'causation/' | relative_url }}) from coincidence. This is precisely why controlled clinical studies compare treated and untreated groups under similar conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...The GRADE approach categorizes the certainty in a body of evidence as...</span></span></span>
+These problems do not imply that every testimonial is false. Rather, they explain why sincere accounts cannot reliably distinguish [causation]({{ 'causation/' | relative_url }}) from coincidence. This is precisely why controlled clinical studies compare treated and untreated groups under similar conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...The GRADE approach categorizes the certainty in a body of evidence as...</span></span></span>
 
 ## Reviews and before-and-after photographs can be systematically misleading
 
@@ -327,7 +327,7 @@ Photographs can differ because of:
 
 Even when photographs are genuine, they usually document only successful cases. Readers almost never see the much larger group of people who experienced little or no benefit.
 
-For this reason, regulatory agencies generally do not regard testimonials or consumer experiences as scientific substantiation for objective health claims. The United States Federal Trade Commission (FTC), whose guidance influences advertising practice well beyond the United States, states that advertisers must possess "competent and reliable scientific evidence" before making objective health claims. Testimonials may accompany substantiated claims, but they do not substitute for scientific evidence, and surveys of consumer experiences alone are never sufficient to establish treatment effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — 2) Before disseminating an ad, advertisers must have adequate su...</span></span></span>
+For this reason, regulatory agencies generally do not regard testimonials or consumer experiences as scientific substantiation for objective health claims. The United States Federal Trade Commission (FTC), whose guidance influences advertising practice well beyond the United States, states that advertisers must possess "competent and reliable scientific evidence" before making objective health claims. Testimonials may accompany substantiated claims, but they do not substitute for scientific evidence, and surveys of consumer experiences alone are never sufficient to establish treatment effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — 2) Before disseminating an ad, advertisers must have adequate su...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y8WsTQ2G-HY" title="Dietary Supplement Practicum (3 of 21): What the Federal Trade Commission (FTC) Does" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y8WsTQ2G-HY" target="_blank" rel="noopener noreferrer">Dietary Supplement Practicum (3 of 21): What the Federal Trade Commission (FTC) Does</a></p><p class="youtube-embed-meta">Channel: National Institutes of Health (NIH) &middot; Views: 1.6K &middot; Uploaded: November 2017 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y8WsTQ2G-HY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y8WsTQ2G-HY">Open on YouTube</a></p></div></div></div>
@@ -340,7 +340,7 @@ Systematic reviews reduce these problems by collecting all relevant evidence acc
 
 This matters because isolated positive studies frequently attract disproportionate media attention. When viewed alongside all available evidence, the apparent effect may become substantially smaller or disappear entirely.
 
-Cochrane reviews are particularly influential because they follow detailed methodological standards designed to minimise bias in evidence synthesis. Rather than asking whether any study found a benefit, they ask what the totality of reliable evidence indicates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...The GRADE approach categorizes the certainty in a body of evidence as...</span></span></span>
+Cochrane reviews are particularly influential because they follow detailed methodological standards designed to minimise bias in evidence synthesis. Rather than asking whether any study found a benefit, they ask what the totality of reliable evidence indicates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...The GRADE approach categorizes the certainty in a body of evidence as...</span></span></span>
 
 ## How GRADE helps compare the certainty of health evidence
 
@@ -361,7 +361,7 @@ These include:
 
 </div>
 
-Randomised controlled trials usually begin as high-certainty evidence because [randomisation]({{ 'randomisation/' | relative_url }}) reduces important biases, whereas observational studies generally begin with lower certainty because differences between groups may explain observed outcomes. However, certainty can be downgraded substantially if trials have methodological flaws or inconsistent findings. Conversely, exceptionally strong observational evidence may occasionally be upgraded if alternative explanations are unlikely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane+2Grade Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...The GRADE approach categorizes the certainty in a body of evidence as...</span></span></span>
+Randomised controlled trials usually begin as high-certainty evidence because [randomisation]({{ 'randomisation/' | relative_url }}) reduces important biases, whereas observational studies generally begin with lower certainty because differences between groups may explain observed outcomes. However, certainty can be downgraded substantially if trials have methodological flaws or inconsistent findings. Conversely, exceptionally strong observational evidence may occasionally be upgraded if alternative explanations are unlikely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane+2Grade Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...The GRADE approach categorizes the certainty in a body of evidence as...</span></span></span>
 
 GRADE ultimately classifies certainty into four categories:
 
@@ -399,7 +399,7 @@ This distinction prevents readers from confusing certainty with magnitude.
 
 A small but well-established benefit may justify treatment in some circumstances. A spectacular claimed benefit supported only by anecdotal reports usually should not.
 
-Recent GRADE guidance also increasingly emphasises explicit decision [thresholds]({{ 'thresholds/' | relative_url }}), encouraging reviewers to distinguish between trivial, small, moderate and large effects rather than relying solely on statistical significance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/events/thresholds-and-rating-certainty-of-evidence-using-grade" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">thresholds and rating certainty of evidence using grade</span><span class="citation-popover-snippet">Decision thresholds guide judgments about...Read more...</span></span></span>
+Recent GRADE guidance also increasingly emphasises explicit decision [thresholds]({{ 'thresholds/' | relative_url }}), encouraging reviewers to distinguish between trivial, small, moderate and large effects rather than relying solely on statistical significance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/events/thresholds-and-rating-certainty-of-evidence-using-grade" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">thresholds and rating certainty of evidence using grade</span><span class="citation-popover-snippet">Decision thresholds guide judgments about...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RObenVeD-yU" title="The FTC and FDA Join Forces on Enforcement: New Regulatory Guidance on Health-Related Claims" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RObenVeD-yU" target="_blank" rel="noopener noreferrer">The FTC and FDA Join Forces on Enforcement: New Regulatory Guidance on Health-Related Claims</a></p><p class="youtube-embed-meta">Channel: Venable LLP &middot; Views: 440 &middot; Uploaded: March 2023 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RObenVeD-yU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RObenVeD-yU">Open on YouTube</a></p></div></div></div>
@@ -426,7 +426,7 @@ A practical hierarchy might look like this:
 
 </div>
 
-This approach mirrors how clinical guideline developers evaluate evidence before recommending treatments rather than relying on persuasive narratives or isolated findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/acip-grade-handbook/hcp/chapter-6-systemic-review-overview/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2gradeworkinggroup.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Chapter 6: Systematic Review Overview &#124; ACIP GRADE...22 Apr 2024 — This ACIP GRADE handbook provides guidance to the ACIP workgroups...</span></span></span>
+This approach mirrors how clinical guideline developers evaluate evidence before recommending treatments rather than relying on persuasive narratives or isolated findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/acip-grade-handbook/hcp/chapter-6-systemic-review-overview/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2gradeworkinggroup.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Chapter 6: Systematic Review Overview &#124; ACIP GRADE...22 Apr 2024 — This ACIP GRADE handbook provides guidance to the ACIP workgroups...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_health_claim_standar_92b60f-Illustration-3-dark.svg" | relative_url }}" alt="Health Claims illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_health_claim_standar_92b60f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_health_claim_standar_92b60f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -448,7 +448,7 @@ Common warning signs include:
 
 </div>
 
-The FTC's Health Products Compliance Guidance emphasises that objective health claims require adequate scientific substantiation before advertising, not after complaints arise. Claims should be supported by competent and reliable scientific evidence appropriate to the nature of the claim, and disclosures cannot cure fundamentally unsupported representations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — 2) Before disseminating an ad, advertisers must have adequate su...</span></span></span>
+The FTC's Health Products Compliance Guidance emphasises that objective health claims require adequate scientific substantiation before advertising, not after complaints arise. Claims should be supported by competent and reliable scientific evidence appropriate to the nature of the claim, and disclosures cannot cure fundamentally unsupported representations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — 2) Before disseminating an ad, advertisers must have adequate su...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q1j-54Prn1k" title="WHO Guidelines and GRADE: GRADE - Assessing the certainty of evidence (Module 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q1j-54Prn1k" target="_blank" rel="noopener noreferrer">WHO Guidelines and GRADE: GRADE - Assessing the certainty of evidence (Module 3)</a></p><p class="youtube-embed-meta">Channel: Mac GRADE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q1j-54Prn1k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q1j-54Prn1k">Open on YouTube</a></p></div></div></div>
@@ -459,181 +459,181 @@ Higher standards do not require rejecting every new therapy until decades of evi
 
 When evidence is preliminary, the appropriate response is often "possibly, but uncertain" rather than immediate acceptance or dismissal. As stronger studies accumulate, confidence should rise or fall accordingly.
 
-This mindset makes health decisions more resilient against persuasive anecdotes, selective online reviews and misleading marketing. Instead of asking whether a claim sounds convincing, the more useful question becomes: *How certain should I be that this treatment actually produces the claimed benefit?* By separating compelling stories from reliable evidence, frameworks such as systematic review and GRADE provide practical tools for making better health decisions while remaining genuinely open to changing one's mind when stronger evidence appears. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane+2gradeworkinggroup.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...The GRADE approach categorizes the certainty in a body of evidence as...</span></span></span>
+This mindset makes health decisions more resilient against persuasive anecdotes, selective online reviews and misleading marketing. Instead of asking whether a claim sounds convincing, the more useful question becomes: *How certain should I be that this treatment actually produces the claimed benefit?* By separating compelling stories from reliable evidence, frameworks such as systematic review and GRADE provide practical tools for making better health decisions while remaining genuinely open to changing one's mind when stronger evidence appears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane+2gradeworkinggroup.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...The GRADE approach categorizes the certainty in a body of evidence as...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Health Claims Need Higher Standards. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Health Claims Need Higher Standards. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Testing Treatments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EXTrAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Testing Treatments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing Treatments">Testing Treatments</a>
-        </h4>
-        <p class="fr-book-author">By Imogen Evans, Hazel Thornton et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Testing Treatments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EXTrAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Testing Treatments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing Treatments">Testing Treatments</a>
+</h4>
+<p class="fr-book-author">By Imogen Evans, Hazel Thornton et al.</p>
         
-        <p class="fr-book-desc">Directly explains why stronger evidence is needed before accepting health claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains why stronger evidence is needed before accepting health claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Covers misleading health claims, weak evidence, statistics, and media reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers misleading health claims, weak evidence, statistics, and media reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Know+Your+Chances+by+Steven+Woloshin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Know Your Chances on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fbIwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Know Your Chances" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Know+Your+Chances+by+Steven+Woloshin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Know Your Chances">Know Your Chances</a>
-        </h4>
-        <p class="fr-book-author">By Steven Woloshin, Lisa M. Schwartz et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Know+Your+Chances+by+Steven+Woloshin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Know Your Chances on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fbIwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Know Your Chances" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Know+Your+Chances+by+Steven+Woloshin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Know Your Chances">Know Your Chances</a>
+</h4>
+<p class="fr-book-author">By Steven Woloshin, Lisa M. Schwartz et al.</p>
         
-        <p class="fr-book-desc">Helps readers judge treatment claims using reliable evidence and meaningful statistics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Know+Your+Chances+by+Steven+Woloshin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers judge treatment claims using reliable evidence and meaningful statistics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Know+Your+Chances+by+Steven+Woloshin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uL3RAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Paper">How to Read a Paper</a>
-        </h4>
-        <p class="fr-book-author">By Trisha Greenhalgh</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uL3RAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Paper">How to Read a Paper</a>
+</h4>
+<p class="fr-book-author">By Trisha Greenhalgh</p>
         
-        <p class="fr-book-desc">Explains how to critically evaluate research supporting health interventions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to critically evaluate research supporting health interventions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Testing+Treatments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Testing Treatments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Know+Your+Chances&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Know Your Chances</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Testing+Treatments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Testing Treatments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Know+Your+Chances&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Know Your Chances</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 X MRC Medical Research Council 100 Years Commemorative Mugs 1913 - 2013"><img src="{{ '/assets/images/marketplace-covers/83ad03c5a9faf9a4103a.jpg' | relative_url }}" alt="Listing image for 2 X MRC Medical Research Council 100 Years Commemorative Mugs 1913 - 2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer">2 X MRC Medical Research Council 100 Years Commemorative Mugs 1913 - 2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical research mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical research mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 X MRC Medical Research Council 100 Years Commemorative Mugs"><img src="{{ '/assets/images/marketplace-covers/83ad03c5a9faf9a4103a.jpg' | relative_url }}" alt="Listing image for 2 X MRC Medical Research Council 100 Years Commemorative Mugs" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer">2 X MRC Medical Research Council 100 Years Commemorative Mugs</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical research mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical research mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for D Designs Hands Off Medical Cancer Research Mug Coffee Lovers Gift Beverage"><img src="{{ '/assets/images/marketplace-covers/75c25dfdc2c41d9807b5.jpg' | relative_url }}" alt="Listing image for D Designs Hands Off Medical Cancer Research Mug Coffee Lovers Gift Beverage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer">D Designs Hands Off Medical Cancer Research Mug Coffee Lovers Gift Beverage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical research mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical research mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for D Designs Hands Off Medical Cancer Research Mug Coffee Lovers Gift Beverage"><img src="{{ '/assets/images/marketplace-covers/75c25dfdc2c41d9807b5.jpg' | relative_url }}" alt="Listing image for D Designs Hands Off Medical Cancer Research Mug Coffee Lovers Gift Beverage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer">D Designs Hands Off Medical Cancer Research Mug Coffee Lovers Gift Beverage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical research mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical research mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for D Designs Hands Off Labs Medical Cancer Research Mug Coffee Lovers Gift Beverage"><img src="{{ '/assets/images/marketplace-covers/93a336fc2c1dee3707fd.jpg' | relative_url }}" alt="Listing image for D Designs Hands Off Labs Medical Cancer Research Mug Coffee Lovers Gift Beverage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer">D Designs Hands Off Labs Medical Cancer Research Mug Coffee Lovers Gift Beverage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical research mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical research mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for D Designs Hands Off Labs Medical Cancer Research Mug Coffee Lovers Gift Beverage"><img src="{{ '/assets/images/marketplace-covers/93a336fc2c1dee3707fd.jpg' | relative_url }}" alt="Listing image for D Designs Hands Off Labs Medical Cancer Research Mug Coffee Lovers Gift Beverage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer">D Designs Hands Off Labs Medical Cancer Research Mug Coffee Lovers Gift Beverage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical research mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical research mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+research+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical research mug" data-ebay-reference="health-claims-why-health-claims-need-higher-standards-improving-your-think-medical-research-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -649,7 +649,7 @@ This mindset makes health decisions more resilient against persuasive anecdotes,
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -669,7 +669,7 @@ This mindset makes health decisions more resilient against persuasive anecdotes,
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -701,7 +701,7 @@ This mindset makes health decisions more resilient against persuasive anecdotes,
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -753,7 +753,7 @@ This mindset makes health decisions more resilient against persuasive anecdotes,
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -798,7 +798,7 @@ This mindset makes health decisions more resilient against persuasive anecdotes,
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -839,127 +839,127 @@ This mindset makes health decisions more resilient against persuasive anecdotes,
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cochrane.org  
-   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...The GRADE approach categorizes the certainty in a body of evidence as...</p></details>
+   Link:<a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...The GRADE approach categorizes the certainty in a body of evidence as...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gradeworkinggroup.org  
-   Link: <a href="https://www.gradeworkinggroup.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.gradeworkinggroup.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GRADE homeThe working group has developed a common, sensible and transparent approach to grading quality (or certainty) of evidence and s...</p></details>
+   Link:<a href="https://www.gradeworkinggroup.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.gradeworkinggroup.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GRADE homeThe working group has developed a common, sensible and transparent approach to grading quality (or certainty) of evidence and s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/acip-grade-handbook/hcp/chapter-6-systemic-review-overview/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/acip-grade-handbook/hcp/chapter-6-systemic-review-overview/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 6: Systematic Review Overview | ACIP GRADE...22 Apr 2024 — This ACIP GRADE handbook provides guidance to the ACIP workgroups...</p></details>
+   Link:<a href="https://www.cdc.gov/acip-grade-handbook/hcp/chapter-6-systemic-review-overview/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/acip-grade-handbook/hcp/chapter-6-systemic-review-overview/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 6: Systematic Review Overview | ACIP GRADE...22 Apr 2024 — This ACIP GRADE handbook provides guidance to the ACIP workgroups...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ftc.gov  
    Title: health products compliance guidance  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — 2) Before disseminating an ad, advertisers must have adequate su...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — 2) Before disseminating an ad, advertisers must have adequate su...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/health-claims</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Claims | Federal Trade CommissionFTC has compiled a list of seven advertising claims that are likely to be a tip-off to deception...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/health-claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health Claims | Federal Trade CommissionFTC has compiled a list of seven advertising claims that are likely to be a tip-off to deception...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cochrane.org  
-   Link: <a href="https://www.cochrane.org/learn/courses-and-resources/cochrane-methodology/grade" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/learn/courses-and-resources/cochrane-methodology/grade</a>  
+   Link:<a href="https://www.cochrane.org/learn/courses-and-resources/cochrane-methodology/grade" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/learn/courses-and-resources/cochrane-methodology/grade</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cochrane.org  
    Title: thresholds and rating certainty of evidence using grade  
-   Link: <a href="https://www.cochrane.org/events/thresholds-and-rating-certainty-of-evidence-using-grade" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/events/thresholds-and-rating-certainty-of-evidence-using-grade</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision thresholds guide judgments about...Read more...</p></details>
+   Link:<a href="https://www.cochrane.org/events/thresholds-and-rating-certainty-of-evidence-using-grade" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/events/thresholds-and-rating-certainty-of-evidence-using-grade</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision thresholds guide judgments about...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ftc.gov  
    Title: announces new business guidance marketers sellers health products  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2022/12/ftc-announces-new-business-guidance-marketers-sellers-health-products" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2022/12/ftc-announces-new-business-guidance-marketers-sellers-health-products</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC Announces New Business Guidance for Marketers...20 Dec 2022 — The Federal Trade Commission&#x27;s Bureau of Consu...</p></details>
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2022/12/ftc-announces-new-business-guidance-marketers-sellers-health-products" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2022/12/ftc-announces-new-business-guidance-marketers-sellers-health-products</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC Announces New Business Guidance for Marketers...20 Dec 2022 — The Federal Trade Commission&#x27;s Bureau of Consu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cochrane.org  
-   Link: <a href="https://www.cochrane.org/learn/courses-and-resources/cochrane-methodology/grade-approach/grade-handbook" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/learn/courses-and-resources/cochrane-methodology/grade-approach/grade-handbook</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GRADE HandbookIt incorporates the latest advancements, methodologies, and best practices, ensuring that users have access to practical gu...</p></details>
+   Link:<a href="https://www.cochrane.org/learn/courses-and-resources/cochrane-methodology/grade-approach/grade-handbook" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/learn/courses-and-resources/cochrane-methodology/grade-approach/grade-handbook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GRADE HandbookIt incorporates the latest advancements, methodologies, and best practices, ensuring that users have access to practical gu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cochrane.org  
-   Link: <a href="https://www.cochrane.org/events/introduction-assessing-certainty-evidence-grade" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/events/introduction-assessing-certainty-evidence-grade</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Learning Live series is based on...Read more...</p></details>
+   Link:<a href="https://www.cochrane.org/events/introduction-assessing-certainty-evidence-grade" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/events/introduction-assessing-certainty-evidence-grade</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Learning Live series is based on...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/acip-grade-handbook/hcp/chapter-7-grade-criteria-determining-certainty-of-evidence/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/acip-grade-handbook/hcp/chapter-7-grade-criteria-determining-certainty-of-evidence/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7: GRADE Criteria Determining Certainty of...22 Apr 2024 — This ACIP GRADE handbook provides guidance to the ACIP workgroups on...</p></details>
+   Link:<a href="https://www.cdc.gov/acip-grade-handbook/hcp/chapter-7-grade-criteria-determining-certainty-of-evidence/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/acip-grade-handbook/hcp/chapter-7-grade-criteria-determining-certainty-of-evidence/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7: GRADE Criteria Determining Certainty of...22 Apr 2024 — This ACIP GRADE handbook provides guidance to the ACIP workgroups on...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: book.gradepro.org  
-   Link: <a href="https://book.gradepro.org/guideline/overview-of-the-grade-approach" target="_blank" rel="noopener noreferrer nofollow">https://book.gradepro.org/guideline/overview-of-the-grade-approach</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the GRADE approachGRADE offers methods, tools and processes to assess the certainty of evidence and support healthcare decision making...</p></details>
+   Link:<a href="https://book.gradepro.org/guideline/overview-of-the-grade-approach" target="_blank" rel="noopener noreferrer nofollow">https://book.gradepro.org/guideline/overview-of-the-grade-approach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the GRADE approachGRADE offers methods, tools and processes to assess the certainty of evidence and support healthcare decision making...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gradepro.org  
-   Link: <a href="https://gradepro.org/handbook/" target="_blank" rel="noopener noreferrer nofollow">https://gradepro.org/handbook/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GRADE handbookThe GRADE approach is a system for rating the quality of a body of evidence in systematic reviews and other evidence synthe...</p></details>
+   Link:<a href="https://gradepro.org/handbook/" target="_blank" rel="noopener noreferrer nofollow">https://gradepro.org/handbook/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GRADE handbookThe GRADE approach is a system for rating the quality of a body of evidence in systematic reviews and other evidence synthe...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nhmrc.gov.au  
-   Link: <a href="https://www.nhmrc.gov.au/file/23340/download?token=WCPzDa7m" target="_blank" rel="noopener noreferrer nofollow">https://www.nhmrc.gov.au/file/23340/download?token=WCPzDa7m</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>trength) of an evidence base as part of a systematic review.Read more...</p></details>
+   Link:<a href="https://www.nhmrc.gov.au/file/23340/download?token=WCPzDa7m" target="_blank" rel="noopener noreferrer nofollow">https://www.nhmrc.gov.au/file/23340/download?token=WCPzDa7m</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>trength) of an evidence base as part of a systematic review.Read more...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: jonesday.com  
-   Link: <a href="https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Targets Deceptive Health Claims AdvertisingFTC warns companies advertising health- and wellness-related products against making unsub...</p></details>
+   Link:<a href="https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Targets Deceptive Health Claims AdvertisingFTC warns companies advertising health- and wellness-related products against making unsub...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: kslaw.com  
-   Link: <a href="https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=" target="_blank" rel="noopener noreferrer nofollow">https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>King &amp; SpaldingFTC Revises and Expands Guidance for Health Claims2 Feb 2023 — According to the Guidance, surveys of individual experience...</p></details>
+   Link:<a href="https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=" target="_blank" rel="noopener noreferrer nofollow">https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>King &amp; SpaldingFTC Revises and Expands Guidance for Health Claims2 Feb 2023 — According to the Guidance, surveys of individual experience...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rivkinradler.com  
-   Link: <a href="https://www.rivkinradler.com/publications/federal-court-rebuffs-ftc-effort-to-apply-pharmaceutical-standards-to-dietary-supplement-substantiation-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.rivkinradler.com/publications/federal-court-rebuffs-ftc-effort-to-apply-pharmaceutical-standards-to-dietary-supplement-substantiation-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Court Rebuffs FTC Effort to Apply Pharmaceutical...Nov 3, 2015 — The Court&#x27;s rejection of the FTC&#x27;s efforts to require “drug” le...</p></details>
+   Link:<a href="https://www.rivkinradler.com/publications/federal-court-rebuffs-ftc-effort-to-apply-pharmaceutical-standards-to-dietary-supplement-substantiation-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.rivkinradler.com/publications/federal-court-rebuffs-ftc-effort-to-apply-pharmaceutical-standards-to-dietary-supplement-substantiation-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Court Rebuffs FTC Effort to Apply Pharmaceutical...Nov 3, 2015 — The Court&#x27;s rejection of the FTC&#x27;s efforts to require “drug” le...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: library-guides.imperial.ac.uk  
-   Link: <a href="https://library-guides.imperial.ac.uk/systematic-review/grade" target="_blank" rel="noopener noreferrer nofollow">https://library-guides.imperial.ac.uk/systematic-review/grade</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>review: Summarising evidence certainty with GRADE7 days ago — It helps to move from evaluating evidence quality (methods) to evidence cer...</p></details>
+   Link:<a href="https://library-guides.imperial.ac.uk/systematic-review/grade" target="_blank" rel="noopener noreferrer nofollow">https://library-guides.imperial.ac.uk/systematic-review/grade</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>review: Summarising evidence certainty with GRADE7 days ago — It helps to move from evaluating evidence quality (methods) to evidence cer...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kelleydrye.com  
-   Link: <a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misguided: The FTC Attempts to Redefine the Law with its...21 Dec 2022 — Yesterday, the FTC&#x27;s Bureau of Consumer Protection released its...</p></details>
+   Link:<a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misguided: The FTC Attempts to Redefine the Law with its...21 Dec 2022 — Yesterday, the FTC&#x27;s Bureau of Consumer Protection released its...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fdli.org  
-   Link: <a href="https://www.fdli.org/2023/02/ftc-and-nad-remind-industry-of-their-authority-over-all-health-product-advertising-including-rx/" target="_blank" rel="noopener noreferrer nofollow">https://www.fdli.org/2023/02/ftc-and-nad-remind-industry-of-their-authority-over-all-health-product-advertising-including-rx/</a>  
+   Link:<a href="https://www.fdli.org/2023/02/ftc-and-nad-remind-industry-of-their-authority-over-all-health-product-advertising-including-rx/" target="_blank" rel="noopener noreferrer nofollow">https://www.fdli.org/2023/02/ftc-and-nad-remind-industry-of-their-authority-over-all-health-product-advertising-including-rx/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: foodchainid.com  
-   Link: <a href="https://www.foodchainid.com/resources/united-states-updated-ftc-guidance-on-claims-in-advertising/" target="_blank" rel="noopener noreferrer nofollow">https://www.foodchainid.com/resources/united-states-updated-ftc-guidance-on-claims-in-advertising/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Guidance on Advertising Claims UpdateUnderstand the latest Federal Trade Comission - FTC guidance on advertising claims, including su...</p></details>
+   Link:<a href="https://www.foodchainid.com/resources/united-states-updated-ftc-guidance-on-claims-in-advertising/" target="_blank" rel="noopener noreferrer nofollow">https://www.foodchainid.com/resources/united-states-updated-ftc-guidance-on-claims-in-advertising/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Guidance on Advertising Claims UpdateUnderstand the latest Federal Trade Comission - FTC guidance on advertising claims, including su...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: crnusa.org  
    Title: crn ftc randomized clinical trials not required most supplements  
-   Link: <a href="https://www.crnusa.org/newsroom/crn-ftc-randomized-clinical-trials-not-required-most-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.crnusa.org/newsroom/crn-ftc-randomized-clinical-trials-not-required-most-supplements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRN to FTC: Randomized Clinical Trials Not Required...Sep 25, 2023 — “There is no legal requirement that a company possess randomized, c...</p></details>
+   Link:<a href="https://www.crnusa.org/newsroom/crn-ftc-randomized-clinical-trials-not-required-most-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.crnusa.org/newsroom/crn-ftc-randomized-clinical-trials-not-required-most-supplements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRN to FTC: Randomized Clinical Trials Not Required...Sep 25, 2023 — “There is no legal requirement that a company possess randomized, c...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cohenhealthcarelaw.com  
-   Link: <a href="https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/" target="_blank" rel="noopener noreferrer nofollow">https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It means you must have solid scientific evidence—often including expert analysis or...Read more...</p></details>
+   Link:<a href="https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/" target="_blank" rel="noopener noreferrer nofollow">https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It means you must have solid scientific evidence—often including expert analysis or...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cooley.com  
    Title: 2023 03 02 ftc revises health products compliance guidance  
-   Link: <a href="https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revises Health Products Compliance Guidance2 Mar 2023 — The FTC&#x27;s revised guidance applies to advertising for any health-related prod...</p></details>
+   Link:<a href="https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revises Health Products Compliance Guidance2 Mar 2023 — The FTC&#x27;s revised guidance applies to advertising for any health-related prod...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710/
 description: Focused pages that expand on Metacognition.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: improving_your_think_da4710_metacognition_assump_b47334
 parent_title: Metacognition
@@ -16,7 +16,7 @@ parent_permalink: /metacognition/
 
 # Explore Topics in Metacognition
 
-The following pages expand on the main **[Metacognition]({{ '/metacognition/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Metacognition]({{ '/metacognition/' | relative_url }})** page and cover its key branches in.
 
 - [Calibration]({{ '/calibration-5043e2/' | relative_url }})
 - [Confidence Check]({{ '/confidence-check/' | relative_url }})

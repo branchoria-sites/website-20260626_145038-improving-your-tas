@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710/
 description: Focused pages that expand on Spacing.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: improving_your_think_da4710_distributed_practice_4a249b
 parent_title: Spacing
@@ -16,7 +16,7 @@ parent_permalink: /spacing/
 
 # Explore Topics in Spacing
 
-The following pages expand on the main **[Spacing]({{ '/spacing/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Spacing]({{ '/spacing/' | relative_url }})** page and cover its key branches in.
 
 - [Cepeda studies]({{ '/cepeda-studies/' | relative_url }})
 - [Spacing gaps]({{ '/spacing-gaps/' | relative_url }})

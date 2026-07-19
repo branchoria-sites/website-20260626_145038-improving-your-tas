@@ -286,13 +286,13 @@ A fact is only strong evidence if it helps you choose between competing explanat
 <img src="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_shared_evidence_trap_4a9729-Illustration-1-dark.svg" | relative_url }}" alt="Shared Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_shared_evidence_trap_4a9729-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_shared_evidence_trap_4a9729-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why compatible evidence feels stronger than it is
 
-People naturally search for facts that agree with their current thinking. The problem is not that confirming evidence is worthless, but that it often receives too much weight before we ask whether it is distinctive. Research on confirmation bias shows that people tend to seek, notice and interpret information in ways that support an existing hypothesis while giving less attention to competing possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12458 — Confi...</span><span class="citation-popover-meta">Published: October 6, 2004</span></span></span>
+People naturally search for facts that agree with their current thinking. The problem is not that confirming evidence is worthless, but that it often receives too much weight before we ask whether it is distinctive. Research on confirmation bias shows that people tend to seek, notice and interpret information in ways that support an existing hypothesis while giving less attention to competing possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12458 — Confi...</span><span class="citation-popover-meta">Published: October 6, 2004</span></span></span>
 
 Imagine hearing a strange noise from your car. Discovering that the engine warning light is on may seem to support the idea of engine trouble. Yet the same warning light could also appear because of an electrical fault, a failing sensor or a transmission problem. The observation is compatible with several explanations. It therefore narrows the field only slightly.
 
 The same logic applies in scientific reasoning. A prediction that comes true is impressive only if rival theories would not have predicted the same outcome. If every serious explanation expected the observation, then the observation does not distinguish between them.
 
-This idea appears in philosophy of science and Bayesian approaches to evidence, where evidence is judged by how much it changes the relative credibility of competing hypotheses rather than by whether it merely fits one of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bayesian_epistemology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bayesian epistemology</span><span class="citation-popover-snippet">Bayesian epistemology</span></span></span>
+This idea appears in philosophy of science and Bayesian approaches to evidence, where evidence is judged by how much it changes the relative credibility of competing hypotheses rather than by whether it merely fits one of them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bayesian_epistemology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bayesian epistemology</span><span class="citation-popover-snippet">Bayesian epistemology</span></span></span>
 
 ## What makes evidence genuinely informative?
 
@@ -354,7 +354,7 @@ That second observation separates the explanations far better because it is not 
 
 Many symptoms are deliberately treated as non-specific because they occur across numerous illnesses. Coughs, headaches and fatigue often indicate that *something* is wrong but do not identify what.
 
-Good diagnosis therefore depends on evidence that separates possibilities rather than merely confirms one. Doctors continually revise diagnoses by asking which additional signs, laboratory results or imaging findings would be expected under competing diseases. Prematurely settling on one explanation risks overlooking alternatives that explain the same early symptoms equally well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12458 — Confi...</span><span class="citation-popover-meta">Published: October 6, 2004</span></span></span>
+Good diagnosis therefore depends on evidence that separates possibilities rather than merely confirms one. Doctors continually revise diagnoses by asking which additional signs, laboratory results or imaging findings would be expected under competing diseases. Prematurely settling on one explanation risks overlooking alternatives that explain the same early symptoms equally well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12458 — Confi...</span><span class="citation-popover-meta">Published: October 6, 2004</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_shared_evidence_trap_4a9729-Illustration-2-dark.svg" | relative_url }}" alt="Shared Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_shared_evidence_trap_4a9729-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_shared_evidence_trap_4a9729-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -408,7 +408,7 @@ Until evidence uniquely favours one explanation, the observation should remain p
 
 Compatible evidence feels persuasive because humans naturally ask whether observations are consistent with what they already believe.
 
-Psychologist Peter Wason's classic work on hypothesis testing showed that people often search for examples that fit a rule instead of looking for cases that could distinguish between competing rules. Later research argued that people frequently employ a "positive test strategy": checking whether expected evidence appears rather than asking whether alternative explanations would produce the same observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Confirmation bias</span><span class="citation-popover-snippet">Confirmation bias</span></span></span>
+Psychologist Peter Wason's classic work on hypothesis testing showed that people often search for examples that fit a rule instead of looking for cases that could distinguish between competing rules. Later research argued that people frequently employ a "positive test strategy": checking whether expected evidence appears rather than asking whether alternative explanations would produce the same observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Confirmation bias</span><span class="citation-popover-snippet">Confirmation bias</span></span></span>
 
 This habit creates a subtle illusion.
 
@@ -455,194 +455,194 @@ Evidence is not valuable simply because it fits a story. Its value depends on wh
 Many observations are shared across several plausible explanations. Treating such observations as decisive leads to misplaced confidence, premature conclusions and poor decisions. Strong reasoning comes from seeking evidence that discriminates rather than merely agrees. The more an observation is expected under one explanation and not under serious alternatives, the more informative it becomes. Until then, the safest conclusion is often that the evidence has narrowed the possibilities less than it first appeared.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Evidence Fits Too Many Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Evidence Fits Too Many Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains confirmation bias and overvaluing compatible evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains confirmation bias and overvaluing compatible evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychology of Intelligence Analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWwkQoHlsCcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Psychology of Intelligence Analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychology of Intelligence Analysis">Psychology of Intelligence Analysis</a>
-        </h4>
-        <p class="fr-book-author">By Richards J. Heuer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychology of Intelligence Analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWwkQoHlsCcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Psychology of Intelligence Analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychology of Intelligence Analysis">Psychology of Intelligence Analysis</a>
+</h4>
+<p class="fr-book-author">By Richards J. Heuer</p>
         
-        <p class="fr-book-desc">Discusses diagnostic versus merely compatible evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses diagnostic versus merely compatible evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Encourages weighing evidence across rival explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages weighing evidence across rival explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Highlights evidence that differentiates competing forecasts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights evidence that differentiates competing forecasts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Psychology of Intelligence Analysis</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Psychology of Intelligence Analysis</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid"><img src="https://i.ebayimg.com/images/g/k8MAAeSwOZBpK04H/s-l225.jpg" alt="Listing image for 120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer">120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning game">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid"><img src="https://i.ebayimg.com/images/g/k8MAAeSwOZBpK04H/s-l225.jpg" alt="Listing image for 120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer">120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning game">Search<span data-ebay-domain-label>eBay.co.uk</span>: reasoning game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game"><img src="https://i.ebayimg.com/images/g/XXsAAeSwdCZqIHSb/s-l225.jpg" alt="Listing image for 120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer">120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning game">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game"><img src="https://i.ebayimg.com/images/g/XXsAAeSwdCZqIHSb/s-l225.jpg" alt="Listing image for 120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer">120 Level Hidden Building Block Kids Puzzle Toys Logic &amp; Spatial Reasoning Game</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning game">Search<span data-ebay-domain-label>eBay.co.uk</span>: reasoning game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Releases: The Short Game System: Transform Your Technique &amp; Thinking"><img src="https://i.ebayimg.com/images/g/bowAAeSwZeRqD243/s-l225.jpg" alt="Listing image for 3 Releases: The Short Game System: Transform Your Technique &amp; Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer">3 Releases: The Short Game System: Transform Your Technique &amp; Thinking</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning game">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Releases: The Short Game System: Transform Your Technique &amp; Thinking"><img src="https://i.ebayimg.com/images/g/bowAAeSwZeRqD243/s-l225.jpg" alt="Listing image for 3 Releases: The Short Game System: Transform Your Technique &amp; Thinking" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer">3 Releases: The Short Game System: Transform Your Technique &amp; Thinking</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning game">Search<span data-ebay-domain-label>eBay.co.uk</span>: reasoning game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120 Level Hidden Building Block Puzzle Logic &amp; Spatial Reasoning Game Kids Toys"><img src="https://i.ebayimg.com/images/g/6JIAAeSwMzhpsTV1/s-l225.jpg" alt="Listing image for 120 Level Hidden Building Block Puzzle Logic &amp; Spatial Reasoning Game Kids Toys" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer">120 Level Hidden Building Block Puzzle Logic &amp; Spatial Reasoning Game Kids Toys</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning game">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120 Level Hidden Building Block Puzzle Logic &amp; Spatial Reasoning Game Kids Toys"><img src="https://i.ebayimg.com/images/g/6JIAAeSwMzhpsTV1/s-l225.jpg" alt="Listing image for 120 Level Hidden Building Block Puzzle Logic &amp; Spatial Reasoning Game Kids Toys" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer">120 Level Hidden Building Block Puzzle Logic &amp; Spatial Reasoning Game Kids Toys</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning game">Search<span data-ebay-domain-label>eBay.co.uk</span>: reasoning game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-evidence-fits-too-many-stories-reasoning-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning game" data-ebay-reference="when-evidence-fits-too-many-stories-reasoning-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -658,7 +658,7 @@ Many observations are shared across several plausible explanations. Treating suc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -678,7 +678,7 @@ Many observations are shared across several plausible explanations. Treating suc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -710,7 +710,7 @@ Many observations are shared across several plausible explanations. Treating suc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -762,7 +762,7 @@ Many observations are shared across several plausible explanations. Treating suc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -807,7 +807,7 @@ Many observations are shared across several plausible explanations. Treating suc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -847,82 +847,82 @@ Many observations are shared across several plausible explanations. Treating suc
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Bayesian epistemology  
-   Link: <a href="https://en.wikipedia.org/wiki/Bayesian_epistemology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bayesian_epistemology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bayesian_epistemology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bayesian_epistemology</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Evidence under Bayes' theorem  
-   Link: <a href="https://en.wikipedia.org/wiki/Evidence_under_Bayes%27_theorem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Evidence_under_Bayes%27_theorem</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Evidence_under_Bayes%27_theorem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Evidence_under_Bayes%27_theorem</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pages.ucsd.edu  
    Title: UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many  
-   Link: <a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12458 — Confi...</p></details>
+   Link:<a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12458 — Confi...</p></details>
    Published: October 6, 2004  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasConfirmation bias describes our underlying tendency to notice, focus on, and provide greater credence to evidence that f...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasConfirmation bias describes our underlying tendency to notice, focus on, and provide greater credence to evidence that f...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA confirmation bias in perceptual decision-making due  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8659691/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8659691/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by RD Lange · 2021 · Cited by 81 — The confirmation bias, in which new evidence is given more weight when it agrees with existing beli...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8659691/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8659691/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by RD Lange · 2021 · Cited by 81 — The confirmation bias, in which new evidence is given more weight when it agrees with existing beli...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arnoldkling.substack.com  
    Title: confirmation bias a bayesian interpretation  
-   Link: <a href="https://arnoldkling.substack.com/p/confirmation-bias-a-bayesian-interpretation" target="_blank" rel="noopener noreferrer nofollow">https://arnoldkling.substack.com/p/confirmation-bias-a-bayesian-interpretation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias: A Bayesian InterpretationIn an example I like to use, during a routine checkup a doctor presented me with evidence that there was m...</p></details>
+   Link:<a href="https://arnoldkling.substack.com/p/confirmation-bias-a-bayesian-interpretation" target="_blank" rel="noopener noreferrer nofollow">https://arnoldkling.substack.com/p/confirmation-bias-a-bayesian-interpretation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bias: A Bayesian InterpretationIn an example I like to use, during a routine checkup a doctor presented me with evidence that there was m...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wo3xpigIjts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wo3xpigIjts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>gnitive bias and why it causes us to select information based...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wo3xpigIjts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wo3xpigIjts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gnitive bias and why it causes us to select information based...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pdxscholar.library.pdx.edu  
-   Link: <a href="https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1127&amp;context=open_access_etds" target="_blank" rel="noopener noreferrer nofollow">https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1127&amp;context=open_access_etds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias and Related Errors - PDXScholarby GL Borthwick · 2010 · Cited by 3 — Research on search and integration biases that can result in co...</p></details>
+   Link:<a href="https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1127&amp;context=open_access_etds" target="_blank" rel="noopener noreferrer nofollow">https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1127&amp;context=open_access_etds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bias and Related Errors - PDXScholarby GL Borthwick · 2010 · Cited by 3 — Research on search and integration biases that can result in co...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: What is [Critical Thinking](&#123;&#123; 'critical-skills/' | relative_url &#125;&#125;)?  
-   Link: <a href="https://www.youtube.com/watch?v=HnJ1bqXUnIM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HnJ1bqXUnIM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The power of Bayesian reasoning | BBC Ideas - YouTube The power of Bayesian reasoning | BBC Ideas - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HnJ1bqXUnIM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HnJ1bqXUnIM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The power of Bayesian reasoning | BBC Ideas - YouTube The power of Bayesian reasoning | BBC Ideas - YouTube...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The power of Bayesian reasoning | BBC Ideas  
-   Link: <a href="https://www.youtube.com/watch?v=1LzdESG6-2E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1LzdESG6-2E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing Hypotheses (ACH): Finding Plausible Answers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1LzdESG6-2E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1LzdESG6-2E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing Hypotheses (ACH): Finding Plausible Answers...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wrap.warwick.ac.uk  
    Title: WRAP confirmation bias emerges approximation Bayesian reasoning 2024  
-   Link: <a href="https://wrap.warwick.ac.uk/id/eprint/181714/7/WRAP-confirmation-bias-emerges-approximation-Bayesian-reasoning-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wrap.warwick.ac.uk/id/eprint/181714/7/WRAP-confirmation-bias-emerges-approximation-Bayesian-reasoning-2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We show that confirmation...Read more...</p></details>
+   Link:<a href="https://wrap.warwick.ac.uk/id/eprint/181714/7/WRAP-confirmation-bias-emerges-approximation-Bayesian-reasoning-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wrap.warwick.ac.uk/id/eprint/181714/7/WRAP-confirmation-bias-emerges-approximation-Bayesian-reasoning-2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We show that confirmation...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Y-J0FYOQRMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y-J0FYOQRMY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Critical Thinking?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y-J0FYOQRMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y-J0FYOQRMY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Critical Thinking?...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Analysis of Competing Hypotheses  
-   Link: <a href="https://www.youtube.com/watch?v=t6GEvRYMIxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6GEvRYMIxs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(ACH): A Structured Analytic Technique (SAT) for FinCrime...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6GEvRYMIxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6GEvRYMIxs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(ACH): A Structured Analytic Technique (SAT) for FinCrime...</p></details>

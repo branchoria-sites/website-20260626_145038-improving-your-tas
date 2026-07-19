@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_live_alternatives_e775b1_testa
 
 ## Introduction
 
-Keeping more than one explanation alive is only useful if those explanations are specific enough to compete. A vague alternative such as “something else caused it” does not improve thinking because it makes no distinctive [predictions]({{ 'predictions/' | relative_url }}) and gives you no guidance about what to investigate next. A useful rival explanation identifies a plausible mechanism, implies evidence that should exist if it is true, and changes what observations, records, or tests you would seek before reaching a conclusion. This approach reflects the logic of hypothesis testing and abductive reasoning: explanations become informative when they can be distinguished by evidence rather than defended through preference or intuition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stats.org.uk/statistical-inference/KlaymanHa1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[stats.org.uk+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-snippet">Confirmation, Disconfirmation, and Information in Hypothesis...by J Klayman · Cited by 3328 — Strategies for hypothesis testing in scien...</span></span></span>
+Keeping more than one explanation alive is only useful if those explanations are specific enough to compete. A vague alternative such as “something else caused it” does not improve thinking because it makes no distinctive [predictions]({{ 'predictions/' | relative_url }}) and gives you no guidance about what to investigate next. A useful rival explanation identifies a plausible mechanism, implies evidence that should exist if it is true, and changes what observations, records, or tests you would seek before reaching a conclusion. This approach reflects the logic of hypothesis testing and abductive reasoning: explanations become informative when they can be distinguished by evidence rather than defended through preference or intuition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stats.org.uk/statistical-inference/KlaymanHa1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[stats.org.uk+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-snippet">Confirmation, Disconfirmation, and Information in Hypothesis...by J Klayman · Cited by 3328 — Strategies for hypothesis testing in scien...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_testable_rival_expla_3d4ae2-Illustration-1-dark.svg" | relative_url }}" alt="Testable Rivals illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_testable_rival_expla_3d4ae2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_testable_rival_expla_3d4ae2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -344,7 +344,7 @@ Add expectations such as:
 
 </div>
 
-Predictions force explanations to take risks. An explanation that predicts nothing new cannot meaningfully be tested. This reflects a central principle of scientific reasoning: stronger explanations expose themselves to possible failure by making observable predictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hypothetico-deductive_model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hypothetico-deductive model</span><span class="citation-popover-snippet">Hypothetico-deductive model</span></span></span>
+Predictions force explanations to take risks. An explanation that predicts nothing new cannot meaningfully be tested. This reflects a central principle of scientific reasoning: stronger explanations expose themselves to possible failure by making observable predictions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hypothetico-deductive_model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hypothetico-deductive model</span><span class="citation-popover-snippet">Hypothetico-deductive model</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y-J0FYOQRMY" title="Analysis of Competing Hypotheses (ACH): A Structured Analytic Technique (SAT) for FinCrime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y-J0FYOQRMY" target="_blank" rel="noopener noreferrer">Analysis of Competing Hypotheses (ACH): A Structured Analytic Technique (SAT) for FinCrime</a></p><p class="youtube-embed-meta">Channel: Atlas Analytics: Intelligence Analysis</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y-J0FYOQRMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y-J0FYOQRMY">Open on YouTube</a></p></div></div></div>
@@ -445,7 +445,7 @@ Instead of collecting general evidence about website performance, ask separating
 
 Each question has the potential to favour one explanation over another.
 
-Psychological research on hypothesis testing shows that people naturally tend to seek information consistent with their current theory. Designing questions that distinguish between competing explanations helps counter this tendency by making evidence more diagnostic rather than merely supportive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stats.org.uk/statistical-inference/KlaymanHa1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[stats.org.uk+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-snippet">Confirmation, Disconfirmation, and Information in Hypothesis...by J Klayman · Cited by 3328 — Strategies for hypothesis testing in scien...</span></span></span>
+Psychological research on hypothesis testing shows that people naturally tend to seek information consistent with their current theory. Designing questions that distinguish between competing explanations helps counter this tendency by making evidence more diagnostic rather than merely supportive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stats.org.uk/statistical-inference/KlaymanHa1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[stats.org.uk+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-snippet">Confirmation, Disconfirmation, and Information in Hypothesis...by J Klayman · Cited by 3328 — Strategies for hypothesis testing in scien...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_testable_rival_expla_3d4ae2-Illustration-3-dark.svg" | relative_url }}" alt="Testable Rivals illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_testable_rival_expla_3d4ae2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_testable_rival_expla_3d4ae2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -470,7 +470,7 @@ A stronger version would specify in advance:
 
 </div>
 
-Making these commitments before examining new evidence reduces the temptation to reinterpret every outcome as confirmation. This principle underlies scientific approaches that emphasise falsifiable, risky predictions rather than explanations that can accommodate every result. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Scientific_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Scientific theory</span><span class="citation-popover-snippet">Scientific theory</span></span></span>
+Making these commitments before examining new evidence reduces the temptation to reinterpret every outcome as confirmation. This principle underlies scientific approaches that emphasise falsifiable, risky predictions rather than explanations that can accommodate every result.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Scientific_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Scientific theory</span><span class="citation-popover-snippet">Scientific theory</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NMElghTG_kI" title="This CIA Manual Trains the World&#x27;s Sharpest Analytical Minds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NMElghTG_kI" target="_blank" rel="noopener noreferrer">This CIA Manual Trains the World&#x27;s Sharpest Analytical Minds</a></p><p class="youtube-embed-meta">Channel: Stephen Petro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NMElghTG_kI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NMElghTG_kI">Open on YouTube</a></p></div></div></div>
@@ -489,197 +489,197 @@ When you notice yourself settling on one explanation, rewrite every serious alte
 
 > **Decision impact:** If this explanation proved correct, what would I investigate or do differently?
 
-Using the same template for every candidate prevents your preferred explanation from receiving extra detail while rivals remain vague. Research on "consider the alternative" strategies suggests that generating meaningful competing explanations can reduce overconfidence and [hindsight bias]({{ 'hindsight-bias/' | relative_url }}), but only when those alternatives are sufficiently concrete to influence judgement rather than serving as symbolic expressions of doubt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/multiple_explanation-_a_consider-an-alternative_strategy_for_debiasing_judgments.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[communicationcache.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">multiple explanation a consider an alternative strategy for debiasing judgments</span><span class="citation-popover-snippet">A Consider-an-Alternative Strategy for Debiasing Judgmentsby ER Hirt · 1995 · Cited by 469 — Previous research has suggested that an effe...</span></span></span>
+Using the same template for every candidate prevents your preferred explanation from receiving extra detail while rivals remain vague. Research on "consider the alternative" strategies suggests that generating meaningful competing explanations can reduce overconfidence and [hindsight bias]({{ 'hindsight-bias/' | relative_url }}), but only when those alternatives are sufficiently concrete to influence judgement rather than serving as symbolic expressions of doubt.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/multiple_explanation-_a_consider-an-alternative_strategy_for_debiasing_judgments.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[communicationcache.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">multiple explanation a consider an alternative strategy for debiasing judgments</span><span class="citation-popover-snippet">A Consider-an-Alternative Strategy for Debiasing Judgmentsby ER Hirt · 1995 · Cited by 469 — Previous research has suggested that an effe...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Make Alternatives Specific Enough To Matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Make Alternatives Specific Enough To Matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychology of Intelligence Analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWwkQoHlsCcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Psychology of Intelligence Analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychology of Intelligence Analysis">Psychology of Intelligence Analysis</a>
-        </h4>
-        <p class="fr-book-author">By Richards J. Heuer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychology of Intelligence Analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWwkQoHlsCcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Psychology of Intelligence Analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychology of Intelligence Analysis">Psychology of Intelligence Analysis</a>
+</h4>
+<p class="fr-book-author">By Richards J. Heuer</p>
         
-        <p class="fr-book-desc">Explains building meaningful rival explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains building meaningful rival explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Shows how explicit predictions make alternatives testable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how explicit predictions make alternatives testable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Encourages constructing genuine alternatives rather than defending one view.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages constructing genuine alternatives rather than defending one view.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-        </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+</h4>
+<p class="fr-book-author">By Douglas W. Hubbard</p>
         
-        <p class="fr-book-desc">Helps identify observations that distinguish explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify observations that distinguish explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Psychology of Intelligence Analysis</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Psychology of Intelligence Analysis</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Make Yourself Ready Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/oJEAAeSwLQ1p2SEF/s-l225.jpg" alt="Listing image for Make Yourself Ready Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Make Yourself Ready Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for make poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: make poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Make Yourself Ready Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/oJEAAeSwLQ1p2SEF/s-l225.jpg" alt="Listing image for Make Yourself Ready Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Make Yourself Ready Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for make poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: make poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Power! Great Posters &amp; How To Make Them by Teresa Sdralevich # R"><img src="https://i.ebayimg.com/images/g/F3EAAeSwUNBqGrmW/s-l225.jpg" alt="Listing image for Poster Power! Great Posters &amp; How To Make Them by Teresa Sdralevich # R" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Poster Power! Great Posters &amp; How To Make Them by Teresa Sdralevich # R</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for make poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: make poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Power! Great Posters &amp; How To Make Them by Teresa Sdralevich # R"><img src="https://i.ebayimg.com/images/g/F3EAAeSwUNBqGrmW/s-l225.jpg" alt="Listing image for Poster Power! Great Posters &amp; How To Make Them by Teresa Sdralevich # R" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Poster Power! Great Posters &amp; How To Make Them by Teresa Sdralevich # R</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for make poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: make poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MD04 MAKE DO AND MEND VINTAGE WAR POSTER A2 PRINT"><img src="https://i.ebayimg.com/images/g/d1AAAOSwqj1nT08j/s-l225.jpg" alt="Listing image for MD04 MAKE DO AND MEND VINTAGE WAR POSTER A2 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MD04 MAKE DO AND MEND VINTAGE WAR POSTER A2 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for make poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: make poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MD04 MAKE DO AND MEND VINTAGE WAR POSTER A2 PRINT"><img src="https://i.ebayimg.com/images/g/d1AAAOSwqj1nT08j/s-l225.jpg" alt="Listing image for MD04 MAKE DO AND MEND VINTAGE WAR POSTER A2 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MD04 MAKE DO AND MEND VINTAGE WAR POSTER A2 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for make poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: make poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MD02 VINTAGE MAKE DO AND MEND WAR POSTER A3 PRINT"><img src="https://i.ebayimg.com/images/g/ou4AAOSwYc5Z87M-/s-l225.jpg" alt="Listing image for MD02 VINTAGE MAKE DO AND MEND WAR POSTER A3 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MD02 VINTAGE MAKE DO AND MEND WAR POSTER A3 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for make poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: make poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MD02 VINTAGE MAKE DO AND MEND WAR POSTER A3 PRINT"><img src="https://i.ebayimg.com/images/g/ou4AAOSwYc5Z87M-/s-l225.jpg" alt="Listing image for MD02 VINTAGE MAKE DO AND MEND WAR POSTER A3 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MD02 VINTAGE MAKE DO AND MEND WAR POSTER A3 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for make poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: make poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="make-alternatives-specific-enough-to-matter-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -695,7 +695,7 @@ Using the same template for every candidate prevents your preferred explanation 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -715,7 +715,7 @@ Using the same template for every candidate prevents your preferred explanation 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -747,7 +747,7 @@ Using the same template for every candidate prevents your preferred explanation 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -799,7 +799,7 @@ Using the same template for every candidate prevents your preferred explanation 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -844,7 +844,7 @@ Using the same template for every candidate prevents your preferred explanation 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -884,91 +884,91 @@ Using the same template for every candidate prevents your preferred explanation 
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: stats.org.uk  
-   Link: <a href="https://stats.org.uk/statistical-inference/KlaymanHa1987.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stats.org.uk/statistical-inference/KlaymanHa1987.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation, Disconfirmation, and Information in Hypothesis...by J Klayman · Cited by 3328 — Strategies for hypothesis testing in scien...</p></details>
+   Link:<a href="https://stats.org.uk/statistical-inference/KlaymanHa1987.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stats.org.uk/statistical-inference/KlaymanHa1987.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation, Disconfirmation, and Information in Hypothesis...by J Klayman · Cited by 3328 — Strategies for hypothesis testing in scien...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Hypothetico-deductive model  
-   Link: <a href="https://en.wikipedia.org/wiki/Hypothetico-deductive_model" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hypothetico-deductive_model</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hypothetico-deductive_model" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hypothetico-deductive_model</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Scientific theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Scientific_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scientific_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Scientific_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scientific_theory</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Humans actively sample evidence to support prior beliefs - PMCby P Kaanders · 2022 · Cited by 68 — Accordingly, we predict that confir...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Humans actively sample evidence to support prior beliefs - PMCby P Kaanders · 2022 · Cited by 68 — Accordingly, we predict that confir...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Congruence bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Congruence_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Congruence_bias</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Congruence_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Congruence_bias</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: communicationcache.com  
    Title: multiple explanation a consider an alternative strategy for debiasing judgments  
-   Link: <a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/multiple_explanation-_a_consider-an-alternative_strategy_for_debiasing_judgments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/multiple_explanation-_a_consider-an-alternative_strategy_for_debiasing_judgments.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Consider-an-Alternative Strategy for Debiasing Judgmentsby ER Hirt · 1995 · Cited by 469 — Previous research has suggested that an effe...</p></details>
+   Link:<a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/multiple_explanation-_a_consider-an-alternative_strategy_for_debiasing_judgments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/multiple_explanation-_a_consider-an-alternative_strategy_for_debiasing_judgments.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Consider-an-Alternative Strategy for Debiasing Judgmentsby ER Hirt · 1995 · Cited by 469 — Previous research has suggested that an effe...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Y-J0FYOQRMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y-J0FYOQRMY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing Hypotheses (ACH): Finding Plausible Answers - YouTube Analysis of Competing Hypotheses (ACH): Finding Plausible Ans...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y-J0FYOQRMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y-J0FYOQRMY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing Hypotheses (ACH): Finding Plausible Answers - YouTube Analysis of Competing Hypotheses (ACH): Finding Plausible Ans...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/220480585_Seeking_Confirmation_Is_Rational_for_Deterministic_Hypotheses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220480585_Seeking_Confirmation_Is_Rational_for_Deterministic_Hypotheses</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>hen those hypotheses are deterministic, each making a single prediction about...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/220480585_Seeking_Confirmation_Is_Rational_for_Deterministic_Hypotheses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220480585_Seeking_Confirmation_Is_Rational_for_Deterministic_Hypotheses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hen those hypotheses are deterministic, each making a single prediction about...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: papers.ssrn.com  
    Title: Improving Abductive Reasoning  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6594299.pdf?abstractid=6594299&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6594299.pdf?abstractid=6594299&amp;mirid=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abductive ReasoningAbstract: Abduction is a mode of reasoning that generates or refines plausible explanations for an observed empirical...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6594299.pdf?abstractid=6594299&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6594299.pdf?abstractid=6594299&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abductive ReasoningAbstract: Abduction is a mode of reasoning that generates or refines plausible explanations for an observed empirical...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dan.sperber.fr  
    Title: fr Why do humans reason?  
-   Link: <a href="https://www.dan.sperber.fr/wp-content/uploads/2009/10/MercierSperberWhydohumansreason.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dan.sperber.fr/wp-content/uploads/2009/10/MercierSperberWhydohumansreason.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arguments for an argumentative theoryby H Mercier · 2011 · Cited by 3557 — This explains the notorious confirmation bias. This bias is ap...</p></details>
+   Link:<a href="https://www.dan.sperber.fr/wp-content/uploads/2009/10/MercierSperberWhydohumansreason.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dan.sperber.fr/wp-content/uploads/2009/10/MercierSperberWhydohumansreason.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arguments for an argumentative theoryby H Mercier · 2011 · Cited by 3557 — This explains the notorious confirmation bias. This bias is ap...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: This CIA Manual Trains the World's Sharpest Analytical Minds  
-   Link: <a href="https://www.youtube.com/watch?v=NMElghTG_kI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NMElghTG_kI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Analysis Skills: Analysis of Competing Hypotheses (Part 1)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NMElghTG_kI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NMElghTG_kI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Analysis Skills: Analysis of Competing Hypotheses (Part 1)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Analysis of Competing Hypotheses (ACH): Finding Plausible Answers  
-   Link: <a href="https://www.youtube.com/watch?v=xt4EnzvGA4w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xt4EnzvGA4w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This CIA Manual Trains the World&#x27;s Sharpest Analytical Minds...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xt4EnzvGA4w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xt4EnzvGA4w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This CIA Manual Trains the World&#x27;s Sharpest Analytical Minds...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hermanaguinis.com  
-   Link: <a href="https://www.hermanaguinis.com/pdf/JOMForumtheory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hermanaguinis.com/pdf/JOMForumtheory.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JOM Forum: Theory Testing Is Theory Generationby M Ketokivi · 2026 · Cited by 1 — In this paper, we propose that theory- testing research...</p></details>
+   Link:<a href="https://www.hermanaguinis.com/pdf/JOMForumtheory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hermanaguinis.com/pdf/JOMForumtheory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JOM Forum: Theory Testing Is Theory Generationby M Ketokivi · 2026 · Cited by 1 — In this paper, we propose that theory- testing research...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: repository.mdx.ac.uk  
-   Link: <a href="https://repository.mdx.ac.uk/download/56199b865755f7ffe0f2e697a221094d9723cc68c1db2314d90d96fcdd117016/1342655/s41235-024-00560-y.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.mdx.ac.uk/download/56199b865755f7ffe0f2e697a221094d9723cc68c1db2314d90d96fcdd117016/1342655/s41235-024-00560-y.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For instance, the availability and relevance of...Read m...</p></details>
+   Link:<a href="https://repository.mdx.ac.uk/download/56199b865755f7ffe0f2e697a221094d9723cc68c1db2314d90d96fcdd117016/1342655/s41235-024-00560-y.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.mdx.ac.uk/download/56199b865755f7ffe0f2e697a221094d9723cc68c1db2314d90d96fcdd117016/1342655/s41235-024-00560-y.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For instance, the availability and relevance of...Read m...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Analysis of Competing Hypotheses  
-   Link: <a href="https://www.youtube.com/watch?v=t6GEvRYMIxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6GEvRYMIxs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(ACH): A Structured Analytic Technique (SAT) for FinCrime...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t6GEvRYMIxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6GEvRYMIxs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(ACH): A Structured Analytic Technique (SAT) for FinCrime...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Intelligence Analysis Skills: Analysis of Competing Hypotheses (Part 1)  
-   Link: <a href="https://www.youtube.com/watch?v=J_eDCBf7R2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J_eDCBf7R2I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing Hypotheses...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J_eDCBf7R2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J_eDCBf7R2I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing Hypotheses...</p></details>

@@ -278,7 +278,7 @@ A Brier score is one of the simplest ways to turn confidence into measurable fee
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_feedbac_6aa270-Illustration-1-dark.svg" | relative_url }}" alt="Brier Scores illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_feedbac_6aa270-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_feedbac_6aa270-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For anyone trying to improve their thinking and analytical skills, the value of a Brier score is not that it produces a single number to compete over. Its value is that it exposes whether your confidence is consistently too high, too low, or appropriately matched to reality. At the same time, the score has important limits. Lower scores are not always evidence of better judgement if different people answered questions of very different difficulty, and a single score reveals little about *why* a forecaster performed well or badly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scores.readthedocs.io/en/1.3.0/tutorials/Brier_Score.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scores.readthedocs.io">[scores.readthedocs.io+2Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scores.readthedocs.io</span><span class="citation-popover-snippet">Brier score — scores 1.3.0 documentationThe Brier score is a strictly proper scoring rule where lower values are better (it is negatively...</span></span></span>
+For anyone trying to improve their thinking and analytical skills, the value of a Brier score is not that it produces a single number to compete over. Its value is that it exposes whether your confidence is consistently too high, too low, or appropriately matched to reality. At the same time, the score has important limits. Lower scores are not always evidence of better judgement if different people answered questions of very different difficulty, and a single score reveals little about *why* a forecaster performed well or badly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scores.readthedocs.io/en/1.3.0/tutorials/Brier_Score.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scores.readthedocs.io">[scores.readthedocs.io+2Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scores.readthedocs.io</span><span class="citation-popover-snippet">Brier score — scores 1.3.0 documentationThe Brier score is a strictly proper scoring rule where lower values are better (it is negatively...</span></span></span>
 
 ## How a Brier score grades a probability
 
@@ -292,7 +292,7 @@ If the event does not happen, the error is:
 
 * (0 − predicted probability)²
 
-The scores are then averaged across many [predictions]({{ 'predictions/' | relative_url }}). Lower scores are better, with 0 representing perfect forecasting. Because errors are squared, confident mistakes are punished much more heavily than cautious ones. Predicting a 99% chance of success when something fails produces a far worse score than predicting a 60% chance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scores.readthedocs.io/en/1.3.0/tutorials/Brier_Score.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scores.readthedocs.io">[scores.readthedocs.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scores.readthedocs.io</span><span class="citation-popover-snippet">Brier score — scores 1.3.0 documentationThe Brier score is a strictly proper scoring rule where lower values are better (it is negatively...</span></span></span>
+The scores are then averaged across many [predictions]({{ 'predictions/' | relative_url }}). Lower scores are better, with 0 representing perfect forecasting. Because errors are squared, confident mistakes are punished much more heavily than cautious ones. Predicting a 99% chance of success when something fails produces a far worse score than predicting a 60% chance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scores.readthedocs.io/en/1.3.0/tutorials/Brier_Score.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scores.readthedocs.io">[scores.readthedocs.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scores.readthedocs.io</span><span class="citation-popover-snippet">Brier score — scores 1.3.0 documentationThe Brier score is a strictly proper scoring rule where lower values are better (it is negatively...</span></span></span>
 
 A few simple examples illustrate the idea:
 
@@ -300,7 +300,7 @@ ForecastOutcomeBrier score90%Event occurs0.0190%Event does not occur0.8160%Event
 
 These examples highlight the central lesson for confidence calibration: certainty should be earned. The scoring rule rewards accurate confidence rather than boldness for its own sake.
 
-An important theoretical property is that the Brier score is a **strictly proper scoring rule**. This means the forecaster's best long-run strategy is to report their genuine probability estimate rather than exaggerating confidence or hedging towards 50%. That property makes it especially suitable as a learning tool rather than merely a performance metric. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1808.07501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Calibration Scoring Rules for Practical Prediction Training</span><span class="citation-popover-snippet">Calibration Scoring Rules for Practical Prediction TrainingAugust 22, 2018...</span><span class="citation-popover-meta">Published: August 22, 2018</span></span></span>
+An important theoretical property is that the Brier score is a **strictly proper scoring rule**. This means the forecaster's best long-run strategy is to report their genuine probability estimate rather than exaggerating confidence or hedging towards 50%. That property makes it especially suitable as a learning tool rather than merely a performance metric.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1808.07501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Calibration Scoring Rules for Practical Prediction Training</span><span class="citation-popover-snippet">Calibration Scoring Rules for Practical Prediction TrainingAugust 22, 2018...</span><span class="citation-popover-meta">Published: August 22, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5mbX6ITznHk" title="Bias-Variance Trade-off - Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5mbX6ITznHk" target="_blank" rel="noopener noreferrer">Bias-Variance Trade-off - Explained</a></p><p class="youtube-embed-meta">Channel: DataMListic &middot; Views: 6.6K &middot; Uploaded: February 2023 &middot; Length: 4 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5mbX6ITznHk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5mbX6ITznHk">Open on YouTube</a></p></div></div></div>
@@ -313,7 +313,7 @@ A common mistake is treating a lower Brier score as proof that one person is a b
 
 Forecasts on easy questions naturally receive lower Brier scores than forecasts on genuinely uncertain ones. Someone predicting obvious sporting favourites or well-established trends may outperform someone making careful predictions about geopolitical events, even if the second forecaster is better calibrated.
 
-Researchers studying forecasting [tournaments]({{ 'tournaments/' | relative_url }}) have therefore explored methods that adjust for question difficulty or compare forecasters only on shared questions. Without such adjustments, raw Brier scores can mix together forecasting skill and task difficulty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forecastbench.org/assets/pdfs/forecastbench_updated_methodology.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forecastbench.org">[ForecastBench]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forecastbench.org</span><span class="citation-popover-snippet">UPDATED RANKING METHODOL- OGYby S Kucinskas — 5.1 EXCLUDING STALE MODELS FROM DIFFICULTY ESTIMATION. The difficulty-adjusted...</span></span></span>
+Researchers studying forecasting [tournaments]({{ 'tournaments/' | relative_url }}) have therefore explored methods that adjust for question difficulty or compare forecasters only on shared questions. Without such adjustments, raw Brier scores can mix together forecasting skill and task difficulty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forecastbench.org/assets/pdfs/forecastbench_updated_methodology.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forecastbench.org">[ForecastBench]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forecastbench.org</span><span class="citation-popover-snippet">UPDATED RANKING METHODOL- OGYby S Kucinskas — 5.1 EXCLUDING STALE MODELS FROM DIFFICULTY ESTIMATION. The difficulty-adjusted...</span></span></span>
 
 For personal feedback, this means you should compare:
 
@@ -332,11 +332,11 @@ For personal feedback, this means you should compare:
 
 Another limitation is that the Brier score combines multiple aspects of forecasting into one number.
 
-Murphy's classic decomposition separates the overall score into three components: <span class="citation-chip-wrap"><a class="citation-chip" href="https://insightful-data-lab.com/2025/08/21/murphys-decomposition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightful-data-lab.com">[insightful-data-lab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightful-data-lab.com</span><span class="citation-popover-title">Murphy&#x27;s Decomposition</span><span class="citation-popover-snippet">Your Gateway to Data Mastery21 Aug 2025 — Murphy&#x27;s decomposition = a way to break down forecast error into calibration (reliability), sha...</span></span></span>
+Murphy's classic decomposition separates the overall score into three components:<span class="citation-chip-wrap"><a class="citation-chip" href="https://insightful-data-lab.com/2025/08/21/murphys-decomposition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightful-data-lab.com">[insightful-data-lab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightful-data-lab.com</span><span class="citation-popover-title">Murphy&#x27;s Decomposition</span><span class="citation-popover-snippet">Your Gateway to Data Mastery21 Aug 2025 — Murphy&#x27;s decomposition = a way to break down forecast error into calibration (reliability), sha...</span></span></span>
 
 * **Reliability (calibration):** whether predicted [probabilities]({{ 'probabilities/' | relative_url }}) match observed frequencies.
 * **Resolution:** whether the forecaster successfully distinguishes situations that genuinely have different chances of occurring.
-* **[Uncertainty]({{ 'uncertainty/' | relative_url }}):** the inherent unpredictability of the events themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</span></span></span>
+* **[Uncertainty]({{ 'uncertainty/' | relative_url }}):** the inherent unpredictability of the events themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</span></span></span>
 
 This decomposition explains why two forecasters can have identical overall scores for different reasons. One might be well calibrated but reluctant to move away from 50%, while another makes informative forecasts but is slightly overconfident. Looking only at the average score hides those differences.
 
@@ -344,7 +344,7 @@ This decomposition explains why two forecasters can have identical overall score
 
 Another misconception is that a perfectly informed forecasting process should eventually achieve a Brier score of zero. In reality, many events remain genuinely probabilistic. Even if your stated probabilities exactly match the true underlying risks, random [outcomes]({{ 'outcomes/' | relative_url }}) still produce non-zero average scores.
 
-Recent methodological work emphasises that the Brier score reflects not only forecasting quality but also the underlying distribution of risks and unavoidable randomness in the events being predicted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">On misconceptions about the Brier score in binary prediction...by L Hoessly · 2026 · Cited by 19 — The Brier score was shown to refle...</span></span></span>
+Recent methodological work emphasises that the Brier score reflects not only forecasting quality but also the underlying distribution of risks and unavoidable randomness in the events being predicted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">On misconceptions about the Brier score in binary prediction...by L Hoessly · 2026 · Cited by 19 — The Brier score was shown to refle...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rG2EfFOXyg0" title="A Guide to Model Calibration | Calibration Plots | Brier Score | Platt Scaling | Isotonic Regression" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rG2EfFOXyg0" target="_blank" rel="noopener noreferrer">A Guide to Model Calibration | Calibration Plots | Brier Score | Platt Scaling | Isotonic Regression</a></p><p class="youtube-embed-meta">Channel: DataTrek</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rG2EfFOXyg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rG2EfFOXyg0">Open on YouTube</a></p></div></div></div>
@@ -359,7 +359,7 @@ A productive feedback cycle looks like this:
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Record explicit probability forecasts before outcomes are known.
-2. Calculate your average Brier score over dozens or hundreds of predictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emergentmind.com/topics/brier-score-term" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[emergentmind.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">brier score term</span><span class="citation-popover-snippet">Brier Score: Calibration, Resolution, and UncertaintyJul 25, 2025 — The Brier score term evaluates probabilistic forecasts by decomposing...</span></span></span>
+2. Calculate your average Brier score over dozens or hundreds of predictions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emergentmind.com/topics/brier-score-term" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[emergentmind.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">brier score term</span><span class="citation-popover-snippet">Brier Score: Calibration, Resolution, and UncertaintyJul 25, 2025 — The Brier score term evaluates probabilistic forecasts by decomposing...</span></span></span>
 3. Review your largest penalties, especially forecasts above about 90% confidence that proved wrong.
 4. Examine whether the problem was missing evidence, overconfidence, or poor judgement about uncertainty.
 5. Adjust future probability estimates rather than merely trying to minimise the score.
@@ -368,9 +368,9 @@ A productive feedback cycle looks like this:
 
 This process encourages honest self-calibration. The objective is not to avoid strong predictions altogether but to reserve high confidence for situations where the evidence genuinely supports it.
 
-One useful habit is to review forecasts by confidence bands—for example, all predictions made between 70% and 80% confidence—and ask whether roughly three quarters actually occurred. That complements the Brier score by revealing systematic overconfidence or underconfidence that a single average can conceal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</span></span></span>
+One useful habit is to review forecasts by confidence bands—for example, all predictions made between 70% and 80% confidence—and ask whether roughly three quarters actually occurred. That complements the Brier score by revealing systematic overconfidence or underconfidence that a single average can conceal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</span></span></span>
 
-Trying to "game" the score by predicting 50% for everything is also a poor strategy. While cautious forecasts avoid catastrophic penalties, they fail to distinguish likely from unlikely events, reducing forecast resolution. Proper scoring rules reward forecasters who are both well calibrated and willing to express justified confidence when evidence supports it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</span></span></span>
+Trying to "game" the score by predicting 50% for everything is also a poor strategy. While cautious forecasts avoid catastrophic penalties, they fail to distinguish likely from unlikely events, reducing forecast resolution. Proper scoring rules reward forecasters who are both well calibrated and willing to express justified confidence when evidence supports it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_feedbac_6aa270-Illustration-3-dark.svg" | relative_url }}" alt="Brier Scores illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_feedbac_6aa270-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_feedbac_6aa270-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -392,194 +392,194 @@ Used this way, the Brier score turns vague feelings of confidence into measurabl
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Brier Scores Can And Cannot Tell You. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Brier Scores Can And Cannot Tell You. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Discusses scoring forecasts and feedback-driven improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses scoring forecasts and feedback-driven improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-        </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+</h4>
+<p class="fr-book-author">By Douglas W. Hubbard</p>
         
-        <p class="fr-book-desc">Emphasizes measurable evaluation of uncertain judgments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes measurable evaluation of uncertain judgments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Explains prediction quality and uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains prediction quality and uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides context for why forecasts become miscalibrated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for why forecasts become miscalibrated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1950s TREBLE CHANCE DICE GAME ARIEL PRODUCTIONS + BOX RULES BAKELITE DICE"><img src="https://i.ebayimg.com/images/g/bS0AAOSw415mFBUD/s-l225.jpg" alt="Listing image for 1950s TREBLE CHANCE DICE GAME ARIEL PRODUCTIONS + BOX RULES BAKELITE DICE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer">1950s TREBLE CHANCE DICE GAME ARIEL PRODUCTIONS + BOX RULES BAKELITE DICE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for probability dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: probability dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1950s TREBLE CHANCE DICE GAME ARIEL PRODUCTIONS + BOX RULES BAKELITE DICE"><img src="https://i.ebayimg.com/images/g/bS0AAOSw415mFBUD/s-l225.jpg" alt="Listing image for 1950s TREBLE CHANCE DICE GAME ARIEL PRODUCTIONS + BOX RULES BAKELITE DICE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer">1950s TREBLE CHANCE DICE GAME ARIEL PRODUCTIONS + BOX RULES BAKELITE DICE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for probability dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: probability dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul J. Nahin 2 x Probability: Duelling Idiots+Digital Dice and (2014, PBK)"><img src="https://i.ebayimg.com/images/g/qtUAAeSwOpVpehau/s-l225.jpg" alt="Listing image for Paul J. Nahin 2 x Probability: Duelling Idiots+Digital Dice and (2014, PBK)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer">Paul J. Nahin 2 x Probability: Duelling Idiots+Digital Dice and (2014, PBK)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for probability dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: probability dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul J. Nahin 2 x Probability: Duelling Idiots+Digital Dice and (2014, PBK)"><img src="https://i.ebayimg.com/images/g/qtUAAeSwOpVpehau/s-l225.jpg" alt="Listing image for Paul J. Nahin 2 x Probability: Duelling Idiots+Digital Dice and (2014, PBK)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer">Paul J. Nahin 2 x Probability: Duelling Idiots+Digital Dice and (2014, PBK)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for probability dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: probability dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sintrres Dice Game | Strategy &amp; Chance | Push Your Luck Game | 2+ Players"><img src="https://i.ebayimg.com/images/g/FE0AAeSwYwFp0g7Y/s-l225.jpg" alt="Listing image for Sintrres Dice Game | Strategy &amp; Chance | Push Your Luck Game | 2+ Players" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer">Sintrres Dice Game | Strategy &amp; Chance | Push Your Luck Game | 2+ Players</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for probability dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: probability dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sintrres Dice Game | Strategy &amp; Chance | Push Your Luck Game | 2+ Players"><img src="https://i.ebayimg.com/images/g/FE0AAeSwYwFp0g7Y/s-l225.jpg" alt="Listing image for Sintrres Dice Game | Strategy &amp; Chance | Push Your Luck Game | 2+ Players" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer">Sintrres Dice Game | Strategy &amp; Chance | Push Your Luck Game | 2+ Players</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for probability dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: probability dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SimplyFun My Mine Dice Game Strategy Probability"><img src="https://i.ebayimg.com/images/g/WaYAAeSwcRJqLDMN/s-l225.jpg" alt="Listing image for SimplyFun My Mine Dice Game Strategy Probability" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer">SimplyFun My Mine Dice Game Strategy Probability</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for probability dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: probability dice</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SimplyFun My Mine Dice Game Strategy Probability"><img src="https://i.ebayimg.com/images/g/WaYAAeSwcRJqLDMN/s-l225.jpg" alt="Listing image for SimplyFun My Mine Dice Game Strategy Probability" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer">SimplyFun My Mine Dice Game Strategy Probability</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for probability dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: probability dice</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=probability+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brier-scores-can-and-cannot-tell-you-probability-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="probability dice" data-ebay-reference="what-brier-scores-can-and-cannot-tell-you-probability-dice" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ Used this way, the Brier score turns vague feelings of confidence into measurabl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ Used this way, the Brier score turns vague feelings of confidence into measurabl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ Used this way, the Brier score turns vague feelings of confidence into measurabl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ Used this way, the Brier score turns vague feelings of confidence into measurabl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ Used this way, the Brier score turns vague feelings of confidence into measurabl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -784,188 +784,188 @@ Used this way, the Brier score turns vague feelings of confidence into measurabl
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scores.readthedocs.io  
-   Link: <a href="https://scores.readthedocs.io/en/1.3.0/tutorials/Brier_Score.html" target="_blank" rel="noopener noreferrer nofollow">https://scores.readthedocs.io/en/1.3.0/tutorials/Brier_Score.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brier score — scores 1.3.0 documentationThe Brier score is a strictly proper scoring rule where lower values are better (it is negatively...</p></details>
+   Link:<a href="https://scores.readthedocs.io/en/1.3.0/tutorials/Brier_Score.html" target="_blank" rel="noopener noreferrer nofollow">https://scores.readthedocs.io/en/1.3.0/tutorials/Brier_Score.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brier score — scores 1.3.0 documentationThe Brier score is a strictly proper scoring rule where lower values are better (it is negatively...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Superforecasting reality check: Evidence from a small pool of...by I Katsagounos · 2020 · Cited by 23 — The Brier Score measures the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Superforecasting reality check: Evidence from a small pool of...by I Katsagounos · 2020 · Cited by 23 — The Brier Score measures the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Calibration Scoring Rules for Practical Prediction Training  
-   Link: <a href="https://arxiv.org/abs/1808.07501" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.07501</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calibration Scoring Rules for Practical Prediction TrainingAugust 22, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1808.07501" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.07501</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calibration Scoring Rules for Practical Prediction TrainingAugust 22, 2018...</p></details>
    Published: August 22, 2018  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: forecastbench.org  
-   Link: <a href="https://www.forecastbench.org/assets/pdfs/forecastbench_updated_methodology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forecastbench.org/assets/pdfs/forecastbench_updated_methodology.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATED RANKING METHODOL- OGYby S Kucinskas — 5.1 EXCLUDING STALE MODELS FROM DIFFICULTY ESTIMATION. The difficulty-adjusted...</p></details>
+   Link:<a href="https://www.forecastbench.org/assets/pdfs/forecastbench_updated_methodology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forecastbench.org/assets/pdfs/forecastbench_updated_methodology.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATED RANKING METHODOL- OGYby S Kucinskas — 5.1 EXCLUDING STALE MODELS FROM DIFFICULTY ESTIMATION. The difficulty-adjusted...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On misconceptions about the Brier score in binary prediction...by L Hoessly · 2026 · Cited by 19 — The Brier score was shown to refle...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On misconceptions about the Brier score in binary prediction...by L Hoessly · 2026 · Cited by 19 — The Brier score was shown to refle...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2507.04562v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.04562v3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating LLMs on Real-World Forecasting Against...4 Aug 2025 — A Brier score of 0 represents perfect accuracy, and a Brier score of 1...</p></details>
+   Link:<a href="https://arxiv.org/html/2507.04562v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.04562v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating LLMs on Real-World Forecasting Against...4 Aug 2025 — A Brier score of 0 represents perfect accuracy, and a Brier score of 1...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2005.01835" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2005.01835</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2005.01835" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2005.01835</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/0806.0813" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/0806.0813</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scoring rules are an important tool for evaluating the performance of probabilistic forecasting schemes. In the binary case...Read more...</p></details>
+   Link:<a href="https://arxiv.org/pdf/0806.0813" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/0806.0813</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scoring rules are an important tool for evaluating the performance of probabilistic forecasting schemes. In the binary case...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2003.12447" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2003.12447</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We evaluate the Brier score distribution of aggregated forecasts.Read more...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2003.12447" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2003.12447</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We evaluate the Brier score distribution of aggregated forecasts.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scores.readthedocs.io  
-   Link: <a href="https://scores.readthedocs.io/en/1.1.0/tutorials/Brier_Score.html" target="_blank" rel="noopener noreferrer nofollow">https://scores.readthedocs.io/en/1.1.0/tutorials/Brier_Score.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brier score — scores 1.1.0 documentationThe Brier score is a strictly proper scoring rule where lower values are better (it is negatively...</p></details>
+   Link:<a href="https://scores.readthedocs.io/en/1.1.0/tutorials/Brier_Score.html" target="_blank" rel="noopener noreferrer nofollow">https://scores.readthedocs.io/en/1.1.0/tutorials/Brier_Score.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brier score — scores 1.1.0 documentationThe Brier score is a strictly proper scoring rule where lower values are better (it is negatively...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rmets.onlinelibrary.wiley.com  
-   Link: <a href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</p></details>
+   Link:<a href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2985</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Meteorological SocietySimplifying and generalising Murphy&#x27;s Brier score...by S Siegert · 2017 · Cited by 45 — The decomposition of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: The Brier  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Brier" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Brier</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The BrierThe Brier (French: Le Brier), known since 2024 as the Montana&#x27;s Brier for sponsorship reasons, is the annual Canadian men&#x27;s c...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Brier" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Brier</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The BrierThe Brier (French: Le Brier), known since 2024 as the Montana&#x27;s Brier for sponsorship reasons, is the annual Canadian men&#x27;s c...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Scoring rule  
-   Link: <a href="https://en.wikipedia.org/wiki/Scoring_rule" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scoring_rule</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scoring ruleA calibration curve allows to judge how well model predictions are calibrated, by comparing the predicted quantiles to the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Scoring_rule" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scoring_rule</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scoring ruleA calibration curve allows to judge how well model predictions are calibrated, by comparing the predicted quantiles to the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Brier score  
-   Link: <a href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brier_score</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brier score2.1 Three-component decomposition. 2.1.1 Reliability; 2.1.2 Resolution; 2.1.3 Uncertainty · 2.2 Two-component decomposition...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brier_score</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brier score2.1 Three-component decomposition. 2.1.1 Reliability; 2.1.2 Resolution; 2.1.3 Uncertainty · 2.2 Two-component decomposition...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>improves forecasting - PMC - NIHby DN Ferreiro · 2023 · Cited by 3 — The Brier score of such &#x27;compromise between compromises&#x27;, was define...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>improves forecasting - PMC - NIHby DN Ferreiro · 2023 · Cited by 3 — The Brier score of such &#x27;compromise between compromises&#x27;, was define...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12523994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12523994/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brier Score - an Overall Summary Measure for Risk...by K Zhu · 2025 · Cited by 13 — The Brier score, mean squared error of predicted ris...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12523994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12523994/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brier Score - an Overall Summary Measure for Risk...by K Zhu · 2025 · Cited by 13 — The Brier score, mean squared error of predicted ris...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nea.gov.sg  
-   Link: <a href="https://www.nea.gov.sg/corporate-functions/weather" target="_blank" rel="noopener noreferrer nofollow">https://www.nea.gov.sg/corporate-functions/weather</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Jun 2024 — Weather · 24-hour weather forecast · 4-day Outlook · Warnings &amp; Advisories · 24-hour Forecast · Rain Areas · UV Index · Exp...</p></details>
+   Link:<a href="https://www.nea.gov.sg/corporate-functions/weather" target="_blank" rel="noopener noreferrer nofollow">https://www.nea.gov.sg/corporate-functions/weather</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Jun 2024 — Weather · 24-hour weather forecast · 4-day Outlook · Warnings &amp; Advisories · 24-hour Forecast · Rain Areas · UV Index · Exp...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: insightful-data-lab.com  
    Title: Murphy's Decomposition  
-   Link: <a href="https://insightful-data-lab.com/2025/08/21/murphys-decomposition/" target="_blank" rel="noopener noreferrer nofollow">https://insightful-data-lab.com/2025/08/21/murphys-decomposition/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Gateway to Data Mastery21 Aug 2025 — Murphy&#x27;s decomposition = a way to break down forecast error into calibration (reliability), sha...</p></details>
+   Link:<a href="https://insightful-data-lab.com/2025/08/21/murphys-decomposition/" target="_blank" rel="noopener noreferrer nofollow">https://insightful-data-lab.com/2025/08/21/murphys-decomposition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your Gateway to Data Mastery21 Aug 2025 — Murphy&#x27;s decomposition = a way to break down forecast error into calibration (reliability), sha...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rmets.onlinelibrary.wiley.com  
-   Link: <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.2985</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and generalising Murphy&#x27;s Brier score...15 Dec 2016 — The decomposition of the Brier score into Reliability, Resolution and Uncertainty...</p></details>
+   Link:<a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.2985" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.2985</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and generalising Murphy&#x27;s Brier score...15 Dec 2016 — The decomposition of the Brier score into Reliability, Resolution and Uncertainty...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/risa.12776" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/risa.12776</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Superforecasting: The Art and Science...16 Mar 2017 — Technical concepts of calibration, resolution, and Brier scores are explained c...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/risa.12776" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/risa.12776</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Superforecasting: The Art and Science...16 Mar 2017 — Technical concepts of calibration, resolution, and Brier scores are explained c...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rmets.onlinelibrary.wiley.com  
-   Link: <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4478" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4478</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>conditional decomposition of proper scores: quantifying the...24 Apr 2023 — This decomposition does not rely on the scoring rule being p...</p></details>
+   Link:<a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4478" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4478</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>conditional decomposition of proper scores: quantifying the...24 Apr 2023 — This decomposition does not rely on the scoring rule being p...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: emergentmind.com  
    Title: brier score term  
-   Link: <a href="https://www.emergentmind.com/topics/brier-score-term" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/brier-score-term</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brier Score: Calibration, Resolution, and UncertaintyJul 25, 2025 — The Brier score term evaluates probabilistic forecasts by decomposing...</p></details>
+   Link:<a href="https://www.emergentmind.com/topics/brier-score-term" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/brier-score-term</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brier Score: Calibration, Resolution, and UncertaintyJul 25, 2025 — The Brier score term evaluates probabilistic forecasts by decomposing...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: emergentmind.com  
    Title: brier score  
-   Link: <a href="https://www.emergentmind.com/topics/brier-score" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/brier-score</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Murphy&#x27;s classical decomposition expresses the Brier score as the sum of three terms:...Read more...</p></details>
+   Link:<a href="https://www.emergentmind.com/topics/brier-score" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/brier-score</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Murphy&#x27;s classical decomposition expresses the Brier score as the sum of three terms:...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: entropicthoughts.com  
    Title: brier score  
-   Link: <a href="https://entropicthoughts.com/brier-score" target="_blank" rel="noopener noreferrer nofollow">https://entropicthoughts.com/brier-score</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Feb 2025 — A Brier score worse than 0.5 usually indicates sampling error, but a good forecaster could hypothetically grief an evaluator...</p></details>
+   Link:<a href="https://entropicthoughts.com/brier-score" target="_blank" rel="noopener noreferrer nofollow">https://entropicthoughts.com/brier-score</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Feb 2025 — A Brier score worse than 0.5 usually indicates sampling error, but a good forecaster could hypothetically grief an evaluator...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Identifying and Cultivating Superforecasters as a...25 May 2015 — In this article, we describe the winning strategy: culling off t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Identifying and Cultivating Superforecasters as a...25 May 2015 — In this article, we describe the winning strategy: culling off t...</p></details>
    Published: May 2015  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/253893961_Two_Extra_Components_in_the_Brier_Score_Decomposition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/253893961_Two_Extra_Components_in_the_Brier_Score_Decomposition</a>  
+   Link:<a href="https://www.researchgate.net/publication/253893961_Two_Extra_Components_in_the_Brier_Score_Decomposition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/253893961_Two_Extra_Components_in_the_Brier_Score_Decomposition</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cambridge.org  
    Title: recalibrating probabilistic forecasts to improve theiraccuracy  
-   Link: <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5D8F0DFC90FC1E9B5C38C12992A6C6A7/S1930297500009049a.pdf/recalibrating_probabilistic_forecasts_to_improve_theiraccuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5D8F0DFC90FC1E9B5C38C12992A6C6A7/S1930297500009049a.pdf/recalibrating_probabilistic_forecasts_to_improve_theiraccuracy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recalibrating probabilistic forecasts to improve their accuracyby Y Han · 2022 · Cited by 12 — The third panel shows the Brier scores bas...</p></details>
+   Link:<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5D8F0DFC90FC1E9B5C38C12992A6C6A7/S1930297500009049a.pdf/recalibrating_probabilistic_forecasts_to_improve_theiraccuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5D8F0DFC90FC1E9B5C38C12992A6C6A7/S1930297500009049a.pdf/recalibrating_probabilistic_forecasts_to_improve_theiraccuracy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recalibrating probabilistic forecasts to improve their accuracyby Y Han · 2022 · Cited by 12 — The third panel shows the Brier scores bas...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40eligoz/some-notes-on-probabilistic-classifiers-iii-brier-score-decomposition-eee5f847d87f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40eligoz/some-notes-on-probabilistic-classifiers-iii-brier-score-decomposition-eee5f847d87f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>), Uncertainty(UNC), Resolution (RES), Within-bin-variance(WBV), Within-bin-...Read more...</p></details>
+   Link:<a href="https://medium.com/%40eligoz/some-notes-on-probabilistic-classifiers-iii-brier-score-decomposition-eee5f847d87f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40eligoz/some-notes-on-probabilistic-classifiers-iii-brier-score-decomposition-eee5f847d87f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>), Uncertainty(UNC), Resolution (RES), Within-bin-variance(WBV), Within-bin-...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
    Title: Reliability, Sufficiency, and the Decomposition of Proper  
-   Link: <a href="https://www.researchgate.net/publication/227532520_Reliability_Sufficiency_and_the_Decomposition_of_Proper_Scores" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227532520_Reliability_Sufficiency_and_the_Decomposition_of_Proper_Scores</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Associated entropies and divergences are used in the calibration-sharpness decomposition introduced by Bröcker [4] for proper scores of c...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227532520_Reliability_Sufficiency_and_the_Decomposition_of_Proper_Scores" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227532520_Reliability_Sufficiency_and_the_Decomposition_of_Proper_Scores</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Associated entropies and divergences are used in the calibration-sharpness decomposition introduced by Bröcker [4] for proper scores of c...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: forum.effectivealtruism.org  
-   Link: <a href="https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Improve the Accuracy of Our Judgments and...25 Oct 2016 — Tetlock &amp; Gardner (2015) explain this point in the context of assessing for...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Improve the Accuracy of Our Judgments and...25 Oct 2016 — Tetlock &amp; Gardner (2015) explain this point in the context of assessing for...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40eligoz/some-notes-on-probabilistic-classifiers-ii-scoring-rules-and-the-brier-score-16ffc1ba063b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40eligoz/some-notes-on-probabilistic-classifiers-ii-scoring-rules-and-the-brier-score-16ffc1ba063b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>any probabilistic forecast which is not exactly calibrated with the...Read more...</p></details>
+   Link:<a href="https://medium.com/%40eligoz/some-notes-on-probabilistic-classifiers-ii-scoring-rules-and-the-brier-score-16ffc1ba063b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40eligoz/some-notes-on-probabilistic-classifiers-ii-scoring-rules-and-the-brier-score-16ffc1ba063b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>any probabilistic forecast which is not exactly calibrated with the...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: A Guide to Model Calibration | Calibration Plots | Brier Score  
-   Link: <a href="https://www.youtube.com/watch?v=rG2EfFOXyg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rG2EfFOXyg0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improve Your Decision-Making with Your Own Brier Score is highly relevant because it explains how to practically track confidence levels...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rG2EfFOXyg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rG2EfFOXyg0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improve Your Decision-Making with Your Own Brier Score is highly relevant because it explains how to practically track confidence levels...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: entropicthoughts.com  
    Title: improving forecasting accuracy benchmark  
-   Link: <a href="https://entropicthoughts.com/improving-forecasting-accuracy-benchmark.html" target="_blank" rel="noopener noreferrer nofollow">https://entropicthoughts.com/improving-forecasting-accuracy-benchmark.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting Accuracy7 Jul 2023 — The baseline Brier score on a 30-day forecast is 0.21 (in other words, the study subjects are somewhat b...</p></details>
+   Link:<a href="https://entropicthoughts.com/improving-forecasting-accuracy-benchmark.html" target="_blank" rel="noopener noreferrer nofollow">https://entropicthoughts.com/improving-forecasting-accuracy-benchmark.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting Accuracy7 Jul 2023 — The baseline Brier score on a 30-day forecast is 0.21 (in other words, the study subjects are somewhat b...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: commoncog.com  
    Title: how do you evaluate your own predictions  
-   Link: <a href="https://commoncog.com/how-do-you-evaluate-your-own-predictions/" target="_blank" rel="noopener noreferrer nofollow">https://commoncog.com/how-do-you-evaluate-your-own-predictions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?17 Dec 2019 — This post provides a comprehensive summary of the technique that Tetlock and Gardner presents in Superforecasting.Read more...</p></details>
+   Link:<a href="https://commoncog.com/how-do-you-evaluate-your-own-predictions/" target="_blank" rel="noopener noreferrer nofollow">https://commoncog.com/how-do-you-evaluate-your-own-predictions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?17 Dec 2019 — This post provides a comprehensive summary of the technique that Tetlock and Gardner presents in Superforecasting.Read more...</p></details>

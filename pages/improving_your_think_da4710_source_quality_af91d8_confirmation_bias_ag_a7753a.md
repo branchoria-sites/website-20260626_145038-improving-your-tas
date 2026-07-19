@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_source_quality_af91d8_confirma
 
 ## Introduction
 
-When a source agrees with what you already believe, it often feels more trustworthy before you have examined its evidence. That feeling is a common expression of **confirmation bias**: the tendency to seek, interpret and remember information in ways that support existing beliefs or expectations rather than challenge them. The result is that agreement itself can become a shortcut for judging credibility, even though a source's quality depends on its evidence, methods and accountability—not whether it reaches a comforting conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsConfirmation Bias: A Ubiquitous Phenomenon in Many...Confirmation bias is perhaps the best known and most widely accepted n...</span></span></span>
+When a source agrees with what you already believe, it often feels more trustworthy before you have examined its evidence. That feeling is a common expression of **confirmation bias**: the tendency to seek, interpret and remember information in ways that support existing beliefs or expectations rather than challenge them. The result is that agreement itself can become a shortcut for judging credibility, even though a source's quality depends on its evidence, methods and accountability—not whether it reaches a comforting conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsConfirmation Bias: A Ubiquitous Phenomenon in Many...Confirmation bias is perhaps the best known and most widely accepted n...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8_confirmation_bias_ag_a7753a-Illustration-1-dark.svg" | relative_url }}" alt="Bias Check illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8_confirmation_bias_ag_a7753a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8_confirmation_bias_ag_a7753a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,11 +284,11 @@ Within the broader question of **[source quality]({{ 'source-quality/' | relativ
 
 Confirmation bias is often described as selective exposure to supportive information, but the mechanism goes further. Prior beliefs influence several stages of reasoning at once.
 
-First, they affect **which sources attract attention**. When faced with many articles, videos or experts, people naturally gravitate towards those that seem likely to confirm what they already think. This can happen without any conscious intention to avoid opposing evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsConfirmation Bias: A Ubiquitous Phenomenon in Many...Confirmation bias is perhaps the best known and most widely accepted n...</span></span></span>
+First, they affect **which sources attract attention**. When faced with many articles, videos or experts, people naturally gravitate towards those that seem likely to confirm what they already think. This can happen without any conscious intention to avoid opposing evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsConfirmation Bias: A Ubiquitous Phenomenon in Many...Confirmation bias is perhaps the best known and most widely accepted n...</span></span></span>
 
-Second, prior beliefs influence **how evidence is interpreted**. The same study, report or statistic may appear convincing when it supports an existing view and flawed when it challenges it. Research in psychology has repeatedly found that people apply stricter standards to disagreeable evidence than to agreeable evidence, often identifying weaknesses only when the conclusion feels unwelcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsConfirmation Bias: A Ubiquitous Phenomenon in Many...Confirmation bias is perhaps the best known and most widely accepted n...</span></span></span>
+Second, prior beliefs influence **how evidence is interpreted**. The same study, report or statistic may appear convincing when it supports an existing view and flawed when it challenges it. Research in psychology has repeatedly found that people apply stricter standards to disagreeable evidence than to agreeable evidence, often identifying weaknesses only when the conclusion feels unwelcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsConfirmation Bias: A Ubiquitous Phenomenon in Many...Confirmation bias is perhaps the best known and most widely accepted n...</span></span></span>
 
-Third, beliefs shape **memory**. Supporting information is often recalled more easily, while contradictory information fades or is remembered as weaker than it actually was. Over time this creates the impression that "all the evidence" points in one direction, even when the original information was more mixed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsConfirmation Bias: A Ubiquitous Phenomenon in Many...Confirmation bias is perhaps the best known and most widely accepted n...</span></span></span>
+Third, beliefs shape **memory**. Supporting information is often recalled more easily, while contradictory information fades or is remembered as weaker than it actually was. Over time this creates the impression that "all the evidence" points in one direction, even when the original information was more mixed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsConfirmation Bias: A Ubiquitous Phenomenon in Many...Confirmation bias is perhaps the best known and most widely accepted n...</span></span></span>
 
 The important point is that none of these processes necessarily involve dishonesty. They arise because human reasoning tends to interpret new information through existing mental models rather than from a completely neutral starting point.
 
@@ -310,7 +310,7 @@ One practical test is to ask which sentence better explains your reaction:
 
 If the second explanation fits better, confirmation bias may be contributing to your confidence.
 
-This distinction becomes especially important in contested topics. Two articles may each cite studies and expert opinion, yet readers often describe the article supporting their position as "balanced" while dismissing the other as "biased". In many cases the difference reflects not only differences in evidence but also differences in how the reader evaluates evidence that feels congenial. Experimental research has repeatedly demonstrated that people can scrutinise unfriendly evidence far more critically than equally strong friendly evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Confirmation bias</span><span class="citation-popover-snippet">Confirmation bias</span></span></span>
+This distinction becomes especially important in contested topics. Two articles may each cite studies and expert opinion, yet readers often describe the article supporting their position as "balanced" while dismissing the other as "biased". In many cases the difference reflects not only differences in evidence but also differences in how the reader evaluates evidence that feels congenial. Experimental research has repeatedly demonstrated that people can scrutinise unfriendly evidence far more critically than equally strong friendly evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Confirmation bias</span><span class="citation-popover-snippet">Confirmation bias</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8_confirmation_bias_ag_a7753a-Illustration-2-dark.svg" | relative_url }}" alt="Bias Check illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8_confirmation_bias_ag_a7753a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8_confirmation_bias_ag_a7753a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -320,9 +320,9 @@ Several psychological processes reinforce one another.
 
 **Fluency.** Information consistent with existing beliefs is easier to process. Because it requires less mental effort, it can create a mistaken impression that it is also more accurate.
 
-**Reduced cognitive tension.** Evidence that fits existing beliefs avoids the discomfort that arises when new information challenges an established view. Accepting agreeable evidence therefore feels emotionally easier than resolving contradiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.simplypsychology.org/confirmation-bias.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">confirmation bias</span><span class="citation-popover-snippet">Simply PsychologyConfirmation Bias In Psychology: Definition &amp; Examples22 Jun 2023 — Confirmation bias is the tendency to look for inform...</span></span></span>
+**Reduced cognitive tension.** Evidence that fits existing beliefs avoids the discomfort that arises when new information challenges an established view. Accepting agreeable evidence therefore feels emotionally easier than resolving contradiction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.simplypsychology.org/confirmation-bias.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">confirmation bias</span><span class="citation-popover-snippet">Simply PsychologyConfirmation Bias In Psychology: Definition &amp; Examples22 Jun 2023 — Confirmation bias is the tendency to look for inform...</span></span></span>
 
-**Identity protection.** Some beliefs are closely connected to personal identity, political affiliation, professional reputation or social group membership. Challenging the belief may feel like challenging the person or group, making supportive sources seem unusually trustworthy regardless of their actual quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2012.01663" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in NewsDecember 3, 2020...</span><span class="citation-popover-meta">Published: December 3, 2020</span></span></span>
+**Identity protection.** Some beliefs are closely connected to personal identity, political affiliation, professional reputation or social group membership. Challenging the belief may feel like challenging the person or group, making supportive sources seem unusually trustworthy regardless of their actual quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2012.01663" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in NewsDecember 3, 2020...</span><span class="citation-popover-meta">Published: December 3, 2020</span></span></span>
 
 These [mechanisms]({{ 'mechanisms/' | relative_url }}) help explain why simply presenting additional facts does not always change minds. People are often evaluating not just the information itself but also whether accepting it would disrupt an existing worldview.
 
@@ -377,178 +377,178 @@ Agreement is not evidence of poor quality, but neither is it evidence of good qu
 The most reliable habit is to treat the pleasant feeling of agreement as a prompt for closer inspection rather than as confirmation that the source is trustworthy. Once source quality is assessed independently of personal agreement, confidence rests on evidence instead of familiarity, making analytical thinking more resilient in areas where beliefs are strongly held or emotionally important.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Friendly Sources Feel More Reliable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Friendly Sources Feel More Reliable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Directly addresses how to seek truth rather than defend comfortable beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how to seek truth rather than defend comfortable beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explores cognitive dissonance, self-justification, and why people resist contrary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores cognitive dissonance, self-justification, and why people resist contrary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases and intuitive judgements that make agreeable evidence feel stronger.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases and intuitive judgements that make agreeable evidence feel stronger.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes evidence-based reasoning, source scrutiny, and intellectual humility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Promotes evidence-based reasoning, source scrutiny, and intellectual humility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bruno Mars The Romantic Tour Personalised Souvenir Concert Ticket Memorabilia"><img src="https://i.ebayimg.com/images/g/6eEAAeSwzk9pX8uT/s-l225.jpg" alt="Listing image for Bruno Mars The Romantic Tour Personalised Souvenir Concert Ticket Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bruno Mars The Romantic Tour Personalised Souvenir Concert Ticket Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for more memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: more memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bruno Mars The Romantic Tour Personalised Souvenir Concert Ticket Memorabilia"><img src="https://i.ebayimg.com/images/g/6eEAAeSwzk9pX8uT/s-l225.jpg" alt="Listing image for Bruno Mars The Romantic Tour Personalised Souvenir Concert Ticket Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bruno Mars The Romantic Tour Personalised Souvenir Concert Ticket Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for more memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: more memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sienna Spiro My House Tour 2027 Personalised Souvenir Memorabilia Ticket"><img src="https://i.ebayimg.com/images/g/6RsAAeSw6MZqM92N/s-l225.jpg" alt="Listing image for Sienna Spiro My House Tour 2027 Personalised Souvenir Memorabilia Ticket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Sienna Spiro My House Tour 2027 Personalised Souvenir Memorabilia Ticket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for more memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: more memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sienna Spiro My House Tour 2027 Personalised Souvenir Memorabilia Ticket"><img src="https://i.ebayimg.com/images/g/6RsAAeSw6MZqM92N/s-l225.jpg" alt="Listing image for Sienna Spiro My House Tour 2027 Personalised Souvenir Memorabilia Ticket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Sienna Spiro My House Tour 2027 Personalised Souvenir Memorabilia Ticket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for more memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: more memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Linkin Park One More Light Tickets (7 July 2017, Cancelled) – Memorabilia"><img src="https://i.ebayimg.com/images/g/57sAAeSwtrNosaW-/s-l225.jpg" alt="Listing image for 2x Linkin Park One More Light Tickets (7 July 2017, Cancelled) – Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">2x Linkin Park One More Light Tickets (7 July 2017, Cancelled) – Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for more memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: more memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Linkin Park One More Light Tickets (7 July 2017, Cancelled) – Memorabilia"><img src="https://i.ebayimg.com/images/g/57sAAeSwtrNosaW-/s-l225.jpg" alt="Listing image for 2x Linkin Park One More Light Tickets (7 July 2017, Cancelled) – Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">2x Linkin Park One More Light Tickets (7 July 2017, Cancelled) – Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for more memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: more memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=more+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="more memorabilia -book -books -dvd" data-ebay-reference="why-friendly-sources-feel-more-reliable-more-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ The most reliable habit is to treat the pleasant feeling of agreement as a promp
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ The most reliable habit is to treat the pleasant feeling of agreement as a promp
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ The most reliable habit is to treat the pleasant feeling of agreement as a promp
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ The most reliable habit is to treat the pleasant feeling of agreement as a promp
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ The most reliable habit is to treat the pleasant feeling of agreement as a promp
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,88 +753,88 @@ The most reliable habit is to treat the pleasant feeling of agreement as a promp
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2012.01663" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.01663</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in NewsDecember 3, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2012.01663" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.01663</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in NewsDecember 3, 2020...</p></details>
    Published: December 3, 2020  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: Confirmation Bias Explained: Why Facts Don't Change Minds  
-   Link: <a href="https://www.youtube.com/watch?v=vDN62xSTXfU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vDN62xSTXfU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why You&#x27;ll Never Change Your Mind (Science)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vDN62xSTXfU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vDN62xSTXfU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why You&#x27;ll Never Change Your Mind (Science)...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: How to Overcome Confirmation Bias  
-   Link: <a href="https://www.youtube.com/watch?v=oWRhKPcZG_0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oWRhKPcZG_0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation Bias and The Scientific Method I: How to Avoid Confirmation Bias...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oWRhKPcZG_0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oWRhKPcZG_0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation Bias and The Scientific Method I: How to Avoid Confirmation Bias...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Confirmation Bias and The Scientific Method I: How to Avoid Confirmation Bias  
-   Link: <a href="https://www.youtube.com/watch?v=tOZLL7CsHCU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tOZLL7CsHCU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Our Own Reasoning Can Deceive Us in Everyday Life | Paz Garcia-Blanch Echeverria | TEDxASM Youth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tOZLL7CsHCU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tOZLL7CsHCU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Our Own Reasoning Can Deceive Us in Everyday Life | Paz Garcia-Blanch Echeverria | TEDxASM Youth...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsConfirmation Bias: A Ubiquitous Phenomenon in Many...Confirmation bias is perhaps the best known and most widely accepted n...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsConfirmation Bias: A Ubiquitous Phenomenon in Many...Confirmation bias is perhaps the best known and most widely accepted n...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britannica.com  
    Title: confirmation bias  
-   Link: <a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaConfirmation bias | Definition, Examples, Psychology, &amp; Facts11 Jun 2026 — Confirmation bias, people&#x27;s tendency to...</p></details>
+   Link:<a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaConfirmation bias | Definition, Examples, Psychology, &amp; Facts11 Jun 2026 — Confirmation bias, people&#x27;s tendency to...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: simplypsychology.org  
    Title: confirmation bias  
-   Link: <a href="https://www.simplypsychology.org/confirmation-bias.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/confirmation-bias.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyConfirmation Bias In Psychology: Definition &amp; Examples22 Jun 2023 — Confirmation bias is the tendency to look for inform...</p></details>
+   Link:<a href="https://www.simplypsychology.org/confirmation-bias.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/confirmation-bias.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyConfirmation Bias In Psychology: Definition &amp; Examples22 Jun 2023 — Confirmation bias is the tendency to look for inform...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: populismstudies.org  
-   Link: <a href="https://www.populismstudies.org/Vocabulary/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.populismstudies.org/Vocabulary/confirmation-bias/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasAmerican Psychological Association (APA) defines &#x27;confirmation bias&#x27; as a tendency to gather evidence that confirms pree...</p></details>
+   Link:<a href="https://www.populismstudies.org/Vocabulary/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.populismstudies.org/Vocabulary/confirmation-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasAmerican Psychological Association (APA) defines &#x27;confirmation bias&#x27; as a tendency to gather evidence that confirms pree...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/one-critical-skill-in-the-fight-against-misinformation-is-understanding-how-conf/1204406885054314/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/one-critical-skill-in-the-fight-against-misinformation-is-understanding-how-conf/1204406885054314/</a>  
+   Link:<a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/one-critical-skill-in-the-fight-against-misinformation-is-understanding-how-conf/1204406885054314/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/one-critical-skill-in-the-fight-against-misinformation-is-understanding-how-conf/1204406885054314/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOpinion Dynamics with Confirmation Bias  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4090078/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4090078/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby AE Allahverdyan · 2014 · Cited by 190 — Confirmation bias is the tendency to acquire or process new information in a way that...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4090078/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4090078/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby AE Allahverdyan · 2014 · Cited by 190 — Confirmation bias is the tendency to acquire or process new information in a way that...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
    Title: 340798496 What Is the Function of Confirmation Bias  
-   Link: <a href="https://www.researchgate.net/publication/340798496_What_Is_the_Function_of_Confirmation_Bias" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340798496_What_Is_the_Function_of_Confirmation_Bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) What Is the Function of Confirmation Bias?20 May 2026 — Confirmation bias evolved because it helps us influence people and social s...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/340798496_What_Is_the_Function_of_Confirmation_Bias" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340798496_What_Is_the_Function_of_Confirmation_Bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) What Is the Function of Confirmation Bias?20 May 2026 — Confirmation bias evolved because it helps us influence people and social s...</p></details>
    Published: May 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: findresearcher.sdu.dk  
    Title: dk What Is the Function of Confirmation Bias?  
-   Link: <a href="https://findresearcher.sdu.dk/ws/files/202631503/Peters2022_Article_WhatIsTheFunctionOfConfirmatio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://findresearcher.sdu.dk/ws/files/202631503/Peters2022_Article_WhatIsTheFunctionOfConfirmatio.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peters, Uweby U Peters · 2022 · Cited by 417 — Confirmation bias is one of the most widely discussed epistemically problematic cognitions...</p></details>
+   Link:<a href="https://findresearcher.sdu.dk/ws/files/202631503/Peters2022_Article_WhatIsTheFunctionOfConfirmatio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://findresearcher.sdu.dk/ws/files/202631503/Peters2022_Article_WhatIsTheFunctionOfConfirmatio.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peters, Uweby U Peters · 2022 · Cited by 417 — Confirmation bias is one of the most widely discussed epistemically problematic cognitions...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OgUdmNqJp7w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OgUdmNqJp7w</a>  
+   Link:<a href="https://www.youtube.com/watch?v=OgUdmNqJp7w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OgUdmNqJp7w</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Why You'll Never Change Your Mind (Science)  
-   Link: <a href="https://www.youtube.com/watch?v=dJy6CCaO5wg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dJy6CCaO5wg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Overcome Confirmation Bias...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dJy6CCaO5wg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dJy6CCaO5wg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Overcome Confirmation Bias...</p></details>

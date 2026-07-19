@@ -284,7 +284,7 @@ A search can appear balanced while still missing crucial evidence simply because
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_missing_vocabulary_fda632-Illustration-1-dark.svg" | relative_url }}" alt="Missing Terms illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_missing_vocabulary_fda632-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_missing_vocabulary_fda632-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is a subtle form of confirmation bias. Rather than consciously avoiding disagreement, the searcher unintentionally narrows the evidence by adopting only one vocabulary. Research on the "[narrow search effect]({{ 'narrow-search/' | relative_url }})" shows that people naturally choose search terms consistent with their existing beliefs, reducing exposure to information that might change their minds. Earlier information [retrieval]({{ 'retrieval/' | relative_url }}) research likewise found that confirmation bias becomes stronger when opposing evidence is indexed under different terminology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12002208/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe narrow search effect and how broadening</span><span class="citation-popover-snippet">NIHby E Leung · 2025 · Cited by 13 — This research documents the profound impact that confirmation bias can have on how people sear...</span></span></span>
+This is a subtle form of confirmation bias. Rather than consciously avoiding disagreement, the searcher unintentionally narrows the evidence by adopting only one vocabulary. Research on the "[narrow search effect]({{ 'narrow-search/' | relative_url }})" shows that people naturally choose search terms consistent with their existing beliefs, reducing exposure to information that might change their minds. Earlier information [retrieval]({{ 'retrieval/' | relative_url }}) research likewise found that confirmation bias becomes stronger when opposing evidence is indexed under different terminology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12002208/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe narrow search effect and how broadening</span><span class="citation-popover-snippet">NIHby E Leung · 2025 · Cited by 13 — This research documents the profound impact that confirmation bias can have on how people sear...</span></span></span>
 
 ## Why rival sides name the same issue differently
 
@@ -317,7 +317,7 @@ This creates a chain of effects:
 
 </div>
 
-Researchers describe this as a feedback loop between beliefs and search behaviour. Even when search engines themselves are not intentionally biased, biased queries can produce systematically different evidence streams. Similar effects have also been demonstrated in academic search engines, where searches emphasising "benefits" or "risks" returned noticeably different scientific literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12002208/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe narrow search effect and how broadening</span><span class="citation-popover-snippet">NIHby E Leung · 2025 · Cited by 13 — This research documents the profound impact that confirmation bias can have on how people sear...</span></span></span>
+Researchers describe this as a feedback loop between beliefs and search behaviour. Even when search engines themselves are not intentionally biased, biased queries can produce systematically different evidence streams. Similar effects have also been demonstrated in academic search engines, where searches emphasising "benefits" or "risks" returned noticeably different scientific literature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12002208/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe narrow search effect and how broadening</span><span class="citation-popover-snippet">NIHby E Leung · 2025 · Cited by 13 — This research documents the profound impact that confirmation bias can have on how people sear...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VHulvUwgFWo" title="How the Languages We Speak Shape the Ways We Think" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VHulvUwgFWo" target="_blank" rel="noopener noreferrer">How the Languages We Speak Shape the Ways We Think</a></p><p class="youtube-embed-meta">Channel: UCTVSeminars</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VHulvUwgFWo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VHulvUwgFWo">Open on YouTube</a></p></div></div></div>
@@ -449,184 +449,184 @@ Running searches from each branch does not guarantee perfect balance, but it gre
 
 One of the easiest ways confirmation bias survives online is through vocabulary rather than deliberate selectivity. People often believe they have investigated both sides because they searched repeatedly, when in reality every search inherited the same underlying assumptions from the same set of terms.
 
-Improving analytical thinking therefore involves more than searching longer. It means recognising that disagreements frequently begin with language itself. Expanding your search vocabulary—especially by adopting the terms used by critics, researchers, regulators and affected communities—makes it far more likely that genuinely opposing evidence will enter your information stream, giving you a better foundation for judging the claim on its merits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12002208/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe narrow search effect and how broadening</span><span class="citation-popover-snippet">NIHby E Leung · 2025 · Cited by 13 — This research documents the profound impact that confirmation bias can have on how people sear...</span></span></span>
+Improving analytical thinking therefore involves more than searching longer. It means recognising that disagreements frequently begin with language itself. Expanding your search vocabulary—especially by adopting the terms used by critics, researchers, regulators and affected communities—makes it far more likely that genuinely opposing evidence will enter your information stream, giving you a better foundation for judging the claim on its merits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12002208/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe narrow search effect and how broadening</span><span class="citation-popover-snippet">NIHby E Leung · 2025 · Cited by 13 — This research documents the profound impact that confirmation bias can have on how people sear...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_missing_vocabulary_fda632-Illustration-3-dark.svg" | relative_url }}" alt="Missing Terms illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_missing_vocabulary_fda632-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_missing_vocabulary_fda632-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Counterargument May Use Different Words. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Counterargument May Use Different Words. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Encourages actively seeking disconfirming evidence and considering alternative framings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages actively seeking disconfirming evidence and considering alternative framings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains confirmation bias and the mental shortcuts that affect how people search for and interpret evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains confirmation bias and the mental shortcuts that affect how people search for and interpret evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xg-CBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xg-CBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
         
-        <p class="fr-book-desc">Develops better methods for evaluating sources, terminology, and arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Develops better methods for evaluating sources, terminology, and arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how misleading narratives and framing can distort understanding of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how misleading narratives and framing can distort understanding of evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Legend Since May 1986 Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/y1kAAeSwyc1pwYJ6/s-l225.jpg" alt="Listing image for Legend Since May 1986 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Legend Since May 1986 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for may poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: may poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Legend Since May 1986 Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/y1kAAeSwyc1pwYJ6/s-l225.jpg" alt="Listing image for Legend Since May 1986 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Legend Since May 1986 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for may poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: may poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Anime Posters Wall Art Manga Animation Movie Poster Prints Retro"><img src="https://i.ebayimg.com/images/g/6gwAAeSwgq1pATwx/s-l225.jpg" alt="Listing image for Classic Anime Posters Wall Art Manga Animation Movie Poster Prints Retro" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Classic Anime Posters Wall Art Manga Animation Movie Poster Prints Retro</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for may poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: may poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Anime Posters Wall Art Manga Animation Movie Poster Prints Retro"><img src="https://i.ebayimg.com/images/g/6gwAAeSwgq1pATwx/s-l225.jpg" alt="Listing image for Classic Anime Posters Wall Art Manga Animation Movie Poster Prints Retro" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Classic Anime Posters Wall Art Manga Animation Movie Poster Prints Retro</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for may poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: may poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Playboy Inspired Poster Collection – Retro Glamour Pop Art Wall Decor"><img src="https://i.ebayimg.com/images/g/oAMAAeSwN6FpWRyV/s-l225.jpg" alt="Listing image for Playboy Inspired Poster Collection – Retro Glamour Pop Art Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Playboy Inspired Poster Collection – Retro Glamour Pop Art Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for may poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: may poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Playboy Inspired Poster Collection – Retro Glamour Pop Art Wall Decor"><img src="https://i.ebayimg.com/images/g/oAMAAeSwN6FpWRyV/s-l225.jpg" alt="Listing image for Playboy Inspired Poster Collection – Retro Glamour Pop Art Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Playboy Inspired Poster Collection – Retro Glamour Pop Art Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for may poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: may poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=may+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-counterargument-may-use-different-words-may-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="may poster -book -books -dvd" data-ebay-reference="the-counterargument-may-use-different-words-may-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -642,7 +642,7 @@ Improving analytical thinking therefore involves more than searching longer. It 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -662,7 +662,7 @@ Improving analytical thinking therefore involves more than searching longer. It 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -694,7 +694,7 @@ Improving analytical thinking therefore involves more than searching longer. It 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -746,7 +746,7 @@ Improving analytical thinking therefore involves more than searching longer. It 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -791,7 +791,7 @@ Improving analytical thinking therefore involves more than searching longer. It 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -831,100 +831,100 @@ Improving analytical thinking therefore involves more than searching longer. It 
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe narrow search effect and how broadening  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12002208/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12002208/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby E Leung · 2025 · Cited by 13 — This research documents the profound impact that confirmation bias can have on how people sear...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12002208/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12002208/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby E Leung · 2025 · Cited by 13 — This research documents the profound impact that confirmation bias can have on how people sear...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2311.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2311.09969</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Audit of academic search engines 1 The final version of...by C Kacperski · 2023 · Cited by 12 — This study examines whether confirmation...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2311.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2311.09969</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audit of academic search engines 1 The final version of...by C Kacperski · 2023 · Cited by 12 — This study examines whether confirmation...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2311.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.09969</a>  
+   Link:<a href="https://arxiv.org/abs/2311.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.09969</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pages.ucsd.edu  
    Title: nickerson Confirmation Bias  
-   Link: <a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...by RS Nickerson · 1998 · Cited by 12458 — Confirmation bias, as t...</p></details>
+   Link:<a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...by RS Nickerson · 1998 · Cited by 12458 — Confirmation bias, as t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11495861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11495861/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Diagnosing and Treating Confirmation...by RT Born · 2024 · Cited by 9 — Confirmation bias (CB) is a cognitive bias that allows us to fo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11495861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11495861/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Diagnosing and Treating Confirmation...by RT Born · 2024 · Cited by 9 — Confirmation bias (CB) is a cognitive bias that allows us to fo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britannica.com  
    Title: confirmation bias  
-   Link: <a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Examples, Psychology, &amp; Facts11 Jun 2026 — Confirmation bias, people&#x27;s tendency to process information by looking for, or int...</p></details>
+   Link:<a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Examples, Psychology, &amp; Facts11 Jun 2026 — Confirmation bias, people&#x27;s tendency to process information by looking for, or int...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: subjectguides.lib.neu.edu  
-   Link: <a href="https://subjectguides.lib.neu.edu/fakenews/bias" target="_blank" rel="noopener noreferrer nofollow">https://subjectguides.lib.neu.edu/fakenews/bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News/Misinformation...Confirmation bias, defined as the tendency to process information by looking for, or interpreting, informatio...</p></details>
+   Link:<a href="https://subjectguides.lib.neu.edu/fakenews/bias" target="_blank" rel="noopener noreferrer nofollow">https://subjectguides.lib.neu.edu/fakenews/bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News/Misinformation...Confirmation bias, defined as the tendency to process information by looking for, or interpreting, informatio...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: populismstudies.org  
-   Link: <a href="https://www.populismstudies.org/Vocabulary/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.populismstudies.org/Vocabulary/confirmation-bias/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasA tendency to gather evidence that confirms preexisting expectations, typically by emphasizing or pursuing supporting ev...</p></details>
+   Link:<a href="https://www.populismstudies.org/Vocabulary/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.populismstudies.org/Vocabulary/confirmation-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasA tendency to gather evidence that confirms preexisting expectations, typically by emphasizing or pursuing supporting ev...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasConfirmation bias describes our underlying tendency to notice, focus on, and provide greater credence to evidence that f...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasConfirmation bias describes our underlying tendency to notice, focus on, and provide greater credence to evidence that f...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: catalogofbias.org  
-   Link: <a href="https://catalogofbias.org/biases/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://catalogofbias.org/biases/confirmation-bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasBackground. Confirmation bias occurs when an individual looks for and uses the information to support their own ideas or...</p></details>
+   Link:<a href="https://catalogofbias.org/biases/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://catalogofbias.org/biases/confirmation-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasBackground. Confirmation bias occurs when an individual looks for and uses the information to support their own ideas or...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mrs.org.uk  
-   Link: <a href="https://www.mrs.org.uk/glossary" target="_blank" rel="noopener noreferrer nofollow">https://www.mrs.org.uk/glossary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glossary of Market Research TermsA term to describe the significant volume and variety of data available to organisations and the increas...</p></details>
+   Link:<a href="https://www.mrs.org.uk/glossary" target="_blank" rel="noopener noreferrer nofollow">https://www.mrs.org.uk/glossary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glossary of Market Research TermsA term to describe the significant volume and variety of data available to organisations and the increas...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Mitigating Bias Through Controlled Vocabularies  
-   Link: <a href="https://www.youtube.com/watch?v=X0PVYgwHhVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X0PVYgwHhVo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>talk shares experiences in identifying ways to disrupt metadata bias. The goal of these efforts is to arrive at a process that...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X0PVYgwHhVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X0PVYgwHhVo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>talk shares experiences in identifying ways to disrupt metadata bias. The goal of these efforts is to arrive at a process that...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Marcelo-Machado-6/publication/386252966_Identifying_Confirmation_Bias_in_a_Search_as_Learning_Task_A_Study_on_The_Use_of_Artificial_Intelligence_in_Education/links/674b471aa7fbc259f1a1a789/Identifying-Confirmation-Bias-in-a-Search-as-Learning-Task-A-Study-on-The-Use-of-Artificial-Intelligence-in-Education.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Marcelo-Machado-6/publication/386252966_Identifying_Confirmation_Bias_in_a_Search_as_Learning_Task_A_Study_on_The_Use_of_Artificial_Intelligence_in_Education/links/674b471aa7fbc259f1a1a789/Identifying-Confirmation-Bias-in-a-Search-as-Learning-Task-A-Study-on-The-Use-of-Artificial-Intelligence-in-Education.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Confirmation Bias in a Search as Learning Taskby M Machado · 2024 · Cited by 2 — Confirmation bias is a tendency to remember...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Marcelo-Machado-6/publication/386252966_Identifying_Confirmation_Bias_in_a_Search_as_Learning_Task_A_Study_on_The_Use_of_Artificial_Intelligence_in_Education/links/674b471aa7fbc259f1a1a789/Identifying-Confirmation-Bias-in-a-Search-as-Learning-Task-A-Study-on-The-Use-of-Artificial-Intelligence-in-Education.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Marcelo-Machado-6/publication/386252966_Identifying_Confirmation_Bias_in_a_Search_as_Learning_Task_A_Study_on_The_Use_of_Artificial_Intelligence_in_Education/links/674b471aa7fbc259f1a1a789/Identifying-Confirmation-Bias-in-a-Search-as-Learning-Task-A-Study-on-The-Use-of-Artificial-Intelligence-in-Education.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Confirmation Bias in a Search as Learning Taskby M Machado · 2024 · Cited by 2 — Confirmation bias is a tendency to remember...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: libguides.uark.edu  
-   Link: <a href="https://libguides.uark.edu/bias/tools" target="_blank" rel="noopener noreferrer nofollow">https://libguides.uark.edu/bias/tools</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Search Tools - Confronting Bias - Research Guides17 Apr 2026 — These vocabularies are created by people, and thus are susceptible to h...</p></details>
+   Link:<a href="https://libguides.uark.edu/bias/tools" target="_blank" rel="noopener noreferrer nofollow">https://libguides.uark.edu/bias/tools</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Search Tools - Confronting Bias - Research Guides17 Apr 2026 — These vocabularies are created by people, and thus are susceptible to h...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10670-020-00252-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10670-020-00252-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Erkenntnisby U Peters · 2022 · Cited by 416 — The term &#x27;confirmation bias&#x27; has been used to refer to various distinct ways in which bel...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10670-020-00252-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10670-020-00252-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Erkenntnisby U Peters · 2022 · Cited by 416 — The term &#x27;confirmation bias&#x27; has been used to refer to various distinct ways in which bel...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: How the Languages We Speak Shape the Ways We Think  
-   Link: <a href="https://www.youtube.com/watch?v=VHulvUwgFWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VHulvUwgFWo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The moral bias behind your search results | Andreas Ekström...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VHulvUwgFWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VHulvUwgFWo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The moral bias behind your search results | Andreas Ekström...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Framing Bias Explaination- Cognitive Biases  
-   Link: <a href="https://www.youtube.com/watch?v=NSQr9JhesKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NSQr9JhesKE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Cognitive Bias: Crash Course Scientific Thinking #1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NSQr9JhesKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NSQr9JhesKE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Cognitive Bias: Crash Course Scientific Thinking #1...</p></details>

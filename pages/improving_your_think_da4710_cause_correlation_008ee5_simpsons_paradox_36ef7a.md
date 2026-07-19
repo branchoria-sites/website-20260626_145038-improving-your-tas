@@ -278,7 +278,7 @@ Simpson’s paradox is what happens when a headline statistic says one thing, wh
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_simpsons_paradox_36ef7a-Illustration-1-dark.svg" | relative_url }}" alt="Simpson s illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_simpsons_paradox_36ef7a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_simpsons_paradox_36ef7a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The classic case is graduate admissions at the University of California, Berkeley in 1973. Overall, men were admitted at a higher rate than women. But when researchers examined departments separately, the apparent pattern against women largely disappeared, and in the properly pooled departmental analysis the evidence pointed slightly the other way. The headline had mixed together departments with very different admission rates and very different applicant patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.187.4175.398" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Sex Bias in Graduate Admissions: Data from Berkeleyby PJ Bickel · 1975 · Cited by 975 — Sex Bias in Graduate Admissions: Data from...</span></span></span>
+The classic case is graduate admissions at the University of California, Berkeley in 1973. Overall, men were admitted at a higher rate than women. But when researchers examined departments separately, the apparent pattern against women largely disappeared, and in the properly pooled departmental analysis the evidence pointed slightly the other way. The headline had mixed together departments with very different admission rates and very different applicant patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.187.4175.398" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Sex Bias in Graduate Admissions: Data from Berkeleyby PJ Bickel · 1975 · Cited by 975 — Sex Bias in Graduate Admissions: Data from...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G-fXV-o9QV8" title="Hyperparameters Tuning: Grid Search vs Random Search" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G-fXV-o9QV8" target="_blank" rel="noopener noreferrer">Hyperparameters Tuning: Grid Search vs Random Search</a></p><p class="youtube-embed-meta">Channel: DataMListic &middot; Views: 26.9K &middot; Uploaded: February 2024 &middot; Length: 3 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G-fXV-o9QV8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G-fXV-o9QV8">Open on YouTube</a></p></div></div></div>
@@ -287,7 +287,7 @@ The classic case is graduate admissions at the University of California, Berkele
 
 Simpson’s paradox is not a mistake in arithmetic. It is a mistake in interpretation. A combined average is a weighted average, and the weights matter. If one group is over-represented in easier cases and another is over-represented in harder cases, the overall rate can reflect case mix more than treatment, skill, fairness or quality.
 
-This is why the paradox is so dangerous in headline statistics. The aggregate number feels like the broadest and fairest view, but it may actually be blending unlike situations. Edward Simpson’s 1951 paper on contingency tables made the underlying point sharply: relationships between two classifications may be impossible to summarise properly without reference to a third. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/2984065" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">The Interpretation of Interaction in Contingency Tables</span><span class="citation-popover-snippet">The Interpretation of Interaction in Contingency Tables - jstorJune 26, 1951 — In general it is impossible to summarize the relation...</span><span class="citation-popover-meta">Published: June 26, 1951</span></span></span>
+This is why the paradox is so dangerous in headline statistics. The aggregate number feels like the broadest and fairest view, but it may actually be blending unlike situations. Edward Simpson’s 1951 paper on contingency tables made the underlying point sharply: relationships between two classifications may be impossible to summarise properly without reference to a third.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/2984065" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">The Interpretation of Interaction in Contingency Tables</span><span class="citation-popover-snippet">The Interpretation of Interaction in Contingency Tables - jstorJune 26, 1951 — In general it is impossible to summarize the relation...</span><span class="citation-popover-meta">Published: June 26, 1951</span></span></span>
 
 A simple structure usually sits behind the reversal:
 
@@ -309,13 +309,13 @@ The thinking error is to treat the headline average as if it answers a causal qu
 
 ## Berkeley admissions and case-mix lessons
 
-The Berkeley admissions case is memorable because the first number looks so persuasive. In fall 1973, aggregate graduate admissions data showed a higher admission rate for male applicants than female applicants: roughly 44% for men and 35% for women in the full data reported by Bickel, Hammel and O’Connell. On its face, that seemed to support a claim of bias against women. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.187.4175.398" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Sex Bias in Graduate Admissions: Data from Berkeleyby PJ Bickel · 1975 · Cited by 975 — Sex Bias in Graduate Admissions: Data from...</span></span></span>
+The Berkeley admissions case is memorable because the first number looks so persuasive. In fall 1973, aggregate graduate admissions data showed a higher admission rate for male applicants than female applicants: roughly 44% for men and 35% for women in the full data reported by Bickel, Hammel and O’Connell. On its face, that seemed to support a claim of bias against women.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.187.4175.398" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Sex Bias in Graduate Admissions: Data from Berkeleyby PJ Bickel · 1975 · Cited by 975 — Sex Bias in Graduate Admissions: Data from...</span></span></span>
 
-The problem was that graduate admissions were not one uniform queue. Applicants applied to departments, and departments differed greatly in selectivity. Women were more likely to apply to departments with lower admission rates, while men were more concentrated in departments with higher admission rates. Once the data were examined by department, the headline gap no longer supported the same causal story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/17835295/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sex bias in graduate admissions: data from berkeleyby PJ Bickel · 1975 · Cited by 975 — Women are shunted by their socialization an...</span></span></span>
+The problem was that graduate admissions were not one uniform queue. Applicants applied to departments, and departments differed greatly in selectivity. Women were more likely to apply to departments with lower admission rates, while men were more concentrated in departments with higher admission rates. Once the data were examined by department, the headline gap no longer supported the same causal story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/17835295/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sex bias in graduate admissions: data from berkeleyby PJ Bickel · 1975 · Cited by 975 — Women are shunted by their socialization an...</span></span></span>
 
-The six largest departments show the mechanism clearly. In the commonly reproduced Berkeley dataset, Department A admitted about 62% of male applicants and 82% of female applicants; Department B admitted about 63% of men and 68% of women; Department F admitted only about 6% of men and 7% of women. The crucial fact is not only the within-department rates, but the applicant mix: many more men applied to high-admission departments A and B, while many more women applied to lower-admission departments such as C, D, E and F. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Simpson%27s_paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Simpson&#x27;s paradox</span><span class="citation-popover-snippet">Simpson&#x27;s paradox</span></span></span>
+The six largest departments show the mechanism clearly. In the commonly reproduced Berkeley dataset, Department A admitted about 62% of male applicants and 82% of female applicants; Department B admitted about 63% of men and 68% of women; Department F admitted only about 6% of men and 7% of women. The crucial fact is not only the within-department rates, but the applicant mix: many more men applied to high-admission departments A and B, while many more women applied to lower-admission departments such as C, D, E and F.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Simpson%27s_paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Simpson&#x27;s paradox</span><span class="citation-popover-snippet">Simpson&#x27;s paradox</span></span></span>
 
-That does not mean the Berkeley case proves there was no broader inequality. Bickel and colleagues explicitly pointed to a deeper social pattern: women were channelled towards fields that were more crowded and less favourable in several respects. The paradox changes the location of the question. It weakens the simple claim that admissions committees, taken as a single pooled process, directly preferred men; it raises a different question about why applicants were distributed across departments in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/17835295/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sex bias in graduate admissions: data from berkeleyby PJ Bickel · 1975 · Cited by 975 — Women are shunted by their socialization an...</span></span></span>
+That does not mean the Berkeley case proves there was no broader inequality. Bickel and colleagues explicitly pointed to a deeper social pattern: women were channelled towards fields that were more crowded and less favourable in several respects. The paradox changes the location of the question. It weakens the simple claim that admissions committees, taken as a single pooled process, directly preferred men; it raises a different question about why applicants were distributed across departments in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/17835295/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sex bias in graduate admissions: data from berkeleyby PJ Bickel · 1975 · Cited by 975 — Women are shunted by their socialization an...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_simpsons_paradox_36ef7a-Illustration-2-dark.svg" | relative_url }}" alt="Simpson s illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_simpsons_paradox_36ef7a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_simpsons_paradox_36ef7a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -351,194 +351,194 @@ Simpson’s paradox is powerful because it shows how a true number can support a
 <img src="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_simpsons_paradox_36ef7a-Illustration-3-dark.svg" | relative_url }}" alt="Simpson s illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_simpsons_paradox_36ef7a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_simpsons_paradox_36ef7a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the Headline Average Gets It Wrong. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the Headline Average Gets It Wrong. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiZeDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiZeDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">Covers interpretation of data, confounding, subgroup analysis, and careful reasoning about evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers interpretation of data, confounding, subgroup analysis, and careful reasoning about evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VV0otAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Why">The Book of Why</a>
-        </h4>
-        <p class="fr-book-author">By Judea Pearl, Dana Mackenzie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VV0otAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Why">The Book of Why</a>
+</h4>
+<p class="fr-book-author">By Judea Pearl, Dana Mackenzie</p>
         
-        <p class="fr-book-desc">Explains why averages and associations can mislead, providing the conceptual foundation behind Simpson&#x27;s paradox.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why averages and associations can mislead, providing the conceptual foundation behind Simpson&#x27;s paradox.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Shows how aggregate statistics and presentation choices can create misleading conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how aggregate statistics and presentation choices can create misleading conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Naked+Statistics+by+Charles+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Naked Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QFqNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Naked Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Naked+Statistics+by+Charles+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Naked Statistics">Naked Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Charles Wheelan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Naked+Statistics+by+Charles+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Naked Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QFqNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Naked Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Naked+Statistics+by+Charles+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Naked Statistics">Naked Statistics</a>
+</h4>
+<p class="fr-book-author">By Charles Wheelan</p>
         
-        <p class="fr-book-desc">Helps readers understand why summary statistics can hide important underlying patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Naked+Statistics+by+Charles+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why summary statistics can hide important underlying patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Naked+Statistics+by+Charles+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Why&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Why</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Why&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Why</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistics Say No Funny Data Humor Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/mYIAAeSwAFFp2SCd/s-l225.jpg" alt="Listing image for Statistics Say No Funny Data Humor Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Statistics Say No Funny Data Humor Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistics Say No Funny Data Humor Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/mYIAAeSwAFFp2SCd/s-l225.jpg" alt="Listing image for Statistics Say No Funny Data Humor Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Statistics Say No Funny Data Humor Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Science Shirt - Statistics Dat Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/6GAAAeSwllFp1Tjy/s-l225.jpg" alt="Listing image for Data Science Shirt - Statistics Dat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Data Science Shirt - Statistics Dat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Science Shirt - Statistics Dat Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/6GAAAeSwllFp1Tjy/s-l225.jpg" alt="Listing image for Data Science Shirt - Statistics Dat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Data Science Shirt - Statistics Dat Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Binomial Equation: Statistics Notes Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/YWgAAeSwdX9p1Tdh/s-l225.jpg" alt="Listing image for Binomial Equation: Statistics Notes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Binomial Equation: Statistics Notes Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Binomial Equation: Statistics Notes Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/YWgAAeSwdX9p1Tdh/s-l225.jpg" alt="Listing image for Binomial Equation: Statistics Notes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Binomial Equation: Statistics Notes Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistics The Grammar Of Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/c9wAAeSweQppqign/s-l225.jpg" alt="Listing image for Statistics The Grammar Of Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Statistics The Grammar Of Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistics The Grammar Of Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/c9wAAeSweQppqign/s-l225.jpg" alt="Listing image for Statistics The Grammar Of Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Statistics The Grammar Of Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-headline-average-gets-it-wrong-statistics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster -book -books" data-ebay-reference="when-the-headline-average-gets-it-wrong-statistics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ Simpson’s paradox is powerful because it shows how a true number can support a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ Simpson’s paradox is powerful because it shows how a true number can support a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ Simpson’s paradox is powerful because it shows how a true number can support a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ Simpson’s paradox is powerful because it shows how a true number can support a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ Simpson’s paradox is powerful because it shows how a true number can support a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,112 +743,112 @@ Simpson’s paradox is powerful because it shows how a true number can support a
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jstor.org  
    Title: The Interpretation of Interaction in Contingency Tables  
-   Link: <a href="https://www.jstor.org/stable/2984065" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2984065</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Interpretation of Interaction in Contingency Tables - jstorJune 26, 1951 — In general it is impossible to summarize the relation...</p></details>
+   Link:<a href="https://www.jstor.org/stable/2984065" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2984065</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Interpretation of Interaction in Contingency Tables - jstorJune 26, 1951 — In general it is impossible to summarize the relation...</p></details>
    Published: June 26, 1951  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Simpson's paradox  
-   Link: <a href="https://en.wikipedia.org/wiki/Simpson%27s_paradox" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Simpson%27s_paradox</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Simpson%27s_paradox" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Simpson%27s_paradox</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jstor.org  
    Title: Interactions in Multi-Factor Contingency Tables  
-   Link: <a href="https://www.jstor.org/stable/2983765" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2983765</a>  
+   Link:<a href="https://www.jstor.org/stable/2983765" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2983765</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/24591584" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/24591584</a>  
+   Link:<a href="https://www.jstor.org/stable/24591584" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/24591584</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.187.4175.398" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.187.4175.398</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sex Bias in Graduate Admissions: Data from Berkeleyby PJ Bickel · 1975 · Cited by 975 — Sex Bias in Graduate Admissions: Data from...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/science.187.4175.398" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.187.4175.398</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sex Bias in Graduate Admissions: Data from Berkeleyby PJ Bickel · 1975 · Cited by 975 — Sex Bias in Graduate Admissions: Data from...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17835295/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17835295/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sex bias in graduate admissions: data from berkeleyby PJ Bickel · 1975 · Cited by 975 — Women are shunted by their socialization an...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/17835295/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17835295/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sex bias in graduate admissions: data from berkeleyby PJ Bickel · 1975 · Cited by 975 — Women are shunted by their socialization an...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8870532/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8870532/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8870532/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8870532/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29484824/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29484824/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29484824/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29484824/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2266743/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2266743/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2266743/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2266743/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9960320/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9960320/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9960320/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9960320/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: philosophy.hku.hk  
-   Link: <a href="https://philosophy.hku.hk/think/stat/simpson.php" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/stat/simpson.php</a>  
+   Link:<a href="https://philosophy.hku.hk/think/stat/simpson.php" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/stat/simpson.php</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: discovery.cs.illinois.edu  
-   Link: <a href="https://discovery.cs.illinois.edu/dataset/berkeley/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.cs.illinois.edu/dataset/berkeley/</a>  
+   Link:<a href="https://discovery.cs.illinois.edu/dataset/berkeley/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.cs.illinois.edu/dataset/berkeley/</a>  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aeon.co  
    Title: how a statistical paradox helps to get to the root of bias in college admissions  
-   Link: <a href="https://aeon.co/videos/how-a-statistical-paradox-helps-to-get-to-the-root-of-bias-in-college-admissions" target="_blank" rel="noopener noreferrer nofollow">https://aeon.co/videos/how-a-statistical-paradox-helps-to-get-to-the-root-of-bias-in-college-admissions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a statistical paradox helps to get to the root of bias in college admissions | Aeon VideosBerkeley in 1973, when roughly 44 per c...</p></details>
+   Link:<a href="https://aeon.co/videos/how-a-statistical-paradox-helps-to-get-to-the-root-of-bias-in-college-admissions" target="_blank" rel="noopener noreferrer nofollow">https://aeon.co/videos/how-a-statistical-paradox-helps-to-get-to-the-root-of-bias-in-college-admissions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a statistical paradox helps to get to the root of bias in college admissions | Aeon VideosBerkeley in 1973, when roughly 44 per c...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: brookings.edu  
    Title: when average isnt [good enough](&#123;&#123; 'good-enough/' | relative_url &#125;&#125;) simpsons paradox in education and earnings  
-   Link: <a href="https://www.brookings.edu/articles/when-average-isnt-good-enough-simpsons-paradox-in-education-and-earnings/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/when-average-isnt-good-enough-simpsons-paradox-in-education-and-earnings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When average isn&#x27;t good enough: Simpson&#x27;s paradox in...29 Jul 2015 — In the Berkeley case, the “paradox” occurred because women...</p></details>
+   Link:<a href="https://www.brookings.edu/articles/when-average-isnt-good-enough-simpsons-paradox-in-education-and-earnings/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/when-average-isnt-good-enough-simpsons-paradox-in-education-and-earnings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When average isn&#x27;t good enough: Simpson&#x27;s paradox in...29 Jul 2015 — In the Berkeley case, the “paradox” occurred because women...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/FDF_Q3_98GQ" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/FDF_Q3_98GQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Overfitting vs Underfitting: [https://youtu.be/B9rhzg6_LLw](https://youtu.be/B9rhzg6_LLw) Why Models Overfit and Underfit - The Bias Variance Trade-off: [https://youtu.be...&quot;](https://youtu.be...&quot;)...</p></details>
+   Link:<a href="https://youtu.be/FDF_Q3_98GQ" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/FDF_Q3_98GQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Overfitting vs Underfitting: [https://youtu.be/B9rhzg6_LLw](https://youtu.be/B9rhzg6_LLw) Why Models Overfit and Underfit - The Bias Variance Trade-off: [https://youtu.be...&quot;](https://youtu.be...&quot;)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/N_RQj4OL1mg" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/N_RQj4OL1mg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cross-Entropy - Explained: [https://youtu.be/Fv98vtitmiA](https://youtu.be/Fv98vtitmiA) Dropout - Explained: [https://youtu.be/FDF_Q3_98GQ](https://youtu.be/FDF_Q3_98GQ) Overfitting vs Underfitting: ht...</p></details>
+   Link:<a href="https://youtu.be/N_RQj4OL1mg" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/N_RQj4OL1mg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cross-Entropy - Explained: [https://youtu.be/Fv98vtitmiA](https://youtu.be/Fv98vtitmiA) Dropout - Explained: [https://youtu.be/FDF_Q3_98GQ](https://youtu.be/FDF_Q3_98GQ) Overfitting vs Underfitting: ht...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/5mbX6ITznHk" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/5mbX6ITznHk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Least Squares vs Maximum Likelihood: [https://youtu.be/WCP98USBZ0w](https://youtu.be/WCP98USBZ0w) XGBoost Explained in Under 3 Minutes: [https://youtu.be/33fGfuleXw0...&quot;](https://youtu.be/33fGfuleXw0...&quot;)...</p></details>
+   Link:<a href="https://youtu.be/5mbX6ITznHk" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/5mbX6ITznHk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Least Squares vs Maximum Likelihood: [https://youtu.be/WCP98USBZ0w](https://youtu.be/WCP98USBZ0w) XGBoost Explained in Under 3 Minutes: [https://youtu.be/33fGfuleXw0...&quot;](https://youtu.be/33fGfuleXw0...&quot;)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/G-fXV-o9QV8" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/G-fXV-o9QV8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Kernel Trick: [https://youtu.be/N_RQj4OL1mg](https://youtu.be/N_RQj4OL1mg) Cross-Entropy - Explained: [https://youtu.be/Fv98vtitmiA](https://youtu.be/Fv98vtitmiA) Dropout - Explained: [https://youtu...&quot;](https://youtu...&quot;)...</p></details>
+   Link:<a href="https://youtu.be/G-fXV-o9QV8" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/G-fXV-o9QV8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Kernel Trick: [https://youtu.be/N_RQj4OL1mg](https://youtu.be/N_RQj4OL1mg) Cross-Entropy - Explained: [https://youtu.be/Fv98vtitmiA](https://youtu.be/Fv98vtitmiA) Dropout - Explained: [https://youtu...&quot;](https://youtu...&quot;)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/B9rhzg6_LLw" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/B9rhzg6_LLw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Why Models Overfit and Underfit - The Bias Variance Trade-off: [https://youtu.be/5mbX6ITznHk](https://youtu.be/5mbX6ITznHk) Least Squares vs Maximum Likelihood: [https://...&quot;](https://...&quot;)...</p></details>
+   Link:<a href="https://youtu.be/B9rhzg6_LLw" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/B9rhzg6_LLw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Why Models Overfit and Underfit - The Bias Variance Trade-off: [https://youtu.be/5mbX6ITznHk](https://youtu.be/5mbX6ITznHk) Least Squares vs Maximum Likelihood: [https://...&quot;](https://...&quot;)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/Fv98vtitmiA" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/Fv98vtitmiA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dropout - Explained: [https://youtu.be/FDF_Q3_98GQ](https://youtu.be/FDF_Q3_98GQ) Overfitting vs Underfitting: [https://youtu.be/B9rhzg6_LLw](https://youtu.be/B9rhzg6_LLw) Why Models Overfit and Underf...</p></details>
+   Link:<a href="https://youtu.be/Fv98vtitmiA" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/Fv98vtitmiA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dropout - Explained: [https://youtu.be/FDF_Q3_98GQ](https://youtu.be/FDF_Q3_98GQ) Overfitting vs Underfitting: [https://youtu.be/B9rhzg6_LLw](https://youtu.be/B9rhzg6_LLw) Why Models Overfit and Underf...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtu.be  
    Title: Why Models Overfit and Underfit  
-   Link: <a href="https://youtu.be/WCP98USBZ0w" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/WCP98USBZ0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;XGBoost Explained in Under 3 Minutes: [https://youtu.be/33fGfuleXw0...&quot;](https://youtu.be/33fGfuleXw0...&quot;)...</p></details>
+   Link:<a href="https://youtu.be/WCP98USBZ0w" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/WCP98USBZ0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;XGBoost Explained in Under 3 Minutes: [https://youtu.be/33fGfuleXw0...&quot;](https://youtu.be/33fGfuleXw0...&quot;)...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/Kq6_kzlwSUQ" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/Kq6_kzlwSUQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hyperparameters Tuning: Grid Search vs Random Search: [https://youtu.be/G-fXV-o9QV8](https://youtu.be/G-fXV-o9QV8) The Kernel Trick: [https://youtu.be/N_RQj4OL1mg](https://youtu.be/N_RQj4OL1mg) Cross-E...</p></details>
+   Link:<a href="https://youtu.be/Kq6_kzlwSUQ" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/Kq6_kzlwSUQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hyperparameters Tuning: Grid Search vs Random Search: [https://youtu.be/G-fXV-o9QV8](https://youtu.be/G-fXV-o9QV8) The Kernel Trick: [https://youtu.be/N_RQj4OL1mg](https://youtu.be/N_RQj4OL1mg) Cross-E...</p></details>

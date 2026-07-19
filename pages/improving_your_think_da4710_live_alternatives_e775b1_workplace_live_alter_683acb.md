@@ -278,7 +278,7 @@ When an employee's performance declines, it is tempting to settle on the most ob
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_workplace_live_alter_683acb-Illustration-1-dark.svg" | relative_url }}" alt="Workplace Cases illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_workplace_live_alter_683acb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_workplace_live_alter_683acb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Thinking in terms of live alternatives means resisting the urge to treat motivation as the default diagnosis. Instead, managers compare several plausible explanations and deliberately seek evidence that distinguishes between them. This approach leads to fairer decisions, more effective interventions, and fewer costly mistakes such as disciplining an employee whose real problem is a broken work system. Research on performance management consistently shows that employee performance is shaped by a combination of capability, opportunity, organisational systems, leadership, feedback, and motivation rather than by motivation alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/people-performance-practice-summary_tcm18-109854.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipd.org">[CIPD+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipd.org</span><span class="citation-popover-title">People performance: an evidence review</span><span class="citation-popover-snippet">People performance: an evidence reviewJune 10, 2022 — In people management research, it is probably the most measured organisational...</span><span class="citation-popover-meta">Published: June 10, 2022</span></span></span>
+Thinking in terms of live alternatives means resisting the urge to treat motivation as the default diagnosis. Instead, managers compare several plausible explanations and deliberately seek evidence that distinguishes between them. This approach leads to fairer decisions, more effective interventions, and fewer costly mistakes such as disciplining an employee whose real problem is a broken work system. Research on performance management consistently shows that employee performance is shaped by a combination of capability, opportunity, organisational systems, leadership, feedback, and motivation rather than by motivation alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/people-performance-practice-summary_tcm18-109854.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipd.org">[CIPD+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipd.org</span><span class="citation-popover-title">People performance: an evidence review</span><span class="citation-popover-snippet">People performance: an evidence reviewJune 10, 2022 — In people management research, it is probably the most measured organisational...</span><span class="citation-popover-meta">Published: June 10, 2022</span></span></span>
 
 ## Common workplace explanations that mimic each other
 
@@ -302,7 +302,7 @@ These observations do not identify the underlying cause. Several competing expla
 
 Observable behaviourPossible explanationSlow workLack of knowledge, unclear priorities, excessive workload, missing tools, motivation problemsFrequent mistakesPoor training, unclear procedures, fatigue, system changes, rushing, inadequate feedbackLittle initiativeUnclear authority, fear of making mistakes, previous criticism, role ambiguity, low engagementMissed deadlinesUnrealistic workload, hidden dependencies, poor planning, insufficient resources, procrastinationWithdrawal from meetingsUncertainty about expectations, lack of psychological safety, overload, conflict, reduced interest
 
-The important point is that several explanations often predict the same visible outcome. Choosing one explanation too early encourages confirmation bias: every new observation is interpreted as further proof of the preferred story rather than as evidence that distinguishes between competing possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Confirmation bias</span><span class="citation-popover-snippet">Confirmation bias</span></span></span>
+The important point is that several explanations often predict the same visible outcome. Choosing one explanation too early encourages confirmation bias: every new observation is interpreted as further proof of the preferred story rather than as evidence that distinguishes between competing possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Confirmation bias</span><span class="citation-popover-snippet">Confirmation bias</span></span></span>
 
 ## Why motivation is often overdiagnosed
 
@@ -316,7 +316,7 @@ The missing step is asking whether another explanation could produce exactly the
 
 For example, someone who receives contradictory instructions from two managers may hesitate before acting. From the outside, hesitation can resemble laziness. Likewise, an employee who lacks access to essential software or customer information may appear inefficient despite working hard.
 
-Research on people performance consistently finds that individual performance depends on multiple interacting influences including role clarity, leadership, capability, feedback, organisational support, wellbeing and work design. Treating motivation as the only explanation ignores much of what predicts performance in practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/people-performance-practice-summary_tcm18-109854.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipd.org">[CIPD+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipd.org</span><span class="citation-popover-title">People performance: an evidence review</span><span class="citation-popover-snippet">People performance: an evidence reviewJune 10, 2022 — In people management research, it is probably the most measured organisational...</span><span class="citation-popover-meta">Published: June 10, 2022</span></span></span>
+Research on people performance consistently finds that individual performance depends on multiple interacting influences including role clarity, leadership, capability, feedback, organisational support, wellbeing and work design. Treating motivation as the only explanation ignores much of what predicts performance in practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/people-performance-practice-summary_tcm18-109854.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cipd.org">[CIPD+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cipd.org</span><span class="citation-popover-title">People performance: an evidence review</span><span class="citation-popover-snippet">People performance: an evidence reviewJune 10, 2022 — In people management research, it is probably the most measured organisational...</span><span class="citation-popover-meta">Published: June 10, 2022</span></span></span>
 
 ## Evidence that separates effort from unclear systems
 
@@ -385,7 +385,7 @@ New employees frequently experience:
 
 Without recognising these factors, managers may mistake predictable adjustment difficulties for poor attitude.
 
-Research on onboarding consistently finds that structured onboarding improves role clarity, confidence, organisational commitment and job performance while reducing turnover intentions. Effective onboarding is not simply orientation paperwork; it helps employees understand expectations, relationships, workflows and sources of support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/30719/1/PDF_Proof%20%286%29.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">Digital onboarding and employee outcomesSeptember 11, 2022 — by K Sani · 2022 · Cited by 120 — Onboarding is an HR routine of introd...</span><span class="citation-popover-meta">Published: September 11, 2022</span></span></span>
+Research on onboarding consistently finds that structured onboarding improves role clarity, confidence, organisational commitment and job performance while reducing turnover intentions. Effective onboarding is not simply orientation paperwork; it helps employees understand expectations, relationships, workflows and sources of support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/30719/1/PDF_Proof%20%286%29.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">Digital onboarding and employee outcomesSeptember 11, 2022 — by K Sani · 2022 · Cited by 120 — Onboarding is an HR routine of introd...</span><span class="citation-popover-meta">Published: September 11, 2022</span></span></span>
 
 Consider two employees who both miss deadlines in their first month.
 
@@ -494,178 +494,178 @@ Workplace performance problems rarely have a single obvious cause. Similar behav
 Keeping several explanations alive long enough for evidence to distinguish between them reduces confirmation bias and improves both fairness and effectiveness. Managers who compare competing explanations are less likely to discipline the wrong person, overlook broken processes, or miss opportunities to improve training and role design. The central question shifts from "Which explanation feels most convincing?" to "Which explanation best accounts for the evidence, and what new evidence would distinguish it from the alternatives?"
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is It Motivation Or Something Else?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is It Motivation Or Something Else?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crucial Conversations: Tools for Talking When Stakes are High on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7X3JPMMPqYMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crucial Conversations: Tools for Talking When Stakes are High" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crucial Conversations: Tools for Talking When Stakes are High">Crucial Conversations: Tools for Talking When Stakes are High</a>
-        </h4>
-        <p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 28 Google Books ratings</p>
-        <p class="fr-book-desc">Supports evidence-based conversations that distinguish between motivation, capability, and workplace barriers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crucial Conversations: Tools for Talking When Stakes are High on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7X3JPMMPqYMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crucial Conversations: Tools for Talking When Stakes are High" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crucial Conversations: Tools for Talking When Stakes are High">Crucial Conversations: Tools for Talking When Stakes are High</a>
+</h4>
+<p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 28 Google Books ratings</p>
+<p class="fr-book-desc">Supports evidence-based conversations that distinguish between motivation, capability, and workplace barriers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+First+90+Days%2C+Updated+and+Expanded+by+Michael+Watkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The First 90 Days, Updated and Expanded on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RZjBAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The First 90 Days, Updated and Expanded" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+First+90+Days%2C+Updated+and+Expanded+by+Michael+Watkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The First 90 Days, Updated and Expanded">The First 90 Days, Updated and Expanded</a>
-        </h4>
-        <p class="fr-book-author">By Michael Watkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+First+90+Days%2C+Updated+and+Expanded+by+Michael+Watkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The First 90 Days, Updated and Expanded on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RZjBAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The First 90 Days, Updated and Expanded" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+First+90+Days%2C+Updated+and+Expanded+by+Michael+Watkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The First 90 Days, Updated and Expanded">The First 90 Days, Updated and Expanded</a>
+</h4>
+<p class="fr-book-author">By Michael Watkins</p>
         
-        <p class="fr-book-desc">Helps managers diagnose performance issues systematically, clarify expectations, and improve onboarding rather than assuming low motivation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+First+90+Days%2C+Updated+and+Expanded+by+Michael+Watkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps managers diagnose performance issues systematically, clarify expectations, and improve onboarding rather than assuming low motivation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+First+90+Days%2C+Updated+and+Expanded+by+Michael+Watkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Culture Code on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SwtFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Culture Code" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Culture Code">The Culture Code</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Coyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Culture Code on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SwtFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Culture Code" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Culture Code">The Culture Code</a>
+</h4>
+<p class="fr-book-author">By Daniel Coyle</p>
         
-        <p class="fr-book-desc">Explores how team environments and systems shape behaviour and performance beyond individual motivation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how team environments and systems shape behaviour and performance beyond individual motivation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Multipliers+by+Liz+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Multipliers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kF26e_S6l_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Multipliers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Multipliers+by+Liz+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multipliers">Multipliers</a>
-        </h4>
-        <p class="fr-book-author">By Liz Wiseman, Greg McKeown</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Multipliers+by+Liz+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Multipliers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kF26e_S6l_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Multipliers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Multipliers+by+Liz+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multipliers">Multipliers</a>
+</h4>
+<p class="fr-book-author">By Liz Wiseman, Greg McKeown</p>
         
-        <p class="fr-book-desc">Shows how leadership behaviours influence employee capability, engagement, and results instead of relying on simplistic motivation explan...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Multipliers+by+Liz+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how leadership behaviours influence employee capability, engagement, and results instead of relying on simplistic motivation explan...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Multipliers+by+Liz+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crucial Conversations: Tools for Talking When Stakes are High</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+First+90+Days%2C+Updated+and+Expanded&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The First 90 Days, Updated and Expanded</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Culture+Code&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Culture Code</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crucial+Conversations%3A+Tools+for+Talking+When+Stakes+are+High&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crucial Conversations: Tools for Talking When Stakes are High</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+First+90+Days%2C+Updated+and+Expanded&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The First 90 Days, Updated and Expanded</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Culture+Code&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Culture Code</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boxer Gifts Manager Of Looking Busy Novelty Desk Sign | Funny Gift for Colleague"><img src="{{ '/assets/images/marketplace-covers/43f3a707eb9b5755d8a2.jpg' | relative_url }}" alt="Listing image for Boxer Gifts Manager Of Looking Busy Novelty Desk Sign | Funny Gift for Colleague" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Boxer Gifts Manager Of Looking Busy Novelty Desk Sign | Funny Gift for Colleague</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for manager desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: manager desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boxer Gifts Manager Of Looking Busy Novelty Desk Sign | Funny Gift for Colleague"><img src="{{ '/assets/images/marketplace-covers/43f3a707eb9b5755d8a2.jpg' | relative_url }}" alt="Listing image for Boxer Gifts Manager Of Looking Busy Novelty Desk Sign | Funny Gift for Colleague" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Boxer Gifts Manager Of Looking Busy Novelty Desk Sign | Funny Gift for Colleague</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for manager desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: manager desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Assistant to the Regional Manager Desk Sign Funny Office Gift"><img src="{{ '/assets/images/marketplace-covers/73a4d1806567f4b9a40e.jpg' | relative_url }}" alt="Listing image for Assistant to the Regional Manager Desk Sign Funny Office Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Assistant to the Regional Manager Desk Sign Funny Office Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for manager desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: manager desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Assistant to the Regional Manager Desk Sign Funny Office Gift"><img src="{{ '/assets/images/marketplace-covers/73a4d1806567f4b9a40e.jpg' | relative_url }}" alt="Listing image for Assistant to the Regional Manager Desk Sign Funny Office Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Assistant to the Regional Manager Desk Sign Funny Office Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for manager desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: manager desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Executive Personalised Desk Name,Custom Engraved Sign,Name Plaque,Office manager"><img src="{{ '/assets/images/marketplace-covers/4922c9e6a5a96c6e792b.jpg' | relative_url }}" alt="Listing image for Executive Personalised Desk Name,Custom Engraved Sign,Name Plaque,Office manager" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Executive Personalised Desk Name,Custom Engraved Sign,Name Plaque,Office manager</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for manager desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: manager desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Executive Personalised Desk Name,Custom Engraved Sign,Name Plaque,Office manager"><img src="{{ '/assets/images/marketplace-covers/4922c9e6a5a96c6e792b.jpg' | relative_url }}" alt="Listing image for Executive Personalised Desk Name,Custom Engraved Sign,Name Plaque,Office manager" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Executive Personalised Desk Name,Custom Engraved Sign,Name Plaque,Office manager</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for manager desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: manager desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=manager+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="manager desk sign" data-ebay-reference="workplace-cases-is-it-motivation-or-something-else-improving-your-think-manager-desk-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -681,7 +681,7 @@ Keeping several explanations alive long enough for evidence to distinguish betwe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -701,7 +701,7 @@ Keeping several explanations alive long enough for evidence to distinguish betwe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -733,7 +733,7 @@ Keeping several explanations alive long enough for evidence to distinguish betwe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -785,7 +785,7 @@ Keeping several explanations alive long enough for evidence to distinguish betwe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -830,7 +830,7 @@ Keeping several explanations alive long enough for evidence to distinguish betwe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -871,87 +871,87 @@ Keeping several explanations alive long enough for evidence to distinguish betwe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cipd.org  
    Title: People performance: an evidence review  
-   Link: <a href="https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/people-performance-practice-summary_tcm18-109854.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/people-performance-practice-summary_tcm18-109854.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>People performance: an evidence reviewJune 10, 2022 — In people management research, it is probably the most measured organisational...</p></details>
+   Link:<a href="https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/people-performance-practice-summary_tcm18-109854.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/people-performance-practice-summary_tcm18-109854.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People performance: an evidence reviewJune 10, 2022 — In people management research, it is probably the most measured organisational...</p></details>
    Published: June 10, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10658249/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10658249/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>management system and its role for employee...by N Siraj · 2023 · Cited by 84 — This study aims to investigate the role of PMS in enhanc...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10658249/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10658249/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>management system and its role for employee...by N Siraj · 2023 · Cited by 84 — This study aims to investigate the role of PMS in enhanc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: shura.shu.ac.uk  
-   Link: <a href="https://shura.shu.ac.uk/30719/1/PDF_Proof%20%286%29.PDF" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/30719/1/PDF_Proof%20%286%29.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital onboarding and employee outcomesSeptember 11, 2022 — by K Sani · 2022 · Cited by 120 — Onboarding is an HR routine of introd...</p></details>
+   Link:<a href="https://shura.shu.ac.uk/30719/1/PDF_Proof%20%286%29.PDF" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/30719/1/PDF_Proof%20%286%29.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital onboarding and employee outcomesSeptember 11, 2022 — by K Sani · 2022 · Cited by 120 — Onboarding is an HR routine of introd...</p></details>
    Published: September 11, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Onboarding" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Onboarding</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Onboarding" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Onboarding</a>  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/management/performance-management" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/management/performance-management</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Performance ManagementPerformance management is a strategy for observing and assessing employee work, aiming to align abilities with comp...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/management/performance-management" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/management/performance-management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Performance ManagementPerformance management is a strategy for observing and assessing employee work, aiming to align abilities with comp...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mckinsey.com  
    Title: in the spotlight performance management that puts people first  
-   Link: <a href="https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/in-the-spotlight-performance-management-that-puts-people-first" target="_blank" rel="noopener noreferrer nofollow">https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/in-the-spotlight-performance-management-that-puts-people-first</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinsey &amp; CompanyPerformance management that puts people first15 May 2024 — Companies that focus on their people&#x27;s performance are 4.2 t...</p></details>
+   Link:<a href="https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/in-the-spotlight-performance-management-that-puts-people-first" target="_blank" rel="noopener noreferrer nofollow">https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/in-the-spotlight-performance-management-that-puts-people-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinsey &amp; CompanyPerformance management that puts people first15 May 2024 — Companies that focus on their people&#x27;s performance are 4.2 t...</p></details>
    Published: May 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: appraisd.com  
    Title: integrating employee onboarding and performance management  
-   Link: <a href="https://www.appraisd.com/blog/integrating-employee-onboarding-and-performance-management" target="_blank" rel="noopener noreferrer nofollow">https://www.appraisd.com/blog/integrating-employee-onboarding-and-performance-management</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Employee Onboarding in Employee Management Systems24 Aug 2023 — How to successfully integrate employee onboarding tactics into your exist...</p></details>
+   Link:<a href="https://www.appraisd.com/blog/integrating-employee-onboarding-and-performance-management" target="_blank" rel="noopener noreferrer nofollow">https://www.appraisd.com/blog/integrating-employee-onboarding-and-performance-management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Employee Onboarding in Employee Management Systems24 Aug 2023 — How to successfully integrate employee onboarding tactics into your exist...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: staffcircle.com  
    Title: 5 performance management issues and how to overcome them  
-   Link: <a href="https://www.staffcircle.com/blogs/5-performance-management-issues-and-how-to-overcome-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.staffcircle.com/blogs/5-performance-management-issues-and-how-to-overcome-them/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Performance Management Issues and How to Overcome...9 Jun 2025 — In this post, we&#x27;ll discuss how we help people leaders to overcome th...</p></details>
+   Link:<a href="https://www.staffcircle.com/blogs/5-performance-management-issues-and-how-to-overcome-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.staffcircle.com/blogs/5-performance-management-issues-and-how-to-overcome-them/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Performance Management Issues and How to Overcome...9 Jun 2025 — In this post, we&#x27;ll discuss how we help people leaders to overcome th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/393612883_Clarifying_Roles_Enhancing_Results_Job_Descriptions_and_Employee_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393612883_Clarifying_Roles_Enhancing_Results_Job_Descriptions_and_Employee_Performance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e within organisational contexts.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/393612883_Clarifying_Roles_Enhancing_Results_Job_Descriptions_and_Employee_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393612883_Clarifying_Roles_Enhancing_Results_Job_Descriptions_and_Employee_Performance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e within organisational contexts.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: SHARPEN YOUR ANALYTICAL & PROBLEM SOLVING SKILLS  
-   Link: <a href="https://www.youtube.com/watch?v=3p_jAa4ZI08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3p_jAa4ZI08</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Performance Management In 7 minutes | Building High-Performing Teams #performancemanagement...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3p_jAa4ZI08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3p_jAa4ZI08</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Performance Management In 7 minutes | Building High-Performing Teams #performancemanagement...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2071-1050/14/21/14017" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/14/21/14017</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Key Strategies for Measuring Employee Performance...by TDN Vuong · 2022 · Cited by 263 — The systematic review findings revealed tha...</p></details>
+   Link:<a href="https://www.mdpi.com/2071-1050/14/21/14017" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/14/21/14017</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Key Strategies for Measuring Employee Performance...by TDN Vuong · 2022 · Cited by 263 — The systematic review findings revealed tha...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Developing Strong Analytical Skills (10 Minutes)  
-   Link: <a href="https://www.youtube.com/watch?v=q3ZZTsSTBDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q3ZZTsSTBDc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SHARPEN YOUR ANALYTICAL &amp; PROBLEM SOLVING SKILLS - PART 2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q3ZZTsSTBDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q3ZZTsSTBDc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SHARPEN YOUR ANALYTICAL &amp; PROBLEM SOLVING SKILLS - PART 2...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Improve Your Problem-Solving Skills  
-   Link: <a href="https://www.youtube.com/watch?v=NKnwekjII2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NKnwekjII2Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing Strong Analytical Skills (10 Minutes)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NKnwekjII2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NKnwekjII2Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Developing Strong Analytical Skills (10 Minutes)...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xBy5RfR12iU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xBy5RfR12iU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=xBy5RfR12iU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xBy5RfR12iU</a>  

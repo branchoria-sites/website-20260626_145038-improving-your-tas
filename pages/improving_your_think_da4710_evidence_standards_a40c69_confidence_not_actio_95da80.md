@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_evidence_standards_a40c69_conf
 
 ## Introduction
 
-A common mistake in reasoning is assuming that every new piece of evidence should immediately change what you do. In reality, evidence often deserves a change in **confidence** long before it justifies a change in **action**. A claim may become more plausible without becoming plausible enough to spend money, accuse someone, alter a treatment plan, or abandon a successful strategy. Separating belief updates from decision [thresholds]({{ 'thresholds/' | relative_url }}) helps you learn continuously while avoiding impulsive choices driven by weak but intriguing signals. This distinction lies at the heart of good judgement under [uncertainty]({{ 'uncertainty/' | relative_url }}) and is reflected in research on decision-making, confidence calibration, and statistical decision theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10482769/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evidence or Confidence: What Is Really Monitored during a...by DG Lee · 2023 · Cited by 52 — We pursue the alternative hypothesis tha...</span></span></span>
+A common mistake in reasoning is assuming that every new piece of evidence should immediately change what you do. In reality, evidence often deserves a change in **confidence** long before it justifies a change in **action**. A claim may become more plausible without becoming plausible enough to spend money, accuse someone, alter a treatment plan, or abandon a successful strategy. Separating belief updates from decision [thresholds]({{ 'thresholds/' | relative_url }}) helps you learn continuously while avoiding impulsive choices driven by weak but intriguing signals. This distinction lies at the heart of good judgement under [uncertainty]({{ 'uncertainty/' | relative_url }}) and is reflected in research on decision-making, confidence calibration, and statistical decision theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10482769/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evidence or Confidence: What Is Really Monitored during a...by DG Lee · 2023 · Cited by 52 — We pursue the alternative hypothesis tha...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_confidence_not_actio_95da80-Illustration-1-dark.svg" | relative_url }}" alt="Confidence illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_confidence_not_actio_95da80-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_confidence_not_actio_95da80-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -296,13 +296,13 @@ These questions usually have different thresholds. For example:
 
 </div>
 
-Decision theory formalises this distinction. New evidence changes the estimated probability of a claim, while action depends on the expected costs, benefits and risks of acting too early versus waiting for more information. High-cost or irreversible decisions typically require much stronger evidence than low-cost, easily reversible ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.qub.ac.uk/files/606934557/Thresholds_theory-Final_accepted_19.4.24.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.qub.ac.uk">[Queen&#x27;s University Belfast+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.qub.ac.uk</span><span class="citation-popover-snippet">Queen&#x27;s University BelfastThreshold decisions in social work: using theory to support...by D Turney · 2024 · Cited by 11 — The foundatio...</span></span></span>
+Decision theory formalises this distinction. New evidence changes the estimated probability of a claim, while action depends on the expected costs, benefits and risks of acting too early versus waiting for more information. High-cost or irreversible decisions typically require much stronger evidence than low-cost, easily reversible ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.qub.ac.uk/files/606934557/Thresholds_theory-Final_accepted_19.4.24.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.qub.ac.uk">[Queen&#x27;s University Belfast+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.qub.ac.uk</span><span class="citation-popover-snippet">Queen&#x27;s University BelfastThreshold decisions in social work: using theory to support...by D Turney · 2024 · Cited by 11 — The foundatio...</span></span></span>
 
 Thinking this way prevents a common false choice between "believe everything immediately" and "ignore everything until absolute proof exists." Most evidence belongs somewhere in between.
 
 ## Why confidence should move before behaviour
 
-Confidence is best understood as a continuously adjustable estimate rather than a simple yes-or-no judgement. Research on human confidence suggests that people naturally track varying degrees of certainty, even while delaying commitment until confidence reaches a desired threshold. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10482769/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evidence or Confidence: What Is Really Monitored during a...by DG Lee · 2023 · Cited by 52 — We pursue the alternative hypothesis tha...</span></span></span>
+Confidence is best understood as a continuously adjustable estimate rather than a simple yes-or-no judgement. Research on human confidence suggests that people naturally track varying degrees of certainty, even while delaying commitment until confidence reaches a desired threshold.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10482769/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evidence or Confidence: What Is Really Monitored during a...by DG Lee · 2023 · Cited by 52 — We pursue the alternative hypothesis tha...</span></span></span>
 
 This produces a healthier pattern of reasoning:
 
@@ -356,7 +356,7 @@ The threshold should reflect factors such as:
 
 For example, a software company may begin a small pilot after moderate evidence because reversing the decision is inexpensive. By contrast, approving a medicine for widespread use demands much stronger evidence because the consequences of error are far greater.
 
-Signal detection theory and related models describe decisions as requiring both evidence and a threshold for acting. Different environments legitimately require different thresholds even when the underlying evidence is identical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.qub.ac.uk/files/606934557/Thresholds_theory-Final_accepted_19.4.24.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.qub.ac.uk">[Queen&#x27;s University Belfast+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.qub.ac.uk</span><span class="citation-popover-snippet">Queen&#x27;s University BelfastThreshold decisions in social work: using theory to support...by D Turney · 2024 · Cited by 11 — The foundatio...</span></span></span>
+Signal detection theory and related models describe decisions as requiring both evidence and a threshold for acting. Different environments legitimately require different thresholds even when the underlying evidence is identical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.qub.ac.uk/files/606934557/Thresholds_theory-Final_accepted_19.4.24.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.qub.ac.uk">[Queen&#x27;s University Belfast+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.qub.ac.uk</span><span class="citation-popover-snippet">Queen&#x27;s University BelfastThreshold decisions in social work: using theory to support...by D Turney · 2024 · Cited by 11 — The foundatio...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mQ3KQLk2ltg" title="#152 A Bayesian decision theory workflow, with Daniel Saunders" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mQ3KQLk2ltg" target="_blank" rel="noopener noreferrer">#152 A Bayesian decision theory workflow, with Daniel Saunders</a></p><p class="youtube-embed-meta">Channel: Learning Bayesian Statistics</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mQ3KQLk2ltg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mQ3KQLk2ltg">Open on YouTube</a></p></div></div></div>
@@ -396,201 +396,201 @@ Instead of asking, "Has this evidence proved the claim?", ask two separate quest
 1. **How much should this evidence change my confidence?**
 2. **Has my confidence crossed the threshold required for this particular action?**
 
-Keeping these questions separate allows you to learn continuously without becoming either stubborn or impulsive. Your beliefs remain responsive to new evidence, while your actions remain proportional to the quality of that evidence and the consequences of being wrong. This separation is one of the clearest ways to make evidence-based thinking both more accurate and more practical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10482769/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Psyche]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evidence or Confidence: What Is Really Monitored during a...by DG Lee · 2023 · Cited by 52 — We pursue the alternative hypothesis tha...</span></span></span>
+Keeping these questions separate allows you to learn continuously without becoming either stubborn or impulsive. Your beliefs remain responsive to new evidence, while your actions remain proportional to the quality of that evidence and the consequences of being wrong. This separation is one of the clearest ways to make evidence-based thinking both more accurate and more practical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10482769/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Psyche]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evidence or Confidence: What Is Really Monitored during a...by DG Lee · 2023 · Cited by 52 — We pursue the alternative hypothesis tha...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jFeoV_a8jFc" title="Quan Nguyen - Decisions Under Uncertainty: A Hands‑On Guide to Bayesian Decision Theory - PyData" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jFeoV_a8jFc" target="_blank" rel="noopener noreferrer">Quan Nguyen - Decisions Under Uncertainty: A Hands‑On Guide to Bayesian Decision Theory - PyData</a></p><p class="youtube-embed-meta">Channel: PyData</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jFeoV_a8jFc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jFeoV_a8jFc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Change Your Confidence Before Your Actions. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Change Your Confidence Before Your Actions. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Focuses on calibrated confidence, evidence updates, and separating probabilities from decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on calibrated confidence, evidence updates, and separating probabilities from decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains how people update beliefs, make decisions under uncertainty, and avoid common reasoning errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how people update beliefs, make decisions under uncertainty, and avoid common reasoning errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Shows how evidence should incrementally change confidence while accounting for uncertainty and risk.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how evidence should incrementally change confidence while accounting for uncertainty and risk.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-        </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+</h4>
+<p class="fr-book-author">By Douglas W. Hubbard</p>
         
-        <p class="fr-book-desc">Demonstrates how uncertainty can be quantified before committing to costly actions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how uncertainty can be quantified before committing to costly actions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EURYTHMICS WOULD I LIE TO YOU? MEMORABILIA original music press advert from 1985"><img src="{{ '/assets/images/marketplace-covers/0fd764052199aed1cca6.jpg' | relative_url }}" alt="Listing image for EURYTHMICS WOULD I LIE TO YOU? MEMORABILIA original music press advert from 1985" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">EURYTHMICS WOULD I LIE TO YOU? MEMORABILIA original music press advert from 1985</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for would memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: would memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EURYTHMICS WOULD I LIE TO YOU? MEMORABILIA original music press advert from 1985"><img src="{{ '/assets/images/marketplace-covers/0fd764052199aed1cca6.jpg' | relative_url }}" alt="Listing image for EURYTHMICS WOULD I LIE TO YOU? MEMORABILIA original music press advert from 1985" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">EURYTHMICS WOULD I LIE TO YOU? MEMORABILIA original music press advert from 1985</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for would memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: would memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Kid who would be King Movie Poster Cinema Film Sci Fi Memorabilia 8x5ft HUGE"><img src="{{ '/assets/images/marketplace-covers/9899dd56f87b08781692.jpg' | relative_url }}" alt="Listing image for The Kid who would be King Movie Poster Cinema Film Sci Fi Memorabilia 8x5ft HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The Kid who would be King Movie Poster Cinema Film Sci Fi Memorabilia 8x5ft HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for would memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: would memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Kid who would be King Movie Poster Cinema Film Sci Fi Memorabilia 8x5ft HUGE"><img src="{{ '/assets/images/marketplace-covers/9899dd56f87b08781692.jpg' | relative_url }}" alt="Listing image for The Kid who would be King Movie Poster Cinema Film Sci Fi Memorabilia 8x5ft HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The Kid who would be King Movie Poster Cinema Film Sci Fi Memorabilia 8x5ft HUGE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for would memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: would memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2020 Very Bad Would not Recommend T- Shirt, Quarantined Black Size S Memorabilia"><img src="{{ '/assets/images/marketplace-covers/badf3216878fa088ad58.jpg' | relative_url }}" alt="Listing image for 2020 Very Bad Would not Recommend T- Shirt, Quarantined Black Size S Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">2020 Very Bad Would not Recommend T- Shirt, Quarantined Black Size S Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for would memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: would memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2020 Very Bad Would not Recommend T- Shirt, Quarantined Black Size S Memorabilia"><img src="{{ '/assets/images/marketplace-covers/badf3216878fa088ad58.jpg' | relative_url }}" alt="Listing image for 2020 Very Bad Would not Recommend T- Shirt, Quarantined Black Size S Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">2020 Very Bad Would not Recommend T- Shirt, Quarantined Black Size S Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for would memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: would memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1966 April Scouting Magazine What Would I Tell A Son Boy Scout Memorabilia"><img src="{{ '/assets/images/marketplace-covers/04ab114d8e62f87d181f.jpg' | relative_url }}" alt="Listing image for 1966 April Scouting Magazine What Would I Tell A Son Boy Scout Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">1966 April Scouting Magazine What Would I Tell A Son Boy Scout Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for would memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: would memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1966 April Scouting Magazine What Would I Tell A Son Boy Scout Memorabilia"><img src="{{ '/assets/images/marketplace-covers/04ab114d8e62f87d181f.jpg' | relative_url }}" alt="Listing image for 1966 April Scouting Magazine What Would I Tell A Son Boy Scout Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">1966 April Scouting Magazine What Would I Tell A Son Boy Scout Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for would memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: would memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=would+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="would memorabilia -book -books -dvd" data-ebay-reference="confidence-de0c54-change-your-confidence-before-your-actions-improving-your-think-would-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ Keeping these questions separate allows you to learn continuously without becomi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ Keeping these questions separate allows you to learn continuously without becomi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ Keeping these questions separate allows you to learn continuously without becomi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ Keeping these questions separate allows you to learn continuously without becomi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ Keeping these questions separate allows you to learn continuously without becomi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -796,99 +796,99 @@ Keeping these questions separate allows you to learn continuously without becomi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10482769/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10482769/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence or Confidence: What Is Really Monitored during a...by DG Lee · 2023 · Cited by 52 — We pursue the alternative hypothesis tha...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10482769/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10482769/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence or Confidence: What Is Really Monitored during a...by DG Lee · 2023 · Cited by 52 — We pursue the alternative hypothesis tha...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: psyche.co  
    Title: how to think like a bayesian and make better decisions  
-   Link: <a href="https://psyche.co/guides/how-to-think-like-a-bayesian-and-make-better-decisions" target="_blank" rel="noopener noreferrer nofollow">https://psyche.co/guides/how-to-think-like-a-bayesian-and-make-better-decisions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jan 2024 — According to Bayes&#x27;s Rule, your updated confidence in the hypothesis should be calculated from two factors: what your confi...</p></details>
+   Link:<a href="https://psyche.co/guides/how-to-think-like-a-bayesian-and-make-better-decisions" target="_blank" rel="noopener noreferrer nofollow">https://psyche.co/guides/how-to-think-like-a-bayesian-and-make-better-decisions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jan 2024 — According to Bayes&#x27;s Rule, your updated confidence in the hypothesis should be calculated from two factors: what your confi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/Documents/in/Bayesian_statistical_decision_theory" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/Documents/in/Bayesian_statistical_decision_theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bayesian statistical decision theory Research PapersBayesian statistical decision theory is a framework for making decisions under uncert...</p></details>
+   Link:<a href="https://www.academia.edu/Documents/in/Bayesian_statistical_decision_theory" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/Documents/in/Bayesian_statistical_decision_theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bayesian statistical decision theory Research PapersBayesian statistical decision theory is a framework for making decisions under uncert...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/5140657_Sequential_evidence_accumulation_in_decision_making_The_individual_desired_level_of_confidence_can_explain_the_extent_of_information_acquisition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5140657_Sequential_evidence_accumulation_in_decision_making_The_individual_desired_level_of_confidence_can_explain_the_extent_of_information_acquisition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Sequential evidence accumulation in decision makingIn line with such theories, we conceptualize the evidence threshold...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/5140657_Sequential_evidence_accumulation_in_decision_making_The_individual_desired_level_of_confidence_can_explain_the_extent_of_information_acquisition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5140657_Sequential_evidence_accumulation_in_decision_making_The_individual_desired_level_of_confidence_can_explain_the_extent_of_information_acquisition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Sequential evidence accumulation in decision makingIn line with such theories, we conceptualize the evidence threshold...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/46180013_Nurses%27_risk_[assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/46180013_Nurses%27_risk_[assessment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ence and calibration of their self-confidence and judgement...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/46180013_Nurses%27_risk_[assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/46180013_Nurses%27_risk_[assessment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ence and calibration of their self-confidence and judgement...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01559/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01559/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersCognitive Abilities, Monitoring Confidence, and Control...by SA Jackson · 2016 · Cited by 71 — For example, holding a threshold...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01559/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01559/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersCognitive Abilities, Monitoring Confidence, and Control...by SA Jackson · 2016 · Cited by 71 — For example, holding a threshold...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pure.qub.ac.uk  
-   Link: <a href="https://pure.qub.ac.uk/files/606934557/Thresholds_theory-Final_accepted_19.4.24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.qub.ac.uk/files/606934557/Thresholds_theory-Final_accepted_19.4.24.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Queen&#x27;s University BelfastThreshold decisions in social work: using theory to support...by D Turney · 2024 · Cited by 11 — The foundatio...</p></details>
+   Link:<a href="https://pure.qub.ac.uk/files/606934557/Thresholds_theory-Final_accepted_19.4.24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.qub.ac.uk/files/606934557/Thresholds_theory-Final_accepted_19.4.24.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Queen&#x27;s University BelfastThreshold decisions in social work: using theory to support...by D Turney · 2024 · Cited by 11 — The foundatio...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12881443/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12881443/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation through plausibility estimation and...by V Guigon · 2026 — Reaching accuracy, therefore, requires good calibration, under...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12881443/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12881443/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation through plausibility estimation and...by V Guigon · 2026 — Reaching accuracy, therefore, requires good calibration, under...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: papers.nips.cc  
-   Link: <a href="https://papers.nips.cc/paper_files/paper/2016/file/96c5c28becf18e71190460a9955aa4d8-Reviews.html" target="_blank" rel="noopener noreferrer nofollow">https://papers.nips.cc/paper_files/paper/2016/file/96c5c28becf18e71190460a9955aa4d8-Reviews.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nips.ccReviews: Threshold Learning for Optimal Decision MakingIn a nutshell, this paper proposes that thresholds are determined by solvin...</p></details>
+   Link:<a href="https://papers.nips.cc/paper_files/paper/2016/file/96c5c28becf18e71190460a9955aa4d8-Reviews.html" target="_blank" rel="noopener noreferrer nofollow">https://papers.nips.cc/paper_files/paper/2016/file/96c5c28becf18e71190460a9955aa4d8-Reviews.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nips.ccReviews: Threshold Learning for Optimal Decision MakingIn a nutshell, this paper proposes that thresholds are determined by solvin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: novakkevin.medium.com  
-   Link: <a href="https://novakkevin.medium.com/the-confidence-calibration-problem-why-self-assessment-fails-us-at-the-worst-possible-moments-87a6cd9ec11d" target="_blank" rel="noopener noreferrer nofollow">https://novakkevin.medium.com/the-confidence-calibration-problem-why-self-assessment-fails-us-at-the-worst-possible-moments-87a6cd9ec11d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence Calibration Problem: Why Self-Assessment...The core insight is deceptively simple: the skills required to produce excellent w...</p></details>
+   Link:<a href="https://novakkevin.medium.com/the-confidence-calibration-problem-why-self-assessment-fails-us-at-the-worst-possible-moments-87a6cd9ec11d" target="_blank" rel="noopener noreferrer nofollow">https://novakkevin.medium.com/the-confidence-calibration-problem-why-self-assessment-fails-us-at-the-worst-possible-moments-87a6cd9ec11d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence Calibration Problem: Why Self-Assessment...The core insight is deceptively simple: the skills required to produce excellent w...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: itad.com  
    Title: bayesian confidence updating 3 lessons from applying this technique  
-   Link: <a href="https://www.itad.com/article/bayesian-confidence-updating-3-lessons-from-applying-this-technique/" target="_blank" rel="noopener noreferrer nofollow">https://www.itad.com/article/bayesian-confidence-updating-3-lessons-from-applying-this-technique/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bayesian Confidence Updating: 3 lessons from applying...12 Sept 2022 — Bayesian Confidence Updating is an innovative approach to robustl...</p></details>
+   Link:<a href="https://www.itad.com/article/bayesian-confidence-updating-3-lessons-from-applying-this-technique/" target="_blank" rel="noopener noreferrer nofollow">https://www.itad.com/article/bayesian-confidence-updating-3-lessons-from-applying-this-technique/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bayesian Confidence Updating: 3 lessons from applying...12 Sept 2022 — Bayesian Confidence Updating is an innovative approach to robustl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: socialsci.libretexts.org  
    Title: 10.08: Threshold of Decision Making  
-   Link: <a href="https://socialsci.libretexts.org/Bookshelves/Communication/Argument_and_Debate/Arguing_Using_Critical_Thinking_%28Marteney%29/10%3A_Decision_Making_-_Judging_an_Argument/10.08%3A_Threshold_of_Decision_Making" target="_blank" rel="noopener noreferrer nofollow">https://socialsci.libretexts.org/Bookshelves/Communication/Argument_and_Debate/Arguing_Using_Critical_Thinking_%28Marteney%29/10%3A_Decision_Making_-_Judging_an_Argument/10.08%3A_Threshold_of_Decision_Making</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>libretexts.org10.8: Threshold of Decision Making3 Dec 2020 — The Threshold is that point on the continuum where a person is sure enough o...</p></details>
+   Link:<a href="https://socialsci.libretexts.org/Bookshelves/Communication/Argument_and_Debate/Arguing_Using_Critical_Thinking_%28Marteney%29/10%3A_Decision_Making_-_Judging_an_Argument/10.08%3A_Threshold_of_Decision_Making" target="_blank" rel="noopener noreferrer nofollow">https://socialsci.libretexts.org/Bookshelves/Communication/Argument_and_Debate/Arguing_Using_Critical_Thinking_%28Marteney%29/10%3A_Decision_Making_-_Judging_an_Argument/10.08%3A_Threshold_of_Decision_Making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>libretexts.org10.8: Threshold of Decision Making3 Dec 2020 — The Threshold is that point on the continuum where a person is sure enough o...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10178726/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10178726/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ratings increase response thresholds in...by B Li · 2024 · Cited by 21 — The results showed that CRs led to enhanced decision accuracy...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/id/eprint/10178726/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10178726/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ratings increase response thresholds in...by B Li · 2024 · Cited by 21 — The results showed that CRs led to enhanced decision accuracy...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: openreview.net  
    Title: Don't Think Twice!  
-   Link: <a href="https://openreview.net/forum?id=e7G5aeMOUP" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=e7G5aeMOUP</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Over-Reasoning Impairs Confidence...by R Lacombe · Cited by 2 — Extended reasoning leads to systematic overconfidence that worsens with...</p></details>
+   Link:<a href="https://openreview.net/forum?id=e7G5aeMOUP" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=e7G5aeMOUP</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Over-Reasoning Impairs Confidence...by R Lacombe · Cited by 2 — Extended reasoning leads to systematic overconfidence that worsens with...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2601.15778v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2601.15778v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic Confidence Calibration22 Jan 2026 — An early, low-confidence decision-such as erroneously selecting a tool, can “poison” the enti...</p></details>
+   Link:<a href="https://arxiv.org/html/2601.15778v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2601.15778v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic Confidence Calibration22 Jan 2026 — An early, low-confidence decision-such as erroneously selecting a tool, can “poison” the enti...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-020-15581-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-020-15581-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence reports in decision-making with multiple...by HH Li · 2020 · Cited by 116 — We found that confidence reports are best explain...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-020-15581-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-020-15581-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence reports in decision-making with multiple...by HH Li · 2020 · Cited by 116 — We found that confidence reports are best explain...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: brookbushinstitute.com  
-   Link: <a href="https://brookbushinstitute.com/articles/using-research-for-better-practice-a-decision-theory-and-information-theory-approach" target="_blank" rel="noopener noreferrer nofollow">https://brookbushinstitute.com/articles/using-research-for-better-practice-a-decision-theory-and-information-theory-approach</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Research for Better Practice: A Decision Theory and...by B Brookbush · 2026 — Knee valgus is a practical case where heterogeneous...</p></details>
+   Link:<a href="https://brookbushinstitute.com/articles/using-research-for-better-practice-a-decision-theory-and-information-theory-approach" target="_blank" rel="noopener noreferrer nofollow">https://brookbushinstitute.com/articles/using-research-for-better-practice-a-decision-theory-and-information-theory-approach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Research for Better Practice: A Decision Theory and...by B Brookbush · 2026 — Knee valgus is a practical case where heterogeneous...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Why "scout mindset" is crucial to [good judgment](&#123;&#123; 'good-judgment/' | relative_url &#125;&#125;) | Julia Galef | TEDx PSU  
-   Link: <a href="https://www.youtube.com/watch?v=3MYEtQ5Zdn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3MYEtQ5Zdn8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expected Value of Perfect Information (EVPI) Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3MYEtQ5Zdn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3MYEtQ5Zdn8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Expected Value of Perfect Information (EVPI) Explained...</p></details>

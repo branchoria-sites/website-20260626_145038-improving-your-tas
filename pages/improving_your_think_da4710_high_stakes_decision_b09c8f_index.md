@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710-high/
 description: Focused pages that expand on Decision Routines.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: improving_your_think_da4710_high_stakes_decision_b09c8f
 parent_title: Decision Routines
@@ -16,7 +16,7 @@ parent_permalink: /decision-routines/
 
 # Explore Topics in Decision Routines
 
-The following pages expand on the main **[Decision Routines]({{ '/decision-routines/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Decision Routines]({{ '/decision-routines/' | relative_url }})** page and cover its key branches in.
 
 - [Emergencies]({{ '/emergencies/' | relative_url }})
 - [The Biggest Cost Of A High Stakes Decision]({{ '/the-biggest-cost-of-a-high-stakes/' | relative_url }})

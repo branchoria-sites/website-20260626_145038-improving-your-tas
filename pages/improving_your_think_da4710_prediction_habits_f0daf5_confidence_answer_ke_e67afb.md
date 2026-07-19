@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_prediction_habits_f0daf5_confi
 
 ## Introduction
 
-Checking an answer key is usually treated as the end of a task. A more useful approach is to turn it into a calibration exercise by predicting not only your answers but also how well you think you performed before you look at the solutions. The comparison between expected performance and actual performance reveals whether your confidence matches reality. That skill—known as calibration—is a core part of good judgement because it helps you recognise both unwarranted certainty and unnecessary doubt. Rather than asking only, “Was I right?”, you also ask, “Did I know how likely I was to be right?” Research on confidence calibration shows that well-calibrated people make more reliable decisions because their confidence better reflects their true level of knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bi.team">[BIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bi.team</span><span class="citation-popover-title">TThe UK is overconfident</span><span class="citation-popover-snippet">TThe UK is overconfidentAugust 22, 2024 — When you test people&#x27;s knowledge and check how confident they are in their answers, they tend...</span><span class="citation-popover-meta">Published: August 22, 2024</span></span></span>
+Checking an answer key is usually treated as the end of a task. A more useful approach is to turn it into a calibration exercise by predicting not only your answers but also how well you think you performed before you look at the solutions. The comparison between expected performance and actual performance reveals whether your confidence matches reality. That skill—known as calibration—is a core part of good judgement because it helps you recognise both unwarranted certainty and unnecessary doubt. Rather than asking only, “Was I right?”, you also ask, “Did I know how likely I was to be right?” Research on confidence calibration shows that well-calibrated people make more reliable decisions because their confidence better reflects their true level of knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bi.team">[BIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bi.team</span><span class="citation-popover-title">TThe UK is overconfident</span><span class="citation-popover-snippet">TThe UK is overconfidentAugust 22, 2024 — When you test people&#x27;s knowledge and check how confident they are in their answers, they tend...</span><span class="citation-popover-meta">Published: August 22, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_confidence_answer_ke_e67afb-Illustration-1-dark.svg" | relative_url }}" alt="Confidence illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_confidence_answer_ke_e67afb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_confidence_answer_ke_e67afb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -303,7 +303,7 @@ This creates two useful records:
 * **Accuracy:** how many answers were actually correct.
 * **Calibration:** whether your confidence matched that accuracy.
 
-For example, if you expected 90% but scored 65%, you were overconfident. If you expected 60% but scored 85%, you were underconfident. Either mismatch contains more information than the score alone because it identifies an error in self-evaluation rather than simply an error in knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bi.team">[BIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bi.team</span><span class="citation-popover-title">TThe UK is overconfident</span><span class="citation-popover-snippet">TThe UK is overconfidentAugust 22, 2024 — When you test people&#x27;s knowledge and check how confident they are in their answers, they tend...</span><span class="citation-popover-meta">Published: August 22, 2024</span></span></span>
+For example, if you expected 90% but scored 65%, you were overconfident. If you expected 60% but scored 85%, you were underconfident. Either mismatch contains more information than the score alone because it identifies an error in self-evaluation rather than simply an error in knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bi.team">[BIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bi.team</span><span class="citation-popover-title">TThe UK is overconfident</span><span class="citation-popover-snippet">TThe UK is overconfidentAugust 22, 2024 — When you test people&#x27;s knowledge and check how confident they are in their answers, they tend...</span><span class="citation-popover-meta">Published: August 22, 2024</span></span></span>
 
 Over time, these [predictions]({{ 'predictions/' | relative_url }}) become surprisingly informative. Many learners discover consistent patterns, such as overestimating performance in familiar-looking topics or underestimating themselves on more technical problems that they actually solve well.
 
@@ -316,7 +316,7 @@ The goal is not to eliminate confidence but to align it with reality.
 
 ### When confidence is higher than accuracy
 
-Overconfidence often comes from recognising familiar ideas without fully understanding them, relying too heavily on a single clue, or stopping reasoning too early. Calibration studies consistently find that people frequently express more certainty than their actual success rate justifies, although the size of this effect depends on the task and how confidence is measured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bi.team">[BIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bi.team</span><span class="citation-popover-title">TThe UK is overconfident</span><span class="citation-popover-snippet">TThe UK is overconfidentAugust 22, 2024 — When you test people&#x27;s knowledge and check how confident they are in their answers, they tend...</span><span class="citation-popover-meta">Published: August 22, 2024</span></span></span>
+Overconfidence often comes from recognising familiar ideas without fully understanding them, relying too heavily on a single clue, or stopping reasoning too early. Calibration studies consistently find that people frequently express more certainty than their actual success rate justifies, although the size of this effect depends on the task and how confidence is measured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bi.team">[BIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bi.team</span><span class="citation-popover-title">TThe UK is overconfident</span><span class="citation-popover-snippet">TThe UK is overconfidentAugust 22, 2024 — When you test people&#x27;s knowledge and check how confident they are in their answers, they tend...</span><span class="citation-popover-meta">Published: August 22, 2024</span></span></span>
 
 Repeated overconfidence usually points to habits such as:
 
@@ -330,7 +330,7 @@ Repeated overconfidence usually points to habits such as:
 
 </div>
 
-Research also suggests that explicitly considering what you might not know can reduce unwarranted confidence by shifting attention towards gaps in your knowledge instead of only supporting evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://marketing.wharton.upenn.edu/wp-content/uploads/2015/04/WALTERS-DANIELS-JMP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marketing.wharton.upenn.edu">[Marketing Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marketing.wharton.upenn.edu</span><span class="citation-popover-title">Marketing Department Known Unknowns: A Critical Determinant of Confidence</span><span class="citation-popover-snippet">Marketing DepartmentKnown Unknowns: A Critical Determinant of Confidence...June 30, 2016 — by DJ Walters · Cited by 94 — We propose that...</span><span class="citation-popover-meta">Published: June 30, 2016</span></span></span>
+Research also suggests that explicitly considering what you might not know can reduce unwarranted confidence by shifting attention towards gaps in your knowledge instead of only supporting evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://marketing.wharton.upenn.edu/wp-content/uploads/2015/04/WALTERS-DANIELS-JMP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marketing.wharton.upenn.edu">[Marketing Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marketing.wharton.upenn.edu</span><span class="citation-popover-title">Marketing Department Known Unknowns: A Critical Determinant of Confidence</span><span class="citation-popover-snippet">Marketing DepartmentKnown Unknowns: A Critical Determinant of Confidence...June 30, 2016 — by DJ Walters · Cited by 94 — We propose that...</span><span class="citation-popover-meta">Published: June 30, 2016</span></span></span>
 
 ### When accuracy is higher than confidence
 
@@ -387,7 +387,7 @@ Strengthening confidence where your reasoning is already reliable improves futur
 
 High-confidence errors deserve the closest review.
 
-These are answers you were almost certain about but that turned out to be wrong. Although they can feel frustrating, research on the **hypercorrection effect** shows that confidently held errors are often especially memorable once corrected because the [surprise]({{ 'surprise/' | relative_url }}) captures attention and strengthens later learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hypercorrection (psychology</span><span class="citation-popover-snippet">Hypercorrection (psychology</span></span></span>
+These are answers you were almost certain about but that turned out to be wrong. Although they can feel frustrating, research on the **hypercorrection effect** shows that confidently held errors are often especially memorable once corrected because the [surprise]({{ 'surprise/' | relative_url }}) captures attention and strengthens later learning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hypercorrection (psychology</span><span class="citation-popover-snippet">Hypercorrection (psychology</span></span></span>
 
 When reviewing a confident mistake, avoid simply memorising the correct answer. Instead identify:
 
@@ -427,7 +427,7 @@ After several sessions, patterns become visible:
 
 </div>
 
-The objective is gradual convergence between predicted and actual performance. When someone who predicts an 80% chance of being correct is actually right about 80% of the time, they are well calibrated—a hallmark of effective judgement rather than simple optimism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bi.team">[BIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bi.team</span><span class="citation-popover-title">TThe UK is overconfident</span><span class="citation-popover-snippet">TThe UK is overconfidentAugust 22, 2024 — When you test people&#x27;s knowledge and check how confident they are in their answers, they tend...</span><span class="citation-popover-meta">Published: August 22, 2024</span></span></span>
+The objective is gradual convergence between predicted and actual performance. When someone who predicts an 80% chance of being correct is actually right about 80% of the time, they are well calibrated—a hallmark of effective judgement rather than simple optimism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bi.team">[BIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bi.team</span><span class="citation-popover-title">TThe UK is overconfident</span><span class="citation-popover-snippet">TThe UK is overconfidentAugust 22, 2024 — When you test people&#x27;s knowledge and check how confident they are in their answers, they tend...</span><span class="citation-popover-meta">Published: August 22, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ei_zP4saqPs" title="Overconfidence: The Most Dangerous Bias in Decision Making" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ei_zP4saqPs" target="_blank" rel="noopener noreferrer">Overconfidence: The Most Dangerous Bias in Decision Making</a></p><p class="youtube-embed-meta">Channel: Dr. Bryan Foltice - Behavioral Finance</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ei_zP4saqPs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ei_zP4saqPs">Open on YouTube</a></p></div></div></div>
@@ -439,194 +439,194 @@ An answer key tells you whether your solution was correct. A [confidence check](
 That distinction matters because analytical skill depends on more than producing correct answers. It depends on knowing when to trust your reasoning, when to question it and when additional evidence is needed. By predicting your score before looking at the answers and reviewing both confident mistakes and uncertain successes, every correction becomes feedback about the quality of your thinking as well as the quality of your knowledge.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do you know when you are wrong?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do you know when you are wrong?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Explains confidence calibration and forecast accuracy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains confidence calibration and forecast accuracy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VcouDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
-        </h4>
-        <p class="fr-book-author">By Annie Duke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VcouDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
+</h4>
+<p class="fr-book-author">By Annie Duke</p>
         
-        <p class="fr-book-desc">Shows how to judge confidence separately from outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to judge confidence separately from outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Supports prediction, testing, and feedback cycles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports prediction, testing, and feedback cycles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Develops probabilistic confidence estimation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Develops probabilistic confidence estimation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YOU KNOW YOUR A DOG LOVER WHEN NOVELTY METAL PARKING SIGN"><img src="{{ '/assets/images/marketplace-covers/cead042124cde536a862.jpg' | relative_url }}" alt="Listing image for YOU KNOW YOUR A DOG LOVER WHEN NOVELTY METAL PARKING SIGN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">YOU KNOW YOUR A DOG LOVER WHEN NOVELTY METAL PARKING SIGN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you know when sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: you know when sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YOU KNOW YOUR A DOG LOVER WHEN NOVELTY METAL PARKING SIGN"><img src="{{ '/assets/images/marketplace-covers/cead042124cde536a862.jpg' | relative_url }}" alt="Listing image for YOU KNOW YOUR A DOG LOVER WHEN NOVELTY METAL PARKING SIGN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">YOU KNOW YOUR A DOG LOVER WHEN NOVELTY METAL PARKING SIGN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you know when sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: you know when sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METAL SIGN - When you don&#x27;t know what you are doing, do it neatly."><img src="{{ '/assets/images/marketplace-covers/b3374982de406ec60671.jpg' | relative_url }}" alt="Listing image for METAL SIGN - When you don&#x27;t know what you are doing, do it neatly." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">METAL SIGN - When you don&#x27;t know what you are doing, do it neatly.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you know when sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: you know when sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METAL SIGN - When you don&#x27;t know what you are doing, do it neatly."><img src="{{ '/assets/images/marketplace-covers/b3374982de406ec60671.jpg' | relative_url }}" alt="Listing image for METAL SIGN - When you don&#x27;t know what you are doing, do it neatly." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">METAL SIGN - When you don&#x27;t know what you are doing, do it neatly.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you know when sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: you know when sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You know you&#x27;re a biker when Small Steel Sign 200mm x 150mm (og)"><img src="{{ '/assets/images/marketplace-covers/550274314c2fa96f4f36.jpg' | relative_url }}" alt="Listing image for You know you&#x27;re a biker when Small Steel Sign 200mm x 150mm (og)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">You know you&#x27;re a biker when Small Steel Sign 200mm x 150mm (og)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you know when sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: you know when sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You know you&#x27;re a biker when Small Steel Sign 200mm x 150mm (og)"><img src="{{ '/assets/images/marketplace-covers/550274314c2fa96f4f36.jpg' | relative_url }}" alt="Listing image for You know you&#x27;re a biker when Small Steel Sign 200mm x 150mm (og)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">You know you&#x27;re a biker when Small Steel Sign 200mm x 150mm (og)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you know when sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: you know when sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Laundry You Gotta Know When To HOLD THEM 12 x 8 inch Metal Sign"><img src="{{ '/assets/images/marketplace-covers/d46b59d6be2a8e06cffd.jpg' | relative_url }}" alt="Listing image for Laundry You Gotta Know When To HOLD THEM 12 x 8 inch Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Laundry You Gotta Know When To HOLD THEM 12 x 8 inch Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you know when sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: you know when sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Laundry You Gotta Know When To HOLD THEM 12 x 8 inch Metal Sign"><img src="{{ '/assets/images/marketplace-covers/d46b59d6be2a8e06cffd.jpg' | relative_url }}" alt="Listing image for Laundry You Gotta Know When To HOLD THEM 12 x 8 inch Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Laundry You Gotta Know When To HOLD THEM 12 x 8 inch Metal Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you know when sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: you know when sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+when+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know when sign -book -books -dvd" data-ebay-reference="confidence-do-you-know-when-you-are-wrong-improving-your-think-you-know-when-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -642,7 +642,7 @@ That distinction matters because analytical skill depends on more than producing
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -662,7 +662,7 @@ That distinction matters because analytical skill depends on more than producing
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -694,7 +694,7 @@ That distinction matters because analytical skill depends on more than producing
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -746,7 +746,7 @@ That distinction matters because analytical skill depends on more than producing
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -791,7 +791,7 @@ That distinction matters because analytical skill depends on more than producing
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -832,87 +832,87 @@ That distinction matters because analytical skill depends on more than producing
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bi.team  
    Title: TThe UK is overconfident  
-   Link: <a href="https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TThe UK is overconfidentAugust 22, 2024 — When you test people&#x27;s knowledge and check how confident they are in their answers, they tend...</p></details>
+   Link:<a href="https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/wp-content/uploads/2024/08/WPS-7-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TThe UK is overconfidentAugust 22, 2024 — When you test people&#x27;s knowledge and check how confident they are in their answers, they tend...</p></details>
    Published: August 22, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Overconfidence effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Overconfidence_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Overconfidence_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Overconfidence_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Overconfidence_effect</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Hypercorrection (psychology)  
-   Link: <a href="https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: marketing.wharton.upenn.edu  
    Title: Marketing Department Known Unknowns: A Critical Determinant of Confidence  
-   Link: <a href="https://marketing.wharton.upenn.edu/wp-content/uploads/2015/04/WALTERS-DANIELS-JMP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marketing.wharton.upenn.edu/wp-content/uploads/2015/04/WALTERS-DANIELS-JMP.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing DepartmentKnown Unknowns: A Critical Determinant of Confidence...June 30, 2016 — by DJ Walters · Cited by 94 — We propose that...</p></details>
+   Link:<a href="https://marketing.wharton.upenn.edu/wp-content/uploads/2015/04/WALTERS-DANIELS-JMP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marketing.wharton.upenn.edu/wp-content/uploads/2015/04/WALTERS-DANIELS-JMP.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing DepartmentKnown Unknowns: A Critical Determinant of Confidence...June 30, 2016 — by DJ Walters · Cited by 94 — We propose that...</p></details>
    Published: June 30, 2016  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: kevindorst.com  
-   Link: <a href="https://www.kevindorst.com/stranger_apologies/overconfidence" target="_blank" rel="noopener noreferrer nofollow">https://www.kevindorst.com/stranger_apologies/overconfidence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How (Not) to Test for Overconfidence18 Feb 2020 — We can represent this and other discrepancies in a graph—called a calibration curve—whe...</p></details>
+   Link:<a href="https://www.kevindorst.com/stranger_apologies/overconfidence" target="_blank" rel="noopener noreferrer nofollow">https://www.kevindorst.com/stranger_apologies/overconfidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How (Not) to Test for Overconfidence18 Feb 2020 — We can represent this and other discrepancies in a graph—called a calibration curve—whe...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/8685888_Overconfidence_in_Interval_Estimates" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/8685888_Overconfidence_in_Interval_Estimates</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Overconfidence in Interval EstimatesThe authors show that overconfidence in interval estimates can result from variability in setti...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/8685888_Overconfidence_in_Interval_Estimates" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/8685888_Overconfidence_in_Interval_Estimates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Overconfidence in Interval EstimatesThe authors show that overconfidence in interval estimates can result from variability in setti...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ejmste.com  
-   Link: <a href="https://www.ejmste.com/download/whats-about-the-calibration-between-confidence-and-accuracy-findings-in-probabilistic-problems-from-7780.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/whats-about-the-calibration-between-confidence-and-accuracy-findings-in-probabilistic-problems-from-7780.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s about the Calibration between Confidence and...by M Agus · 2019 · Cited by 9 — The purpose of this research is to investigate the...</p></details>
+   Link:<a href="https://www.ejmste.com/download/whats-about-the-calibration-between-confidence-and-accuracy-findings-in-probabilistic-problems-from-7780.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/whats-about-the-calibration-between-confidence-and-accuracy-findings-in-probabilistic-problems-from-7780.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s about the Calibration between Confidence and...by M Agus · 2019 · Cited by 9 — The purpose of this research is to investigate the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: philarchive.org  
-   Link: <a href="https://philarchive.org/archive/DOROIOv5" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/DOROIOv5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overconfidence in OverconfidenceThey have run calibration studies in which they ask people a variety of questions, and then test whether...</p></details>
+   Link:<a href="https://philarchive.org/archive/DOROIOv5" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/DOROIOv5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overconfidence in OverconfidenceThey have run calibration studies in which they ask people a variety of questions, and then test whether...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cogn-iq.org  
-   Link: <a href="https://www.cogn-iq.org/learn/theory/overconfidence-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.cogn-iq.org/learn/theory/overconfidence-bias/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overconfidence Bias — The Three Types, Calibration &amp;...Overconfidence is quantified through calibration — the correspondence between sta...</p></details>
+   Link:<a href="https://www.cogn-iq.org/learn/theory/overconfidence-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.cogn-iq.org/learn/theory/overconfidence-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overconfidence Bias — The Three Types, Calibration &amp;...Overconfidence is quantified through calibration — the correspondence between sta...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Mastering Metacognition: Learn How to Learn and Become Your Own Teacher  
-   Link: <a href="https://www.youtube.com/watch?v=4PqFy5gAHSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4PqFy5gAHSU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviors That Reveal You Have &quot;Metacognitive IQ&quot; (Only 1% Possess It)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4PqFy5gAHSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4PqFy5gAHSU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviors That Reveal You Have &quot;Metacognitive IQ&quot; (Only 1% Possess It)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Behaviors That Reveal You Have "Metacognitive IQ" (Only 1% Possess It)  
-   Link: <a href="https://www.youtube.com/watch?v=8ev8RLr_kGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ev8RLr_kGo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overconfidence: The Most Dangerous Bias in Decision Making...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8ev8RLr_kGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ev8RLr_kGo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overconfidence: The Most Dangerous Bias in Decision Making...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: 5 Signs You Have Metacognitive Intelligence  
-   Link: <a href="https://www.youtube.com/watch?v=QfK3PwI1OUw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QfK3PwI1OUw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Metacognition: Learn How to Learn and Become Your Own Teacher...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QfK3PwI1OUw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QfK3PwI1OUw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Metacognition: Learn How to Learn and Become Your Own Teacher...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Why People Are So Confident When They're Wrong  
-   Link: <a href="https://www.youtube.com/watch?v=9M_QK4stCJU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9M_QK4stCJU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Signs You Have Metacognitive Intelligence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9M_QK4stCJU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9M_QK4stCJU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Signs You Have Metacognitive Intelligence...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5978695/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5978695/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contrary to stereotypes that young people are more overconfident.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5978695/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5978695/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contrary to stereotypes that young people are more overconfident.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Overconfidence: The Most Dangerous Bias in Decision Making  
-   Link: <a href="https://www.youtube.com/watch?v=ei_zP4saqPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ei_zP4saqPs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ei_zP4saqPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ei_zP4saqPs</a>  

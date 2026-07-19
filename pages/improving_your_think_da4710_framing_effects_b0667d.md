@@ -451,13 +451,13 @@ Framing effects matter because many project and life decisions are not answered 
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d-overview.webp" | relative_url }}" alt="Overview image for Framing" loading="eager" decoding="sync" fetchpriority="high">
-The classic finding is that people can choose differently when the same [outcomes]({{ 'outcomes/' | relative_url }}) are described as gains rather than losses. Tversky and Kahneman’s 1981 work showed that formally equivalent choices can produce sharply different preferences depending on whether consequences are framed around lives saved or lives lost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.7455683" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Amos Tversky and Daniel Kahneman... Science. Volume 211 &#124; Issue 4481 30 January 1981. Copyright. © 1981.Read more...</span><span class="citation-popover-meta">Published: January 1981</span></span></span> For better thinking, the practical lesson is not simply “avoid bias”. It is: before committing to an answer, inspect the question.
+The classic finding is that people can choose differently when the same [outcomes]({{ 'outcomes/' | relative_url }}) are described as gains rather than losses. Tversky and Kahneman’s 1981 work showed that formally equivalent choices can produce sharply different preferences depending on whether consequences are framed around lives saved or lives lost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.7455683" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Amos Tversky and Daniel Kahneman... Science. Volume 211 &#124; Issue 4481 30 January 1981. Copyright. © 1981.Read more...</span><span class="citation-popover-meta">Published: January 1981</span></span></span> For better thinking, the practical lesson is not simply “avoid bias”. It is: before committing to an answer, inspect the question.
 
 ## How framing narrows attention
 
 A frame works by selecting what is salient. It says, often without announcing itself, which facts matter, which alternatives count, what “success” means, and what reference point should be used. That is why framing is so powerful in project and life decisions: these choices usually involve [uncertainty]({{ 'uncertainty/' | relative_url }}), emotion, sunk effort, reputation, and competing values. The frame does not need to be false to be restrictive.
 
-In decision research, framing is not one single trick. Levin, Schneider and Gaeth’s influential typology separates risky-choice framing, attribute framing, and goal framing. Risky-choice framing changes whether outcomes are presented as gains or losses; attribute framing changes how a feature is described, such as “90% success” versus “10% failure”; goal framing changes whether action is presented as achieving a benefit or avoiding a loss. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/9831520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Typology and Critical Analysis of Framing EffectsThen we discuss attribute framing, which affects the evaluation of object or eve...</span></span></span> These distinctions matter because different frames distort thinking in different ways.
+In decision research, framing is not one single trick. Levin, Schneider and Gaeth’s influential typology separates risky-choice framing, attribute framing, and goal framing. Risky-choice framing changes whether outcomes are presented as gains or losses; attribute framing changes how a feature is described, such as “90% success” versus “10% failure”; goal framing changes whether action is presented as achieving a benefit or avoiding a loss.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/9831520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Typology and Critical Analysis of Framing EffectsThen we discuss attribute framing, which affects the evaluation of object or eve...</span></span></span> These distinctions matter because different frames distort thinking in different ways.
 
 In projects, a narrow frame often hides the most useful question. “Can we build it?” directs attention to technical feasibility. “Should we build it?” brings in value, opportunity cost, timing, and alternatives. “How do we get stakeholder approval?” treats approval as the goal. “What decision would we recommend if approval politics disappeared?” exposes whether the case is actually strong.
 
@@ -467,11 +467,11 @@ In life decisions, the same narrowing happens in quieter ways. “Am I too old t
 
 The most dangerous frames are not always manipulative. Many are inherited from habit, workplace language, family expectations, or the previous decision. A project that was approved last year becomes “the project we need to deliver”, not “one possible use of people, money and attention”. A relationship becomes “something to save” or “something to leave”, not a system with several possible repairs, boundaries, or experiments.
 
-One reason this happens is that people evaluate choices relative to reference points. Prospect theory, developed by Kahneman and Tversky, showed that people often treat gains and losses asymmetrically, with losses weighing especially heavily. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/biases/framing-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Framing effect</span><span class="citation-popover-snippet">The Decision LabFraming effect - The Decision LabAccording to researchers Levin, Schneider, and Gaeth, there are three main types of fram...</span></span></span> In practical terms, the same option can feel cautious or reckless depending on what is treated as the baseline. A job change framed as “giving up stability” feels different from the same move framed as “buying a chance to avoid five more years of stagnation”.
+One reason this happens is that people evaluate choices relative to reference points. Prospect theory, developed by Kahneman and Tversky, showed that people often treat gains and losses asymmetrically, with losses weighing especially heavily.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/biases/framing-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Framing effect</span><span class="citation-popover-snippet">The Decision LabFraming effect - The Decision LabAccording to researchers Levin, Schneider, and Gaeth, there are three main types of fram...</span></span></span> In practical terms, the same option can feel cautious or reckless depending on what is treated as the baseline. A job change framed as “giving up stability” feels different from the same move framed as “buying a chance to avoid five more years of stagnation”.
 
-Status quo bias adds another trap. Samuelson and Zeckhauser found that people disproportionately stick with existing arrangements, including in consequential domains such as health plans and retirement programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Status quo bias in decision making</span><span class="citation-popover-snippet">Status quo bias in decision making</span></span></span> The frame “stay with the current option unless there is overwhelming evidence to change” gives the present an advantage that may not be deserved. In life, that can keep people in unsuitable jobs, routines, subscriptions, living arrangements, or social obligations. In organisations, it can keep weak projects alive because cancellation is framed as an active loss while continuing is framed as merely carrying on.
+Status quo bias adds another trap. Samuelson and Zeckhauser found that people disproportionately stick with existing arrangements, including in consequential domains such as health plans and retirement programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Status quo bias in decision making</span><span class="citation-popover-snippet">Status quo bias in decision making</span></span></span> The frame “stay with the current option unless there is overwhelming evidence to change” gives the present an advantage that may not be deserved. In life, that can keep people in unsuitable jobs, routines, subscriptions, living arrangements, or social obligations. In organisations, it can keep weak projects alive because cancellation is framed as an active loss while continuing is framed as merely carrying on.
 
-Default options show how much the structure of a choice can matter. Research on organ donation has found that participation is strongly influenced by whether the system is opt-in or opt-out, partly because [defaults]({{ 'defaults/' | relative_url }}) carry implied recommendations and reduce the need for active choice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3458339/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe meaning of default options for potential organ donors</span><span class="citation-popover-snippet">PMCThe meaning of default options for potential organ donors</span></span></span> The wider lesson is not that every decision should be nudged. It is that “doing nothing” is rarely neutral. It is a frame with consequences.
+Default options show how much the structure of a choice can matter. Research on organ donation has found that participation is strongly influenced by whether the system is opt-in or opt-out, partly because [defaults]({{ 'defaults/' | relative_url }}) carry implied recommendations and reduce the need for active choice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3458339/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe meaning of default options for potential organ donors</span><span class="citation-popover-snippet">PMCThe meaning of default options for potential organ donors</span></span></span> The wider lesson is not that every decision should be nudged. It is that “doing nothing” is rarely neutral. It is a frame with consequences.
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d-Illustration-1-dark.svg" | relative_url }}" alt="Framing illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -519,13 +519,13 @@ Better frame: “What outcome would make this relationship or collaboration work
 
 This shifts the goal from vindication to repair, boundary-setting, or mutual clarity.
 
-**A project that already has heavy investment.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**A project that already has heavy investment.**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Narrow frame: “We have spent too much to stop now.”
 
 Better frame: “If we had not already spent this money and effort, would we start this project today?”
 
-This is one of the simplest ways to weaken sunk-cost framing. Escalation of commitment is a recognised project-management risk, and Bent Flyvbjerg’s overview of behavioural biases in project management includes escalation, optimism bias, planning fallacy, anchoring and base-rate neglect among the major sources of poor project decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/87569728211049046" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
+This is one of the simplest ways to weaken sunk-cost framing. Escalation of commitment is a recognised project-management risk, and Bent Flyvbjerg’s overview of behavioural biases in project management includes escalation, optimism bias, planning fallacy, anchoring and base-rate neglect among the major sources of poor project decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/87569728211049046" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l50nrLxZJHU" title="Change The Frame, Change Your Brain (The Framing Effect)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l50nrLxZJHU" target="_blank" rel="noopener noreferrer">Change The Frame, Change Your Brain (The Framing Effect)</a></p><p class="youtube-embed-meta">Channel: Melissa Hughes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l50nrLxZJHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l50nrLxZJHU">Open on YouTube</a></p></div></div></div>
@@ -536,7 +536,7 @@ Projects are especially vulnerable to framing because they develop momentum. Onc
 
 This is where delivery framing can crowd out decision framing. Delivery framing asks: “How do we execute the plan?” Decision framing asks: “Is this still the right plan under current evidence?” Both are necessary, but they belong at different moments. A team that stays permanently in delivery mode may become efficient at completing the wrong thing.
 
-The planning fallacy is a related framing problem. Lovallo and Kahneman argued that executives often take an “inside view”, focusing on the details of their own plan while underweighting the outcomes of similar past projects. Their proposed corrective is the “[outside view]({{ 'outside-view/' | relative_url }})”: compare the project with a reference class of similar efforts before trusting the internal story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2003/07/delusions-of-success-how-optimism-undermines-executives-decisions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review Delusions of Success: How Optimism Undermines</span><span class="citation-popover-snippet">Harvard Business Review Delusions of Success: How Optimism Undermines</span></span></span> Project Management Institute guidance describes reference class forecasting in similar terms: build a sample of comparable projects, establish the distribution of outcomes, and compare the current estimate against that distribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmi.org/learning/library/planning-fallacy-causes-solutions-project-expectations-6374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmi.org">[Project Management Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmi.org</span><span class="citation-popover-title">Project Management Institute Planning Fallacy</span><span class="citation-popover-snippet">Project Management Institute Planning Fallacy</span></span></span>
+The planning fallacy is a related framing problem. Lovallo and Kahneman argued that executives often take an “inside view”, focusing on the details of their own plan while underweighting the outcomes of similar past projects. Their proposed corrective is the “[outside view]({{ 'outside-view/' | relative_url }})”: compare the project with a reference class of similar efforts before trusting the internal story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2003/07/delusions-of-success-how-optimism-undermines-executives-decisions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review Delusions of Success: How Optimism Undermines</span><span class="citation-popover-snippet">Harvard Business Review Delusions of Success: How Optimism Undermines</span></span></span> Project Management Institute guidance describes reference class forecasting in similar terms: build a sample of comparable projects, establish the distribution of outcomes, and compare the current estimate against that distribution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmi.org/learning/library/planning-fallacy-causes-solutions-project-expectations-6374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmi.org">[Project Management Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmi.org</span><span class="citation-popover-title">Project Management Institute Planning Fallacy</span><span class="citation-popover-snippet">Project Management Institute Planning Fallacy</span></span></span>
 
 This is a reframe with teeth. Instead of asking, “Can our team deliver this in nine months?”, ask, “How often have teams like ours delivered projects like this in nine months, and what happened when they tried?” The second question is less flattering, but usually more useful.
 
@@ -586,7 +586,7 @@ These questions work because they move attention from answer selection to proble
 
 A project plan usually enters the room wearing a success frame. The slides describe benefits, milestones, owners and confidence. Risk registers may exist, but they often feel secondary. A pre-mortem reverses the frame: assume the project has failed, then ask why.
 
-Gary Klein’s pre-mortem method, popularised in Harvard Business Review, asks team members to imagine that the project has ended badly and generate plausible reasons for failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review Performing a Project Premortem</span><span class="citation-popover-snippet">Harvard Business Review Performing a Project Premortem</span></span></span> The value is social as much as analytical. It gives people permission to voice doubts without being cast as obstructive. A concern that sounds negative under the frame “support the plan” becomes useful under the frame “explain the failure we are pretending already happened”.
+Gary Klein’s pre-mortem method, popularised in Harvard Business Review, asks team members to imagine that the project has ended badly and generate plausible reasons for failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review Performing a Project Premortem</span><span class="citation-popover-snippet">Harvard Business Review Performing a Project Premortem</span></span></span> The value is social as much as analytical. It gives people permission to voice doubts without being cast as obstructive. A concern that sounds negative under the frame “support the plan” becomes useful under the frame “explain the failure we are pretending already happened”.
 
 For personal decisions, a lighter version works well. Before making a major commitment, imagine two future scenes:
 
@@ -602,7 +602,7 @@ This paired pre-mortem prevents the common mistake of examining only the risk of
 
 Framing is unavoidable. Every proposal, conversation, form, menu, dashboard or question presents information in some order and against some background. The ethical issue is not whether a frame exists, but whether it helps people understand the decision or quietly steers them by hiding important alternatives.
 
-Choice architecture research makes this especially clear. Retirement forms, health choices and donation systems can change behaviour by altering defaults, active-choice requirements, and the wording of consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ssa.gov">[Social Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ssa.gov</span><span class="citation-popover-snippet">Open source on ssa.gov.</span></span></span> These tools can help people act on their own long-term interests, but they can also be used to exploit inertia, confusion or fear.
+Choice architecture research makes this especially clear. Retirement forms, health choices and donation systems can change behaviour by altering defaults, active-choice requirements, and the wording of consequences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ssa.gov">[Social Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ssa.gov</span><span class="citation-popover-snippet">Open source on ssa.gov.</span></span></span> These tools can help people act on their own long-term interests, but they can also be used to exploit inertia, confusion or fear.
 
 A fair frame should make the real trade-off easier to see. A manipulative frame makes the sponsor’s preferred answer easier to choose while making other valid options less visible. In projects, manipulation may appear as “strategic alignment” language that hides weak evidence. In life, it may appear as advice that smuggles in someone else’s values: “A sensible person would stay”, “A brave person would leave”, “Successful people never quit”, or “You owe it to yourself to take the risk”.
 
@@ -619,178 +619,178 @@ For projects, this means separating “Can we deliver?” from “Should we cont
 A good frame does not guarantee a good decision. It does something more basic: it gives the decision a fair chance.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is the Question Already Trapping You?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is the Question Already Trapping You?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Contains the classic discussion of framing effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains the classic discussion of framing effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Lus2EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Lus2EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-        <p class="fr-book-desc">Shows how framing and choice architecture influence decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how framing and choice architecture influence decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Teaches reframing and expanding decision options.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches reframing and expanding decision options.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
         
-        <p class="fr-book-desc">Explains systematic judgment improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains systematic judgment improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level"><img src="https://i.ebayimg.com/images/g/dgAAAeSwEjFplWxm/s-l225.jpg" alt="Listing image for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level"><img src="https://i.ebayimg.com/images/g/dgAAAeSwEjFplWxm/s-l225.jpg" alt="Listing image for Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">Logic Puzzle Brain Teaser Game for Kids Adults,88 Challenges 4 Difficulty Level</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid"><img src="https://i.ebayimg.com/images/g/h64AAeSwFCdp9NKI/s-l225.jpg" alt="Listing image for 120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid"><img src="https://i.ebayimg.com/images/g/h64AAeSwFCdp9NKI/s-l225.jpg" alt="Listing image for 120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">120 Level Hidden Building Block Puzzle Toys Logic &amp; Spatial Reasoning Game Kid</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Puzzle Brain Teaser Game for Kids Adults, 88 Challenges 4 Difficulty Level"><img src="https://i.ebayimg.com/images/g/t-EAAeSwur5qETQ3/s-l225.jpg" alt="Listing image for Logic Puzzle Brain Teaser Game for Kids Adults, 88 Challenges 4 Difficulty Level" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">Logic Puzzle Brain Teaser Game for Kids Adults, 88 Challenges 4 Difficulty Level</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Puzzle Brain Teaser Game for Kids Adults, 88 Challenges 4 Difficulty Level"><img src="https://i.ebayimg.com/images/g/t-EAAeSwur5qETQ3/s-l225.jpg" alt="Listing image for Logic Puzzle Brain Teaser Game for Kids Adults, 88 Challenges 4 Difficulty Level" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">Logic Puzzle Brain Teaser Game for Kids Adults, 88 Challenges 4 Difficulty Level</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic puzzle game">Search<span data-ebay-domain-label>eBay.co.uk</span>: logic puzzle game</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+puzzle+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-question-already-trapping-you-logic-puzzle-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic puzzle game" data-ebay-reference="is-the-question-already-trapping-you-logic-puzzle-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -806,7 +806,7 @@ A good frame does not guarantee a good decision. It does something more basic: i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -826,7 +826,7 @@ A good frame does not guarantee a good decision. It does something more basic: i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -858,7 +858,7 @@ A good frame does not guarantee a good decision. It does something more basic: i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -910,7 +910,7 @@ A good frame does not guarantee a good decision. It does something more basic: i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -955,7 +955,7 @@ A good frame does not guarantee a good decision. It does something more basic: i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -995,260 +995,260 @@ A good frame does not guarantee a good decision. It does something more basic: i
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
    Title: Status quo bias in decision making  
-   Link: <a href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/BF00055564</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/BF00055564</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rzeckhauser.scholars.harvard.edu  
    Title: Status Quo Bias in Decision Making  
-   Link: <a href="https://rzeckhauser.scholars.harvard.edu/publications/status-quo-bias-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://rzeckhauser.scholars.harvard.edu/publications/status-quo-bias-decision-making</a>  
+   Link:<a href="https://rzeckhauser.scholars.harvard.edu/publications/status-quo-bias-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://rzeckhauser.scholars.harvard.edu/publications/status-quo-bias-decision-making</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe meaning of default options for potential organ donors  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3458339/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3458339/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3458339/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3458339/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: project-management.com  
-   Link: <a href="https://project-management.com/cognitive-biases-in-project-management/" target="_blank" rel="noopener noreferrer nofollow">https://project-management.com/cognitive-biases-in-project-management/</a>  
+   Link:<a href="https://project-management.com/cognitive-biases-in-project-management/" target="_blank" rel="noopener noreferrer nofollow">https://project-management.com/cognitive-biases-in-project-management/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.7455683" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.7455683</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amos Tversky and Daniel Kahneman... Science. Volume 211 | Issue 4481 30 January 1981. Copyright. © 1981.Read more...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/science.7455683" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.7455683</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amos Tversky and Daniel Kahneman... Science. Volume 211 | Issue 4481 30 January 1981. Copyright. © 1981.Read more...</p></details>
    Published: January 1981  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/7455683/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7455683/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science. 1981 Jan 30;211(4481):453-8. doi: 10.1126/science.7455683. Authors. A Tversky, D Kahneman.Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/7455683/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7455683/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science. 1981 Jan 30;211(4481):453-8. doi: 10.1126/science.7455683. Authors. A Tversky, D Kahneman.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/9831520/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/9831520/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Typology and Critical Analysis of Framing EffectsThen we discuss attribute framing, which affects the evaluation of object or eve...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/9831520/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/9831520/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Typology and Critical Analysis of Framing EffectsThen we discuss attribute framing, which affects the evaluation of object or eve...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Framing effect  
-   Link: <a href="https://thedecisionlab.com/biases/framing-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/framing-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabFraming effect - The Decision LabAccording to researchers Levin, Schneider, and Gaeth, there are three main types of fram...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/framing-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/framing-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabFraming effect - The Decision LabAccording to researchers Levin, Schneider, and Gaeth, there are three main types of fram...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/87569728211049046" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/87569728211049046</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/87569728211049046" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/87569728211049046</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hbr.org  
    Title: Harvard Business Review Delusions of Success: How Optimism Undermines  
-   Link: <a href="https://hbr.org/2003/07/delusions-of-success-how-optimism-undermines-executives-decisions" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2003/07/delusions-of-success-how-optimism-undermines-executives-decisions</a>  
+   Link:<a href="https://hbr.org/2003/07/delusions-of-success-how-optimism-undermines-executives-decisions" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2003/07/delusions-of-success-how-optimism-undermines-executives-decisions</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12858711/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12858711/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12858711/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12858711/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmi.org  
    Title: Project Management Institute Planning Fallacy  
-   Link: <a href="https://www.pmi.org/learning/library/planning-fallacy-causes-solutions-project-expectations-6374" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/learning/library/planning-fallacy-causes-solutions-project-expectations-6374</a>  
+   Link:<a href="https://www.pmi.org/learning/library/planning-fallacy-causes-solutions-project-expectations-6374" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/learning/library/planning-fallacy-causes-solutions-project-expectations-6374</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hbr.org  
    Title: Harvard Business Review Performing a Project Premortem  
-   Link: <a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2007/09/performing-a-project-premortem</a>  
+   Link:<a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2007/09/performing-a-project-premortem</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ssa.gov  
-   Link: <a href="https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p1.html</a>  
+   Link:<a href="https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p1.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2631940/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2631940/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2631940/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2631940/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5904751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5904751/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5904751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5904751/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/9719656/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/9719656/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/9719656/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/9719656/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/7070445/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7070445/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/7070445/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7070445/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4556535/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4556535/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4556535/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4556535/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/problem" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/problem</a>  
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/problem" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/problem</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hbr.org  
-   Link: <a href="https://hbr.org/2024/01/to-solve-a-tough-problem-reframe-it" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2024/01/to-solve-a-tough-problem-reframe-it</a>  
+   Link:<a href="https://hbr.org/2024/01/to-solve-a-tough-problem-reframe-it" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2024/01/to-solve-a-tough-problem-reframe-it</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hbr.org  
-   Link: <a href="https://hbr.org/2017/01/are-you-solving-the-right-problems" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2017/01/are-you-solving-the-right-problems</a>  
+   Link:<a href="https://hbr.org/2017/01/are-you-solving-the-right-problems" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2017/01/are-you-solving-the-right-problems</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: hbr.org  
    Title: the secret to better problem solving  
-   Link: <a href="https://hbr.org/podcast/2016/12/the-secret-to-better-problem-solving" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2016/12/the-secret-to-better-problem-solving</a>  
+   Link:<a href="https://hbr.org/podcast/2016/12/the-secret-to-better-problem-solving" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2016/12/the-secret-to-better-problem-solving</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: hbr.org  
    Title: moving beyond either or decision making  
-   Link: <a href="https://hbr.org/podcast/2025/09/moving-beyond-either-or-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2025/09/moving-beyond-either-or-decision-making</a>  
+   Link:<a href="https://hbr.org/podcast/2025/09/moving-beyond-either-or-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2025/09/moving-beyond-either-or-decision-making</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hbr.org  
-   Link: <a href="https://hbr.org/2026/06/our-favorite-management-tips-on-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2026/06/our-favorite-management-tips-on-decision-making</a>  
+   Link:<a href="https://hbr.org/2026/06/our-favorite-management-tips-on-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2026/06/our-favorite-management-tips-on-decision-making</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: hbr.org  
-   Link: <a href="https://hbr.org/topic/subject/decision-making-and-problem-solving" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/topic/subject/decision-making-and-problem-solving</a>  
+   Link:<a href="https://hbr.org/topic/subject/decision-making-and-problem-solving" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/topic/subject/decision-making-and-problem-solving</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: hbr.org  
    Title: do you understand the problem youre trying to solve  
-   Link: <a href="https://hbr.org/podcast/2024/04/do-you-understand-the-problem-youre-trying-to-solve" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2024/04/do-you-understand-the-problem-youre-trying-to-solve</a>  
+   Link:<a href="https://hbr.org/podcast/2024/04/do-you-understand-the-problem-youre-trying-to-solve" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2024/04/do-you-understand-the-problem-youre-trying-to-solve</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: hbr.org  
    Title: making good decisions  
-   Link: <a href="https://hbr.org/podcast/2014/11/making-good-decisions" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2014/11/making-good-decisions</a>  
+   Link:<a href="https://hbr.org/podcast/2014/11/making-good-decisions" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2014/11/making-good-decisions</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: hbr.org  
    Title: One Frame of Reference Isn't Enough  
-   Link: <a href="https://hbr.org/video/2919114910001/one-frame-of-reference-isnt-enough" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/video/2919114910001/one-frame-of-reference-isnt-enough</a>  
+   Link:<a href="https://hbr.org/video/2919114910001/one-frame-of-reference-isnt-enough" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/video/2919114910001/one-frame-of-reference-isnt-enough</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: hbr.org  
    Title: A Better Framework for Solving Tough Problems  
-   Link: <a href="https://hbr.org/podcast/2024/05/a-better-framework-for-solving-tough-problems" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2024/05/a-better-framework-for-solving-tough-problems</a>  
+   Link:<a href="https://hbr.org/podcast/2024/05/a-better-framework-for-solving-tough-problems" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2024/05/a-better-framework-for-solving-tough-problems</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: hbr.org  
    Title: the right way to solve complex business problems  
-   Link: <a href="https://hbr.org/podcast/2018/12/the-right-way-to-solve-complex-business-problems" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2018/12/the-right-way-to-solve-complex-business-problems</a>  
+   Link:<a href="https://hbr.org/podcast/2018/12/the-right-way-to-solve-complex-business-problems" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/podcast/2018/12/the-right-way-to-solve-complex-business-problems</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: hbr.org  
-   Link: <a href="https://hbr.org/archive-toc/BR0307" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/archive-toc/BR0307</a>  
+   Link:<a href="https://hbr.org/archive-toc/BR0307" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/archive-toc/BR0307</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/commitment-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/commitment-bias</a>  
+   Link:<a href="https://thedecisionlab.com/biases/commitment-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/commitment-bias</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/the-sunk-cost-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/the-sunk-cost-fallacy</a>  
+   Link:<a href="https://thedecisionlab.com/biases/the-sunk-cost-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/the-sunk-cost-fallacy</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/status-quo-bias</a>  
+   Link:<a href="https://thedecisionlab.com/biases/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/status-quo-bias</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: Planning fallacy  
-   Link: <a href="https://en.wikipedia.org/wiki/Planning_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Planning_fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Planning_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Planning_fallacy</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0272989X0202200108" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0272989X0202200108</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0272989X0202200108" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0272989X0202200108</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: sk.sagepub.com  
    Title: [gain loss](&#123;&#123; 'gain-loss/' | relative_url &#125;&#125;) framing effects  
-   Link: <a href="https://sk.sagepub.com/ency/edvol/medical/chpt/gain-loss-framing-effects" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/medical/chpt/gain-loss-framing-effects</a>  
+   Link:<a href="https://sk.sagepub.com/ency/edvol/medical/chpt/gain-loss-framing-effects" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/medical/chpt/gain-loss-framing-effects</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1509/jppm.30.2.191" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1509/jppm.30.2.191</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1509/jppm.30.2.191" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1509/jppm.30.2.191</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: managementplatform.nl  
    Title: Reference Class Forecasting  
-   Link: <a href="https://managementplatform.nl/reference-class-forecasting/08/02/2026" target="_blank" rel="noopener noreferrer nofollow">https://managementplatform.nl/reference-class-forecasting/08/02/2026</a>  
+   Link:<a href="https://managementplatform.nl/reference-class-forecasting/08/02/2026" target="_blank" rel="noopener noreferrer nofollow">https://managementplatform.nl/reference-class-forecasting/08/02/2026</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/harvard-business-review_a-leaders-framework-for-decision-making-activity-7291080031345205248-iAVh" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/harvard-business-review_a-leaders-framework-for-decision-making-activity-7291080031345205248-iAVh</a>  
+   Link:<a href="https://www.linkedin.com/posts/harvard-business-review_a-leaders-framework-for-decision-making-activity-7291080031345205248-iAVh" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/harvard-business-review_a-leaders-framework-for-decision-making-activity-7291080031345205248-iAVh</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/729125014/Science-the-Framing-of-Decisions-and-the-Psychology-of-Choice" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/729125014/Science-the-Framing-of-Decisions-and-the-Psychology-of-Choice</a>  
+   Link:<a href="https://www.scribd.com/document/729125014/Science-the-Framing-of-Decisions-and-the-Psychology-of-Choice" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/729125014/Science-the-Framing-of-Decisions-and-the-Psychology-of-Choice</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: pmi.org  
-   Link: <a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
+   Link:<a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: knowledgetrain.co.uk  
-   Link: <a href="https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOoozzL6oouw4Z0C4qxy6TWOAu4xJIiXO86JAnE13378X3st7D5iQ" target="_blank" rel="noopener noreferrer nofollow">https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOoozzL6oouw4Z0C4qxy6TWOAu4xJIiXO86JAnE13378X3st7D5iQ</a>  
+   Link:<a href="https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOoozzL6oouw4Z0C4qxy6TWOAu4xJIiXO86JAnE13378X3st7D5iQ" target="_blank" rel="noopener noreferrer nofollow">https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOoozzL6oouw4Z0C4qxy6TWOAu4xJIiXO86JAnE13378X3st7D5iQ</a>  
 
 ### Additional References
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: Behavioral Finance Basics  
-   Link: <a href="https://www.youtube.com/watch?v=AQsnhtCCMtM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AQsnhtCCMtM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Framing Effect: Do You Prefer the Glass to be Half-Empty or Half-Full?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AQsnhtCCMtM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AQsnhtCCMtM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Framing Effect: Do You Prefer the Glass to be Half-Empty or Half-Full?...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: Framing Effect | The Psychological Bias That Shapes our Decisions  
-   Link: <a href="https://www.youtube.com/watch?v=keXzVu2O_80" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=keXzVu2O_80</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Finance Basics - How Framing Affects Decisions - Allais Paradox...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=keXzVu2O_80" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=keXzVu2O_80</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Finance Basics - How Framing Affects Decisions - Allais Paradox...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: Change The Frame, Change Your Brain (The Framing Effect)  
-   Link: <a href="https://www.youtube.com/watch?v=l50nrLxZJHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l50nrLxZJHU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Framing Effect | The Psychological Bias That Shapes our Decisions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l50nrLxZJHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l50nrLxZJHU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Framing Effect | The Psychological Bias That Shapes our Decisions...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/420075/Attribute_Framing_and_Goal_Framing_Effects_In_Health_Decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/420075/Attribute_Framing_and_Goal_Framing_Effects_In_Health_Decisions</a>  
+   Link:<a href="https://www.academia.edu/420075/Attribute_Framing_and_Goal_Framing_Effects_In_Health_Decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/420075/Attribute_Framing_and_Goal_Framing_Effects_In_Health_Decisions</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/3291417/Delusions_of_Success_Comment_on_Dan_Lovallo_and_Daniel_Kahneman" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3291417/Delusions_of_Success_Comment_on_Dan_Lovallo_and_Daniel_Kahneman</a>  
+   Link:<a href="https://www.academia.edu/3291417/Delusions_of_Success_Comment_on_Dan_Lovallo_and_Daniel_Kahneman" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3291417/Delusions_of_Success_Comment_on_Dan_Lovallo_and_Daniel_Kahneman</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/4818725_Framing_Effects_Dynamics_and_Task_Domains" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4818725_Framing_Effects_Dynamics_and_Task_Domains</a>  
+   Link:<a href="https://www.researchgate.net/publication/4818725_Framing_Effects_Dynamics_and_Task_Domains" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4818725_Framing_Effects_Dynamics_and_Task_Domains</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
+   Link:<a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making</a>  
+   Link:<a href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395555624_The_Impact_of_Framing_Effects_and_Loss_Aversion_on_Decision-making_Across_Health_Finance_and_Retirement_Domains" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395555624_The_Impact_of_Framing_Effects_and_Loss_Aversion_on_Decision-making_Across_Health_Finance_and_Retirement_Domains</a>  
+   Link:<a href="https://www.researchgate.net/publication/395555624_The_Impact_of_Framing_Effects_and_Loss_Aversion_on_Decision-making_Across_Health_Finance_and_Retirement_Domains" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395555624_The_Impact_of_Framing_Effects_and_Loss_Aversion_on_Decision-making_Across_Health_Finance_and_Retirement_Domains</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/222262436_A_New_Look_at_Framing_Effects_Distribution_of_Effect_Sizes_Individual_Differences_and_Independence_of_Types_of_Effects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222262436_A_New_Look_at_Framing_Effects_Distribution_of_Effect_Sizes_Individual_Differences_and_Independence_of_Types_of_Effects</a>  
+   Link:<a href="https://www.researchgate.net/publication/222262436_A_New_Look_at_Framing_Effects_Distribution_of_Effect_Sizes_Individual_Differences_and_Independence_of_Types_of_Effects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222262436_A_New_Look_at_Framing_Effects_Distribution_of_Effect_Sizes_Individual_Differences_and_Independence_of_Types_of_Effects</a>  

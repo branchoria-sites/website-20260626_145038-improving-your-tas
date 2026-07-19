@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_co
 
 ## Introduction
 
-Confirmation bias does not merely make people notice evidence that supports their conclusions. It also changes *how* they judge evidence. Supportive information is often accepted with relatively little scrutiny, while contradictory information is examined for flaws, alternative explanations or methodological weaknesses. The result is that the weakest premise in an argument can remain almost invisible because it is protected by unequal standards of evaluation rather than by strong evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
+Confirmation bias does not merely make people notice evidence that supports their conclusions. It also changes *how* they judge evidence. Supportive information is often accepted with relatively little scrutiny, while contradictory information is examined for flaws, alternative explanations or methodological weaknesses. The result is that the weakest premise in an argument can remain almost invisible because it is protected by unequal standards of evaluation rather than by strong evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_confirmation_bias_we_6cda4a-Illustration-1-dark.svg" | relative_url }}" alt="Bias Trap illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_confirmation_bias_we_6cda4a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_confirmation_bias_we_6cda4a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -307,7 +307,7 @@ Yet ask of contradictory evidence:
 
 </div>
 
-These critical questions are legitimate. The problem arises when they are asked only of inconvenient evidence. The preferred conclusion is effectively given a lower burden of proof than competing explanations. Raymond Nickerson's influential review describes confirmation bias as encompassing both the search for evidence and its interpretation in ways that favour existing beliefs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
+These critical questions are legitimate. The problem arises when they are asked only of inconvenient evidence. The preferred conclusion is effectively given a lower burden of proof than competing explanations. Raymond Nickerson's influential review describes confirmation bias as encompassing both the search for evidence and its interpretation in ways that favour existing beliefs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
 
 This asymmetry can hide the weakest premise because the premise never faces the same level of examination as competing claims.
 
@@ -342,13 +342,13 @@ Typical questions include:
 * Which observation would force a different explanation?
 * If my preferred interpretation were wrong, what would I expect to see instead?
 
-Confirmation bias naturally favours support checks because they are psychologically comfortable. Break checks deliberately expose the argument's weakest bridge rather than reinforcing its strongest pillars. This distinction reflects the broader scientific emphasis on testing whether hypotheses can survive attempts at falsification rather than merely collecting confirming examples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
+Confirmation bias naturally favours support checks because they are psychologically comfortable. Break checks deliberately expose the argument's weakest bridge rather than reinforcing its strongest pillars. This distinction reflects the broader scientific emphasis on testing whether hypotheses can survive attempts at falsification rather than merely collecting confirming examples.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
 
 ## How mixed evidence can harden prior beliefs
 
 One of the most striking demonstrations of this mechanism came from classic research by Charles G. Lord, Lee Ross and Mark R. Lepper.
 
-Participants who strongly supported or opposed capital punishment read the same mixed body of research, containing evidence both for and against its deterrent effect. Rather than moving towards a common position, each group judged studies supporting its prior belief as more convincing while finding methodological flaws primarily in studies that challenged it. Many participants consequently became more confident in their original views after reading exactly the same evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">jpsp 1979 Lord Ross Lepper</span><span class="citation-popover-snippet">Lepper, &amp; Hubbard, 1975). Our thesis is that belief polarization will increase, rather than decrease or remain unchanged, when mixed or i...</span></span></span>
+Participants who strongly supported or opposed capital punishment read the same mixed body of research, containing evidence both for and against its deterrent effect. Rather than moving towards a common position, each group judged studies supporting its prior belief as more convincing while finding methodological flaws primarily in studies that challenged it. Many participants consequently became more confident in their original views after reading exactly the same evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">jpsp 1979 Lord Ross Lepper</span><span class="citation-popover-snippet">Lepper, &amp; Hubbard, 1975). Our thesis is that belief polarization will increase, rather than decrease or remain unchanged, when mixed or i...</span></span></span>
 
 The important lesson is not simply that people disagreed. It is that identical evidence was filtered through unequal standards of evaluation.
 
@@ -394,7 +394,7 @@ Ironically, the more coherent the overall narrative becomes, the easier it is to
 
 ## Recognising unequal scrutiny
 
-Several warning signs suggest confirmation bias may be protecting the weakest premise: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Confirmation bias</span><span class="citation-popover-snippet">Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</span></span></span>
+Several warning signs suggest confirmation bias may be protecting the weakest premise:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Confirmation bias</span><span class="citation-popover-snippet">Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
@@ -424,7 +424,7 @@ Useful techniques include:
 * **Separate confidence from consistency.** A coherent story is not necessarily a well-tested one.
 * **Perform a deliberate break check.** Before strengthening your preferred argument further, spend time trying to discover how it could fail.
 
-Research on active evidence sampling also suggests that people preferentially seek information confirming previous choices, but prompting them to consider alternatives or counterexamples can reduce this tendency and improve hypothesis testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Humans actively sample evidence to support prior beliefs - PMCby P Kaanders · 2022 · Cited by 68 — Previous research has shown that pa...</span></span></span>
+Research on active evidence sampling also suggests that people preferentially seek information confirming previous choices, but prompting them to consider alternatives or counterexamples can reduce this tendency and improve hypothesis testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Humans actively sample evidence to support prior beliefs - PMCby P Kaanders · 2022 · Cited by 68 — Previous research has shown that pa...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_confirmation_bias_we_6cda4a-Illustration-3-dark.svg" | relative_url }}" alt="Bias Trap illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_confirmation_bias_we_6cda4a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_confirmation_bias_we_6cda4a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -435,178 +435,178 @@ Weakest-link thinking is effective only if every premise is exposed to comparabl
 The practical discipline is therefore not to become more sceptical of everything, but to become equally demanding of the assumptions that favour your preferred conclusion as you are of those that threaten it. When supportive evidence and contradictory evidence must meet the [same standards]({{ 'same-standard/' | relative_url }}), the weakest premise becomes much easier to identify before it becomes the source of a costly mistake.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Supportive Evidence Can Hide the Weakest Link. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Supportive Evidence Can Hide the Weakest Link. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Focuses on testing beliefs fairly rather than defending existing conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on testing beliefs fairly rather than defending existing conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains confirmation bias, judgment errors, and why people accept supportive evidence too readily.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains confirmation bias, judgment errors, and why people accept supportive evidence too readily.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes skeptical evaluation of evidence and equal standards for competing claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Promotes skeptical evaluation of evidence and equal standards for competing claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
+</h4>
+<p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
         
-        <p class="fr-book-desc">Provides structured approaches for identifying weak assumptions and evaluating arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides structured approaches for identifying weak assumptions and evaluating arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Supportive Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/zzgAAeSw585odvF1/s-l225.jpg" alt="Listing image for Supportive Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Supportive Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for supportive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: supportive poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Supportive Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/zzgAAeSw585odvF1/s-l225.jpg" alt="Listing image for Supportive Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Supportive Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for supportive poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: supportive poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Supportive Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/IlkAAeSwtnloc46w/s-l225.jpg" alt="Listing image for Supportive Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Supportive Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for supportive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: supportive poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Supportive Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/IlkAAeSwtnloc46w/s-l225.jpg" alt="Listing image for Supportive Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Supportive Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for supportive poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: supportive poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dance Bro Supportive But Bored Funn Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/isQAAeSwg6tp1Thf/s-l225.jpg" alt="Listing image for Dance Bro Supportive But Bored Funn Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Dance Bro Supportive But Bored Funn Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for supportive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: supportive poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dance Bro Supportive But Bored Funn Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/isQAAeSwg6tp1Thf/s-l225.jpg" alt="Listing image for Dance Bro Supportive But Bored Funn Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Dance Bro Supportive But Bored Funn Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for supportive poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: supportive poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=supportive+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="supportive poster -book -books -dvd" data-ebay-reference="why-supportive-evidence-can-hide-the-weakest-link-supportive-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -622,7 +622,7 @@ The practical discipline is therefore not to become more sceptical of everything
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -642,7 +642,7 @@ The practical discipline is therefore not to become more sceptical of everything
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -674,7 +674,7 @@ The practical discipline is therefore not to become more sceptical of everything
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -726,7 +726,7 @@ The practical discipline is therefore not to become more sceptical of everything
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -771,7 +771,7 @@ The practical discipline is therefore not to become more sceptical of everything
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -811,121 +811,121 @@ The practical discipline is therefore not to become more sceptical of everything
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fbaum.unc.edu  
    Title: jpsp 1979 Lord Ross Lepper  
-   Link: <a href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lepper, &amp; Hubbard, 1975). Our thesis is that belief polarization will increase, rather than decrease or remain unchanged, when mixed or i...</p></details>
+   Link:<a href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lepper, &amp; Hubbard, 1975). Our thesis is that belief polarization will increase, rather than decrease or remain unchanged, when mixed or i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Humans actively sample evidence to support prior beliefs - PMCby P Kaanders · 2022 · Cited by 68 — Previous research has shown that pa...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Humans actively sample evidence to support prior beliefs - PMCby P Kaanders · 2022 · Cited by 68 — Previous research has shown that pa...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bvanudgeconsulting.com  
    Title: confirmation bias  
-   Link: <a href="https://www.bvanudgeconsulting.com/bias-of-the-week/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.bvanudgeconsulting.com/bias-of-the-week/confirmation-bias/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lord, C. G., Ross, L., &amp;amp; Lepper, M. R. (1979). [Biased assimilation](&amp;#123;&amp;#123; &#x27;mixed-evidence-accf68/&#x27; | relative_url &amp;#125;&amp;#125;) and attitude polarization: The effects of prior theories on subseq...</p></details>
+   Link:<a href="https://www.bvanudgeconsulting.com/bias-of-the-week/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.bvanudgeconsulting.com/bias-of-the-week/confirmation-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lord, C. G., Ross, L., &amp;amp; Lepper, M. R. (1979). [Biased assimilation](&amp;#123;&amp;#123; &#x27;mixed-evidence-accf68/&#x27; | relative_url &amp;#125;&amp;#125;) and attitude polarization: The effects of prior theories on subseq...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica.com  
    Title: confirmation bias  
-   Link: <a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Examples, Psychology, &amp; Facts11 Jun 2026 — Confirmation bias, people&#x27;s tendency to process information by looking for, or int...</p></details>
+   Link:<a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Examples, Psychology, &amp; Facts11 Jun 2026 — Confirmation bias, people&#x27;s tendency to process information by looking for, or int...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reachlink.com  
    Title: confirmation bias  
-   Link: <a href="https://www.reachlink.com/advice/general/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.reachlink.com/advice/general/confirmation-bias/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why You Only See What You Already...10 Apr 2026 — Confirmation bias operates invisibly, filtering information to protect your existing b...</p></details>
+   Link:<a href="https://www.reachlink.com/advice/general/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.reachlink.com/advice/general/confirmation-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why You Only See What You Already...10 Apr 2026 — Confirmation bias operates invisibly, filtering information to protect your existing b...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: studocu.com  
    Title: jpsp 1979 lord ross lepper  
-   Link: <a href="https://www.studocu.com/en-gb/document/university-college-london/introduction-to-psychology/jpsp-1979-lord-ross-lepper/21807450" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-gb/document/university-college-london/introduction-to-psychology/jpsp-1979-lord-ross-lepper/21807450</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prior Theories on Subsequently Considered Evidence. Charles G. Lord, Lee Ross, and Mark R. Lepper.Read more...</p></details>
+   Link:<a href="https://www.studocu.com/en-gb/document/university-college-london/introduction-to-psychology/jpsp-1979-lord-ross-lepper/21807450" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-gb/document/university-college-london/introduction-to-psychology/jpsp-1979-lord-ross-lepper/21807450</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prior Theories on Subsequently Considered Evidence. Charles G. Lord, Lee Ross, and Mark R. Lepper.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: www2.um.edu.uy  
    Title: um.edu.uy When do populations polarize?  
-   Link: <a href="https://www2.um.edu.uy/fcee_papers/2018/when_do_populations_polarize_an_explanation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.um.edu.uy/fcee_papers/2018/when_do_populations_polarize_an_explanation.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An explanation.∗by JP Benoît · Cited by 10 — In Lord, Ross and Lepper&#x27;s (1979) capital punishment experiment, subjects are presented...</p></details>
+   Link:<a href="https://www2.um.edu.uy/fcee_papers/2018/when_do_populations_polarize_an_explanation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.um.edu.uy/fcee_papers/2018/when_do_populations_polarize_an_explanation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An explanation.∗by JP Benoît · Cited by 10 — In Lord, Ross and Lepper&#x27;s (1979) capital punishment experiment, subjects are presented...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=d2r7Bk1NlgU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d2r7Bk1NlgU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation Bias | Ethics Defined...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d2r7Bk1NlgU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d2r7Bk1NlgU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation Bias | Ethics Defined...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Confirmation Bias | Ethics Defined  
-   Link: <a href="https://www.youtube.com/watch?v=7zoWTb3KP-k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7zoWTb3KP-k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Critical Thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;): Confirmation Bias and Building the Whole Picture - YouTube Critical Thinking: Confirmation Bias and Building the Whole...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7zoWTb3KP-k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7zoWTb3KP-k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Critical Thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;): Confirmation Bias and Building the Whole Picture - YouTube Critical Thinking: Confirmation Bias and Building the Whole...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: populismstudies.org  
-   Link: <a href="https://www.populismstudies.org/Vocabulary/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.populismstudies.org/Vocabulary/confirmation-bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasA tendency to gather evidence that confirms preexisting expectations, typically by emphasizing or pursuing supporting ev...</p></details>
+   Link:<a href="https://www.populismstudies.org/Vocabulary/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.populismstudies.org/Vocabulary/confirmation-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasA tendency to gather evidence that confirms preexisting expectations, typically by emphasizing or pursuing supporting ev...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasConfirmation bias describes our underlying tendency to notice, focus on, and provide greater credence to evidence that f...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasConfirmation bias describes our underlying tendency to notice, focus on, and provide greater credence to evidence that f...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: catalogofbias.org  
-   Link: <a href="https://catalogofbias.org/biases/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://catalogofbias.org/biases/confirmation-bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasBackground. Confirmation bias occurs when an individual looks for and uses the information to support their own ideas or...</p></details>
+   Link:<a href="https://catalogofbias.org/biases/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://catalogofbias.org/biases/confirmation-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasBackground. Confirmation bias occurs when an individual looks for and uses the information to support their own ideas or...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
    Title: 277479091 Reflections on Biased Assimilation and Belief Polarization  
-   Link: <a href="https://www.researchgate.net/publication/277479091_Reflections_on_Biased_Assimilation_and_Belief_Polarization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277479091_Reflections_on_Biased_Assimilation_and_Belief_Polarization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reflections on Biased Assimilation and Belief Polarization20 Sept 2012 — Where Taber and Lodge view belief polarization to indicate a &quot;pa...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/277479091_Reflections_on_Biased_Assimilation_and_Belief_Polarization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277479091_Reflections_on_Biased_Assimilation_and_Belief_Polarization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reflections on Biased Assimilation and Belief Polarization20 Sept 2012 — Where Taber and Lodge view belief polarization to indicate a &quot;pa...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
    Title: 340798496 What Is the Function of Confirmation Bias  
-   Link: <a href="https://www.researchgate.net/publication/340798496_What_Is_the_Function_of_Confirmation_Bias" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340798496_What_Is_the_Function_of_Confirmation_Bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) What Is the Function of Confirmation Bias?20 May 2026 — Confirmation bias evolved because it helps us influence people and social s...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/340798496_What_Is_the_Function_of_Confirmation_Bias" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340798496_What_Is_the_Function_of_Confirmation_Bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) What Is the Function of Confirmation Bias?20 May 2026 — Confirmation bias evolved because it helps us influence people and social s...</p></details>
    Published: May 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: charleskemp.com  
-   Link: <a href="https://charleskemp.com/papers/jernck_beliefpolarizationisnotalwaysirrational.pdf" target="_blank" rel="noopener noreferrer nofollow">https://charleskemp.com/papers/jernck_beliefpolarizationisnotalwaysirrational.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fs both strengthen their beliefs after observing the same data.Read more...</p></details>
+   Link:<a href="https://charleskemp.com/papers/jernck_beliefpolarizationisnotalwaysirrational.pdf" target="_blank" rel="noopener noreferrer nofollow">https://charleskemp.com/papers/jernck_beliefpolarizationisnotalwaysirrational.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fs both strengthen their beliefs after observing the same data.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: kilthub.cmu.edu  
    Title: Belief polarization is not always irrational  
-   Link: <a href="https://kilthub.cmu.edu/articles/journal_contribution/Belief_polarization_is_not_always_irrational_/6613703" target="_blank" rel="noopener noreferrer nofollow">https://kilthub.cmu.edu/articles/journal_contribution/Belief_polarization_is_not_always_irrational_/6613703</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>polarization is not always irrational.Belief polarization occurs when 2 people with opposing prior beliefs both strengthen their beliefs...</p></details>
+   Link:<a href="https://kilthub.cmu.edu/articles/journal_contribution/Belief_polarization_is_not_always_irrational_/6613703" target="_blank" rel="noopener noreferrer nofollow">https://kilthub.cmu.edu/articles/journal_contribution/Belief_polarization_is_not_always_irrational_/6613703</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>polarization is not always irrational.Belief polarization occurs when 2 people with opposing prior beliefs both strengthen their beliefs...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>xamine relevant empirical evidence in a biased manner.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>xamine relevant empirical evidence in a biased manner.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: phenomenalworld.org  
-   Link: <a href="https://www.phenomenalworld.org/analysis/why-rational-people-polarize/" target="_blank" rel="noopener noreferrer nofollow">https://www.phenomenalworld.org/analysis/why-rational-people-polarize/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r, Mark R., 1979. &#x27;Biased assimilation and...Read more...</p></details>
+   Link:<a href="https://www.phenomenalworld.org/analysis/why-rational-people-polarize/" target="_blank" rel="noopener noreferrer nofollow">https://www.phenomenalworld.org/analysis/why-rational-people-polarize/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r, Mark R., 1979. &#x27;Biased assimilation and...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mpra.ub.uni-muenchen.de  
    Title: de When do populations polarize?  
-   Link: <a href="https://mpra.ub.uni-muenchen.de/86173/" target="_blank" rel="noopener noreferrer nofollow">https://mpra.ub.uni-muenchen.de/86173/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An explanation.27 Sept 2019 — For instance, Lord, Ross &amp; Lepper presented subjects with the same mixed... Kemp (2014) &quot;Belief polarizati...</p></details>
+   Link:<a href="https://mpra.ub.uni-muenchen.de/86173/" target="_blank" rel="noopener noreferrer nofollow">https://mpra.ub.uni-muenchen.de/86173/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An explanation.27 Sept 2019 — For instance, Lord, Ross &amp; Lepper presented subjects with the same mixed... Kemp (2014) &quot;Belief polarizati...</p></details>

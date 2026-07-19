@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_ou
 
 ## Introduction
 
-Outcome bias is the tendency to judge whether a decision was good or bad primarily by its result rather than by the quality of the reasoning available when the decision was made. This is a serious obstacle to improving judgement because many important decisions are made under [uncertainty]({{ 'uncertainty/' | relative_url }}). A well-reasoned choice can produce a poor outcome through bad luck, while a careless decision can succeed because circumstances happened to be favourable. Research consistently shows that people rate identical decisions more favourably when they learn that the outcome was positive, even though the decision-maker had exactly the same information in both cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/3367280/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Outcome bias in decision evaluation</span><span class="citation-popover-snippet">J Pers Soc Psychol. 1988 Apr;54(4):569-79. doi: 10.1037//0022-3514.54.4.569. Authors. J Baron, J C Hershey. Affiliation.Read more...</span></span></span>
+Outcome bias is the tendency to judge whether a decision was good or bad primarily by its result rather than by the quality of the reasoning available when the decision was made. This is a serious obstacle to improving judgement because many important decisions are made under [uncertainty]({{ 'uncertainty/' | relative_url }}). A well-reasoned choice can produce a poor outcome through bad luck, while a careless decision can succeed because circumstances happened to be favourable. Research consistently shows that people rate identical decisions more favourably when they learn that the outcome was positive, even though the decision-maker had exactly the same information in both cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/3367280/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Outcome bias in decision evaluation</span><span class="citation-popover-snippet">J Pers Soc Psychol. 1988 Apr;54(4):569-79. doi: 10.1037//0022-3514.54.4.569. Authors. J Baron, J C Hershey. Affiliation.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_outcome_bias_decisio_3bef10-Illustration-1-dark.svg" | relative_url }}" alt="Outcome Bias illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_outcome_bias_decisio_3bef10-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_outcome_bias_decisio_3bef10-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -296,9 +296,9 @@ This distinction means that two questions should always be kept separate:
 
 Only the second question can be answered by looking at the final outcome alone.
 
-In their classic experiments, Jonathan Baron and John Hershey presented participants with identical decision scenarios but varied only whether the result was good or bad. Participants consistently judged the decision itself more harshly after a bad outcome, despite the fact that the decision process had not changed. This became known as **outcome bias** and remains one of the foundational findings in judgement and decision research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/3367280/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Outcome bias in decision evaluation</span><span class="citation-popover-snippet">J Pers Soc Psychol. 1988 Apr;54(4):569-79. doi: 10.1037//0022-3514.54.4.569. Authors. J Baron, J C Hershey. Affiliation.Read more...</span></span></span>
+In their classic experiments, Jonathan Baron and John Hershey presented participants with identical decision scenarios but varied only whether the result was good or bad. Participants consistently judged the decision itself more harshly after a bad outcome, despite the fact that the decision process had not changed. This became known as **outcome bias** and remains one of the foundational findings in judgement and decision research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/3367280/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Outcome bias in decision evaluation</span><span class="citation-popover-snippet">J Pers Soc Psychol. 1988 Apr;54(4):569-79. doi: 10.1037//0022-3514.54.4.569. Authors. J Baron, J C Hershey. Affiliation.Read more...</span></span></span>
 
-A later [replication]({{ 'replication/' | relative_url }}) and extension by researchers at the University of Oxford found the same basic pattern decades later, showing that outcome information continues to distort evaluations even when people are instructed to focus only on the original decision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOutcomes Affect Evaluations of Decision Quality: Replication</span><span class="citation-popover-snippet">PMCOutcomes Affect Evaluations of Decision Quality: Replication</span></span></span>
+A later [replication]({{ 'replication/' | relative_url }}) and extension by researchers at the University of Oxford found the same basic pattern decades later, showing that outcome information continues to distort evaluations even when people are instructed to focus only on the original decision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOutcomes Affect Evaluations of Decision Quality: Replication</span><span class="citation-popover-snippet">PMCOutcomes Affect Evaluations of Decision Quality: Replication</span></span></span>
 
 The practical implication is important: if every unsuccessful decision is treated as evidence of poor thinking, and every successful decision as evidence of good thinking, people receive misleading feedback about how they actually reason.
 
@@ -359,7 +359,7 @@ Several psychological [mechanisms]({{ 'mechanisms/' | relative_url }}) reinforce
 
 * **Results are emotionally vivid.** Success invites praise, while failure invites blame.
 * **People simplify uncertainty.** Complex probability distributions are mentally replaced by a single realised outcome.
-* **[Hindsight bias]({{ 'hindsight-bias/' | relative_url }}) reinforces the illusion.** After learning the result, people often believe it had been more predictable than it really was, making unsuccessful decisions appear obviously mistaken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/jasp.12722" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHindsight bias and outcome bias in judging directors...by N Strohmaier · 2021 · Cited by 30 — Judgments made in hind...</span></span></span>
+* **[Hindsight bias]({{ 'hindsight-bias/' | relative_url }}) reinforces the illusion.** After learning the result, people often believe it had been more predictable than it really was, making unsuccessful decisions appear obviously mistaken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/jasp.12722" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHindsight bias and outcome bias in judging directors...by N Strohmaier · 2021 · Cited by 30 — Judgments made in hind...</span></span></span>
 
 These mechanisms combine to produce reviews that feel fair but actually confuse probability with certainty.
 
@@ -386,7 +386,7 @@ Useful questions include:
 
 These questions shift attention from judging luck to judging reasoning.
 
-Organisations that perform effective post-project reviews often reconstruct the original evidence before discussing results, reducing the influence of knowledge gained afterwards. This approach aims to evaluate the quality of the decision process rather than rewarding or punishing chance alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.decisioneducation.org/principles-of-decision-quality/defining-decision-quality" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decisioneducation.org">[decisioneducation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decisioneducation.org</span><span class="citation-popover-snippet">Defining Decision QualityThe distinction between a good decision and good outcome is very important. When we face uncertainty, we can mak...</span></span></span>
+Organisations that perform effective post-project reviews often reconstruct the original evidence before discussing results, reducing the influence of knowledge gained afterwards. This approach aims to evaluate the quality of the decision process rather than rewarding or punishing chance alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.decisioneducation.org/principles-of-decision-quality/defining-decision-quality" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decisioneducation.org">[decisioneducation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decisioneducation.org</span><span class="citation-popover-snippet">Defining Decision QualityThe distinction between a good decision and good outcome is very important. When we face uncertainty, we can mak...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_outcome_bias_decisio_3bef10-Illustration-3-dark.svg" | relative_url }}" alt="Outcome Bias illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_outcome_bias_decisio_3bef10-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_outcome_bias_decisio_3bef10-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -435,194 +435,194 @@ The central lesson is that good judgement is not measured by never experiencing 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Results Make Decisions Look Smarter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Results Make Decisions Look Smarter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases including outcome bias, hindsight, and errors in evaluating decisions under uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases including outcome bias, hindsight, and errors in evaluating decisions under uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Focuses on evaluating reasoning, updating beliefs, and separating process quality from outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating reasoning, updating beliefs, and separating process quality from outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Provides practical frameworks for improving decision quality rather than judging decisions solely by results.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical frameworks for improving decision quality rather than judging decisions solely by results.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
-        <p class="fr-book-desc">Demonstrates how luck and randomness distort perceptions of skill and decision quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
+<p class="fr-book-desc">Demonstrates how luck and randomness distort perceptions of skill and decision quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="https://i.ebayimg.com/images/g/7CEAAeSwEWdp17y8/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="https://i.ebayimg.com/images/g/7CEAAeSwEWdp17y8/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="https://i.ebayimg.com/images/g/f6AAAOSwxK5mxyVa/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="https://i.ebayimg.com/images/g/f6AAAOSwxK5mxyVa/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 Magnetic Whiteboard 40 x 30 cm Hanging Folding Double Sided Dry Erase"><img src="https://i.ebayimg.com/images/g/bEAAAeSwEk1o34qk/s-l225.jpg" alt="Listing image for A3 Magnetic Whiteboard 40 x 30 cm Hanging Folding Double Sided Dry Erase" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A3 Magnetic Whiteboard 40 x 30 cm Hanging Folding Double Sided Dry Erase</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 Magnetic Whiteboard 40 x 30 cm Hanging Folding Double Sided Dry Erase"><img src="https://i.ebayimg.com/images/g/bEAAAeSwEk1o34qk/s-l225.jpg" alt="Listing image for A3 Magnetic Whiteboard 40 x 30 cm Hanging Folding Double Sided Dry Erase" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A3 Magnetic Whiteboard 40 x 30 cm Hanging Folding Double Sided Dry Erase</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Whiteboard A3 Double Sided Magnetic Portable with Stand 40 x 30 cm"><img src="https://i.ebayimg.com/images/g/~k4AAeSwXQNqPOFd/s-l225.jpg" alt="Listing image for Mini Whiteboard A3 Double Sided Magnetic Portable with Stand 40 x 30 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Mini Whiteboard A3 Double Sided Magnetic Portable with Stand 40 x 30 cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Whiteboard A3 Double Sided Magnetic Portable with Stand 40 x 30 cm"><img src="https://i.ebayimg.com/images/g/~k4AAeSwXQNqPOFd/s-l225.jpg" alt="Listing image for Mini Whiteboard A3 Double Sided Magnetic Portable with Stand 40 x 30 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Mini Whiteboard A3 Double Sided Magnetic Portable with Stand 40 x 30 cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-results-make-decisions-look-smarter-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="when-results-make-decisions-look-smarter-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -638,7 +638,7 @@ The central lesson is that good judgement is not measured by never experiencing 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -658,7 +658,7 @@ The central lesson is that good judgement is not measured by never experiencing 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -690,7 +690,7 @@ The central lesson is that good judgement is not measured by never experiencing 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -742,7 +742,7 @@ The central lesson is that good judgement is not measured by never experiencing 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -787,7 +787,7 @@ The central lesson is that good judgement is not measured by never experiencing 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -828,130 +828,130 @@ The central lesson is that good judgement is not measured by never experiencing 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOutcomes Affect Evaluations of Decision Quality: Replication  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 299 — The author reviewed the research on the imp...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 299 — The author reviewed the research on the imp...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jasp.12722" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/jasp.12722</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHindsight bias and outcome bias in judging directors...by N Strohmaier · 2021 · Cited by 30 — Judgments made in hind...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jasp.12722" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/jasp.12722</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHindsight bias and outcome bias in judging directors...by N Strohmaier · 2021 · Cited by 30 — Judgments made in hind...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3649066/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3649066/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias and Developing Theories of Mind - PMCby DM Bernstein · 2007 · Cited by 106 — More recent theories maintain that hindsig...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3649066/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3649066/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias and Developing Theories of Mind - PMCby DM Bernstein · 2007 · Cited by 106 — More recent theories maintain that hindsig...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: decisioneducation.org  
-   Link: <a href="https://www.decisioneducation.org/principles-of-decision-quality/defining-decision-quality" target="_blank" rel="noopener noreferrer nofollow">https://www.decisioneducation.org/principles-of-decision-quality/defining-decision-quality</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Decision QualityThe distinction between a good decision and good outcome is very important. When we face uncertainty, we can mak...</p></details>
+   Link:<a href="https://www.decisioneducation.org/principles-of-decision-quality/defining-decision-quality" target="_blank" rel="noopener noreferrer nofollow">https://www.decisioneducation.org/principles-of-decision-quality/defining-decision-quality</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Decision QualityThe distinction between a good decision and good outcome is very important. When we face uncertainty, we can mak...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Outcome bias in decision evaluation  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/3367280/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/3367280/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>J Pers Soc Psychol. 1988 Apr;54(4):569-79. doi: 10.1037//0022-3514.54.4.569. Authors. J Baron, J C Hershey. Affiliation.Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/3367280/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/3367280/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J Pers Soc Psychol. 1988 Apr;54(4):569-79. doi: 10.1037//0022-3514.54.4.569. Authors. J Baron, J C Hershey. Affiliation.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Hindsight Bias  
-   Link: <a href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/hindsight-bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias - The Decision LabHindsight bias, or the knew-it-all-along, is the tendency to claim currents events were to happen even t...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/hindsight-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias - The Decision LabHindsight bias, or the knew-it-all-along, is the tendency to claim currents events were to happen even t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17835457/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17835457/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>under Uncertainty: Heuristics and Biasesby A Tversky · 1974 · Cited by 58427 — A better understanding of these heuristics and of the bias...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/17835457/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17835457/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>under Uncertainty: Heuristics and Biasesby A Tversky · 1974 · Cited by 58427 — A better understanding of these heuristics and of the bias...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4519675/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4519675/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of judgment and decision making quality - PMCby S Ayal · 2015 · Cited by 80 — A framework is presented to better characterize the role of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4519675/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4519675/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of judgment and decision making quality - PMCby S Ayal · 2015 · Cited by 80 — A framework is presented to better characterize the role of...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/14645895/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/14645895/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bias, outcome knowledge and adaptive learningby K Henriksen · 2003 · Cited by 280 — This paper examines the influence of outcome knowledg...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/14645895/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/14645895/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bias, outcome knowledge and adaptive learningby K Henriksen · 2003 · Cited by 280 — This paper examines the influence of outcome knowledg...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/outcome-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/outcome-bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outcome bias: Why we blame bad results, not bad reasoningOutcome bias is a cognitive bias where we evaluate decisions primarily by how th...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/outcome-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/outcome-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outcome bias: Why we blame bad results, not bad reasoningOutcome bias is a cognitive bias where we evaluate decisions primarily by how th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Hindsight bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Hindsight_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hindsight_bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight biasHindsight bias may cause distortions of memories of what was known or believed before an event occurred and is a signifi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Hindsight_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hindsight_bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight biasHindsight bias may cause distortions of memories of what was known or believed before an event occurred and is a signifi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Outcome bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Outcome_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Outcome_bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outcome biasThe outcome bias is an error made in evaluating the quality of a decision when the outcome of that decision is already kno...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Outcome_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Outcome_bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outcome biasThe outcome bias is an error made in evaluating the quality of a decision when the outcome of that decision is already kno...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: investigationsquality.com  
    Title: Decision Quality  
-   Link: <a href="https://investigationsquality.com/2019/11/20/decision-quality/" target="_blank" rel="noopener noreferrer nofollow">https://investigationsquality.com/2019/11/20/decision-quality/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigations of a Dog20 Nov 2019 — The six requirements for a good decision are: (1) an appropriate frame, (2) creative alternatives, (...</p></details>
+   Link:<a href="https://investigationsquality.com/2019/11/20/decision-quality/" target="_blank" rel="noopener noreferrer nofollow">https://investigationsquality.com/2019/11/20/decision-quality/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigations of a Dog20 Nov 2019 — The six requirements for a good decision are: (1) an appropriate frame, (2) creative alternatives, (...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/decision" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/decision</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DECISION Definition &amp; Meaning3 days ago — 1. a: the act or process of deciding the moment of decision has come b: a determination arriv...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/decision" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/decision</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DECISION Definition &amp; Meaning3 days ago — 1. a: the act or process of deciding the moment of decision has come b: a determination arriv...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/decision-quality-vs-outcome-magdy-reda-stpbf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/decision-quality-vs-outcome-magdy-reda-stpbf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision Quality vs. Decision OutcomeEvaluating the quality of a decision based on its outcome can be misleading. A well-informed, carefu...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/decision-quality-vs-outcome-magdy-reda-stpbf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/decision-quality-vs-outcome-magdy-reda-stpbf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision Quality vs. Decision OutcomeEvaluating the quality of a decision based on its outcome can be misleading. A well-informed, carefu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newristics.com  
-   Link: <a href="https://newristics.com/heuristics-biases/outcome-bias" target="_blank" rel="noopener noreferrer nofollow">https://newristics.com/heuristics-biases/outcome-bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Example &amp; How Outcome Bias WorksOutcome bias refers to the tendency to judge a decision or action based on its outcome rather...</p></details>
+   Link:<a href="https://newristics.com/heuristics-biases/outcome-bias" target="_blank" rel="noopener noreferrer nofollow">https://newristics.com/heuristics-biases/outcome-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Example &amp; How Outcome Bias WorksOutcome bias refers to the tendency to judge a decision or action based on its outcome rather...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: doaj.org  
-   Link: <a href="https://doaj.org/article/b01e7003c5574b1593d8309a66260878" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/b01e7003c5574b1593d8309a66260878</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outcomes Affect Evaluations of Decision QualityOutcome bias is the phenomenon whereby decisions which resulted in successful outcomes wer...</p></details>
+   Link:<a href="https://doaj.org/article/b01e7003c5574b1593d8309a66260878" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/b01e7003c5574b1593d8309a66260878</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outcomes Affect Evaluations of Decision QualityOutcome bias is the phenomenon whereby decisions which resulted in successful outcomes wer...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/237441830_On_the_[Assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237441830_On_the_[Assessment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) On the Assessment of Decision Qualitygood decision processes are more likely to generate good outcomes. the process-ori...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/237441830_On_the_[Assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237441830_On_the_[Assessment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) On the Assessment of Decision Qualitygood decision processes are more likely to generate good outcomes. the process-ori...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scholarlypublications.universiteitleiden.nl  
-   Link: <a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3160833/download" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A3160833/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bias and outcome bias in judging directors&#x27;...by N Strohmaier · Cited by 29 — In a recent study investigating outcome bias in legal deci...</p></details>
+   Link:<a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3160833/download" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A3160833/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bias and outcome bias in judging directors&#x27;...by N Strohmaier · Cited by 29 — In a recent study investigating outcome bias in legal deci...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hermes.cde.state.co.us  
-   Link: <a href="https://hermes.cde.state.co.us/islandora/object/co%3A31690/datastream/OBJ/download/Outcome_bias_in_decision_evaluation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hermes.cde.state.co.us/islandora/object/co%3A31690/datastream/OBJ/download/Outcome_bias_in_decision_evaluation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in Decision EvaluationIn all five experiments, researchers found that the outcome was the factor attributed to quality decision maki...</p></details>
+   Link:<a href="https://hermes.cde.state.co.us/islandora/object/co%3A31690/datastream/OBJ/download/Outcome_bias_in_decision_evaluation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hermes.cde.state.co.us/islandora/object/co%3A31690/datastream/OBJ/download/Outcome_bias_in_decision_evaluation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in Decision EvaluationIn all five experiments, researchers found that the outcome was the factor attributed to quality decision maki...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AnnieDukeAuthor/posts/most-leaders-judge-their-decisions-by-outcomes-but-this-is-the-wrong-way-to-appr/1359121649115292/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AnnieDukeAuthor/posts/most-leaders-judge-their-decisions-by-outcomes-but-this-is-the-wrong-way-to-appr/1359121649115292/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Distinguish Between Decision Quality and Outcome Quality (Avoid &quot;Resulting&quot;): This is perhaps the most...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/AnnieDukeAuthor/posts/most-leaders-judge-their-decisions-by-outcomes-but-this-is-the-wrong-way-to-appr/1359121649115292/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AnnieDukeAuthor/posts/most-leaders-judge-their-decisions-by-outcomes-but-this-is-the-wrong-way-to-appr/1359121649115292/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Distinguish Between Decision Quality and Outcome Quality (Avoid &quot;Resulting&quot;): This is perhaps the most...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmctraining.com  
-   Link: <a href="https://pmctraining.com/articles-and-resources/decision-quality-vs-outcome-quality/" target="_blank" rel="noopener noreferrer nofollow">https://pmctraining.com/articles-and-resources/decision-quality-vs-outcome-quality/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision quality is an assessment of the reasoning process at the moment a decision was made.Read more...</p></details>
+   Link:<a href="https://pmctraining.com/articles-and-resources/decision-quality-vs-outcome-quality/" target="_blank" rel="noopener noreferrer nofollow">https://pmctraining.com/articles-and-resources/decision-quality-vs-outcome-quality/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision quality is an assessment of the reasoning process at the moment a decision was made.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
    Title: The interaction of process and outcome in evaluations  
-   Link: <a href="https://www.researchgate.net/publication/232871620_Good_decisions_bad_decisions_The_interaction_of_process_and_outcome_in_evaluations_of_decision_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232871620_Good_decisions_bad_decisions_The_interaction_of_process_and_outcome_in_evaluations_of_decision_quality</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision quality has also been defined in terms of multiple criteria related to both decision outcomes and decision processes, including...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232871620_Good_decisions_bad_decisions_The_interaction_of_process_and_outcome_in_evaluations_of_decision_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232871620_Good_decisions_bad_decisions_The_interaction_of_process_and_outcome_in_evaluations_of_decision_quality</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision quality has also been defined in terms of multiple criteria related to both decision outcomes and decision processes, including...</p></details>

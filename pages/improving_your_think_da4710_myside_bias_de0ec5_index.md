@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710-myside/
 description: Focused pages that expand on Myside Bias.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: improving_your_think_da4710_myside_bias_de0ec5
 parent_title: Myside Bias
@@ -16,7 +16,7 @@ parent_permalink: /myside-bias/
 
 # Explore Topics in Myside Bias
 
-The following pages expand on the main **[Myside Bias]({{ '/myside-bias/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Myside Bias]({{ '/myside-bias/' | relative_url }})** page and cover its key branches in.
 
 - [Identity Threat]({{ '/identity-threat/' | relative_url }})
 - [Smart Defence]({{ '/smart-defence/' | relative_url }})

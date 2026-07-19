@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_prediction_habits_f0daf5_right
 
 ## Introduction
 
-A correct prediction is not always evidence of good thinking. Sometimes the answer is right only because of luck, a misleading cue, or a flawed chain of reasoning that happened to land on the correct outcome. If you only record whether you were right, you risk reinforcing an inaccurate mental model. The real value of making [predictions]({{ 'predictions/' | relative_url }}) before checking the answer is that they reveal not just *what* you expected, but *why* you expected it. That distinction allows you to separate genuine understanding from fortunate coincidence and avoid repeating reasoning that only worked by accident. Research on mental models, [hindsight bias]({{ 'hindsight-bias/' | relative_url }}) and pretesting all points to the same lesson: feedback is most useful when it improves the reasoning process rather than merely rewarding the final answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2972923/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMental models and human reasoning</span><span class="citation-popover-snippet">NIHby PN Johnson-Laird · 2010 · Cited by 987 — The consensus in psychology was that our ability to reason depends on a tacit mental...</span></span></span>
+A correct prediction is not always evidence of good thinking. Sometimes the answer is right only because of luck, a misleading cue, or a flawed chain of reasoning that happened to land on the correct outcome. If you only record whether you were right, you risk reinforcing an inaccurate mental model. The real value of making [predictions]({{ 'predictions/' | relative_url }}) before checking the answer is that they reveal not just *what* you expected, but *why* you expected it. That distinction allows you to separate genuine understanding from fortunate coincidence and avoid repeating reasoning that only worked by accident. Research on mental models, [hindsight bias]({{ 'hindsight-bias/' | relative_url }}) and pretesting all points to the same lesson: feedback is most useful when it improves the reasoning process rather than merely rewarding the final answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2972923/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMental models and human reasoning</span><span class="citation-popover-snippet">NIHby PN Johnson-Laird · 2010 · Cited by 987 — The consensus in psychology was that our ability to reason depends on a tacit mental...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_right_answer_wrong_r_913adc-Illustration-1-dark.svg" | relative_url }}" alt="Wrong Reason illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_right_answer_wrong_r_913adc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_right_answer_wrong_r_913adc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -297,7 +297,7 @@ The same pattern appears in everyday learning:
 
 In each case, rewarding yourself simply for being correct strengthens reasoning that may fail the next time the circumstances change.
 
-This is one reason prediction exercises become far more informative when they include a brief explanation of the expected mechanism rather than only the expected result. Research on the [pretesting]({{ 'pretesting/' | relative_url }}) effect suggests that attempting answers before instruction improves learning because corrective feedback updates knowledge—not merely because learners guessed correctly or incorrectly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9839203/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Metacognitive awareness of the pretesting effect improves...by SC Pan · 2023 · Cited by 44 — The pretesting or prequestion effect ref...</span></span></span>
+This is one reason prediction exercises become far more informative when they include a brief explanation of the expected mechanism rather than only the expected result. Research on the [pretesting]({{ 'pretesting/' | relative_url }}) effect suggests that attempting answers before instruction improves learning because corrective feedback updates knowledge—not merely because learners guessed correctly or incorrectly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9839203/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Metacognitive awareness of the pretesting effect improves...by SC Pan · 2023 · Cited by 44 — The pretesting or prequestion effect ref...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eYXh3ZCW9fs" title="The Hindsight Bias: Action The Illusion of Predictability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eYXh3ZCW9fs" target="_blank" rel="noopener noreferrer">The Hindsight Bias: Action The Illusion of Predictability</a></p><p class="youtube-embed-meta">Channel: Explified Labs</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eYXh3ZCW9fs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eYXh3ZCW9fs">Open on YouTube</a></p></div></div></div>
@@ -317,19 +317,19 @@ OutcomeReasoningWhat it meansCorrectSoundYour mental model was supported. Contin
 
 The second category—correct answer, flawed reasoning—is often the easiest to overlook because success feels like confirmation. Yet it is frequently the most dangerous for long-term improvement.
 
-Psychological research on hindsight bias shows that once the outcome is known, people tend to reconstruct their earlier thinking as if they had understood more than they actually did. This can make a lucky success appear like evidence of expertise unless the original reasoning was written down beforehand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-020-01012-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Metacognitive hindsight bias &#124; Memory &amp; Cognitionby R Ackerman · 2020 · Cited by 29 — Hindsight bias (HB) is a robust phenomenon...</span></span></span>
+Psychological research on hindsight bias shows that once the outcome is known, people tend to reconstruct their earlier thinking as if they had understood more than they actually did. This can make a lucky success appear like evidence of expertise unless the original reasoning was written down beforehand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-020-01012-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Metacognitive hindsight bias &#124; Memory &amp; Cognitionby R Ackerman · 2020 · Cited by 29 — Hindsight bias (HB) is a robust phenomenon...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_right_answer_wrong_r_913adc-Illustration-2-dark.svg" | relative_url }}" alt="Wrong Reason illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_right_answer_wrong_r_913adc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_right_answer_wrong_r_913adc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why being right can reinforce the wrong mental model
 
-Mental models are internal explanations of how a system works. They improve when feedback identifies which assumptions were responsible for success or failure. They stagnate when feedback rewards [outcomes]({{ 'outcomes/' | relative_url }}) without examining the underlying process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2972923/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMental models and human reasoning</span><span class="citation-popover-snippet">NIHby PN Johnson-Laird · 2010 · Cited by 987 — The consensus in psychology was that our ability to reason depends on a tacit mental...</span></span></span>
+Mental models are internal explanations of how a system works. They improve when feedback identifies which assumptions were responsible for success or failure. They stagnate when feedback rewards [outcomes]({{ 'outcomes/' | relative_url }}) without examining the underlying process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2972923/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMental models and human reasoning</span><span class="citation-popover-snippet">NIHby PN Johnson-Laird · 2010 · Cited by 987 — The consensus in psychology was that our ability to reason depends on a tacit mental...</span></span></span>
 
 Several [mechanisms]({{ 'mechanisms/' | relative_url }}) contribute to this problem.
 
 **Outcome bias.** People often judge the quality of a decision by its result instead of by the information and reasoning available when the decision was made. A lucky outcome makes a poor decision appear wiser than it was.
 
-**Hindsight reconstruction.** After learning the answer, memory shifts. People often remember themselves as having believed something closer to the truth than they actually did, making it harder to detect faulty reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-020-01012-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Metacognitive hindsight bias &#124; Memory &amp; Cognitionby R Ackerman · 2020 · Cited by 29 — Hindsight bias (HB) is a robust phenomenon...</span></span></span>
+**Hindsight reconstruction.** After learning the answer, memory shifts. People often remember themselves as having believed something closer to the truth than they actually did, making it harder to detect faulty reasoning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-020-01012-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Metacognitive hindsight bias &#124; Memory &amp; Cognitionby R Ackerman · 2020 · Cited by 29 — Hindsight bias (HB) is a robust phenomenon...</span></span></span>
 
 **Selective reinforcement.** Correct outcomes naturally feel rewarding. Without inspecting the explanation, the brain may strengthen every cue that happened to accompany success, including irrelevant or false ones.
 
@@ -387,194 +387,194 @@ Over time, this habit produces a more accurate picture of your thinking. You bec
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When being right still teaches the wrong lesson. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When being right still teaches the wrong lesson. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Strong focus on evaluating predictions by reasoning quality rather than outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong focus on evaluating predictions by reasoning quality rather than outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Emphasizes updating beliefs based on evidence instead of defending conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes updating beliefs based on evidence instead of defending conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases, luck, and flawed reasoning behind correct answers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases, luck, and flawed reasoning behind correct answers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Illustrates how cognitive mistakes can still produce correct outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how cognitive mistakes can still produce correct outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Memorabilia Man When they tell you they&#x27;re not gangsters....."><img src="{{ '/assets/images/marketplace-covers/97372c42b04cdde7ee25.jpg' | relative_url }}" alt="Listing image for The Memorabilia Man When they tell you they&#x27;re not gangsters....." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The Memorabilia Man When they tell you they&#x27;re not gangsters.....</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Memorabilia Man When they tell you they&#x27;re not gangsters....."><img src="{{ '/assets/images/marketplace-covers/97372c42b04cdde7ee25.jpg' | relative_url }}" alt="Listing image for The Memorabilia Man When they tell you they&#x27;re not gangsters....." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The Memorabilia Man When they tell you they&#x27;re not gangsters.....</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WHEN RIVERS MEET Concert poster -- Glasgow oct.2024 show tour - Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/76e6f774382005f12395.jpg' | relative_url }}" alt="Listing image for WHEN RIVERS MEET Concert poster -- Glasgow oct.2024 show tour - Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WHEN RIVERS MEET Concert poster -- Glasgow oct.2024 show tour - Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WHEN RIVERS MEET Concert poster -- Glasgow oct.2024 show tour - Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/76e6f774382005f12395.jpg' | relative_url }}" alt="Listing image for WHEN RIVERS MEET Concert poster -- Glasgow oct.2024 show tour - Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WHEN RIVERS MEET Concert poster -- Glasgow oct.2024 show tour - Gig memorabilia.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zero 7 / When It Falls Promo CD New &amp; Concert Ticket Stubs Mint Rare Memorabilia"><img src="{{ '/assets/images/marketplace-covers/674aa8524c0db5429bb0.jpg' | relative_url }}" alt="Listing image for Zero 7 / When It Falls Promo CD New &amp; Concert Ticket Stubs Mint Rare Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Zero 7 / When It Falls Promo CD New &amp; Concert Ticket Stubs Mint Rare Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zero 7 / When It Falls Promo CD New &amp; Concert Ticket Stubs Mint Rare Memorabilia"><img src="{{ '/assets/images/marketplace-covers/674aa8524c0db5429bb0.jpg' | relative_url }}" alt="Listing image for Zero 7 / When It Falls Promo CD New &amp; Concert Ticket Stubs Mint Rare Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Zero 7 / When It Falls Promo CD New &amp; Concert Ticket Stubs Mint Rare Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed"><img src="{{ '/assets/images/marketplace-covers/6b762440ad419aa98b00.jpg' | relative_url }}" alt="Listing image for Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed"><img src="{{ '/assets/images/marketplace-covers/6b762440ad419aa98b00.jpg' | relative_url }}" alt="Listing image for Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="wrong-reason-when-being-right-still-teaches-the-wrong-lesson-improving-your-think-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ Over time, this habit produces a more accurate picture of your thinking. You bec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ Over time, this habit produces a more accurate picture of your thinking. You bec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ Over time, this habit produces a more accurate picture of your thinking. You bec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ Over time, this habit produces a more accurate picture of your thinking. You bec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ Over time, this habit produces a more accurate picture of your thinking. You bec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,78 +780,78 @@ Over time, this habit produces a more accurate picture of your thinking. You bec
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMental models and human reasoning  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2972923/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2972923/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby PN Johnson-Laird · 2010 · Cited by 987 — The consensus in psychology was that our ability to reason depends on a tacit mental...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2972923/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2972923/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby PN Johnson-Laird · 2010 · Cited by 987 — The consensus in psychology was that our ability to reason depends on a tacit mental...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-020-01012-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-020-01012-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognitive hindsight bias | Memory &amp; Cognitionby R Ackerman · 2020 · Cited by 29 — Hindsight bias (HB) is a robust phenomenon...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-020-01012-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-020-01012-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognitive hindsight bias | Memory &amp; Cognitionby R Ackerman · 2020 · Cited by 29 — Hindsight bias (HB) is a robust phenomenon...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9839203/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9839203/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognitive awareness of the pretesting effect improves...by SC Pan · 2023 · Cited by 44 — The pretesting or prequestion effect ref...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9839203/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9839203/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognitive awareness of the pretesting effect improves...by SC Pan · 2023 · Cited by 44 — The pretesting or prequestion effect ref...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Omission bias is the preference  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 306 — Hindsight bias is a propensity to perceive...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 306 — Hindsight bias is a propensity to perceive...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2604.12046v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.12046v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Long-Form Generation Factuality via Reasoning...13 Apr 2026 — Accurate [uncertainty](&amp;#123;&amp;#123; &#x27;uncertainty/&#x27; | relative_url &amp;#125;&amp;#125;) estimation, or calibration...</p></details>
+   Link:<a href="https://arxiv.org/html/2604.12046v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.12046v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Long-Form Generation Factuality via Reasoning...13 Apr 2026 — Accurate [uncertainty](&amp;#123;&amp;#123; &#x27;uncertainty/&#x27; | relative_url &amp;#125;&amp;#125;) estimation, or calibration...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Biases and Their Influence on [Critical Thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;)...21 Jul 2023 — Researchers have discovered 200 cognitive biases that result i...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Biases and Their Influence on [Critical Thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;)...21 Jul 2023 — Researchers have discovered 200 cognitive biases that result i...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371009673_Just_Ask_for_Calibration_Strategies_for_Eliciting_Calibrated_Confidence_Scores_from_Language_Models_Fine-Tuned_with_Human_Feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371009673_Just_Ask_for_Calibration_Strategies_for_Eliciting_Calibrated_Confidence_Scores_from_Language_Models_Fine-Tuned_with_Human_Feedback</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Eliciting Calibrated Confidence Scores from...24 May 2023 — In this paper, we conduct a broad evaluation of computational...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/371009673_Just_Ask_for_Calibration_Strategies_for_Eliciting_Calibrated_Confidence_Scores_from_Language_Models_Fine-Tuned_with_Human_Feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371009673_Just_Ask_for_Calibration_Strategies_for_Eliciting_Calibrated_Confidence_Scores_from_Language_Models_Fine-Tuned_with_Human_Feedback</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Eliciting Calibrated Confidence Scores from...24 May 2023 — In this paper, we conduct a broad evaluation of computational...</p></details>
    Published: May 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nirandfar.com  
-   Link: <a href="https://www.nirandfar.com/hindsight-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.nirandfar.com/hindsight-bias/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias: Why You Make Terrible Life ChoicesHindsight bias occurs when people feel that they “knew it all along” – when they believ...</p></details>
+   Link:<a href="https://www.nirandfar.com/hindsight-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.nirandfar.com/hindsight-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias: Why You Make Terrible Life ChoicesHindsight bias occurs when people feel that they “knew it all along” – when they believ...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/13072910_Falsifying_mental_models_Testing_the_predictions_of_theories_of_syllogistic_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/13072910_Falsifying_mental_models_Testing_the_predictions_of_theories_of_syllogistic_reasoning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing the predictions of theories of syllogistic reasoningThe results are interpreted as showing that falsification of the kind propose...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/13072910_Falsifying_mental_models_Testing_the_predictions_of_theories_of_syllogistic_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/13072910_Falsifying_mental_models_Testing_the_predictions_of_theories_of_syllogistic_reasoning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testing the predictions of theories of syllogistic reasoningThe results are interpreted as showing that falsification of the kind propose...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/hindsight-bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight BiasThe hindsight bias describes our tendency to look back at an unpredictable event and think it was easily predictable.Read more...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/hindsight-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight BiasThe hindsight bias describes our tendency to look back at an unpredictable event and think it was easily predictable.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ml-site.cdn-apple.com  
-   Link: <a href="https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>analysis reveals that as problem complexity increases, correct solutions systematically emerge at later positions in thinking compared to...</p></details>
+   Link:<a href="https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>analysis reveals that as problem complexity increases, correct solutions systematically emerge at later positions in thinking compared to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=eYXh3ZCW9fs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eYXh3ZCW9fs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=eYXh3ZCW9fs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eYXh3ZCW9fs</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/mind-cafe/mental-models-how-to-reason-better-be-less-irrational-17e095dcd2ae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/mind-cafe/mental-models-how-to-reason-better-be-less-irrational-17e095dcd2ae</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Mental models require working memory, which is both limited and varies between individuals.) Why...Read more...</p></details>
+   Link:<a href="https://medium.com/mind-cafe/mental-models-how-to-reason-better-be-less-irrational-17e095dcd2ae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/mind-cafe/mental-models-how-to-reason-better-be-less-irrational-17e095dcd2ae</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Mental models require working memory, which is both limited and varies between individuals.) Why...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: verywellmind.com  
    Title: cognitive biases distort thinking 2794763  
-   Link: <a href="https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Types of Cognitive Bias That Influence Your Thinking1 May 2026 — hindsight bias is a common cognitive bias that involves the tendency...</p></details>
+   Link:<a href="https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Types of Cognitive Bias That Influence Your Thinking1 May 2026 — hindsight bias is a common cognitive bias that involves the tendency...</p></details>
    Published: May 2026  

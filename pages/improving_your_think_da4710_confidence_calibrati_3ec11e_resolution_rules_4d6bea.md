@@ -284,7 +284,7 @@ A forecast only becomes useful for learning when everyone agrees, before the out
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_resolution_rules_4d6bea-Illustration-1-dark.svg" | relative_url }}" alt="Resolution Rules illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_resolution_rules_4d6bea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_resolution_rules_4d6bea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Resolution rules are therefore a practical tool for improving thinking and confidence calibration. They force you to specify exactly what counts as success or failure before you know the answer, reducing motivated reasoning, memory distortion and endless arguments about whether a forecast was “basically right”. Competitive forecasting platforms such as Metaculus and [Good Judgment]({{ 'good-judgment/' | relative_url }}) treat clear resolution criteria as essential because ambiguous questions cannot produce reliable feedback. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metaculus.com/question-writing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metaculus.com">[metaculus.com+2metaculus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metaculus.com</span><span class="citation-popover-snippet">Question writing and submission guidelinesSpecifying precise resolution criteria. Resolution criteria are the backbone of any forecasting...</span></span></span>
+Resolution rules are therefore a practical tool for improving thinking and confidence calibration. They force you to specify exactly what counts as success or failure before you know the answer, reducing motivated reasoning, memory distortion and endless arguments about whether a forecast was “basically right”. Competitive forecasting platforms such as Metaculus and [Good Judgment]({{ 'good-judgment/' | relative_url }}) treat clear resolution criteria as essential because ambiguous questions cannot produce reliable feedback.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metaculus.com/question-writing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metaculus.com">[metaculus.com+2metaculus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metaculus.com</span><span class="citation-popover-snippet">Question writing and submission guidelinesSpecifying precise resolution criteria. Resolution criteria are the backbone of any forecasting...</span></span></span>
 
 ## Why vague forecasts cannot teach you much
 
@@ -305,7 +305,7 @@ Each statement leaves multiple questions unanswered. What counts as "significant
 
 Because these terms have no agreed meaning, people can unconsciously redefine them after the fact. If sales rise by 3%, one person may call that significant while another expected 20%. Both can sincerely believe they remembered the original prediction correctly.
 
-This is one reason forecasting communities devote considerable effort to writing questions before anyone begins estimating [probabilities]({{ 'probabilities/' | relative_url }}). If forecasters disagree about what is being predicted, differences in accuracy become impossible to interpret. Metaculus explicitly recommends "tight" resolution criteria that leave as little room as possible for later discretion or disagreement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metaculus.com/question-writing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metaculus.com">[metaculus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metaculus.com</span><span class="citation-popover-snippet">Question writing and submission guidelinesSpecifying precise resolution criteria. Resolution criteria are the backbone of any forecasting...</span></span></span>
+This is one reason forecasting communities devote considerable effort to writing questions before anyone begins estimating [probabilities]({{ 'probabilities/' | relative_url }}). If forecasters disagree about what is being predicted, differences in accuracy become impossible to interpret. Metaculus explicitly recommends "tight" resolution criteria that leave as little room as possible for later discretion or disagreement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metaculus.com/question-writing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metaculus.com">[metaculus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metaculus.com</span><span class="citation-popover-snippet">Question writing and submission guidelinesSpecifying precise resolution criteria. Resolution criteria are the backbone of any forecasting...</span></span></span>
 
 ## The four parts of a good resolution rule
 
@@ -372,7 +372,7 @@ Possible sources include:
 * a named public database
 * a contractually defined project report
 
-Forecasting platforms encourage naming the primary source and, where appropriate, a fallback source in case the original data become unavailable. Otherwise a prediction can become impossible to resolve if the chosen publication disappears or changes methodology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metaculus.com/help/question-checklist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metaculus.com">[metaculus.com+2Rethink Priorities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metaculus.com</span><span class="citation-popover-snippet">Metaculus Question Approval ChecklistWhen naming a resolution source, are we trying to forecast that particular source more than the &quot;tru...</span></span></span>
+Forecasting platforms encourage naming the primary source and, where appropriate, a fallback source in case the original data become unavailable. Otherwise a prediction can become impossible to resolve if the chosen publication disappears or changes methodology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metaculus.com/help/question-checklist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metaculus.com">[metaculus.com+2Rethink Priorities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metaculus.com</span><span class="citation-popover-snippet">Metaculus Question Approval ChecklistWhen naming a resolution source, are we trying to forecast that particular source more than the &quot;tru...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_resolution_rules_4d6bea-Illustration-2-dark.svg" | relative_url }}" alt="Resolution Rules illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_resolution_rules_4d6bea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_resolution_rules_4d6bea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -398,7 +398,7 @@ Which unemployment rate?
 
 Each source may produce different numbers.
 
-Good resolution rules identify the exact dataset in advance. Where possible they also specify what happens if revisions occur later, whether preliminary or final figures are used, and how ties or rounding are handled. Forecast-writing guidance from Metaculus repeatedly emphasises defining terms carefully and minimising opportunities for ex-post disputes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metaculus.com/question-writing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metaculus.com">[metaculus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metaculus.com</span><span class="citation-popover-snippet">Question writing and submission guidelinesSpecifying precise resolution criteria. Resolution criteria are the backbone of any forecasting...</span></span></span>
+Good resolution rules identify the exact dataset in advance. Where possible they also specify what happens if revisions occur later, whether preliminary or final figures are used, and how ties or rounding are handled. Forecast-writing guidance from Metaculus repeatedly emphasises defining terms carefully and minimising opportunities for ex-post disputes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metaculus.com/question-writing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metaculus.com">[metaculus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metaculus.com</span><span class="citation-popover-snippet">Question writing and submission guidelinesSpecifying precise resolution criteria. Resolution criteria are the backbone of any forecasting...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-07DJ7xVBis" title="Why an Open Mind Is Key to Making Better Predictions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-07DJ7xVBis" target="_blank" rel="noopener noreferrer">Why an Open Mind Is Key to Making Better Predictions</a></p><p class="youtube-embed-meta">Channel: Knowledge at Wharton</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-07DJ7xVBis" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-07DJ7xVBis">Open on YouTube</a></p></div></div></div>
@@ -441,7 +441,7 @@ Examples include:
 
 </div>
 
-Experienced forecasting platforms recommend considering these edge cases before the question opens. A small amount of extra precision at the start avoids much larger disagreements after the outcome becomes important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rethinkpriorities.org/research-area/types-of-specification-problems-in-forecasting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rethinkpriorities.org">[Rethink Priorities+2metaculus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rethinkpriorities.org</span><span class="citation-popover-title">types of specification problems in forecasting</span><span class="citation-popover-snippet">Rethink PrioritiesTypes of specification problems in forecasting20 Jul 2021 — Metaculus has a guide on how to write unambiguous and usefu...</span></span></span>
+Experienced forecasting platforms recommend considering these edge cases before the question opens. A small amount of extra precision at the start avoids much larger disagreements after the outcome becomes important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rethinkpriorities.org/research-area/types-of-specification-problems-in-forecasting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rethinkpriorities.org">[Rethink Priorities+2metaculus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rethinkpriorities.org</span><span class="citation-popover-title">types of specification problems in forecasting</span><span class="citation-popover-snippet">Rethink PrioritiesTypes of specification problems in forecasting20 Jul 2021 — Metaculus has a guide on how to write unambiguous and usefu...</span></span></span>
 
 ## Common mistakes that weaken resolution rules
 
@@ -455,7 +455,7 @@ Several recurring problems make forecasts difficult to evaluate.
 
 **Choosing unstable sources.** If a prediction depends on an unpublished spreadsheet or an unofficial website, later verification may become impossible.
 
-**Predicting a source instead of the underlying event unintentionally.** Sometimes the objective is to forecast reality rather than whether one particular organisation reports it. Where this distinction matters, forecasting guidelines recommend clarifying whether fallback sources should be used if the primary source proves unsuitable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metaculus.com/help/question-checklist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metaculus.com">[metaculus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metaculus.com</span><span class="citation-popover-snippet">Metaculus Question Approval ChecklistWhen naming a resolution source, are we trying to forecast that particular source more than the &quot;tru...</span></span></span>
+**Predicting a source instead of the underlying event unintentionally.** Sometimes the objective is to forecast reality rather than whether one particular organisation reports it. Where this distinction matters, forecasting guidelines recommend clarifying whether fallback sources should be used if the primary source proves unsuitable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metaculus.com/help/question-checklist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metaculus.com">[metaculus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metaculus.com</span><span class="citation-popover-snippet">Metaculus Question Approval ChecklistWhen naming a resolution source, are we trying to forecast that particular source more than the &quot;tru...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=ZvZeA0qvZXg" target="_blank" rel="noopener noreferrer">Introducing a New Forecast Question Type: Conditional Pairs</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZvZeA0qvZXg" target="_blank" rel="noopener noreferrer">Introducing a New Forecast Question Type: Conditional Pairs</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZvZeA0qvZXg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZvZeA0qvZXg">Open on YouTube</a></p></div></div></div>
@@ -471,194 +471,194 @@ Without predefined resolution rules, those [comparisons]({{ 'comparisons/' | rel
 Resolution rules therefore serve a simple but powerful purpose: they transform uncertain beliefs into claims that reality can fairly test. That makes them one of the most practical habits for anyone trying to think more clearly about an uncertain future.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How To Make A Forecast Actually Checkable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How To Make A Forecast Actually Checkable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Emphasizes clear, testable forecasting questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes clear, testable forecasting questions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-        </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+</h4>
+<p class="fr-book-author">By Douglas W. Hubbard</p>
         
-        <p class="fr-book-desc">Focuses on operationalizing uncertain claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on operationalizing uncertain claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains pitfalls that clear resolution rules avoid.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains pitfalls that clear resolution rules avoid.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Supports evidence-based prediction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based prediction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOVE ACTUALLY (2003) Signed Movie Screenplay Script Autograph Memorabilia Gift"><img src="https://i.ebayimg.com/images/g/D4MAAeSwmUFom5Ja/s-l225.jpg" alt="Listing image for LOVE ACTUALLY (2003) Signed Movie Screenplay Script Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">LOVE ACTUALLY (2003) Signed Movie Screenplay Script Autograph Memorabilia Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for actually memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: actually memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOVE ACTUALLY (2003) Signed Movie Screenplay Script Autograph Memorabilia Gift"><img src="https://i.ebayimg.com/images/g/D4MAAeSwmUFom5Ja/s-l225.jpg" alt="Listing image for LOVE ACTUALLY (2003) Signed Movie Screenplay Script Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">LOVE ACTUALLY (2003) Signed Movie Screenplay Script Autograph Memorabilia Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for actually memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: actually memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Wall Art LOVE ACTUALLY Movie Memorabilia 12 x 16 508"><img src="https://i.ebayimg.com/images/g/I-sAAOSwW2JoMtA8/s-l225.jpg" alt="Listing image for Canvas Wall Art LOVE ACTUALLY Movie Memorabilia 12 x 16 508" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Canvas Wall Art LOVE ACTUALLY Movie Memorabilia 12 x 16 508</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for actually memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: actually memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Wall Art LOVE ACTUALLY Movie Memorabilia 12 x"><img src="https://i.ebayimg.com/images/g/I-sAAOSwW2JoMtA8/s-l225.jpg" alt="Listing image for Canvas Wall Art LOVE ACTUALLY Movie Memorabilia 12 x" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Canvas Wall Art LOVE ACTUALLY Movie Memorabilia 12 x</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for actually memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: actually memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Love Actually Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="https://i.ebayimg.com/images/g/t2YAAOSwtipnEmAZ/s-l225.jpg" alt="Listing image for Love Actually Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Love Actually Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for actually memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: actually memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Love Actually Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="https://i.ebayimg.com/images/g/t2YAAOSwtipnEmAZ/s-l225.jpg" alt="Listing image for Love Actually Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Love Actually Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for actually memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: actually memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Patrick Pug Actually Movie Poster Cinema Film Comedy Memorabilia 8x5ft HUGE 2018"><img src="https://i.ebayimg.com/images/g/eiMAAeSw7Z9pQT6p/s-l225.jpg" alt="Listing image for Patrick Pug Actually Movie Poster Cinema Film Comedy Memorabilia 8x5ft HUGE 2018" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Patrick Pug Actually Movie Poster Cinema Film Comedy Memorabilia 8x5ft HUGE 2018</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for actually memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: actually memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Patrick Pug Actually Movie Poster Cinema Film Comedy Memorabilia 8x5ft HUGE 2018"><img src="https://i.ebayimg.com/images/g/eiMAAeSw7Z9pQT6p/s-l225.jpg" alt="Listing image for Patrick Pug Actually Movie Poster Cinema Film Comedy Memorabilia 8x5ft HUGE 2018" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Patrick Pug Actually Movie Poster Cinema Film Comedy Memorabilia 8x5ft HUGE 2018</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for actually memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: actually memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=actually+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="actually memorabilia -book -books -dvd" data-ebay-reference="how-to-make-a-forecast-actually-checkable-actually-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -674,7 +674,7 @@ Resolution rules therefore serve a simple but powerful purpose: they transform u
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -694,7 +694,7 @@ Resolution rules therefore serve a simple but powerful purpose: they transform u
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -726,7 +726,7 @@ Resolution rules therefore serve a simple but powerful purpose: they transform u
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -778,7 +778,7 @@ Resolution rules therefore serve a simple but powerful purpose: they transform u
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -823,7 +823,7 @@ Resolution rules therefore serve a simple but powerful purpose: they transform u
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -863,127 +863,127 @@ Resolution rules therefore serve a simple but powerful purpose: they transform u
 </section>
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: metaculus.com  
-   Link: <a href="https://www.metaculus.com/question-writing/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/question-writing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Question writing and submission guidelinesSpecifying precise resolution criteria. Resolution criteria are the backbone of any forecasting...</p></details>
+   Link:<a href="https://www.metaculus.com/question-writing/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/question-writing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Question writing and submission guidelinesSpecifying precise resolution criteria. Resolution criteria are the backbone of any forecasting...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metaculus.com  
-   Link: <a href="https://www.metaculus.com/help/question-checklist/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/help/question-checklist/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metaculus Question Approval ChecklistWhen naming a resolution source, are we trying to forecast that particular source more than the &quot;tru...</p></details>
+   Link:<a href="https://www.metaculus.com/help/question-checklist/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/help/question-checklist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metaculus Question Approval ChecklistWhen naming a resolution source, are we trying to forecast that particular source more than the &quot;tru...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: metaculus.com  
-   Link: <a href="https://www.metaculus.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metaculus is an online forecasting platform and aggregation engine working to improve human reasoning and coordination on topics...</p></details>
+   Link:<a href="https://www.metaculus.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metaculus is an online forecasting platform and aggregation engine working to improve human reasoning and coordination on topics...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metaculus.com  
-   Link: <a href="https://www.metaculus.com/faq/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/faq/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metaculus FAQFrequently asked questions about Metaculus, including basics, question types, resolution processes, predictions, scoring, an...</p></details>
+   Link:<a href="https://www.metaculus.com/faq/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/faq/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metaculus FAQFrequently asked questions about Metaculus, including basics, question types, resolution processes, predictions, scoring, an...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: metaculus.com  
-   Link: <a href="https://www.metaculus.com/help/guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/help/guidelines/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>munity GuidelinesAccepting community-suggested questions that are ready to go live for forecasting. Mediating discussions about question...</p></details>
+   Link:<a href="https://www.metaculus.com/help/guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/help/guidelines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>munity GuidelinesAccepting community-suggested questions that are ready to go live for forecasting. Mediating discussions about question...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metaculus.com  
-   Link: <a href="https://www.metaculus.com/notebooks/22486/a-primer-on-the-metaculus-scoring-rule/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/22486/a-primer-on-the-metaculus-scoring-rule/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Primer on the Metaculus Scoring RuleFeb 27, 2021 — Our first criterion is that our Scoring Rule be “proper”, which means that in expect...</p></details>
+   Link:<a href="https://www.metaculus.com/notebooks/22486/a-primer-on-the-metaculus-scoring-rule/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/22486/a-primer-on-the-metaculus-scoring-rule/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Primer on the Metaculus Scoring RuleFeb 27, 2021 — Our first criterion is that our Scoring Rule be “proper”, which means that in expect...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: metaculus.com  
-   Link: <a href="https://www.metaculus.com/notebooks/7095/add-your-own-alt-protein-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/7095/add-your-own-alt-protein-questions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Add your own Alt-Protein questionsWrite clear and precise resolution conditions. Resolution conditions are the backbone of any forecastin...</p></details>
+   Link:<a href="https://www.metaculus.com/notebooks/7095/add-your-own-alt-protein-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/7095/add-your-own-alt-protein-questions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Add your own Alt-Protein questionsWrite clear and precise resolution conditions. Resolution conditions are the backbone of any forecastin...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: metaculus.com  
-   Link: <a href="https://www.metaculus.com/how-to-forecast/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/how-to-forecast/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to forecast on MetaculusTo predict, share the probability you give the outcome as a number between 0.1% and 99.9%. On the question pa...</p></details>
+   Link:<a href="https://www.metaculus.com/how-to-forecast/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/how-to-forecast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to forecast on MetaculusTo predict, share the probability you give the outcome as a number between 0.1% and 99.9%. On the question pa...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: metaculus.com  
    Title: how metaculus leverages crowd forecasting  
-   Link: <a href="https://www.metaculus.com/notebooks/40619/how-metaculus-leverages-crowd-forecasting/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/40619/how-metaculus-leverages-crowd-forecasting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 7, 2025 — Break the decision into resolvable sub-questions with crisp resolution criteria and timelines. Draft and pre-mortem. Write...</p></details>
+   Link:<a href="https://www.metaculus.com/notebooks/40619/how-metaculus-leverages-crowd-forecasting/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/40619/how-metaculus-leverages-crowd-forecasting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 7, 2025 — Break the decision into resolvable sub-questions with crisp resolution criteria and timelines. Draft and pre-mortem. Write...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: metaculus.com  
    Title: question writing checklist obsolete  
-   Link: <a href="https://www.metaculus.com/notebooks/3418/question-writing-checklist-obsolete/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/3418/question-writing-checklist-obsolete/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Question writing checklist (obsolete)5 Jun 2023 — Please suggest below items you would like to see on a checklist automatically displayed...</p></details>
+   Link:<a href="https://www.metaculus.com/notebooks/3418/question-writing-checklist-obsolete/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/3418/question-writing-checklist-obsolete/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Question writing checklist (obsolete)5 Jun 2023 — Please suggest below items you would like to see on a checklist automatically displayed...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: metaculus.com  
    Title: forecasting our world in data the next 100 years  
-   Link: <a href="https://www.metaculus.com/notebooks/14965/forecasting-our-world-in-data-the-next-100-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/14965/forecasting-our-world-in-data-the-next-100-years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting Our World in Data: The Next 100 Years1 Feb 2023 — A key component of a well-written forecasting question is its resolution cr...</p></details>
+   Link:<a href="https://www.metaculus.com/notebooks/14965/forecasting-our-world-in-data-the-next-100-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/14965/forecasting-our-world-in-data-the-next-100-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting Our World in Data: The Next 100 Years1 Feb 2023 — A key component of a well-written forecasting question is its resolution cr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: metaculus.com  
    Title: self resolving question methods  
-   Link: <a href="https://www.metaculus.com/notebooks/4031/self-resolving-question-methods/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/4031/self-resolving-question-methods/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-resolving question methodsJun 5, 2023 — And the resolution criteria would say: On Jan 1, 2000, 3 people will be randomly chosen from...</p></details>
+   Link:<a href="https://www.metaculus.com/notebooks/4031/self-resolving-question-methods/" target="_blank" rel="noopener noreferrer nofollow">https://www.metaculus.com/notebooks/4031/self-resolving-question-methods/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-resolving question methodsJun 5, 2023 — And the resolution criteria would say: On Jan 1, 2000, 3 people will be randomly chosen from...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: rethinkpriorities.org  
    Title: types of specification problems in forecasting  
-   Link: <a href="https://rethinkpriorities.org/research-area/types-of-specification-problems-in-forecasting/" target="_blank" rel="noopener noreferrer nofollow">https://rethinkpriorities.org/research-area/types-of-specification-problems-in-forecasting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rethink PrioritiesTypes of specification problems in forecasting20 Jul 2021 — Metaculus has a guide on how to write unambiguous and usefu...</p></details>
+   Link:<a href="https://rethinkpriorities.org/research-area/types-of-specification-problems-in-forecasting/" target="_blank" rel="noopener noreferrer nofollow">https://rethinkpriorities.org/research-area/types-of-specification-problems-in-forecasting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rethink PrioritiesTypes of specification problems in forecasting20 Jul 2021 — Metaculus has a guide on how to write unambiguous and usefu...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: goodjudgment.com  
-   Link: <a href="https://goodjudgment.com/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Good Judgment: See the future sooner with SuperforecastingWith a subscription to FutureFirst you have access to dozens of daily updated f...</p></details>
+   Link:<a href="https://goodjudgment.com/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Good Judgment: See the future sooner with SuperforecastingWith a subscription to FutureFirst you have access to dozens of daily updated f...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ijcb.org  
-   Link: <a href="https://www.ijcb.org/journal/v3n4/inflation-forecast-based-rules-and-indeterminancy-puzzle-and-resolution" target="_blank" rel="noopener noreferrer nofollow">https://www.ijcb.org/journal/v3n4/inflation-forecast-based-rules-and-indeterminancy-puzzle-and-resolution</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inflation-Forecast-Based Rules and IndeterminancyOur resolution is that central banks should be viewed as following &quot;Calvo-type&quot; inflatio...</p></details>
+   Link:<a href="https://www.ijcb.org/journal/v3n4/inflation-forecast-based-rules-and-indeterminancy-puzzle-and-resolution" target="_blank" rel="noopener noreferrer nofollow">https://www.ijcb.org/journal/v3n4/inflation-forecast-based-rules-and-indeterminancy-puzzle-and-resolution</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inflation-Forecast-Based Rules and IndeterminancyOur resolution is that central banks should be viewed as following &quot;Calvo-type&quot; inflatio...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: proceedings.iclr.cc  
-   Link: <a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/5107a33432b9a5cffafd0a53ef6c6a18-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://proceedings.iclr.cc/paper_files/paper/2025/file/5107a33432b9a5cffafd0a53ef6c6a18-Paper-Conference.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CHECKS FOR LANGUAGE MODEL...– Retain the same resolution date as the source forecasting question. User Prompt: • The source forecasting...</p></details>
+   Link:<a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/5107a33432b9a5cffafd0a53ef6c6a18-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://proceedings.iclr.cc/paper_files/paper/2025/file/5107a33432b9a5cffafd0a53ef6c6a18-Paper-Conference.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CHECKS FOR LANGUAGE MODEL...– Retain the same resolution date as the source forecasting question. User Prompt: • The source forecasting...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ecb.europa.eu  
-   Link: <a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp643.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp643.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We propose viewing central banks as following &#x27;Calvo-type&#x27; inflation-forecast-based interest rate rules...Read more...</p></details>
+   Link:<a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp643.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp643.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We propose viewing central banks as following &#x27;Calvo-type&#x27; inflation-forecast-based interest rate rules...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: papers.neurips.cc  
-   Link: <a href="https://papers.neurips.cc/paper_files/paper/2025/file/2277c7c3b112fcc6031a6f0d832df2a0-Paper-Datasets_and_Benchmarks_Track.pdf" target="_blank" rel="noopener noreferrer nofollow">https://papers.neurips.cc/paper_files/paper/2025/file/2277c7c3b112fcc6031a6f0d832df2a0-Paper-Datasets_and_Benchmarks_Track.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, existing forecast- ing benchmarks lack comprehensive confidence [assessment](&amp;#123;&amp;#123; &#x27;assessment/&#x27; | relative_url &amp;#125;&amp;#125;), focusing on limited...</p></details>
+   Link:<a href="https://papers.neurips.cc/paper_files/paper/2025/file/2277c7c3b112fcc6031a6f0d832df2a0-Paper-Datasets_and_Benchmarks_Track.pdf" target="_blank" rel="noopener noreferrer nofollow">https://papers.neurips.cc/paper_files/paper/2025/file/2277c7c3b112fcc6031a6f0d832df2a0-Paper-Datasets_and_Benchmarks_Track.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, existing forecast- ing benchmarks lack comprehensive confidence [assessment](&amp;#123;&amp;#123; &#x27;assessment/&#x27; | relative_url &amp;#125;&amp;#125;), focusing on limited...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: forum.effectivealtruism.org  
    Title: A higher score indicates greater relative accuracy. A score of 0  
-   Link: <a href="https://forum.effectivealtruism.org/posts/F2stjK9wHSy3HPEC9/q2-ai-benchmark-results-pros-maintain-clear-lead" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/F2stjK9wHSy3HPEC9/q2-ai-benchmark-results-pros-maintain-clear-lead</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>effectivealtruism.orgQ2 AI Benchmark Results: Pros Maintain Clear LeadOct 28, 2025 — The score is zero-sum (i.e., the sum of all particip...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/F2stjK9wHSy3HPEC9/q2-ai-benchmark-results-pros-maintain-clear-lead" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/F2stjK9wHSy3HPEC9/q2-ai-benchmark-results-pros-maintain-clear-lead</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effectivealtruism.orgQ2 AI Benchmark Results: Pros Maintain Clear LeadOct 28, 2025 — The score is zero-sum (i.e., the sum of all particip...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Exploring the intricacies of prediction markets | David Chee | EAG London 23  
-   Link: <a href="https://www.youtube.com/watch?v=S4Oa_CD5a0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S4Oa_CD5a0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the intricacies of prediction markets explores the specific challenges of designing rigorous resolution criteria to make foreca...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S4Oa_CD5a0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S4Oa_CD5a0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the intricacies of prediction markets explores the specific challenges of designing rigorous resolution criteria to make foreca...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aiimpacts.org  
-   Link: <a href="https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ce in the same broad domain · Making more predictions on the same question...Read more...</p></details>
+   Link:<a href="https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ce in the same broad domain · Making more predictions on the same question...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: lesswrong.com  
-   Link: <a href="https://www.lesswrong.com/posts/oJ6wXoBqxJjHhPLLu/an-examination-of-metaculus-resolved-ai-predictions-and" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/oJ6wXoBqxJjHhPLLu/an-examination-of-metaculus-resolved-ai-predictions-and</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An examination of Metaculus&#x27; resolved AI predictions and...Jul 20, 2021 — Of all 41 date questions, 4 were predicted to be 25%-50% to re...</p></details>
+   Link:<a href="https://www.lesswrong.com/posts/oJ6wXoBqxJjHhPLLu/an-examination-of-metaculus-resolved-ai-predictions-and" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/oJ6wXoBqxJjHhPLLu/an-examination-of-metaculus-resolved-ai-predictions-and</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An examination of Metaculus&#x27; resolved AI predictions and...Jul 20, 2021 — Of all 41 date questions, 4 were predicted to be 25%-50% to re...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: lesswrong.com  
    Title: resolutions to the challenge of resolving forecasts  
-   Link: <a href="https://www.lesswrong.com/posts/JnDEAmNhSpBRpjD8L/resolutions-to-the-challenge-of-resolving-forecasts" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/JnDEAmNhSpBRpjD8L/resolutions-to-the-challenge-of-resolving-forecasts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2021 — We can be inflexible with resolution criteria, and always specify exactly what number or fact will be used for the resoluti...</p></details>
+   Link:<a href="https://www.lesswrong.com/posts/JnDEAmNhSpBRpjD8L/resolutions-to-the-challenge-of-resolving-forecasts" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/JnDEAmNhSpBRpjD8L/resolutions-to-the-challenge-of-resolving-forecasts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2021 — We can be inflexible with resolution criteria, and always specify exactly what number or fact will be used for the resoluti...</p></details>

@@ -1,11 +1,1043 @@
 {
   "version": 1,
-  "page_count": 0,
-  "total_page_seconds": 0,
-  "average_page_seconds": 0.0,
-  "phase_totals_seconds": {},
-  "slowest_pages": [],
-  "pages": [],
+  "page_count": 40,
+  "total_page_seconds": 127.7061,
+  "average_page_seconds": 3.1927,
+  "phase_totals_seconds": {
+    "internal_links": 58.7859,
+    "monetization": 21.8705,
+    "content_assembly": 19.4538,
+    "media_svg": 15.7536,
+    "youtube": 7.8485,
+    "quality_write": 1.7306,
+    "content_cleanup_final": 1.1371,
+    "preparation": 1.1006,
+    "content_cleanup_initial": 0.0249
+  },
+  "slowest_pages": [
+    {
+      "base_name": "improving_your_think_da4710_first_answer_traps_70dd40_crt_prior_exposure_9e59b6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.1972,
+      "phases": {
+        "preparation": 0.0272,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3725,
+        "content_cleanup_final": 0.0414,
+        "media_svg": 0.4269,
+        "youtube": 0.0142,
+        "content_assembly": 0.4748,
+        "monetization": 6.7909,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_change_my_mind_f0f53e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.2754,
+      "phases": {
+        "preparation": 0.0297,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.4724,
+        "content_cleanup_final": 0.0385,
+        "media_svg": 0.2099,
+        "youtube": 3.3127,
+        "content_assembly": 0.7672,
+        "monetization": 1.3863,
+        "quality_write": 0.0578
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_strong_objections_4a9a76",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.219,
+      "phases": {
+        "preparation": 0.0386,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8511,
+        "content_cleanup_final": 0.0636,
+        "media_svg": 0.1581,
+        "youtube": 2.028,
+        "content_assembly": 0.7427,
+        "monetization": 1.2763,
+        "quality_write": 0.0598
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_thinking_mistakes_7c70ba",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.0858,
+      "phases": {
+        "preparation": 0.0382,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 1.5928,
+        "content_cleanup_final": 0.0593,
+        "media_svg": 0.1629,
+        "youtube": 1.9683,
+        "content_assembly": 0.7611,
+        "monetization": 1.435,
+        "quality_write": 0.0665
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_confidence_calibrati_3ec11e_probabilities_not_wo_bcc6f4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.3044,
+      "phases": {
+        "preparation": 0.0367,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4029,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.4846,
+        "youtube": 0.0218,
+        "content_assembly": 0.4387,
+        "monetization": 2.8493,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_health_claim_skeptic_4efb5d_testimonials_placebo_98a2fa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3989,
+      "phases": {
+        "preparation": 0.035,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.4992,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.4231,
+        "youtube": 0.0132,
+        "content_assembly": 0.4603,
+        "monetization": 1.9024,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_health_claim_skeptic_4efb5d_absolute_risk_987114",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5243,
+      "phases": {
+        "preparation": 0.0207,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5626,
+        "content_cleanup_final": 0.0471,
+        "media_svg": 0.4223,
+        "youtube": 0.017,
+        "content_assembly": 0.5414,
+        "monetization": 0.859,
+        "quality_write": 0.0537
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_thinking_mistakes_7c70ba_availability_risk_daae70",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3682,
+      "phases": {
+        "preparation": 0.033,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5219,
+        "content_cleanup_final": 0.0368,
+        "media_svg": 0.4269,
+        "youtube": 0.0113,
+        "content_assembly": 0.5026,
+        "monetization": 0.7834,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_plain_english_teachi_399aee_teach_back_questions_efab41",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3336,
+      "phases": {
+        "preparation": 0.0323,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4908,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.455,
+        "youtube": 0.0235,
+        "content_assembly": 0.444,
+        "monetization": 0.8297,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_thinking_mistakes_7c70ba_hidden_anchors_967a22",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2594,
+      "phases": {
+        "preparation": 0.0276,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.362,
+        "content_cleanup_final": 0.0192,
+        "media_svg": 0.4451,
+        "youtube": 0.0106,
+        "content_assembly": 0.4916,
+        "monetization": 0.865,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_claims_evidence_assu_a804b1_late_replies_assumpt_d445ab",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8044,
+      "phases": {
+        "preparation": 0.0221,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.605,
+        "content_cleanup_final": 0.034,
+        "media_svg": 0.4256,
+        "youtube": 0.017,
+        "content_assembly": 0.5561,
+        "monetization": 0.1004,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_plain_english_teachi_399aee",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7695,
+      "phases": {
+        "preparation": 0.0332,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5292,
+        "content_cleanup_final": 0.0533,
+        "media_svg": 0.0797,
+        "youtube": 0.0205,
+        "content_assembly": 0.7678,
+        "monetization": 0.2317,
+        "quality_write": 0.0535
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_thinking_mistakes_7c70ba_confirmation_bias_se_46d307",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6866,
+      "phases": {
+        "preparation": 0.0233,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.5998,
+        "content_cleanup_final": 0.0233,
+        "media_svg": 0.4365,
+        "youtube": 0.0107,
+        "content_assembly": 0.4659,
+        "monetization": 0.0814,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_alternative_explanat_ee4fa0_sales_drop_tracking_aa364e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6387,
+      "phases": {
+        "preparation": 0.0298,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4703,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 0.4406,
+        "youtube": 0.0202,
+        "content_assembly": 0.4766,
+        "monetization": 0.1295,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_online_claims_3bbb25_lateral_reading_sour_b1df5f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.634,
+      "phases": {
+        "preparation": 0.032,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4833,
+        "content_cleanup_final": 0.0316,
+        "media_svg": 0.4529,
+        "youtube": 0.0169,
+        "content_assembly": 0.4645,
+        "monetization": 0.1123,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_confidence_calibrati_3ec11e_good_judgment_lesson_ea91a6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6303,
+      "phases": {
+        "preparation": 0.0288,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4857,
+        "content_cleanup_final": 0.0328,
+        "media_svg": 0.4401,
+        "youtube": 0.013,
+        "content_assembly": 0.4783,
+        "monetization": 0.1024,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_change_my_mind_f0f53e_decision_review_trig_693dc9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6015,
+      "phases": {
+        "preparation": 0.0253,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.4761,
+        "content_cleanup_final": 0.0255,
+        "media_svg": 0.4241,
+        "youtube": 0.0129,
+        "content_assembly": 0.4717,
+        "monetization": 0.1274,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_change_my_mind_f0f53e_wason_246_experiment_80b6ee",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5937,
+      "phases": {
+        "preparation": 0.0342,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.4788,
+        "content_cleanup_final": 0.0254,
+        "media_svg": 0.4598,
+        "youtube": 0.0189,
+        "content_assembly": 0.4652,
+        "monetization": 0.0695,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_change_my_mind_f0f53e_partial_confidence_u_5f1f5f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5857,
+      "phases": {
+        "preparation": 0.033,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4484,
+        "content_cleanup_final": 0.0277,
+        "media_svg": 0.4604,
+        "youtube": 0.0207,
+        "content_assembly": 0.4615,
+        "monetization": 0.0841,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_plain_english_teachi_399aee_ten_minute_plain_eng_68964a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5806,
+      "phases": {
+        "preparation": 0.0203,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.4645,
+        "content_cleanup_final": 0.0157,
+        "media_svg": 0.4309,
+        "youtube": 0.0113,
+        "content_assembly": 0.4785,
+        "monetization": 0.1141,
+        "quality_write": 0.0445
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "improving_your_think_da4710_change_my_mind_f0f53e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.2754,
+      "phases": {
+        "preparation": 0.0297,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.4724,
+        "content_cleanup_final": 0.0385,
+        "media_svg": 0.2099,
+        "youtube": 3.3127,
+        "content_assembly": 0.7672,
+        "monetization": 1.3863,
+        "quality_write": 0.0578
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_strong_objections_4a9a76",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.219,
+      "phases": {
+        "preparation": 0.0386,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8511,
+        "content_cleanup_final": 0.0636,
+        "media_svg": 0.1581,
+        "youtube": 2.028,
+        "content_assembly": 0.7427,
+        "monetization": 1.2763,
+        "quality_write": 0.0598
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_plain_english_teachi_399aee",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7695,
+      "phases": {
+        "preparation": 0.0332,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5292,
+        "content_cleanup_final": 0.0533,
+        "media_svg": 0.0797,
+        "youtube": 0.0205,
+        "content_assembly": 0.7678,
+        "monetization": 0.2317,
+        "quality_write": 0.0535
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_thinking_mistakes_7c70ba_base_rates_11f2c9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5075,
+      "phases": {
+        "preparation": 0.0295,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5493,
+        "content_cleanup_final": 0.02,
+        "media_svg": 0.3873,
+        "youtube": 0.0137,
+        "content_assembly": 0.4051,
+        "monetization": 0.0626,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_thinking_mistakes_7c70ba",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.0858,
+      "phases": {
+        "preparation": 0.0382,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 1.5928,
+        "content_cleanup_final": 0.0593,
+        "media_svg": 0.1629,
+        "youtube": 1.9683,
+        "content_assembly": 0.7611,
+        "monetization": 1.435,
+        "quality_write": 0.0665
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_thinking_mistakes_7c70ba_sunk_costs_8f2993",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4575,
+      "phases": {
+        "preparation": 0.0228,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.4281,
+        "content_cleanup_final": 0.0248,
+        "media_svg": 0.408,
+        "youtube": 0.0123,
+        "content_assembly": 0.4121,
+        "monetization": 0.1108,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_online_claims_3bbb25_claim_size_evidence_c51d6f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4351,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.4957,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.4068,
+        "youtube": 0.0116,
+        "content_assembly": 0.3957,
+        "monetization": 0.0494,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_thinking_mistakes_7c70ba_hidden_anchors_967a22",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2594,
+      "phases": {
+        "preparation": 0.0276,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.362,
+        "content_cleanup_final": 0.0192,
+        "media_svg": 0.4451,
+        "youtube": 0.0106,
+        "content_assembly": 0.4916,
+        "monetization": 0.865,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_change_my_mind_f0f53e_revision_conditions_0a1d53",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4689,
+      "phases": {
+        "preparation": 0.023,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4908,
+        "content_cleanup_final": 0.0157,
+        "media_svg": 0.3992,
+        "youtube": 0.0126,
+        "content_assembly": 0.3996,
+        "monetization": 0.0884,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_online_claims_3bbb25_lateral_reading_sour_b1df5f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.634,
+      "phases": {
+        "preparation": 0.032,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4833,
+        "content_cleanup_final": 0.0316,
+        "media_svg": 0.4529,
+        "youtube": 0.0169,
+        "content_assembly": 0.4645,
+        "monetization": 0.1123,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_thinking_mistakes_7c70ba_planning_fallacy_fd46a8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5769,
+      "phases": {
+        "preparation": 0.0277,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5454,
+        "content_cleanup_final": 0.0266,
+        "media_svg": 0.4112,
+        "youtube": 0.0165,
+        "content_assembly": 0.4379,
+        "monetization": 0.0652,
+        "quality_write": 0.046
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_health_claim_skeptic_4efb5d_absolute_risk_987114",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5243,
+      "phases": {
+        "preparation": 0.0207,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5626,
+        "content_cleanup_final": 0.0471,
+        "media_svg": 0.4223,
+        "youtube": 0.017,
+        "content_assembly": 0.5414,
+        "monetization": 0.859,
+        "quality_write": 0.0537
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_change_my_mind_f0f53e_disconfirming_eviden_de1884",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5738,
+      "phases": {
+        "preparation": 0.0239,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4702,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.4151,
+        "youtube": 0.015,
+        "content_assembly": 0.4693,
+        "monetization": 0.1241,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_change_my_mind_f0f53e_decision_review_trig_693dc9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6015,
+      "phases": {
+        "preparation": 0.0253,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.4761,
+        "content_cleanup_final": 0.0255,
+        "media_svg": 0.4241,
+        "youtube": 0.0129,
+        "content_assembly": 0.4717,
+        "monetization": 0.1274,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_change_my_mind_f0f53e_partial_confidence_u_5f1f5f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5857,
+      "phases": {
+        "preparation": 0.033,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4484,
+        "content_cleanup_final": 0.0277,
+        "media_svg": 0.4604,
+        "youtube": 0.0207,
+        "content_assembly": 0.4615,
+        "monetization": 0.0841,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_change_my_mind_f0f53e_premortem_change_sig_6c6f43",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5538,
+      "phases": {
+        "preparation": 0.0247,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.4794,
+        "content_cleanup_final": 0.0281,
+        "media_svg": 0.4213,
+        "youtube": 0.0149,
+        "content_assembly": 0.4435,
+        "monetization": 0.1029,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_change_my_mind_f0f53e_wason_246_experiment_80b6ee",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5937,
+      "phases": {
+        "preparation": 0.0342,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.4788,
+        "content_cleanup_final": 0.0254,
+        "media_svg": 0.4598,
+        "youtube": 0.0189,
+        "content_assembly": 0.4652,
+        "monetization": 0.0695,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_thinking_mistakes_7c70ba_availability_risk_daae70",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3682,
+      "phases": {
+        "preparation": 0.033,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5219,
+        "content_cleanup_final": 0.0368,
+        "media_svg": 0.4269,
+        "youtube": 0.0113,
+        "content_assembly": 0.5026,
+        "monetization": 0.7834,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_strong_objections_4a9a76_steelman_rival_view_1716c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3499,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3473,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.4205,
+        "youtube": 0.0114,
+        "content_assembly": 0.4251,
+        "monetization": 0.0575,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_strong_objections_4a9a76_competing_hypotheses_2276fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4008,
+      "phases": {
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3741,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.4014,
+        "youtube": 0.0106,
+        "content_assembly": 0.4175,
+        "monetization": 0.0925,
+        "quality_write": 0.052
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_strong_objections_4a9a76_consider_the_opposit_d8b0ee",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3634,
+      "phases": {
+        "preparation": 0.0245,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3127,
+        "content_cleanup_final": 0.0193,
+        "media_svg": 0.4416,
+        "youtube": 0.0123,
+        "content_assembly": 0.4231,
+        "monetization": 0.0898,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_strong_objections_4a9a76_devils_advocacy_grou_2c803f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4582,
+      "phases": {
+        "preparation": 0.0216,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4263,
+        "content_cleanup_final": 0.0335,
+        "media_svg": 0.3983,
+        "youtube": 0.0154,
+        "content_assembly": 0.455,
+        "monetization": 0.0665,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_strong_objections_4a9a76_premortem_failure_pa_b35348",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3951,
+      "phases": {
+        "preparation": 0.0304,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3792,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.4038,
+        "youtube": 0.0114,
+        "content_assembly": 0.454,
+        "monetization": 0.053,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_strong_objections_4a9a76_red_teams_groupthink_b8c78c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5343,
+      "phases": {
+        "preparation": 0.0305,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2824,
+        "content_cleanup_final": 0.0295,
+        "media_svg": 0.4431,
+        "youtube": 0.0124,
+        "content_assembly": 0.6182,
+        "monetization": 0.0642,
+        "quality_write": 0.0534
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_first_answer_traps_70dd40_crt_prior_exposure_9e59b6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.1972,
+      "phases": {
+        "preparation": 0.0272,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3725,
+        "content_cleanup_final": 0.0414,
+        "media_svg": 0.4269,
+        "youtube": 0.0142,
+        "content_assembly": 0.4748,
+        "monetization": 6.7909,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_thinking_mistakes_7c70ba_confirmation_bias_se_46d307",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6866,
+      "phases": {
+        "preparation": 0.0233,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.5998,
+        "content_cleanup_final": 0.0233,
+        "media_svg": 0.4365,
+        "youtube": 0.0107,
+        "content_assembly": 0.4659,
+        "monetization": 0.0814,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_alternative_explanat_ee4fa0_sales_drop_tracking_aa364e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6387,
+      "phases": {
+        "preparation": 0.0298,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4703,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 0.4406,
+        "youtube": 0.0202,
+        "content_assembly": 0.4766,
+        "monetization": 0.1295,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_claims_evidence_assu_a804b1_late_replies_assumpt_d445ab",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8044,
+      "phases": {
+        "preparation": 0.0221,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.605,
+        "content_cleanup_final": 0.034,
+        "media_svg": 0.4256,
+        "youtube": 0.017,
+        "content_assembly": 0.5561,
+        "monetization": 0.1004,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_confidence_calibrati_3ec11e_good_judgment_lesson_ea91a6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6303,
+      "phases": {
+        "preparation": 0.0288,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4857,
+        "content_cleanup_final": 0.0328,
+        "media_svg": 0.4401,
+        "youtube": 0.013,
+        "content_assembly": 0.4783,
+        "monetization": 0.1024,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_plain_english_teachi_399aee_causal_chain_explana_d6dcb2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4908,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5342,
+        "content_cleanup_final": 0.0242,
+        "media_svg": 0.3917,
+        "youtube": 0.0107,
+        "content_assembly": 0.384,
+        "monetization": 0.084,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_health_claim_skeptic_4efb5d_testimonials_placebo_98a2fa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3989,
+      "phases": {
+        "preparation": 0.035,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.4992,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.4231,
+        "youtube": 0.0132,
+        "content_assembly": 0.4603,
+        "monetization": 1.9024,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_confidence_calibrati_3ec11e_probabilities_not_wo_bcc6f4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.3044,
+      "phases": {
+        "preparation": 0.0367,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4029,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.4846,
+        "youtube": 0.0218,
+        "content_assembly": 0.4387,
+        "monetization": 2.8493,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_plain_english_teachi_399aee_illusion_explanatory_73fac0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0867,
+      "phases": {
+        "preparation": 0.0245,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.247,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 0.2639,
+        "youtube": 0.0139,
+        "content_assembly": 0.409,
+        "monetization": 0.0756,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_plain_english_teachi_399aee_jargon_hiding_unders_125a65",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5513,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4268,
+        "content_cleanup_final": 0.0342,
+        "media_svg": 0.4307,
+        "youtube": 0.0116,
+        "content_assembly": 0.4571,
+        "monetization": 0.128,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_plain_english_teachi_399aee_self_explanation_ret_cd9a6b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5689,
+      "phases": {
+        "preparation": 0.02,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.4736,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.4232,
+        "youtube": 0.0246,
+        "content_assembly": 0.466,
+        "monetization": 0.1049,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_plain_english_teachi_399aee_teach_back_questions_efab41",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3336,
+      "phases": {
+        "preparation": 0.0323,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4908,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.455,
+        "youtube": 0.0235,
+        "content_assembly": 0.444,
+        "monetization": 0.8297,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_plain_english_teachi_399aee_ten_minute_plain_eng_68964a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5806,
+      "phases": {
+        "preparation": 0.0203,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.4645,
+        "content_cleanup_final": 0.0157,
+        "media_svg": 0.4309,
+        "youtube": 0.0113,
+        "content_assembly": 0.4785,
+        "monetization": 0.1141,
+        "quality_write": 0.0445
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_probabilities_tradeo_aa66d9_decision_trees_outco_95fabc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5325,
+      "phases": {
+        "preparation": 0.026,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4596,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.4219,
+        "youtube": 0.0106,
+        "content_assembly": 0.4598,
+        "monetization": 0.0957,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_probabilities_tradeo_aa66d9_expected_value_downs_0a6e06",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.501,
+      "phases": {
+        "preparation": 0.0289,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4739,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.4292,
+        "youtube": 0.0115,
+        "content_assembly": 0.4235,
+        "monetization": 0.0807,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "improving_your_think_da4710_probabilities_tradeo_aa66d9_weighted_criteria_tr_5c2ddf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4085,
+      "phases": {
+        "preparation": 0.019,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4206,
+        "content_cleanup_final": 0.0256,
+        "media_svg": 0.37,
+        "youtube": 0.0128,
+        "content_assembly": 0.3878,
+        "monetization": 0.1446,
+        "quality_write": 0.0277
+      }
+    }
+  ],
   "parallel": {
     "enabled": true,
     "mode": "process",
@@ -13,20 +1045,156 @@
     "workers_raw": "auto",
     "max_workers": 3,
     "progress_interval_seconds": 60.0,
-    "queued_rebuild_pages": 0,
-    "reused_pages": 211,
-    "rebuilt_pages": 0,
+    "queued_rebuild_pages": 40,
+    "reused_pages": 171,
+    "rebuilt_pages": 40,
     "error_pages": 0,
-    "page_work_wall_seconds": 20.8575,
-    "rebuilt_pages_per_minute": 0.0,
-    "queued_rebuild_pages_per_minute": 0.0,
-    "apparent_page_work_speedup": 0.0,
+    "page_work_wall_seconds": 68.8906,
+    "rebuilt_pages_per_minute": 34.8378,
+    "queued_rebuild_pages_per_minute": 34.8378,
+    "apparent_page_work_speedup": 1.8538,
     "process_worker_diagnostics": {
-      "completed_pages": 0,
-      "successful_pages": 0,
+      "completed_pages": 40,
+      "successful_pages": 40,
       "failed_pages": 0,
-      "worker_summary": {},
-      "slowest_worker_pages": []
+      "worker_summary": {
+        "8536": {
+          "pages": 13,
+          "successes": 13,
+          "failures": 0,
+          "total_worker_seconds": 47.2607,
+          "max_worker_seconds": 9.2648,
+          "last_base_name": "improving_your_think_da4710_probabilities_tradeo_aa66d9_weighted_criteria_tr_5c2ddf"
+        },
+        "26012": {
+          "pages": 15,
+          "successes": 15,
+          "failures": 0,
+          "total_worker_seconds": 43.4303,
+          "max_worker_seconds": 6.2671,
+          "last_base_name": "improving_your_think_da4710_probabilities_tradeo_aa66d9_expected_value_downs_0a6e06"
+        },
+        "20260": {
+          "pages": 12,
+          "successes": 12,
+          "failures": 0,
+          "total_worker_seconds": 39.1049,
+          "max_worker_seconds": 6.1366,
+          "last_base_name": "improving_your_think_da4710_probabilities_tradeo_aa66d9_decision_trees_outco_95fabc"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "improving_your_think_da4710_first_answer_traps_70dd40_crt_prior_exposure_9e59b6",
+          "level": 3,
+          "success": true,
+          "worker_pid": 8536,
+          "worker_duration_seconds": 9.2648,
+          "total_seconds": 9.1972,
+          "worker_started_at_utc": "2026-06-26T09:32:39.623462Z",
+          "worker_finished_at_utc": "2026-06-26T09:32:48.820728Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "improving_your_think_da4710_change_my_mind_f0f53e",
+          "level": 2,
+          "success": true,
+          "worker_pid": 8536,
+          "worker_duration_seconds": 7.3235,
+          "total_seconds": 7.2754,
+          "worker_started_at_utc": "2026-06-26T09:32:16.600969Z",
+          "worker_finished_at_utc": "2026-06-26T09:32:23.876470Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "improving_your_think_da4710_strong_objections_4a9a76",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26012,
+          "worker_duration_seconds": 6.2671,
+          "total_seconds": 6.219,
+          "worker_started_at_utc": "2026-06-26T09:32:19.529833Z",
+          "worker_finished_at_utc": "2026-06-26T09:32:25.748949Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "improving_your_think_da4710_thinking_mistakes_7c70ba",
+          "level": 2,
+          "success": true,
+          "worker_pid": 20260,
+          "worker_duration_seconds": 6.1366,
+          "total_seconds": 6.0858,
+          "worker_started_at_utc": "2026-06-26T09:32:22.894028Z",
+          "worker_finished_at_utc": "2026-06-26T09:32:28.979849Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "improving_your_think_da4710_confidence_calibrati_3ec11e_probabilities_not_wo_bcc6f4",
+          "level": 3,
+          "success": true,
+          "worker_pid": 20260,
+          "worker_duration_seconds": 5.3945,
+          "total_seconds": 5.3044,
+          "worker_started_at_utc": "2026-06-26T09:32:51.425735Z",
+          "worker_finished_at_utc": "2026-06-26T09:32:56.730186Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "improving_your_think_da4710_health_claim_skeptic_4efb5d_testimonials_placebo_98a2fa",
+          "level": 3,
+          "success": true,
+          "worker_pid": 8536,
+          "worker_duration_seconds": 4.4711,
+          "total_seconds": 4.3989,
+          "worker_started_at_utc": "2026-06-26T09:32:51.762888Z",
+          "worker_finished_at_utc": "2026-06-26T09:32:56.161814Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "improving_your_think_da4710_health_claim_skeptic_4efb5d_absolute_risk_987114",
+          "level": 3,
+          "success": true,
+          "worker_pid": 20260,
+          "worker_duration_seconds": 3.6081,
+          "total_seconds": 3.5243,
+          "worker_started_at_utc": "2026-06-26T09:32:31.514723Z",
+          "worker_finished_at_utc": "2026-06-26T09:32:35.039075Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "improving_your_think_da4710_thinking_mistakes_7c70ba_availability_risk_daae70",
+          "level": 3,
+          "success": true,
+          "worker_pid": 20260,
+          "worker_duration_seconds": 3.4418,
+          "total_seconds": 3.3682,
+          "worker_started_at_utc": "2026-06-26T09:32:37.766071Z",
+          "worker_finished_at_utc": "2026-06-26T09:32:41.134354Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "improving_your_think_da4710_plain_english_teachi_399aee_teach_back_questions_efab41",
+          "level": 3,
+          "success": true,
+          "worker_pid": 26012,
+          "worker_duration_seconds": 3.3805,
+          "total_seconds": 3.3336,
+          "worker_started_at_utc": "2026-06-26T09:32:57.056408Z",
+          "worker_finished_at_utc": "2026-06-26T09:33:00.390084Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "improving_your_think_da4710_thinking_mistakes_7c70ba_hidden_anchors_967a22",
+          "level": 3,
+          "success": true,
+          "worker_pid": 26012,
+          "worker_duration_seconds": 3.3277,
+          "total_seconds": 3.2594,
+          "worker_started_at_utc": "2026-06-26T09:32:28.352119Z",
+          "worker_finished_at_utc": "2026-06-26T09:32:31.611573Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
     }
   }
 }
