@@ -525,89 +525,89 @@ The practical benefits are significant:
 In everyday reasoning, the most important box in an argument map is often the first one. If the top-level conclusion is unclear, every branch beneath it risks becoming confused. If the conclusion is explicit and testable, the map gains a clear purpose: showing whether the decision really deserves support.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Is Your Map Really Trying to Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Is Your Map Really Trying to Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
-</h4>
-<p class="fr-book-author">By Anthony Weston</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+        </h4>
+        <p class="fr-book-author">By Anthony Weston</p>
         
-<p class="fr-book-desc">Strongly reinforces the idea of identifying conclusions first and then assessing supporting reasons.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+by+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Strongly reinforces the idea of identifying conclusions first and then assessing supporting reasons.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Timo+Ter+Berg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujrRngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Timo+Ter+Berg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-</h4>
-<p class="fr-book-author">By Timo Ter Berg, Tim Van Gelder et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
+        </h4>
+        <p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
         
-<p class="fr-book-desc">Shows how conclusions, premises, objections, and assumptions are organised in structured maps.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Timo+Ter+Berg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Emphasises identifying the issue, conclusion, and supporting evidence before judging an argument.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Asking the Right Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HomeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Asking the Right Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asking the Right Questions">Asking the Right Questions</a>
-</h4>
-<p class="fr-book-author">By M. Neil Browne, Stuart M. Keeley</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+William+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OBPYAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Critical+Thinking+William+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+        </h4>
+        <p class="fr-book-author">By William Hughes</p>
         
-<p class="fr-book-desc">Emphasises identifying the issue, conclusion, and supporting evidence before judging an argument.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Asking+the+Right+Questions+by+M.+Neil+Browne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how conclusions, premises, objections, and assumptions are organised in structured maps.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Critical+Thinking+William+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+Arguments%3A+How+Debate+Teaches+Us+to+Listen+and+Be+Heard+by+Bo+Seo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good Arguments: How Debate Teaches Us to Listen and Be Heard on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L75YEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Good Arguments: How Debate Teaches Us to Listen and Be Heard" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Good+Arguments%3A+How+Debate+Teaches+Us+to+Listen+and+Be+Heard+by+Bo+Seo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good Arguments: How Debate Teaches Us to Listen and Be Heard">Good Arguments: How Debate Teaches Us to Listen and Be Heard</a>
-</h4>
-<p class="fr-book-author">By Bo Seo</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+Arguments%3A+How+Debate+Teaches+Us+to+Listen+and+Be+Heard+Bo+Seo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good Arguments: How Debate Teaches Us to Listen and Be Heard on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L75YEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Good Arguments: How Debate Teaches Us to Listen and Be Heard" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Good+Arguments%3A+How+Debate+Teaches+Us+to+Listen+and+Be+Heard+Bo+Seo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good Arguments: How Debate Teaches Us to Listen and Be Heard">Good Arguments: How Debate Teaches Us to Listen and Be Heard</a>
+        </h4>
+        <p class="fr-book-author">By Bo Seo</p>
         
-<p class="fr-book-desc">Focuses on clarifying what is actually being argued and what claim is being defended.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Good+Arguments%3A+How+Debate+Teaches+Us+to+Listen+and+Be+Heard+by+Bo+Seo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on clarifying what is actually being argued and what claim is being defended.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Good+Arguments%3A+How+Debate+Teaches+Us+to+Listen+and+Be+Heard+Bo+Seo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asking+the+Right+Questions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asking the Right Questions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

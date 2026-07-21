@@ -2,60 +2,62 @@
 level: 1
 basename: improving_your_think_da4710
 child_basenames:
-- improving_your_think_da4710_cause_correlation_008ee5
+- improving_your_think_da4710_active_learning_a8cca9
+- improving_your_think_da4710_alternative_explanat_ee4fa0
+- improving_your_think_da4710_argument_mapping_8e4963
+- improving_your_think_da4710_change_my_mind_f0f53e
+- improving_your_think_da4710_claims_evidence_assu_a804b1
 - improving_your_think_da4710_confidence_calibrati_3ec11e
-- improving_your_think_da4710_critical_thinking_tr_28fa6d
-- improving_your_think_da4710_decision_journals_44d9d9
-- improving_your_think_da4710_distributed_practice_4a249b
-- improving_your_think_da4710_domain_knowledge_96a03e
-- improving_your_think_da4710_evidence_standards_a40c69
-- improving_your_think_da4710_expert_intuition_73d438
-- improving_your_think_da4710_familiarity_trap_82f724
-- improving_your_think_da4710_feedback_calibration_8a35f0
-- improving_your_think_da4710_framing_effects_b0667d
-- improving_your_think_da4710_high_stakes_decision_b09c8f
+- improving_your_think_da4710_confirmation_bias_dee5c3
+- improving_your_think_da4710_correlation_causatio_a505f2
+- improving_your_think_da4710_decision_stakes_7c2e2a
+- improving_your_think_da4710_deliberate_practice_ac56e9
+- improving_your_think_da4710_emotion_identity_rea_e7cc61
+- improving_your_think_da4710_feedback_loops_judgm_3e40b7
+- improving_your_think_da4710_first_answer_traps_70dd40
+- improving_your_think_da4710_health_claim_skeptic_4efb5d
 - improving_your_think_da4710_index
-- improving_your_think_da4710_intuition_vs_analysi_f4ec00
-- improving_your_think_da4710_lateral_reading_afeebc
-- improving_your_think_da4710_live_alternatives_e775b1
-- improving_your_think_da4710_metacognition_assump_b47334
-- improving_your_think_da4710_myside_bias_de0ec5
-- improving_your_think_da4710_no_notes_explanation_891faf
-- improving_your_think_da4710_online_confirmation_d4dd0f
-- improving_your_think_da4710_open_minded_thinking_b0c2ad
-- improving_your_think_da4710_practice_testing_35a599
-- improving_your_think_da4710_prediction_habits_f0daf5
-- improving_your_think_da4710_problem_breakdown_59ff8f
-- improving_your_think_da4710_question_design_1265c2
-- improving_your_think_da4710_real_problem_practic_466932
-- improving_your_think_da4710_source_quality_af91d8
-- improving_your_think_da4710_steelmanning_argumen_91444a
-- improving_your_think_da4710_tradeoff_thinking_70bcb4
-- improving_your_think_da4710_weakest_link_assumpt_7c77f4
-- improving_your_think_da4710_written_reasoning_ch_b4e5fd
+- improving_your_think_da4710_intellectual_humilit_ff42ae
+- improving_your_think_da4710_intuition_second_pas_ed3df6
+- improving_your_think_da4710_job_offer_tradeoffs_769c53
+- improving_your_think_da4710_metacognition_74edbc
+- improving_your_think_da4710_online_claims_3bbb25
+- improving_your_think_da4710_plain_english_teachi_399aee
+- improving_your_think_da4710_probabilities_tradeo_aa66d9
+- improving_your_think_da4710_problem_framing_7f52a6
+- improving_your_think_da4710_project_failure_syst_695c51
+- improving_your_think_da4710_purposeful_judgment_54a3a5
+- improving_your_think_da4710_real_world_transfer_0cecd5
+- improving_your_think_da4710_retrieval_practice_750003
+- improving_your_think_da4710_strong_objections_4a9a76
+- improving_your_think_da4710_teaching_thinking_sk_b24d42
+- improving_your_think_da4710_thinking_mistakes_7c70ba
+- improving_your_think_da4710_three_parts_thinking_a75215
 sibling_basenames: []
 tags:
-- improving-your-think
+- improving-your-thinking-and-analytical-skills
 keywords:
-- improving-your-think
-affiliate_category: improving-your-think
+- improving-your-thinking-and-analytical-skills
+affiliate_category: improving-your-thinking-and-analytical-skills
 show_ads: true
-description: Improving your thinking and analytical skills is less about becoming “smarter” in the abstract and more about changing how you handle evidence, uncertainty,...
-hero_summary: Improving your thinking and analytical skills is less about becoming “smarter” in the abstract and more about changing how you handle evidence, uncertainty, explanations and decisions.
+description: Improving your thinking and analytical skills is less about becoming “cleverer” in the abstract and more about building habits that make your judgement...
+hero_summary: Improving your thinking and analytical skills is less about becoming “cleverer” in the abstract and more about building habits that make your judgement slower where it should be slower, clearer where it is muddled, and better tested against evidence.
 layout: default
-permalink: /improving-your-think/
-nav_short_title: Improving Your Think
-title: Improving Your Think
-title_full: Improving Your Think
-display_title_short: Improving Your Think
-display_title: Improving Your Think
-source_count: 102
+permalink: /improving-your-thinking-and-analytical/
+nav_short_title: Can You Train Better Judgment?
+title: Can You Train Better Judgment?
+title_full: Can You Train Better Judgment?
+display_title_short: Can You Train Better Judgment?
+display_title: Can You Train Better Judgment?
+heading_title: Can You Train Better Judgment?
+page_heading_title: Can You Train Better Judgment?
+source_count: 125
 infographic_count: 3
 page_website_name: Sharper Thinking
-page_banner_line: Practical ways to reason better, test ideas, and make decisions under uncertainty.
+page_banner_line: Practical habits for clearer judgment, better evidence use, and fewer reasoning traps.
 site_website_name: Sharper Thinking
-site_banner_line: Practical ways to reason better, test ideas, and make decisions under uncertainty.
-site_image_description: A desk with an open notebook, sticky notes, a decision chart, and a laptop beside a cup of coffee in a quiet workspace.
+site_banner_line: Practical habits for clearer judgment, better evidence use, and fewer reasoning traps.
+site_image_description: A desk with a notebook, sticky notes, a simple decision tree, and a marked-up problem statement beside a cup of coffee.
 output_language: English
 lang: en
 locale: en
@@ -217,158 +219,158 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-25 18:50:05'
+date: '2026-06-24 21:31:52'
 child_links:
-- basename: improving_your_think_da4710_live_alternatives_e775b1
-  title: Alternatives | Improving Your Think
+- basename: improving_your_think_da4710_active_learning_a8cca9
+  title: Active Learning | Improving Your Thinking And Analytical Skills
+  permalink: /active-learning/
+  short_title: Active Learning
+  heading_title: Why Rereading Is Not Enough
+- basename: improving_your_think_da4710_alternative_explanat_ee4fa0
+  title: Alternatives | Improving Your Thinking And Analytical Skills
   permalink: /alternatives/
   short_title: Alternatives
-  heading_title: Why One Explanation Is Not Enough
-- basename: improving_your_think_da4710_question_design_1265c2
-  title: Better Questions | Improving Your Think
-  permalink: /better-questions/
-  short_title: Better Questions
-  heading_title: Ask Better Questions Before Seeking Answers
+  heading_title: What Else Could Explain This?
+- basename: improving_your_think_da4710_argument_mapping_8e4963
+  title: Argument Maps | Improving Your Thinking And Analytical Skills
+  permalink: /argument-maps/
+  short_title: Argument Maps
+  heading_title: Can Mapping an Argument Improve It?
 - basename: improving_your_think_da4710_confidence_calibrati_3ec11e
-  title: Calibration | Improving Your Think
+  title: Calibration | Improving Your Thinking And Analytical Skills
   permalink: /calibration/
   short_title: Calibration
-  heading_title: How Confident Should You Be?
-- basename: improving_your_think_da4710_cause_correlation_008ee5
-  title: Cause Check | Improving Your Think
-  permalink: /cause-check/
-  short_title: Cause Check
-  heading_title: Did It Cause It, or Just Happen Nearby?
-- basename: improving_your_think_da4710_critical_thinking_tr_28fa6d
-  title: Critical Skills | Improving Your Think
-  permalink: /critical-skills/
-  short_title: Critical Skills
-  heading_title: Can Critical Thinking Really Be Taught?
-- basename: improving_your_think_da4710_decision_journals_44d9d9
-  title: Decision Journal | Improving Your Think
-  permalink: /decision-journal/
-  short_title: Decision Journal
-  heading_title: Keep Score on Your Own Judgement
-- basename: improving_your_think_da4710_high_stakes_decision_b09c8f
-  title: Decision Routines | Improving Your Think
-  permalink: /decision-routines/
-  short_title: Decision Routines
-  heading_title: A Safer Way to Make Big Decisions
-- basename: improving_your_think_da4710_domain_knowledge_96a03e
-  title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
-  short_title: Domain Knowledge
-  heading_title: Why Smart Thinking Needs Real Knowledge
-- basename: improving_your_think_da4710_evidence_standards_a40c69
-  title: Evidence Tests | Improving Your Think
-  permalink: /evidence-tests/
-  short_title: Evidence Tests
+  heading_title: Is Your Confidence Matched to Evidence?
+- basename: improving_your_think_da4710_correlation_causatio_a505f2
+  title: Causation | Improving Your Thinking And Analytical Skills
+  permalink: /causation/
+  short_title: Causation
+  heading_title: Does the Evidence Show a Cause?
+- basename: improving_your_think_da4710_change_my_mind_f0f53e
+  title: Change Mind | Improving Your Thinking And Analytical Skills
+  permalink: /change-mind/
+  short_title: Change Mind
   heading_title: What Evidence Would Change Your Mind?
-- basename: improving_your_think_da4710_expert_intuition_73d438
-  title: Expert Gut | Improving Your Think
-  permalink: /expert-gut/
-  short_title: Expert Gut
-  heading_title: When Should You Trust Your Gut?
-- basename: improving_your_think_da4710_no_notes_explanation_891faf
-  title: Explain It | Improving Your Think
-  permalink: /explain-it/
-  short_title: Explain It
-  heading_title: Can You Explain It Without Notes?
-- basename: improving_your_think_da4710_feedback_calibration_8a35f0
-  title: Feedback | Improving Your Think
+- basename: improving_your_think_da4710_claims_evidence_assu_a804b1
+  title: Claims | Improving Your Thinking And Analytical Skills
+  permalink: /claims/
+  short_title: Claims
+  heading_title: What Is the Claim Really Based On?
+- basename: improving_your_think_da4710_confirmation_bias_dee5c3
+  title: Confirmation Bias | Improving Your Thinking And Analytical Skills
+  permalink: /confirmation-bias/
+  short_title: Confirmation Bias
+  heading_title: Are You Protecting Your First Answer?
+- basename: improving_your_think_da4710_purposeful_judgment_54a3a5
+  title: Critical Thinking | Improving Your Thinking And Analytical Skills
+  permalink: /critical-thinking/
+  short_title: Critical Thinking
+  heading_title: What Does Critical Thinking Really Mean?
+- basename: improving_your_think_da4710_decision_stakes_7c2e2a
+  title: Decision Stakes | Improving Your Thinking And Analytical Skills
+  permalink: /decision-stakes/
+  short_title: Decision Stakes
+  heading_title: How Much Thinking Is Enough?
+- basename: improving_your_think_da4710_deliberate_practice_ac56e9
+  title: Deliberate Practice | Improving Your Thinking And Analytical Skills
+  permalink: /deliberate-practice/
+  short_title: Deliberate Practice
+  heading_title: Why Experience Alone Does Not Fix Thinking
+- basename: improving_your_think_da4710_feedback_loops_judgm_3e40b7
+  title: Feedback | Improving Your Thinking And Analytical Skills
   permalink: /feedback/
   short_title: Feedback
-  heading_title: How Feedback Makes Judgement Sharper
-- basename: improving_your_think_da4710_familiarity_trap_82f724
-  title: Fluency Trap | Improving Your Think
-  permalink: /fluency-trap/
-  short_title: Fluency Trap
-  heading_title: When Familiarity Feels Like Understanding
-- basename: improving_your_think_da4710_framing_effects_b0667d
-  title: Framing | Improving Your Think
-  permalink: /framing/
-  short_title: Framing
-  heading_title: Is the Question Already Trapping You?
-- basename: improving_your_think_da4710_intuition_vs_analysi_f4ec00
-  title: Gut vs Analysis | Improving Your Think
-  permalink: /gut-vs-analysis/
-  short_title: Gut vs Analysis
-  heading_title: When to Slow Down Your Thinking
-- basename: improving_your_think_da4710_lateral_reading_afeebc
-  title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
-  short_title: Lateral Reading
-  heading_title: How to Check a Claim Online
-- basename: improving_your_think_da4710_metacognition_assump_b47334
-  title: Metacognition | Improving Your Think
+  heading_title: How Do You Learn From Wrong Calls?
+- basename: improving_your_think_da4710_first_answer_traps_70dd40
+  title: First Answers | Improving Your Thinking And Analytical Skills
+  permalink: /first-answers/
+  short_title: First Answers
+  heading_title: Why First Answers Feel So Convincing
+- basename: improving_your_think_da4710_health_claim_skeptic_4efb5d
+  title: Health Claims | Improving Your Thinking And Analytical Skills
+  permalink: /health-claims/
+  short_title: Health Claims
+  heading_title: How Should You Judge Health Advice?
+- basename: improving_your_think_da4710_intellectual_humilit_ff42ae
+  title: Humility | Improving Your Thinking And Analytical Skills
+  permalink: /humility/
+  short_title: Humility
+  heading_title: How Do You Stay Open Without Drifting?
+- basename: improving_your_think_da4710_intuition_second_pas_ed3df6
+  title: Intuition | Improving Your Thinking And Analytical Skills
+  permalink: /intuition/
+  short_title: Intuition
+  heading_title: When Should You Slow Down?
+- basename: improving_your_think_da4710_job_offer_tradeoffs_769c53
+  title: Job Offers | Improving Your Thinking And Analytical Skills
+  permalink: /job-offers/
+  short_title: Job Offers
+  heading_title: How Do You Compare Job Offers Clearly?
+- basename: improving_your_think_da4710_metacognition_74edbc
+  title: Metacognition | Improving Your Thinking And Analytical Skills
   permalink: /metacognition/
   short_title: Metacognition
-  heading_title: How to Notice Your Own Thinking
-- basename: improving_your_think_da4710_myside_bias_de0ec5
-  title: Myside Bias | Improving Your Think
-  permalink: /myside-bias/
-  short_title: Myside Bias
-  heading_title: How Your Favorite Beliefs Fool You
-- basename: improving_your_think_da4710_open_minded_thinking_b0c2ad
-  title: Open Mind | Improving Your Think
-  permalink: /open-mind/
-  short_title: Open Mind
-  heading_title: What Open Minded Thinking Actually Requires
-- basename: improving_your_think_da4710_practice_testing_35a599
-  title: Practice Tests | Improving Your Think
-  permalink: /practice-tests/
-  short_title: Practice Tests
-  heading_title: Why Testing Yourself Beats Rereading
-- basename: improving_your_think_da4710_prediction_habits_f0daf5
-  title: Predictions | Improving Your Think
-  permalink: /predictions/
-  short_title: Predictions
-  heading_title: Predict First, Check Second
-- basename: improving_your_think_da4710_problem_breakdown_59ff8f
-  title: Problem Parts | Improving Your Think
-  permalink: /problem-parts/
-  short_title: Problem Parts
-  heading_title: How to Break Down a Hard Problem
-- basename: improving_your_think_da4710_real_problem_practic_466932
-  title: Real Practice | Improving Your Think
-  permalink: /real-practice/
-  short_title: Real Practice
-  heading_title: Practice Thinking on Real Problems
-- basename: improving_your_think_da4710_written_reasoning_ch_b4e5fd
-  title: Reasoning Chain | Improving Your Think
-  permalink: /reasoning-chain/
-  short_title: Reasoning Chain
-  heading_title: Why Writing Makes Thinking Clearer
-- basename: improving_your_think_da4710_online_confirmation_d4dd0f
-  title: Search Bias | Improving Your Think
-  permalink: /search-bias/
-  short_title: Search Bias
-  heading_title: Is Your Search Confirming You?
-- basename: improving_your_think_da4710_source_quality_af91d8
-  title: Source Quality | Improving Your Think
-  permalink: /source-quality/
-  short_title: Source Quality
-  heading_title: Trustworthy Source or Friendly Source?
-- basename: improving_your_think_da4710_distributed_practice_4a249b
-  title: Spacing | Improving Your Think
-  permalink: /spacing/
-  short_title: Spacing
-  heading_title: Why Spacing Practice Makes Thinking Stick
-- basename: improving_your_think_da4710_steelmanning_argumen_91444a
-  title: Steelman | Improving Your Think
-  permalink: /steelman/
-  short_title: Steelman
-  heading_title: Can You Pass the Opponent's Test?
-- basename: improving_your_think_da4710_tradeoff_thinking_70bcb4
-  title: Tradeoffs | Improving Your Think
-  permalink: /tradeoffs/
-  short_title: Tradeoffs
-  heading_title: What Are You Giving Up?
-- basename: improving_your_think_da4710_weakest_link_assumpt_7c77f4
-  title: Weakest Link | Improving Your Think
-  permalink: /weakest-link/
-  short_title: Weakest Link
-  heading_title: Find the Assumption That Could Break Everything
+  heading_title: How Do You Check Your Own Thinking?
+- basename: improving_your_think_da4710_thinking_mistakes_7c70ba
+  title: Mistakes | Improving Your Thinking And Analytical Skills
+  permalink: /mistakes/
+  short_title: Mistakes
+  heading_title: Which Thinking Mistakes Keep Repeating?
+- basename: improving_your_think_da4710_strong_objections_4a9a76
+  title: Objections | Improving Your Thinking And Analytical Skills
+  permalink: /objections/
+  short_title: Objections
+  heading_title: What Is the Best Case Against You?
+- basename: improving_your_think_da4710_online_claims_3bbb25
+  title: Online Claims | Improving Your Thinking And Analytical Skills
+  permalink: /online-claims/
+  short_title: Online Claims
+  heading_title: Can You Trust This Claim?
+- basename: improving_your_think_da4710_emotion_identity_rea_e7cc61
+  title: Pressure | Improving Your Thinking And Analytical Skills
+  permalink: /pressure/
+  short_title: Pressure
+  heading_title: When Emotion Distorts Reasoning
+- basename: improving_your_think_da4710_probabilities_tradeo_aa66d9
+  title: Probabilities | Improving Your Thinking And Analytical Skills
+  permalink: /probabilities/
+  short_title: Probabilities
+  heading_title: How Do You Think Through Uncertainty?
+- basename: improving_your_think_da4710_problem_framing_7f52a6
+  title: Problem Framing | Improving Your Thinking And Analytical Skills
+  permalink: /problem-framing/
+  short_title: Problem Framing
+  heading_title: Are You Solving the Right Problem?
+- basename: improving_your_think_da4710_project_failure_syst_695c51
+  title: Project Failure | Improving Your Thinking And Analytical Skills
+  permalink: /project-failure/
+  short_title: Project Failure
+  heading_title: Is the System Creating the Delay?
+- basename: improving_your_think_da4710_retrieval_practice_750003
+  title: Retrieval | Improving Your Thinking And Analytical Skills
+  permalink: /retrieval/
+  short_title: Retrieval
+  heading_title: Can Testing Yourself Make You Smarter?
+- basename: improving_your_think_da4710_plain_english_teachi_399aee
+  title: Teach It | Improving Your Thinking And Analytical Skills
+  permalink: /teach-it/
+  short_title: Teach It
+  heading_title: Can You Explain It Without Jargon?
+- basename: improving_your_think_da4710_teaching_thinking_sk_b24d42
+  title: Teaching | Improving Your Thinking And Analytical Skills
+  permalink: /teaching/
+  short_title: Teaching
+  heading_title: Can Thinking Be Taught Directly?
+- basename: improving_your_think_da4710_three_parts_thinking_a75215
+  title: Three Parts | Improving Your Thinking And Analytical Skills
+  permalink: /three-parts/
+  short_title: Three Parts
+  heading_title: What Makes a Strong Thinker?
+- basename: improving_your_think_da4710_real_world_transfer_0cecd5
+  title: Transfer | Improving Your Thinking And Analytical Skills
+  permalink: /transfer/
+  short_title: Transfer
+  heading_title: Will Thinking Skills Work in Real Life?
 header:
   og_image: /assets/images/improving_your_think_da4710-overview-social.jpg
   preview_image: /assets/images/improving_your_think_da4710-overview.webp
@@ -377,204 +379,271 @@ image: /assets/images/improving_your_think_da4710-overview-social.jpg
 
 ## Introduction
 
-The useful goal is not to think slowly all the time. Good analysis means knowing when intuition is enough, when to slow down, and how to check whether a conclusion is being driven by evidence, habit, pressure or wishful thinking.
+The good news is that analytical skill is trainable. The catch is that it does not usually improve just because someone reads more, argues more, or accumulates experience. People need structured [practice]({{ 'practice/' | relative_url }}): making reasoning visible, testing predictions, learning from errors, and using tools that reduce avoidable bias.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2Bayes Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsStrategies for Teaching Students to Think Criticallyby PC Abrami · 2015 · Cited by 2010 — This article summarizes the availa...</span></span></span>
 
 
-<img src="{{ "/assets/images/improving_your_think_da4710-overview.webp" | relative_url }}" alt="Overview image for Improving Your Think" loading="eager" decoding="sync" fetchpriority="high">
-## What better thinking actually means
+<img src="{{ "/assets/images/improving_your_think_da4710-overview.webp" | relative_url }}" alt="Overview image for Improving Your Thinking And Analytical Skills" loading="eager" decoding="sync" fetchpriority="high">
+## What “better thinking” actually means
 
-“Thinking skills” can sound vague, so it helps to separate three related abilities. **Critical thinking** is the ability to interpret information, evaluate arguments, draw justified conclusions and explain the reasoning behind them. **Analytical thinking** is the narrower habit of breaking a problem into parts, tracing causes, comparing evidence and testing explanations. **Metacognition** is thinking about your own thinking: noticing what you know, what you are assuming, and where your confidence may be too high.
+Good thinking is not the same as being sceptical about everything. A useful working definition of critical thinking is purposeful, self-regulated judgement: interpreting information, analysing arguments, evaluating evidence, drawing inferences, and explaining why a conclusion follows. That definition matters because it shifts the goal from “having strong opinions” to “being able to show the route from question to conclusion”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsStrategies for Teaching Students to Think Criticallyby PC Abrami · 2015 · Cited by 2010 — This article summarizes the availa...</span></span></span>
 
-Researchers often describe critical thinking as a metacognitive process involving purposeful, self-regulated judgement. That matters because the aim is not just to produce clever opinions, but to improve the odds of reaching a valid conclusion or a workable solution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10300824/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by CP Dwyer · 2023 · Cited by 166 — Critical thinking (CT) is a metacognitive process—consisting of a number of skills and disposition...</span></span></span> Metacognition is also a recurring theme in education evidence: the Education Endowment Foundation describes metacognition and self-regulation as a well-supported, high-impact and low-cost approach to improving learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFMetacognition and Self-Regulated LearningThere is a strong body of research from psychology and education demonstrating the importance...</span></span></span>
+Analytical thinking is the close cousin of that process. It asks: What is the problem? What do we know? What do we not know? Which explanation fits best? What would change my mind? In everyday life, that might mean comparing job offers, assessing a health claim, deciding whether a news story is reliable, or diagnosing why a project has stalled.
 
-A good thinker is therefore not someone who never makes mistakes. A good thinker is someone who catches mistakes earlier, notices weak evidence, revises beliefs when the facts change, and chooses methods that fit the problem.
-
-## The core habit: make your reasoning visible
-
-The simplest way to improve analytical thinking is to stop letting conclusions appear fully formed. Write down the chain between question and answer. This turns a private impression into something you can inspect.
-
-For any non-trivial issue, use four [prompts]({{ 'prompts/' | relative_url }}):
-
-1. **What exactly is the question?** A vague question invites a vague answer. “Is this project a good idea?” becomes clearer as “Will this project recover its costs within 18 months without delaying higher-priority work?”
-2. **What would count as evidence?** Decide what would change your mind before you go looking for support.
-3. **What are the live alternatives?** Compare at least two plausible explanations, not just “my idea” against “nothing”.
-4. **What is the [weakest link]({{ 'weakest-link/' | relative_url }})?** Identify the assumption that would most damage your conclusion if it turned out to be false.
-
-This habit works because it exposes hidden jumps. Many poor decisions are not caused by lack of intelligence, but by unexamined [framing]({{ 'framing/' | relative_url }}): the wrong question, a missing comparison, a selective evidence search, or an assumption treated as fact.
-
-
-<img src="{{ "/assets/images/improving_your_think_da4710-Illustration-1-dark.svg" | relative_url }}" alt="Improving Your Think illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Learn enough context before trusting pattern recognition
-
-Fast judgement can be useful, but only under the right conditions. Daniel Kahneman and Gary Klein, who came from different traditions in judgement research, converged on an important boundary: expert intuition is more trustworthy in environments with valid cues and timely, clear feedback. In chaotic or weak-feedback settings, confidence can outrun skill. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1037%2Fa0016755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamonitor.ireland.openaire.eu">[OA Monitor Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamonitor.ireland.openaire.eu</span><span class="citation-popover-snippet">Open source on openaire.eu.</span></span></span>
-
-That distinction changes how you should practise. A chess player, emergency doctor or experienced mechanic can build intuition because the environment supplies repeated patterns and relatively fast correction. By contrast, many workplace, political, investment or personal-life decisions provide delayed feedback, noisy [outcomes]({{ 'outcomes/' | relative_url }}) and ambiguous causes. In those settings, “trust your gut” needs safeguards.
-
-A practical rule is:
-
-
-<div class="content-enhancement content-enhancement--comparison" markdown="1">
-
-* Use intuition for **recognition**: “This resembles a problem I have seen before.”
-* Use analysis for **commitment**: “Given the evidence, costs, alternatives and uncertainty, this is the best action.”
-* Use feedback for **calibration**: “Was I right for the reasons I thought I was right?”
-
-</div>
-
-The point is not to suppress intuition. It is to make intuition earn trust through experience, feedback and comparison with outcomes.
-
-## Use evidence like a scientist, not a lawyer
-
-A lawyerly mind searches for evidence that wins the case. A scientific mind asks which explanation survives contact with the evidence. Better analytical thinking requires more of the second stance, especially when you already care about the answer.
-
-One common obstacle is **myside bias**, a form of confirmation bias in which people evaluate evidence in ways that protect their existing views. Stanovich, West and Toplak describe myside bias as closely related to the critical-thinking challenge of separating prior belief from evidence evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://maggietoplak.com/wp-content/uploads/2025/05/Stanovich-K.-E.-West-R.-F.-Toplak-M.-E.-2013.-Myside-bias-rational-thinking-and-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maggietoplak.com">[Maggie Toplak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maggietoplak.com</span><span class="citation-popover-title">Maggie Toplak Myside Bias, Rational Thinking, and Intelligence</span><span class="citation-popover-snippet">Maggie Toplak Myside Bias, Rational Thinking, and Intelligence</span></span></span> Research on actively open-minded thinking also treats willingness to consider alternatives and revise beliefs as central to better judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCActively Open-Minded Thinking and Its Measurement</span><span class="citation-popover-snippet">PMCActively Open-Minded Thinking and Its Measurement</span></span></span>
-
-A useful antidote is not to tell yourself “be unbiased”, because that instruction is too weak. Use concrete moves:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
-* **Search for the strongest opposing case.** Do not settle for the weakest critic of your view.
-* **Ask what evidence would change your mind.** If the answer is “nothing”, you are defending an identity, not analysing a claim.
-* **Separate source quality from source agreement.** A source is not reliable because it agrees with you, and not unreliable merely because it does not.
-* **Steelman before rebutting.** Restate the opposing argument in a form its supporters would recognise.
-
-</div>
-
-This is especially important online, where fluency, confident language and attractive formatting can mimic credibility. The Civic Online Reasoning curriculum from the Digital Inquiry Group teaches “lateral reading”: instead of staying on one webpage and judging it by appearance, readers check what other sources say about the site or claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cor.inquirygroup.org">[cor.inquirygroup.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cor.inquirygroup.org</span><span class="citation-popover-snippet">Open source on inquirygroup.org.</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SHNprb2hgzU" title="Sort Fact from Fiction Online with Lateral Reading" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer">Sort Fact from Fiction Online with Lateral Reading</a></p><p class="youtube-embed-meta">Channel: Digital Inquiry Group &middot; Views: 295.0K &middot; Uploaded: January 2020 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SHNprb2hgzU">Open on YouTube</a></p></div></div></div>
-
-## Build analytical skill through practice, not passive reading
-
-Reading about thinking is useful only up to a point. Analytical skill improves when you repeatedly solve problems, receive feedback, and adjust your method. That is why evidence from education is relevant even for adults outside school: the mechanisms of learning still apply.
-
-A major review of learning techniques by Dunlosky and colleagues rated **[practice testing]({{ 'practice-tests/' | relative_url }})** and **distributed practice** as high-utility techniques. Practice testing means actively retrieving what you know rather than rereading it; distributed practice means spacing study or practice over time instead of cramming. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whz.de/fileadmin/lehre/hochschuldidaktik/docs/dunloskiimprovingstudentlearning.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whz.de">[Westsächsische Hochschule Zwickau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whz.de</span><span class="citation-popover-snippet">Westsächsische Hochschule ZwickauImproving Students&#x27; Learning With Effective...by J Dunlosky · 2013 · Cited by 5904 — Practice testing a...</span></span></span> These methods matter for thinking skills because analysis depends on usable knowledge. You cannot evaluate an argument well if the relevant concepts, facts and distinctions are not retrievable when needed.
-
-For thinking and analytical skills, “practice testing” does not have to mean school-style exams. It can look like this:
-
-
-<div class="content-enhancement content-enhancement--decision" markdown="1">
-
-* After reading an article, close it and write the author’s argument from memory.
-* Before checking an answer, predict what the evidence will show.
-* After a decision, record what you expected and review it later.
-* When learning a concept, explain it without notes and then check what you missed.
-* When analysing a problem, generate two explanations and list what each predicts.
-
-</div>
-
-This turns thinking into a feedback loop. Without retrieval and correction, it is easy to confuse familiarity with understanding.
-
-
-<img src="{{ "/assets/images/improving_your_think_da4710-Illustration-2-dark.svg" | relative_url }}" alt="Improving Your Think illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Ask better questions before seeking better answers
-
-Analytical people often look impressive because they answer well, but the deeper skill is question design. A poor question narrows the mind too early. A better question opens useful distinctions.
-
-Consider the difference between these:
-
-* “Is remote work good or bad?”
-* “For which roles, tasks and workers does remote work improve performance, and where does it create coordination costs?”
-
-The second question is better because it breaks a slogan into variables. It invites evidence, comparison and tradeoffs. The same move works across everyday decisions: health choices, career planning, hiring, purchases, arguments and public claims.
-
-A strong analytical question usually has at least one of these features:
-
-
-<div class="content-enhancement content-enhancement--comparison" markdown="1">
-
-* **A clear comparison:** compared with what?
-* **A defined outcome:** good by which measure?
-* **A timeframe:** immediately, this year, or over a decade?
-* **A scope limit:** for whom, where, and under what conditions?
-* **A testable implication:** what should we observe if this is true?
-
-</div>
-
-This is where analytical thinking differs from mere scepticism. Scepticism can become a reflexive “no”. Analysis asks what would be true if each explanation were right, and then looks for discriminating evidence.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/elZFL4FLVLE" title="Metacognition: The Skill That Promotes Advanced Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=elZFL4FLVLE" target="_blank" rel="noopener noreferrer">Metacognition: The Skill That Promotes Advanced Learning</a></p><p class="youtube-embed-meta">Channel: Peterson&#x27;s Test Prep</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=elZFL4FLVLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=elZFL4FLVLE">Open on YouTube</a></p></div></div></div>
-
-## Slow down at the moments most likely to distort judgement
-
-You do not need to analyse every small choice. The highest return comes from slowing down when predictable distortions are likely.
-
-The Cognitive Reflection Test, introduced by Shane Frederick, became well known because its questions trigger quick but wrong intuitive answers, requiring people to override the first response and reflect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bear.warrington.ufl.edu/brenner/mar7588/Papers/frederick-jep2005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bear.warrington.ufl.edu">[Warrington College of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bear.warrington.ufl.edu</span><span class="citation-popover-title">Warrington College of Business Cognitive Reflection and Decision Making</span><span class="citation-popover-snippet">Warrington College of Business Cognitive Reflection and Decision Making</span></span></span> Later discussion has questioned whether the test measures only “reflection” rather than numeracy and other abilities, but its practical lesson remains useful: sometimes the first answer feels right because it is fluent, not because it is true. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cognitive_reflection_test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cognitive reflection test</span><span class="citation-popover-snippet">Cognitive reflection test</span></span></span>
-
-Slow down when:
-
-* the answer feels obvious but the stakes are high;
-* you strongly want one conclusion to be true;
-* the decision is irreversible or expensive;
-* the evidence is mainly anecdotal;
-* people around you are rushing or signalling consensus;
-* the problem involves [probabilities]({{ 'probabilities/' | relative_url }}), base rates or long-term consequences;
-* you are angry, embarrassed, flattered or afraid.
-
-A simple pause can be powerful: “What am I assuming, and how would I know if that assumption were false?”
-
-
-<img src="{{ "/assets/images/improving_your_think_da4710-Illustration-3-dark.svg" | relative_url }}" alt="Improving Your Think illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Improve decisions by reducing noise, not just bias
-
-Many people focus on bias, but inconsistency is another enemy of good judgement. **Noise** means unwanted variability in judgements of the same problem: two people, or the same person on two different days, may reach different conclusions without a good reason. Kahneman, Sibony and Sunstein popularised this problem in *Noise: A Flaw in Human Judgment*, and later discussions have applied the idea to professional settings where inconsistent judgement can affect outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/00018392221119294" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
-
-For personal and workplace decisions, noise reduction often comes from structure:
+A strong thinker usually combines three capacities:
 
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
-* **Use criteria before judgement.** Decide what matters before seeing the option you are tempted to choose.
-* **Score dimensions separately.** For example: evidence quality, cost, reversibility, upside, downside and confidence.
-* **Make independent estimates first.** In groups, ask people to write their judgement before discussion to reduce conformity.
-* **Compare similar cases.** Ask how you handled a comparable problem before.
-* **Review outcomes.** Track whether your criteria actually predicted success.
+* **Cognitive skill:** the ability to reason, compare, infer, estimate, categorise and detect contradictions.
+* **Metacognitive control:** the ability to monitor one’s own understanding and notice when confidence is running ahead of evidence.
+* **Intellectual disposition:** the willingness to seek reasons, consider alternatives, tolerate uncertainty and revise a view when the evidence changes.
 
 </div>
 
-This is not bureaucracy for its own sake. It is a way of protecting judgement from mood, order effects, social pressure and whichever detail happens to be most vivid.
+This combination is important because people can know reasoning rules yet fail to use them under pressure. The practical aim is therefore not just to learn concepts such as “confirmation bias” or “correlation is not causation”, but to build routines that make those concepts show up at the moment of decision.
 
-## A practical weekly routine for sharper thinking
+## Why intuition is useful but unreliable on its own
 
-Improving thinking is easier when it becomes a routine rather than a personality project. A realistic weekly practice can be short, but it should include retrieval, analysis, feedback and revision.
+Much everyday thinking is fast, automatic and pattern-based. That is not a flaw: fast judgement helps people recognise faces, read social cues, avoid hazards and make routine decisions without exhausting attention. Dual-process theories describe this contrast between quicker intuitive processes and slower reflective processes, although researchers debate how sharply the two can really be separated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8979207/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDual Process Theory: Embodied and Predictive</span><span class="citation-popover-snippet">PMCDual Process Theory: Embodied and Predictive</span></span></span>
 
-**Choose one claim to analyse.** Pick something relevant to your work, studies or life: a news claim, a business proposal, a health assertion, a policy argument, or a decision you are considering.
+The danger comes when a problem feels familiar but is actually different from the pattern your intuition has matched. A classic example is the Cognitive Reflection Test, designed to see whether people override an appealing but wrong first answer and do a little more reasoning. Later research cautions that the test measures several things, including numeracy and cognitive ability, not pure “reflection” alone; still, it captures a real problem: first impressions can be persuasive before they are justified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11152589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-**Write the argument map.** State the conclusion, the main reasons, the evidence offered, and the assumptions connecting them.
-
-**Find one strong contrary source.** Do not look for a bad opposing argument. Find the best available challenge.
-
-**Make a prediction.** Write what you expect to happen, what evidence you expect to find, or which option you think will perform better.
-
-**Review after a delay.** Later, compare your expectation with what happened or with stronger evidence. Note whether the error came from missing information, poor weighting, bad framing, overconfidence or luck.
-
-This rhythm borrows from the best-supported learning principles: active retrieval, spaced practice, feedback and self-explanation. It also keeps critical thinking grounded in real cases rather than abstract admiration for “logic”.
+A practical rule follows: do not try to suppress intuition entirely. Use it as a signal, then ask whether the situation deserves a second pass. Slow down especially when:
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NHjgKe7JMNE" title="Five simple strategies to sharpen your critical thinking | BBC Ideas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NHjgKe7JMNE" target="_blank" rel="noopener noreferrer">Five simple strategies to sharpen your critical thinking | BBC Ideas</a></p><p class="youtube-embed-meta">Channel: BBC Ideas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NHjgKe7JMNE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NHjgKe7JMNE">Open on YouTube</a></p></div></div></div>
+<div class="content-enhancement content-enhancement--decision" markdown="1">
 
-## Common mistakes that feel like good thinking
+* the decision is costly or hard to reverse;
+* the evidence is incomplete;
+* the issue triggers strong emotion or identity;
+* the first answer feels obvious but has not been tested;
+* other informed people disagree;
+* the result depends on probabilities, trade-offs or causation.
 
-Some habits look analytical but do not reliably improve judgement.
+</div>
 
-**Collecting more information without changing the question.** More data helps only if it is relevant. If the question is badly framed, extra information can simply decorate a weak conclusion.
+The skill is not “always think slowly”. It is knowing when speed is appropriate and when it is risky.
 
-**Treating cynicism as intelligence.** Rejecting everything is not critical thinking. Good analysis distinguishes weak claims from strong ones.
+## Make your reasoning visible
 
-**Overvaluing credentials or confidence.** Expertise matters, but it is strongest when the expert domain has valid cues, repeated practice and feedback. Outside those conditions, even experienced people can be overconfident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1037%2Fa0016755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamonitor.ireland.openaire.eu">[OA Monitor Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamonitor.ireland.openaire.eu</span><span class="citation-popover-snippet">Open source on openaire.eu.</span></span></span>
+One of the most powerful ways to improve analytical thinking is to externalise it. Thoughts feel clearer inside the head than they often are on paper. When you write down a claim, its reasons, objections and [assumptions]({{ 'assumptions/' | relative_url }}), vague confidence becomes inspectable.
 
-**Rereading instead of testing understanding.** Rereading can feel productive because the material becomes familiar, but evidence reviews give higher marks to retrieval practice and spacing than to passive review strategies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whz.de/fileadmin/lehre/hochschuldidaktik/docs/dunloskiimprovingstudentlearning.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whz.de">[Westsächsische Hochschule Zwickau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whz.de</span><span class="citation-popover-snippet">Westsächsische Hochschule ZwickauImproving Students&#x27; Learning With Effective...by J Dunlosky · 2013 · Cited by 5904 — Practice testing a...</span></span></span>
+Argument mapping is a useful example. It represents reasoning visually, often with boxes for claims and arrows showing support or objection. Research on argument mapping in critical-thinking instruction suggests that it can help learners see the structure of arguments rather than merely react to their surface wording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reasoninglab.com/wp-content/uploads/2013/10/TvG-Using-argument-mapping-to-improve-critical-thinking-skills-2015.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoninglab.com">[Reasoninglab+2University of Galway Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoninglab.com</span><span class="citation-popover-title">Using Argument Mapping to Improve Critical Thinking Skills</span><span class="citation-popover-snippet">Using Argument Mapping to Improve Critical Thinking Skills</span></span></span>
 
-**Debating to win.** Argument can sharpen thought, but only if both sides are responsive to evidence. If the goal is victory, the mind becomes selective.
+You do not need specialist software to get the benefit. For any important conclusion, use a simple structure:
 
-## What progress looks like
 
-Better thinking rarely feels like sudden brilliance. It usually shows up as cleaner questions, calmer disagreement, more precise uncertainty and fewer repeated mistakes. You notice when a claim needs a comparison. You become less impressed by confident but unsupported explanations. You revise faster when evidence changes. You can say “I do not know” without feeling that the conversation has ended.
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
-The most reliable path is deliberately modest: practise on real problems, write down your reasoning, test your recall, seek disconfirming evidence, use structured judgement for important decisions, and review outcomes. Over time, those habits do what raw intelligence alone cannot: they make your thinking more inspectable, more correctable and more useful.
+1. **Conclusion:** What exactly am I claiming?
+2. **Reasons:** What supports it?
+3. **Evidence:** What observations, data or sources support those reasons?
+4. **Assumptions:** What must be true for this argument to work?
+5. **Objections:** What is the strongest case against it?
+6. **Test:** What evidence would weaken or change the conclusion?
+
+</div>
+
+For example, “This project is failing because the team lacks discipline” may become less convincing once mapped. The evidence might show unclear goals, changing priorities, missing authority and poor feedback loops. The better analysis may be: the system is producing delay, not simply the people. Making reasoning visible helps separate a satisfying explanation from a well-supported one.
+
+
+<img src="{{ "/assets/images/improving_your_think_da4710-Illustration-1-dark.svg" | relative_url }}" alt="Improving Your Thinking And Analytical Skills illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Practise metacognition: thinking about your thinking
+
+Metacognition means monitoring and directing your own thinking. In learning contexts, it includes recognising what you do and do not understand, choosing strategies, checking progress and adjusting when a method is not working. Educational research treats metacognition and self-regulated learning as major contributors to better learning outcomes when they are taught clearly and connected to subject content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF+2Digital Education Resource Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Open source on educationendowmentfoundation.org.uk.</span></span></span>
+
+For analytical skill, metacognition turns into a set of self-check questions:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **Before thinking:** What kind of problem is this: factual, causal, moral, strategic, probabilistic or interpretive?
+* **During thinking:** Am I explaining the evidence, or protecting my first answer?
+* **After thinking:** What did I miss, and what would I do differently next time?
+
+</div>
+
+The strongest metacognitive habit is calibration: matching confidence to evidence. A person with good calibration does not merely say “I am certain” or “I am unsure”; they can explain why. They distinguish between a well-supported conclusion, a plausible guess, and a preference.
+
+A simple calibration practice is to record predictions. Write down what you expect, why, and how confident you are. Later, compare the outcome with the prediction. This turns judgement from a private feeling into a feedback loop.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1-sjUoGO250" title="Deliberate Practice: Achieve Mastery in Anything" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1-sjUoGO250" target="_blank" rel="noopener noreferrer">Deliberate Practice: Achieve Mastery in Anything</a></p><p class="youtube-embed-meta">Channel: Sprouts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1-sjUoGO250" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1-sjUoGO250">Open on YouTube</a></p></div></div></div>
+
+## Learn actively, not passively
+
+Analytical skill grows slowly when learning is passive. Reading, watching and listening can supply information, but they do not reliably show whether you can use it. Active learning asks people to discuss, solve, create, explain and apply ideas rather than merely receive them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/active-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teaching.cornell.edu">[Center for Teaching Innovation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teaching.cornell.edu</span><span class="citation-popover-title">Center for Teaching Innovation Active Learning</span><span class="citation-popover-snippet">Center for Teaching Innovation Active Learning</span></span></span>
+
+Retrieval practice is especially useful because it forces you to bring knowledge to mind rather than recognise it when it is shown to you. Feedback after retrieval helps correct errors and improve awareness of what has or has not been learned. Pooja K. Agarwal, Ph.D.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.retrievalpractice.org/feedback" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: retrievalpractice.org">[retrievalpractice.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">retrievalpractice.org</span><span class="citation-popover-title">Pooja K. Agarwal, Ph.D.Feedback and Metacognition</span><span class="citation-popover-snippet">Pooja K. Agarwal, Ph.D.Feedback and Metacognition</span></span></span>
+
+To make learning analytical, replace “review” with tasks such as:
+
+* explain the idea without notes;
+* apply it to a new example;
+* compare it with a rival idea;
+* generate a counterexample;
+* identify what evidence would support or weaken it;
+* [teach it]({{ 'teach-it/' | relative_url }}) in plain English to someone outside the field.
+
+This matters because many people mistake familiarity for understanding. A concept feels known because it has been seen before. Retrieval and application reveal whether it can actually be used.
+
+## Use deliberate practice, not vague experience
+
+Experience alone does not guarantee better judgement. People can repeat the same weak reasoning for years. Deliberate practice is different: it targets specific subskills, works near the edge of current ability, uses feedback, and repeats with adjustment. Ericsson’s work made deliberate practice central to expertise research, while later reviews have debated how far it explains expert performance across fields. The practical lesson remains strong: the quality and focus of practice matter, not just time spent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersDeliberate Practice and Proposed Limits on the Effects of...by KA Ericsson · 2019 · Cited by 534 — The paper concludes with rec...</span></span></span>
+
+For thinking skills, deliberate practice might look like this:
+
+
+<div class="content-enhancement content-enhancement--caution" markdown="1">
+
+* **Causal reasoning:** Take one event and list at least three possible causes. Rank them by evidence, not by appeal.
+* **Quantitative judgement:** Estimate a number before looking it up, then compare and adjust your assumptions.
+* **Argument evaluation:** Summarise an opposing view so fairly that its supporter would recognise it.
+* **Decision analysis:** Write the options, trade-offs, risks and unknowns before choosing.
+* **Error review:** After a bad decision, separate bad process from bad luck.
+
+</div>
+
+The key is feedback. That feedback can come from a teacher, a colleague, a debate partner, reality, a worked solution, or a later outcome. Without feedback, practice can harden mistakes.
+
+## Build a bias-resistant thinking routine
+
+Cognitive biases are predictable tendencies that can distort judgement. The goal is not to memorise a long list of bias names, but to build safeguards against common failure modes: anchoring on first impressions, seeking confirming evidence, overvaluing sunk costs, mistaking vivid anecdotes for representative evidence, and explaining outcomes after the fact as if they were obvious all along.
+
+Debiasing research is mixed but encouraging when interventions teach concrete strategies rather than merely warning people that bias exists. Studies of one-shot debiasing training have reported medium to large effects in some contexts, while broader reviews suggest that bias reduction depends heavily on the bias, the task, the training design and whether people later apply the strategy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bayes.citystgeorges.ac.uk/__data/assets/pdf_file/0019/355411/debiasing-decisions-training.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bayes.citystgeorges.ac.uk">[Bayes Business School+2City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bayes.citystgeorges.ac.uk</span><span class="citation-popover-snippet">Open source on citystgeorges.ac.uk.</span></span></span>
+
+A useful routine is:
+
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
+1. **Name the first answer.** What is my immediate conclusion?
+2. **Generate alternatives.** What else could explain this?
+3. **Seek disconfirming evidence.** What would I expect to see if I were wrong?
+4. **Check base rates.** How often does this usually happen?
+5. **Separate preference from prediction.** What do I want to be true, and what do I think is true?
+6. **Decide in advance what would change my mind.**
+
+</div>
+
+This routine is especially valuable in emotionally charged areas: hiring, investing, politics, relationships, health claims and organisational decisions. Strong thinking is not emotionless; it is designed so that emotion does not get the final unexamined vote.
+
+
+<img src="{{ "/assets/images/improving_your_think_da4710-Illustration-2-dark.svg" | relative_url }}" alt="Improving Your Thinking And Analytical Skills illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Ask better questions
+
+Analytical skill often depends less on producing answers than on improving the question. A poor question narrows thought too early. A better question opens the structure of the problem.
+
+Instead of asking, “Is this idea good?”, ask:
+
+* Good for whom?
+* Compared with what?
+* Over what time period?
+* At what cost?
+* Under what assumptions?
+* What would failure look like?
+* What evidence would distinguish success from noise?
+
+Instead of asking, “Who is right?”, ask:
+
+* Which claim is factual, and which is interpretive?
+* Are the two sides disagreeing about evidence, values or definitions?
+* What would each side [predict]({{ 'predict/' | relative_url }})?
+* Is there a third explanation that fits the evidence better?
+
+This shift prevents a common analytical trap: treating every disagreement as a contest between two fixed positions. Many problems become clearer once they are reframed as questions about mechanisms, trade-offs, uncertainty or measurement.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/01_kyKpfM20" title="Improve Your Critical Thinking With This Framework" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=01_kyKpfM20" target="_blank" rel="noopener noreferrer">Improve Your Critical Thinking With This Framework</a></p><p class="youtube-embed-meta">Channel: Communication Coach Alexander Lyon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=01_kyKpfM20" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=01_kyKpfM20">Open on YouTube</a></p></div></div></div>
+
+## Read sources like an analyst
+
+Better thinking requires better intake. Source evaluation is not simply asking whether a source is “biased”; all sources have perspective, limits and incentives. The stronger question is whether the claim is supported by appropriate evidence.
+
+When reading, separate four layers:
+
+1. **Claim:** What is being asserted?
+2. **Evidence:** What is offered to support it?
+3. **Method:** How was the evidence produced?
+4. **Inference:** Does the conclusion actually follow?
+
+For scientific or technical claims, look for study design, sample size, comparison groups, effect sizes, limitations and replication. For journalism, distinguish eyewitness reporting, documents, expert interpretation and commentary. For organisational claims, ask what incentives shape what is measured, omitted or emphasised.
+
+The National Academies’ work on learning stresses that usable knowledge is organised, connected and transferable, not just accumulated as isolated facts. That principle applies to reading: the aim is not to collect impressive references, but to understand how evidence fits together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/publications/9853" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Open source on nationalacademies.org.</span></span></span>
+
+
+<img src="{{ "/assets/images/improving_your_think_da4710-Illustration-3-dark.svg" | relative_url }}" alt="Improving Your Thinking And Analytical Skills illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Improve decisions with premortems and postmortems
+
+A premortem asks: “Imagine this decision failed. What were the likely causes?” This simple exercise pushes hidden risks into view before commitment. It is useful because teams and individuals often become more optimistic once a preferred plan has momentum.
+
+A postmortem asks the opposite after the event: “What happened, what did we expect, and what can we learn?” The danger is hindsight bias: once the outcome is known, people overestimate how predictable it was. A good postmortem therefore compares the result with what was known at the time, not with what seems obvious afterwards.
+
+For personal decisions, use a short decision journal:
+
+* decision made;
+* options considered;
+* evidence available;
+* assumptions;
+* expected outcome;
+* confidence level;
+* review date;
+* eventual result;
+* lesson for next time.
+
+This separates decision quality from outcome quality. A good decision can have a bad outcome because of luck; a bad decision can succeed despite poor reasoning. Analytical improvement depends on learning the difference.
+
+## Work with other minds without outsourcing your judgement
+
+Discussion can sharpen thinking, but only when it is structured. Unstructured debate often rewards speed, confidence and verbal fluency rather than accuracy. A better approach is to assign roles: one person states the argument, another tests evidence, another looks for alternatives, and another identifies assumptions.
+
+The most useful collaborators are not always those who agree or disagree most strongly. They are people who can say, “That part follows, but this assumption is weak,” or “Your conclusion may be right, but your evidence does not yet support it.”
+
+To make discussion more analytical:
+
+* summarise the other person’s view before criticising it;
+* ask what evidence they would accept;
+* distinguish “I dislike this” from “this is false”;
+* steel-man the strongest opposing case;
+* keep a shared list of open questions;
+* end by naming what changed, if anything.
+
+This kind of exchange builds intellectual humility without sliding into indecision.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3SZDj5TEhU0" title="Is deliberate practice all wrong?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3SZDj5TEhU0" target="_blank" rel="noopener noreferrer">Is deliberate practice all wrong?</a></p><p class="youtube-embed-meta">Channel: Benjamin Keep, PhD, JD</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3SZDj5TEhU0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3SZDj5TEhU0">Open on YouTube</a></p></div></div></div>
+
+## A practical weekly routine
+
+Improving thinking does not require a complete lifestyle redesign. A modest routine, repeated, is more effective than occasional bursts of abstract reflection.
+
+**Once a day:** Pick one judgement you made and ask what evidence supported it. This could be as small as interpreting a colleague’s message or as large as choosing a strategy.
+
+**Twice a week:** Practise one reasoning drill: estimate a quantity, map an argument, compare explanations, or write a counterargument to your own view.
+
+**Once a week:** Review one decision. Did you define the problem clearly? Did you consider alternatives? Did you update when new evidence appeared?
+
+**Once a month:** Choose one recurring thinking weakness. Examples include [overconfidence]({{ 'overconfidence/' | relative_url }}), procrastinating on hard analysis, relying on anecdotes, avoiding numbers, or accepting weak definitions. Design one small practice task for that weakness.
+
+The routine works because it creates repetition, feedback and transfer. You are not learning “thinking” as an abstract subject; you are improving the way you think in actual situations.
+
+## Common mistakes that slow improvement
+
+The first mistake is treating thinking skill as a matter of identity. “I am analytical” and “I am not analytical” are both limiting stories. Thinking is a set of behaviours that can be practised.
+
+The second mistake is confusing scepticism with skill. A person can reject weak evidence and still fail to build a better explanation. Good analysis is constructive: it tests, compares and improves claims.
+
+The third mistake is overusing frameworks. Mental models, checklists and diagrams help only when they clarify the problem. Used mechanically, they become decoration.
+
+The fourth mistake is ignoring emotion. People often reason poorly not because they lack intelligence, but because the conclusion threatens status, belonging, pride or hope. Analytical skill includes noticing when the stakes are personal.
+
+The fifth mistake is failing to close the loop. Without feedback, even careful reasoning can drift. The question “Was I right?” is less useful than “What did I expect, what happened, and what does that teach me about my process?”
+
+## The real goal: clearer judgement under uncertainty
+
+The purpose of improving thinking and analytical skills is not to win arguments or appear intellectually superior. It is to make better judgements when information is incomplete, incentives are messy, and first impressions may be wrong.
+
+The most reliable route is practical and repeatable: make reasoning visible, test it against evidence, practise specific subskills, seek feedback, watch for bias, and review decisions after the fact. Over time, this builds a quieter kind of intelligence: not instant certainty, but disciplined clarity.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -583,21 +652,21 @@ The most reliable path is deliberately modest: practise on real problems, write 
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Better Thinking Actually Gets Built. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">Books and field guides related to Can You Train Better Judgment?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Shows how better reasoning, evidence evaluation, and feedback improve judgment under uncertainty.</p>
+        <p class="fr-book-desc">Directly addresses judgment, cognitive biases, reasoning errors, and how to improve decision quality.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -605,33 +674,16 @@ The most reliable path is deliberately modest: practise on real problems, write 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VcouDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
         </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+        <p class="fr-book-author">By Annie Duke</p>
         
-        <p class="fr-book-desc">Focuses on intellectual humility, evidence evaluation, and updating beliefs.</p>
+        <p class="fr-book-desc">Teaches structured decision-making under uncertainty, feedback loops, and probabilistic thinking.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
-        <p class="fr-book-desc">Supports the article&#x27;s emphasis on practice, feedback, retrieval, and durable learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -646,7 +698,7 @@ The most reliable path is deliberately modest: practise on real problems, write 
         </h4>
         <p class="fr-book-author">By Rolf Dobelli</p>
         
-        <p class="fr-book-desc">Introduces common thinking errors and practical ways to recognize them.</p>
+        <p class="fr-book-desc">Provides concise explanations of common cognitive biases and reasoning traps that impair judgment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -654,85 +706,134 @@ The most reliable path is deliberately modest: practise on real problems, write 
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting: The Art and Science of Prediction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting: The Art and Science of Prediction">Superforecasting: The Art and Science of Prediction</a>
+        </h4>
+        <p class="fr-book-author">By Philip E. Tetlock and Dan Gardner</p>
+        
+        <p class="fr-book-desc">Focuses on trainable judgment skills, prediction accuracy, evidence evaluation, and learning from mistakes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=built+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="built memorabilia -book -books -dvd" data-ebay-reference="how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUILT TO SPILL Concert poster - Glasgow 2019 live band show tour Gig memorabilia"><img src="https://i.ebayimg.com/images/g/odAAAOSwQmJcgEqg/s-l225.jpg" alt="Listing image for BUILT TO SPILL Concert poster - Glasgow 2019 live band show tour Gig memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=built+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="built memorabilia -book -books -dvd" data-ebay-reference="how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">BUILT TO SPILL Concert poster - Glasgow 2019 live band show tour Gig memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=built+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="built memorabilia -book -books -dvd" data-ebay-reference="how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for built memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: built memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=built+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="built memorabilia -book -books -dvd" data-ebay-reference="how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c8bc7042d38cd131035.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=built+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="built memorabilia -book -books -dvd" data-ebay-reference="how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2014 DISCOVERY CHANNEL THE MEN WHO BUILT BRITAIN 2 DVDs MAGAZINE &amp; MEMORABILIA"><img src="https://i.ebayimg.com/images/g/NwAAAeSw~i5oCq4F/s-l225.jpg" alt="Listing image for 2014 DISCOVERY CHANNEL THE MEN WHO BUILT BRITAIN 2 DVDs MAGAZINE &amp; MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=built+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="built memorabilia -book -books -dvd" data-ebay-reference="how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">2014 DISCOVERY CHANNEL THE MEN WHO BUILT BRITAIN 2 DVDs MAGAZINE &amp; MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=built+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="built memorabilia -book -books -dvd" data-ebay-reference="how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for built memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: built memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=built+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="built memorabilia -book -books -dvd" data-ebay-reference="how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=built+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="built memorabilia -book -books -dvd" data-ebay-reference="how-better-thinking-actually-gets-built-built-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="improving-your-thinking-and-analytical-can-you-train-better-judgment-improving-your-thinking-and-critical-thinking-poste" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -748,7 +849,7 @@ The most reliable path is deliberately modest: practise on real problems, write 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -768,7 +869,7 @@ The most reliable path is deliberately modest: practise on real problems, write 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -800,7 +901,7 @@ The most reliable path is deliberately modest: practise on real problems, write 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -852,7 +953,7 @@ The most reliable path is deliberately modest: practise on real problems, write 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -897,7 +998,7 @@ The most reliable path is deliberately modest: practise on real problems, write 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -935,172 +1036,190 @@ The most reliable path is deliberately modest: practise on real problems, write 
 })();
 </script>
 </section>
+
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10300824/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10300824/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by CP Dwyer · 2023 · Cited by 166 — Critical thinking (CT) is a metacognitive process—consisting of a number of skills and disposition...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8734377/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8734377/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strong metacognitive skills have the power to impact student learning and performance...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10300824/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10300824/</a>  
+
+3.<a id="endnote-3"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Title: PMCDual Process Theory: Embodied and Predictive  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8979207/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8979207/</a>  
+
+4.<a id="endnote-4"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11152589/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11152589/</a>  
+
+5.<a id="endnote-5"></a>
+   Source: reasoninglab.com  
+   Title: Using Argument Mapping to Improve Critical Thinking Skills  
+   Link:<a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/TvG-Using-argument-mapping-to-improve-critical-thinking-skills-2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/TvG-Using-argument-mapping-to-improve-critical-thinking-skills-2015.pdf</a>  
+
+6.<a id="endnote-6"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFMetacognition and Self-Regulated LearningThere is a strong body of research from psychology and education demonstrating the importance...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
 
-3. <a id="endnote-3"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Title: PMCActively Open-Minded Thinking and Its Measurement  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/</a>  
 
-4. <a id="endnote-4"></a>
-   Source: cor.inquirygroup.org  
-   Link: <a href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/</a>  
+8.<a id="endnote-8"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7461852/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7461852/</a>  
 
-5. <a id="endnote-5"></a>
-   Source: cor.inquirygroup.org  
-   Title: Civic Online Reasoning  
-   Link: <a href="https://cor.inquirygroup.org/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/</a>  
+9.<a id="endnote-9"></a>
+   Source: ia600603.us.archive.org  
+   Title: Daniel Kahneman Thinking, Fast and Slow  
+   Link:<a href="https://ia600603.us.archive.org/10/items/DanielKahnemanThinkingFastAndSlow/Daniel%20Kahneman-Thinking%2C%20Fast%20and%20Slow%20%20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600603.us.archive.org/10/items/DanielKahnemanThinkingFastAndSlow/Daniel%20Kahneman-Thinking%2C%20Fast%20and%20Slow%20%20.pdf</a>  
 
-6. <a id="endnote-6"></a>
+10.<a id="endnote-10"></a>
+   Source: reasoninglab.com  
+   Link:<a href="https://www.reasoninglab.com/research-on-critical-thinking-argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/research-on-critical-thinking-argument-mapping/</a>  
+
+11.<a id="endnote-11"></a>
+   Source: journals.sagepub.com  
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.3102/0034654314551063</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsStrategies for [Teaching](&amp;#123;&amp;#123; &#x27;teaching/&#x27; | relative_url &amp;#125;&amp;#125;) Students to Think Criticallyby PC Abrami · 2015 · Cited by 2010 — This article summarizes the availa...</p></details>
+
+12.<a id="endnote-12"></a>
+   Source: frontiersin.org  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersDeliberate Practice and Proposed Limits on the Effects of...by KA Ericsson · 2019 · Cited by 534 — The paper concludes with rec...</p></details>
+
+13.<a id="endnote-13"></a>
+   Source: bayes.citystgeorges.ac.uk  
+   Link:<a href="https://www.bayes.citystgeorges.ac.uk/__data/assets/pdf_file/0019/355411/debiasing-decisions-training.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bayes.citystgeorges.ac.uk/__data/assets/pdf_file/0019/355411/debiasing-decisions-training.pdf</a>  
+
+14.<a id="endnote-14"></a>
+   Source: nationalacademies.org  
+   Link:<a href="https://www.nationalacademies.org/publications/9853" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/publications/9853</a>  
+
+15.<a id="endnote-15"></a>
+   Source: researchrepository.universityofgalway.ie  
+   Link:<a href="https://researchrepository.universityofgalway.ie/server/api/core/bitstreams/4034a5fa-43a2-4fb3-b889-847ee48dbb60/content" target="_blank" rel="noopener noreferrer nofollow">https://researchrepository.universityofgalway.ie/server/api/core/bitstreams/4034a5fa-43a2-4fb3-b889-847ee48dbb60/content</a>  
+
+16.<a id="endnote-16"></a>
+   Source: dera.ioe.ac.uk  
+   Link:<a href="https://dera.ioe.ac.uk/id/eprint/31617/1/EEF_Metacognition_and_self-regulated_learning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dera.ioe.ac.uk/id/eprint/31617/1/EEF_Metacognition_and_self-regulated_learning.pdf</a>  
+
+17.<a id="endnote-17"></a>
+   Source: teaching.cornell.edu  
+   Title: Center for Teaching Innovation Active Learning  
+   Link:<a href="https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/active-learning" target="_blank" rel="noopener noreferrer nofollow">https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/active-learning</a>  
+
+18.<a id="endnote-18"></a>
+   Source: retrievalpractice.org  
+   Title: Pooja K. Agarwal, Ph.D.Feedback and Metacognition  
+   Link:<a href="https://www.retrievalpractice.org/feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.retrievalpractice.org/feedback</a>  
+
+19.<a id="endnote-19"></a>
+   Source: openaccess.city.ac.uk  
+   Title: Mitigating Cognitive Bias Review for repository IS  
+   Link:<a href="https://openaccess.city.ac.uk/id/eprint/33831/1/Mitigating%20Cognitive%20Bias%20Review%20for%20repository%20IS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/id/eprint/33831/1/Mitigating%20Cognitive%20Bias%20Review%20for%20repository%20IS.pdf</a>  
+
+20.<a id="endnote-20"></a>
+   Source: pubmed.ncbi.nlm.nih.gov  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40858766/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40858766/</a>  
+
+21.<a id="endnote-21"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11892090/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11892090/</a>  
+
+22.<a id="endnote-22"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12869716/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12869716/</a>  
+
+23.<a id="endnote-23"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6460682/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6460682/</a>  
+
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Cognitive reflection test  
-   Link: <a href="https://en.wikipedia.org/wiki/Cognitive_reflection_test" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cognitive_reflection_test</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cognitive_reflection_test" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cognitive_reflection_test</a>  
 
-7. <a id="endnote-7"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11643215/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11643215/</a>  
+25.<a id="endnote-25"></a>
+   Source: dictionary.cambridge.org  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/critical" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/critical</a>  
 
-8. <a id="endnote-8"></a>
-   Source: Wikipedia  
-   Title: Noise: A Flaw in Human Judgment  
-   Link: <a href="https://en.wikipedia.org/wiki/Noise%3A_A_Flaw_in_Human_Judgment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Noise%3A_A_Flaw_in_Human_Judgment</a>  
-
-9. <a id="endnote-9"></a>
-   Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.3102/0034654314551063</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsStrategies for Teaching Students to Think Criticallyby PC Abrami · 2015 · Cited by 2010 — Results demonstrate that there are...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: whz.de  
-   Link: <a href="https://www.whz.de/fileadmin/lehre/hochschuldidaktik/docs/dunloskiimprovingstudentlearning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.whz.de/fileadmin/lehre/hochschuldidaktik/docs/dunloskiimprovingstudentlearning.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Westsächsische Hochschule ZwickauImproving Students&#x27; Learning With Effective...by J Dunlosky · 2013 · Cited by 5904 — Practice testing a...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: oamonitor.ireland.openaire.eu  
-   Link: <a href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1037%2Fa0016755" target="_blank" rel="noopener noreferrer nofollow">https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1037%2Fa0016755</a>  
-
-12. <a id="endnote-12"></a>
-   Source: maggietoplak.com  
-   Title: Maggie Toplak Myside Bias, Rational Thinking, and Intelligence  
-   Link: <a href="https://maggietoplak.com/wp-content/uploads/2025/05/Stanovich-K.-E.-West-R.-F.-Toplak-M.-E.-2013.-Myside-bias-rational-thinking-and-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://maggietoplak.com/wp-content/uploads/2025/05/Stanovich-K.-E.-West-R.-F.-Toplak-M.-E.-2013.-Myside-bias-rational-thinking-and-intelligence.pdf</a>  
-
-13. <a id="endnote-13"></a>
-   Source: psychologicalscience.org  
-   Title: learning techniques  
-   Link: <a href="https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html</a>  
-
-14. <a id="endnote-14"></a>
-   Source: bear.warrington.ufl.edu  
-   Title: Warrington College of Business Cognitive Reflection and Decision Making  
-   Link: <a href="https://bear.warrington.ufl.edu/brenner/mar7588/Papers/frederick-jep2005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bear.warrington.ufl.edu/brenner/mar7588/Papers/frederick-jep2005.pdf</a>  
-
-15. <a id="endnote-15"></a>
-   Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/00018392221119294" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00018392221119294</a>  
-
-16. <a id="endnote-16"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12241059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12241059/</a>  
-
-17. <a id="endnote-17"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9242397/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9242397/</a>  
-
-18. <a id="endnote-18"></a>
-   Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173288/</a>  
-
-19. <a id="endnote-19"></a>
-   Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/016146811912101102" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/016146811912101102</a>  
-
-20. <a id="endnote-20"></a>
-   Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100612453266" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100612453266</a>  
-
-21. <a id="endnote-21"></a>
-   Source: iphils.uj.edu.pl  
-   Link: <a href="https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf</a>  
-
-22. <a id="endnote-22"></a>
-   Source: icarus.cs.weber.edu  
-   Link: <a href="https://icarus.cs.weber.edu/~gs35549/la2/learning.html" target="_blank" rel="noopener noreferrer nofollow">https://icarus.cs.weber.edu/~gs35549/la2/learning.html</a>  
-
-23. <a id="endnote-23"></a>
-   Source: ejpbl.org  
-   Link: <a href="https://www.ejpbl.org/journal/view.php?number=78" target="_blank" rel="noopener noreferrer nofollow">https://www.ejpbl.org/journal/view.php?number=78</a>  
-
-24. <a id="endnote-24"></a>
-   Source: scienceofboosting.org  
-   Title: Lateral Reading  
-   Link: <a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
-
-25. <a id="endnote-25"></a>
-   Source: jtl.uwindsor.ca  
-   Link: <a href="https://jtl.uwindsor.ca/index.php/jtl/article/view/8813" target="_blank" rel="noopener noreferrer nofollow">https://jtl.uwindsor.ca/index.php/jtl/article/view/8813</a>  
-
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: education-ni.gov.uk  
-   Title: Retrieval Practice  
-   Link: <a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
+   Link:<a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
+
+27.<a id="endnote-27"></a>
+   Source: d2tic4wvo1iusb.cloudfront.net  
+   Title: Metacognition and Self-Regulated Learning  
+   Link:<a href="https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/metacognition/metacognition-and-self-regulated-learning_guidance-report.v.2.4.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/metacognition/metacognition-and-self-regulated-learning_guidance-report.v.2.4.0.pdf</a>  
+
+28.<a id="endnote-28"></a>
+   Source: frontiersin.org  
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1141686/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1141686/full</a>  
+
+29.<a id="endnote-29"></a>
+   Source: structural-learning.com  
+   Title: deliberate practice  
+   Link:<a href="https://www.structural-learning.com/post/deliberate-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/deliberate-practice</a>  
+
+30.<a id="endnote-30"></a>
+   Source: ijcer.net  
+   Link:<a href="https://ijcer.net/index.php/pub/article/view/155" target="_blank" rel="noopener noreferrer nofollow">https://ijcer.net/index.php/pub/article/view/155</a>  
+
+31.<a id="endnote-31"></a>
+   Source: vocabulary.com  
+   Link:<a href="https://www.vocabulary.com/dictionary/critical" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/critical</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Title: Five simple strategies to sharpen your critical thinking | BBC Ideas  
-   Link: <a href="http://www.youtube.com/watch?v=NHjgKe7JMNE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=NHjgKe7JMNE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical thinking analytical thinking metacognition improve skills Metacognition: The Skill That Promotes Advanced Learning Peterson&#x27;s Te...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=h68bS4c4kw0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h68bS4c4kw0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking Making evidence-based decisions...</p></details>
 
-28. <a id="endnote-28"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=h68bS4c4kw0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=h68bS4c4kw0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This tool will help improve your critical thinking - Erick Wilberding...</p></details>
+   Title: Deliberate Practice: Achieve Mastery in Anything  
+   Link:<a href="https://www.youtube.com/watch?v=1-sjUoGO250" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1-sjUoGO250</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition: An Important Skill for Modern Times | Brendan Conway-Smith | TEDxCarletonUniversity...</p></details>
 
-29. <a id="endnote-29"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Title: Metacognition: The Skill That Promotes Advanced Learning  
-   Link: <a href="http://www.youtube.com/watch?v=elZFL4FLVLE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=elZFL4FLVLE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition: An Important Skill for Modern Times | Brendan Conway-Smith | TEDxCarletonUniversity...</p></details>
+   Title: How to Educate Yourself Like an Analytical Genius (without school)  
+   Link:<a href="https://www.youtube.com/watch?v=km70fXDdr-0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=km70fXDdr-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deliberate Practice: Achieve Mastery in Anything...</p></details>
 
-30. <a id="endnote-30"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Title: This tool will help improve your critical thinking  
-   Link: <a href="http://www.youtube.com/watch?v=vNDYUlxNIAA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vNDYUlxNIAA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 tips to improve your critical thinking - Samantha Agoos...</p></details>
+   Title: Improve Your Critical Thinking With This Framework  
+   Link:<a href="https://www.youtube.com/watch?v=01_kyKpfM20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=01_kyKpfM20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Educate Yourself Like an Analytical Genius (without school)...</p></details>
 
-31. <a id="endnote-31"></a>
-   Source: youtube.com  
-   Title: 5 tips to improve your critical thinking  
-   Link: <a href="http://www.youtube.com/watch?v=dItUGF8GdTw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dItUGF8GdTw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Five simple strategies to sharpen your critical thinking | BBC Ideas...</p></details>
-
-32. <a id="endnote-32"></a>
-   Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/yuliia-drobot_pdf-conditions-for-intuitive-expertise-activity-7137409442857259008-4_mX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/yuliia-drobot_pdf-conditions-for-intuitive-expertise-activity-7137409442857259008-4_mX</a>  
-
-33. <a id="endnote-33"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
+   Link:<a href="https://www.researchgate.net/publication/394978442_Systematic_review_and_meta-analysis_of_educational_approaches_to_reduce_cognitive_biases_among_students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394978442_Systematic_review_and_meta-analysis_of_educational_approaches_to_reduce_cognitive_biases_among_students</a>  
 
-34. <a id="endnote-34"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/326134901_The_Cognitive_Reflection_Test_A_Measure_of_IntuitionReflection_Numeracy_and_Insight_Problem_Solving_and_the_Implications_for_Understanding_Real-World_Judgments_and_Beliefs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326134901_The_Cognitive_Reflection_Test_A_Measure_of_IntuitionReflection_Numeracy_and_Insight_Problem_Solving_and_the_Implications_for_Understanding_Real-World_Judgments_and_Beliefs</a>  
+   Link:<a href="https://www.researchgate.net/publication/257681352_An_evaluation_of_argument_mapping_as_a_method_of_enhancing_critical_thinking_performance_in_e-learning_environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/257681352_An_evaluation_of_argument_mapping_as_a_method_of_enhancing_critical_thinking_performance_in_e-learning_environments</a>  
 
-35. <a id="endnote-35"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
+   Link:<a href="https://www.researchgate.net/publication/371877330_It_is_not_what_you_think_it_is_how_you_think_a_critical_thinking_intervention_enhances_argumentation_analytic_thinking_and_metacognitive_sensitivity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371877330_It_is_not_what_you_think_it_is_how_you_think_a_critical_thinking_intervention_enhances_argumentation_analytic_thinking_and_metacognitive_sensitivity</a>  
 
-36. <a id="endnote-36"></a>
-   Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390843764_The_Puzzle_of_Myside_Bias_and_Actively_Open-Minded_Thinking_in_the_Conceptualization_of_Critical_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390843764_The_Puzzle_of_Myside_Bias_and_Actively_Open-Minded_Thinking_in_the_Conceptualization_of_Critical_Thinking</a>  
+39.<a id="endnote-39"></a>
+   Source: apa.org  
+   Link:<a href="https://www.apa.org/education-career/k12/practice-acquisition" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/education-career/k12/practice-acquisition</a>  
+
+40.<a id="endnote-40"></a>
+   Source: jalt-publications.org  
+   Link:<a href="https://jalt-publications.org/sites/default/files/pdf-article/jalt2023-pcp-039.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jalt-publications.org/sites/default/files/pdf-article/jalt2023-pcp-039.pdf</a>  
+
+41.<a id="endnote-41"></a>
+   Source: merriam-webster.com  
+   Link:<a href="https://www.merriam-webster.com/dictionary/critical" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/critical</a>  

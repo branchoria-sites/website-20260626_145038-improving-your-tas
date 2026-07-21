@@ -453,89 +453,89 @@ The lesson is not that screening is ineffective. Some screening programmes have 
 The strongest evidence therefore comes from demonstrating that screened people experience better meaningful outcomes—not merely that more disease is found or that diagnosis happens sooner. That shift in perspective helps guard against one of the most persuasive but misleading assumptions in health reasoning: that earlier detection must always be better.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Does Early Detection Always Help?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Does Early Detection Always Help?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Overdiagnosed+by+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Overdiagnosed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qe7XQxzAftEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Overdiagnosed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Overdiagnosed+by+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overdiagnosed">Overdiagnosed</a>
-</h4>
-<p class="fr-book-author">By H. Gilbert Welch, Lisa Schwartz et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Less+Medicine%2C+More+Health+Dr.+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Less Medicine, More Health on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fttmDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Less Medicine, More Health" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Less+Medicine%2C+More+Health+Dr.+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Less Medicine, More Health">Less Medicine, More Health</a>
+        </h4>
+        <p class="fr-book-author">By Dr. H. Gilbert Welch</p>
         
-<p class="fr-book-desc">Directly explains false positives, overdiagnosis, screening trade-offs, and unnecessary treatment.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Overdiagnosed+by+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Challenges the assumption that earlier detection and more intervention always improve outcomes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Less+Medicine%2C+More+Health+Dr.+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Less+Medicine%2C+More+Health+by+Dr.+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Less Medicine, More Health on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fttmDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Less Medicine, More Health" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Less+Medicine%2C+More+Health+by+Dr.+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Less Medicine, More Health">Less Medicine, More Health</a>
-</h4>
-<p class="fr-book-author">By Dr. H. Gilbert Welch</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Overdiagnosed+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Overdiagnosed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qe7XQxzAftEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Overdiagnosed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Overdiagnosed+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overdiagnosed">Overdiagnosed</a>
+        </h4>
+        <p class="fr-book-author">By H. Gilbert Welch, Lisa Schwartz et al.</p>
         
-<p class="fr-book-desc">Challenges the assumption that earlier detection and more intervention always improve outcomes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Less+Medicine%2C+More+Health+by+Dr.+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly explains false positives, overdiagnosis, screening trade-offs, and unnecessary treatment.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Overdiagnosed+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Should+I+Be+Tested+for+Cancer%3F+by+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Should I Be Tested for Cancer? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T8okDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Should I Be Tested for Cancer?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Should+I+Be+Tested+for+Cancer%3F+by+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Should I Be Tested for Cancer?">Should I Be Tested for Cancer?</a>
-</h4>
-<p class="fr-book-author">By H. Gilbert Welch</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Know+Your+Chances+Steven+Woloshin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Know Your Chances on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fbIwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Know Your Chances" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Know+Your+Chances+Steven+Woloshin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Know Your Chances">Know Your Chances</a>
+        </h4>
+        <p class="fr-book-author">By Steven Woloshin, Lisa M. Schwartz et al.</p>
         
-<p class="fr-book-desc">Focuses on screening decisions, uncertainty, benefits, false positives, and harms.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Should+I+Be+Tested+for+Cancer%3F+by+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Teaches risk interpretation, absolute benefit, and clearer medical decision-making.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Know+Your+Chances+Steven+Woloshin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Know+Your+Chances+by+Steven+Woloshin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Know Your Chances on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fbIwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Know Your Chances" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Know+Your+Chances+by+Steven+Woloshin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Know Your Chances">Know Your Chances</a>
-</h4>
-<p class="fr-book-author">By Steven Woloshin, Lisa M. Schwartz et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Should+I+Be+Tested+for+Cancer%3F+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Should I Be Tested for Cancer? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T8okDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Should I Be Tested for Cancer?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Should+I+Be+Tested+for+Cancer%3F+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Should I Be Tested for Cancer?">Should I Be Tested for Cancer?</a>
+        </h4>
+        <p class="fr-book-author">By H. Gilbert Welch</p>
         
-<p class="fr-book-desc">Teaches risk interpretation, absolute benefit, and clearer medical decision-making.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Know+Your+Chances+by+Steven+Woloshin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on screening decisions, uncertainty, benefits, false positives, and harms.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Should+I+Be+Tested+for+Cancer%3F+H.+Gilbert+Welch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Overdiagnosed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Overdiagnosed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Less+Medicine%2C+More+Health&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Less Medicine, More Health</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Should+I+Be+Tested+for+Cancer%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Should I Be Tested for Cancer?</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Less+Medicine%2C+More+Health&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Less Medicine, More Health</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Overdiagnosed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Overdiagnosed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Know+Your+Chances&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Know Your Chances</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
